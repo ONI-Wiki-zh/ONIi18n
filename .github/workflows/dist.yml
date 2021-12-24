@@ -61,9 +61,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          gh release delete dist -y
           gh release create dist --target dist
           
-#gh release delete latest -y
         
         
         
