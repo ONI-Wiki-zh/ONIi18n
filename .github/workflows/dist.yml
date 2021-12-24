@@ -1,0 +1,55 @@
+name: dist
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push for the main branch
+  push:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+          architecture: 'x64'
+
+      - name: Python dependences cache
+        uses: actions/cache@v2
+        if: startsWith(runner.os, 'Linux')
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Install Python requirements
+        run: |
+          python -m pip install --upgrade pip
+          test -f requirements.txt && pip install -r requirements.txt
+
+      - env:
+          PLACEHOLDER_ENV: ${{ secrets.PLACEHOLDER }}
+        run: python -u ./integration/publish.py
+        
+      - uses: actions/checkout@v2
+        with:
+          ref: dist
+
+      - name: checkout
+        run: git checkout dist
+      
+      - name: Verified commit
+        uses: swinton/commit@v2.0.0
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit-message: dist
+          ref: refs/heads/dist
