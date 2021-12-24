@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. ModI18n.STRINGS.OPTIONS.LANG.DESC
+msgctxt "ModI18n.STRINGS.OPTIONS.LANG.DESC"
+msgid "Select the language that suits you best."
+msgstr ""
+
+#. ModI18n.STRINGS.OPTIONS.LANG.NAME
+msgctxt "ModI18n.STRINGS.OPTIONS.LANG.NAME"
+msgid "Prefered Language"
+msgstr ""
+
