@@ -68,7 +68,7 @@ msgstr ""
 
 msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_LOADEDBLUEPRINTS_FEWER"
 msgid "fewer"
-msgstr ""
+msgstr "更少"
 
 msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_TOOLTIP_TITLE"
 msgid "USE BLUEPRINT TOOL"
