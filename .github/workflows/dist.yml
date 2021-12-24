@@ -30,6 +30,11 @@ jobs:
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
+
+      # get origin/dist
+      - run: git switch dist
+      - run: git switch main
+
       - name: Install Python requirements
         run: |
           python -m pip install --upgrade pip
@@ -46,7 +51,6 @@ jobs:
 #         with:
 #           commit-message: dist
 #           ref: refs/heads/dist
-      
       
       - run: git symbolic-ref HEAD refs/heads/dist
       - run: git status
