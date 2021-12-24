@@ -40,7 +40,7 @@ msgstr "取消蓝图！"
 
 msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_CREATE_TOOLTIP_TITLE"
 msgid "CREATE BLUEPRINT TOOL"
-msgstr ""
+msgstr "创建蓝图工具"
 
 msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_CREATE_ACTION_DRAG"
 msgid "DRAG"
