@@ -51,6 +51,8 @@ jobs:
         uses: zwaldowski/git-commit-action@v1
       - run: git push
 
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          prerelease: false
 
-      - name: Release
-        uses: softprops/action-gh-release@v1
