@@ -23,6 +23,8 @@ for mod in mods:
         if f_name not in files:
             continue
         with open(path.join(curr_dir, f_name), 'r', encoding='utf-8') as f_obj:
+            while (f_obj.readline()) != '\n':  # skip metadata
+                pass
             curr_catalog = pofile.read_po(f_obj)
             for msg in curr_catalog:
                 if not msg.string:
