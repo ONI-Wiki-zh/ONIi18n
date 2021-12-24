@@ -17,6 +17,8 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
+      - run: get switch dist
+      - run: get switch main
       
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -41,14 +43,6 @@ jobs:
       - env:
           PLACEHOLDER_ENV: ${{ secrets.PLACEHOLDER }}
         run: python -u ./integration/publish.py
-
-#       - name: Verified commit
-#         uses: swinton/commit@v2.0.0
-#         env:
-#           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-#         with:
-#           commit-message: dist
-#           ref: refs/heads/dist
       
       - run: git symbolic-ref HEAD refs/heads/dist
       - run: git reset
