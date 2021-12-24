@@ -50,6 +50,7 @@ jobs:
       
       - run: git symbolic-ref HEAD refs/heads/dist
       - run: git reset
+      - run: git status
       - run: git checkout -- .gitignore
       - id: git_commit
         uses: zwaldowski/git-commit-action@v1
