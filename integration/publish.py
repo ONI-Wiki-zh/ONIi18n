@@ -6,7 +6,7 @@ import os.path as path
 import os
 import pathlib
 
-DEST_DIR = path.join('..', 'dest')
+DIST_DIR = path.join('..', 'dist')
 SOURCE_DIR = path.join('..', 'strings')
 CONFIG_DIR = path.join(SOURCE_DIR, 'languages.json')
 
@@ -31,10 +31,10 @@ for mod in mods:
                 curr_catalog.add(id=msg.id, string=msg.string, context=msg.context)
 
 
-pathlib.Path(DEST_DIR).mkdir(parents=True, exist_ok=True)
+pathlib.Path(DIST_DIR).mkdir(parents=True, exist_ok=True)
 for lang in languages:
     curr_catalog: catalog.Catalog = languages[lang]['catalog']
     curr_catalog.project = "ONIi18n"
     curr_catalog.version = "v1.0.0"
-    with open(path.join(DEST_DIR, f'{lang}.po'), 'wb') as f_obj:
+    with open(path.join(DIST_DIR, f'{lang}.po'), 'wb') as f_obj:
         pofile.write_po(f_obj, curr_catalog)
