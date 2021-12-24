@@ -72,7 +72,7 @@ msgstr "更少"
 
 msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_TOOLTIP_TITLE"
 msgid "USE BLUEPRINT TOOL"
-msgstr ""
+msgstr "使用蓝图工具"
 
 msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_ACTION_CLICK"
 msgid "CLICK"
