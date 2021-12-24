@@ -17,8 +17,8 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - run: get switch dist
-      - run: get switch main
+      - run: git switch dist
+      - run: git switch main
       
       - name: Set up Python
         uses: actions/setup-python@v2
