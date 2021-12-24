@@ -39,11 +39,6 @@ jobs:
           PLACEHOLDER_ENV: ${{ secrets.PLACEHOLDER }}
         run: python -u ./integration/publish.py
 
-      - uses: actions/checkout@v2
-        with:
-          ref: refs/heads/dist
-          clean: fasle
-
 #       - name: Verified commit
 #         uses: swinton/commit@v2.0.0
 #         env:
@@ -51,7 +46,11 @@ jobs:
 #         with:
 #           commit-message: dist
 #           ref: refs/heads/dist
-
+      
+      
+      - run: git symbolic-ref HEAD refs/heads/dist
+      - run: git reset
+      - run: git checkout -- .\.gitignore
       - id: git_commit
         uses: zwaldowski/git-commit-action@v1
       - run: git push
