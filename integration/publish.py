@@ -1,10 +1,11 @@
 import json
-
-import babel.messages.pofile as pofile
-import babel.messages.catalog as catalog
-import os.path as path
 import os
+import os.path as path
 import pathlib
+import shutil
+
+import babel.messages.catalog as catalog
+import babel.messages.pofile as pofile
 
 DIST_DIR = path.join('..', 'dist')
 SOURCE_DIR = path.join('..', 'strings')
@@ -38,3 +39,5 @@ for lang in languages:
     curr_catalog.version = "v1.0.0"
     with open(path.join(DIST_DIR, f'{lang}.po'), 'wb') as f_obj:
         pofile.write_po(f_obj, curr_catalog)
+
+shutil.copyfile(CONFIG_DIR, path.join(DIST_DIR, 'languages.json'))
