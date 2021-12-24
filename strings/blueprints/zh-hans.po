@@ -56,7 +56,7 @@ msgstr ""
 
 msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_TOOLTIP"
 msgid "Use blueprint {0}"
-msgstr ""
+msgstr "使用蓝图 {0}"
 
 msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_LOADEDBLUEPRINTS"
 msgid "Loaded {0} blueprints! ({1} total)"
