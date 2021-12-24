@@ -42,3 +42,7 @@ msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_CREATE_ACTION_BACK"
 msgid "BACK"
 msgstr "后退"
 
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_TOOLTIP"
+msgid "Use blueprint {0}"
+msgstr "使用蓝图 {0}"
+
