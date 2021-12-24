@@ -2,13 +2,10 @@ import json
 import pathlib
 import logging
 import requests
-import smartcat
-import magic
 
 ID = "aeac194e-d2ec-4cf6-a1d8-2bc0afd25ced"
 KEY = "1_zBR7Q3oYX5anSCWxIZoyvm2XY"
 PROJECT_ID = "d23a5992-05a9-4676-a391-aa127877b8d9"
-mime = magic.Magic(mime=True)
 
 
 class SmartcatSession(requests.Session):
