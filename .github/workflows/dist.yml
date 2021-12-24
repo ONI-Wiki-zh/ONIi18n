@@ -39,8 +39,10 @@ jobs:
           PLACEHOLDER_ENV: ${{ secrets.PLACEHOLDER }}
         run: python -u ./integration/publish.py
 
-      - name: checkout
-        run: git checkout origin/dist
+      - uses: actions/checkout@v2
+        with:
+          ref: refs/heads/dist
+          clean: fasle
       
       - name: Verified commit
         uses: swinton/commit@v2.0.0
