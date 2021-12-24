@@ -36,7 +36,7 @@ msgstr "创建蓝图"
 
 msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_CREATE_CANCELLED"
 msgid "Cancelled blueprint!"
-msgstr ""
+msgstr "取消蓝图！"
 
 msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_CREATE_TOOLTIP_TITLE"
 msgid "CREATE BLUEPRINT TOOL"
