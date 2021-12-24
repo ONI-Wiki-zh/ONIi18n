@@ -54,5 +54,11 @@ jobs:
 
       - id: git_commit
         uses: zwaldowski/git-commit-action@v1
-      - run: echo "${{ steps.git_commit.outputs.sha }}"
       - run: git push
+
+      - uses: zwaldowski/semver-release-action@v1
+        with:
+          bump: patch
+          prefix: v
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          sha: ${{ steps.git_commit.outputs.sha }}
