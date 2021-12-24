@@ -65,6 +65,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh release delete auto -y
+          git tag -d auto
+          git push origin :refs/tags/auto
           gh release create auto --target dist
           
         
