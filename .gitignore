@@ -2,7 +2,7 @@
 !*/
 
 # track this file
-!.gitignore
+!./.gitignore
 
 # whitelist everything in ./config/
-!dest/
+!dist/*.*
