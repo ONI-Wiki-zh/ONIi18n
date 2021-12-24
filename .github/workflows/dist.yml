@@ -14,20 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-      - name: Get current date
+      - name: Get current timestamp
         id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-      - name: Test with environment variables
-        run: echo $TAG_NAME - $RELEASE_NAME
-        env:
-          TAG_NAME: nightly-tag-${{ steps.date.outputs.date }}
-          RELEASE_NAME: nightly-release-${{ steps.date.outputs.date }}
-      - name: Test with input
-        uses: actions/hello-world-docker-action@master
-        with:
-          who-to-greet: Mona-the-Octocat-${{ steps.date.outputs.date }}
-    
-    
+        run: echo "::set-output timestamp=date::$(date +'%s')"
     
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
@@ -79,11 +68,7 @@ jobs:
       - name: release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          gh release delete auto -y
-          git tag -d auto
-          git push origin :refs/tags/auto
-          gh release create auto --target dist
+        run: gh release create v1.0.${{ steps.date.outputs.timestamp }} --target dist
           
         
         
