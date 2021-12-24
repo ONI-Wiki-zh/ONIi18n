@@ -38,10 +38,6 @@ jobs:
       - env:
           PLACEHOLDER_ENV: ${{ secrets.PLACEHOLDER }}
         run: python -u ./integration/publish.py
-        
-      - uses: actions/checkout@v2
-        with:
-          ref: dist
 
       - name: checkout
         run: git checkout dist
