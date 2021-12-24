@@ -7,8 +7,8 @@ import shutil
 import babel.messages.catalog as catalog
 import babel.messages.pofile as pofile
 
-DIST_DIR = path.join('..', 'dist')
-SOURCE_DIR = path.join('..', 'strings')
+DIST_DIR = path.join('.', 'dist')
+SOURCE_DIR = path.join('.', 'strings')
 CONFIG_DIR = path.join(SOURCE_DIR, 'languages.json')
 
 with open(CONFIG_DIR, 'r', encoding='utf-8') as f:
