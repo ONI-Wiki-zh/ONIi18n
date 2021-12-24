@@ -16,7 +16,7 @@ jobs:
     
       - name: Get current timestamp
         id: date
-        run: echo "::set-output timestamp=date::$(date +'%s')"
+        run: echo "::set-output name=timestamp::$(date +'%s')"
     
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
