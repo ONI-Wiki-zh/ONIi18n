@@ -46,3 +46,7 @@ msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_TOOLTIP"
 msgid "Use blueprint {0}"
 msgstr "使用蓝图 {0}"
 
+msgctxt "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_USE_LOADEDBLUEPRINTS_FEWER"
+msgid "fewer"
+msgstr "更少"
+
