@@ -18,6 +18,7 @@ jobs:
         with:
           fetch-depth: 0
       - run: |
+          git fetch
           git checkout dist
           git checkout main
       
