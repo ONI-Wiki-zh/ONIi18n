@@ -49,6 +49,7 @@ jobs:
       
       
       - run: git symbolic-ref HEAD refs/heads/dist
+      - run: git status
       - run: git reset
       - run: git status
       - run: git checkout -- .gitignore
