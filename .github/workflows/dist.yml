@@ -43,11 +43,14 @@ jobs:
         with:
           ref: refs/heads/dist
           clean: fasle
-      
-      - name: Verified commit
-        uses: swinton/commit@v2.0.0
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          commit-message: dist
-          ref: refs/heads/dist
+
+#       - name: Verified commit
+#         uses: swinton/commit@v2.0.0
+#         env:
+#           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#         with:
+#           commit-message: dist
+#           ref: refs/heads/dist
+
+      - uses: zwaldowski/git-commit-action@v1
+      - run: echo "${{ steps.git_commit.outputs.sha }}"
