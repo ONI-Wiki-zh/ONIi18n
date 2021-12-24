@@ -2,7 +2,8 @@
 !*/
 
 # track this file
-!./.gitignore
+!.gitignore
+.idea/.gitignore
 
 # whitelist everything in ./config/
 !dist/*.*
