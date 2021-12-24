@@ -19,8 +19,9 @@ jobs:
           fetch-depth: 0
       - run: |
           git fetch
-          git checkout dist
-          git checkout main
+          git reset
+          git switch dist
+          git switch main
       
       - name: Set up Python
         uses: actions/setup-python@v2
