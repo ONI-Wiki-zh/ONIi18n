@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.DESC"
+msgid "A spooky lamp for spooky times."
+msgstr "TEST PUMPKING DESC."
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.EFFECT
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.EFFECT"
+msgid "Provides Light and Decor. Spooks duplicants that come nearby."
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.NAME"
+msgid "Jack O' Lantern"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SEEDS.SP_PUMPKIN.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SEEDS.SP_PUMPKIN.DESC"
+msgid ""
+"The <link=\"PLANTS\">Seed</link> of a <link=\"SPPUMPKINPLANT\">Pumpkin</"
+"link> plant.\n"
+"\n"
+"It can be planted to grow more Pumpkins, or toasted for snacks."
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SEEDS.SP_PUMPKIN.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SEEDS.SP_PUMPKIN.NAME"
+msgid "<link=\"SPPUMPKINPLANT\">Pumpkin Seed</link>"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_GHOSTPIP.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_GHOSTPIP.DESC"
+msgid ""
+"Seems suspicious. It looks like it would love some treats.\n"
+"\n"
+"<smallcaps>The Suspicious Pip will offer to trade for Pumpkin Seeds. The "
+"required item will change daily and after each trade.</smallcaps>"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_GHOSTPIP.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_GHOSTPIP.NAME"
+msgid "<link=\"SPGHOSTSQUIRREL\">Suspicious Pip</link>"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DESC"
+msgid ""
+"Pumpkins are pretty neat. They grow enormous fruits also called Pumpkins."
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DOMESTICATEDDESC
+msgctxt "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DOMESTICATEDDESC"
+msgid ""
+"Pumpkins are pretty neat. They grow enormous fruits also called Pumpkins."
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.NAME"
+msgid "<link=\"SPPUMPKINPLANT\">Pumpkin</link>"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.MODIFIERS.AHM_HOLIDAYSPIRIT.DESCRIPTION
+msgctxt ""
+"SpookyPumpkinSO.STRINGS.DUPLICANTS.MODIFIERS.AHM_HOLIDAYSPIRIT.DESCRIPTION"
+msgid "This Duplicant is excited for this time of year. (All stats up!)"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.MODIFIERS.AHM_HOLIDAYSPIRIT.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.MODIFIERS.AHM_HOLIDAYSPIRIT.NAME"
+msgid "Holiday Spirit"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.HOLIDAY_SPIRIT.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.HOLIDAY_SPIRIT.NAME"
+msgid "Holiday Spirit"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.HOLIDAY_SPIRIT.TOOLTIP
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.HOLIDAY_SPIRIT.TOOLTIP"
+msgid "This Duplicant is excited for this time of year. (All stats up!)"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SPOOKED.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SPOOKED.NAME"
+msgid "Spooked!"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SPOOKED.TOOLTIP
+msgctxt "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SPOOKED.TOOLTIP"
+msgid "This Duplicant saw something super scary!"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKIN.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKIN.DESC"
+msgid "Bland tasting fruit of a Pumpkin plant."
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKIN.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKIN.NAME"
+msgid "<link=\"SPPUMPKIN\">Pumpkin</link>"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.DESC"
+msgid "A delicious seasonal treat."
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.NAME"
+msgid "<link=\"SPPUMPKINPIE\">Pumpkin Pie</link>"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_TOASTEDPUMPKINSEED.DESC
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_TOASTEDPUMPKINSEED.DESC"
+msgid "Tasty snack."
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_TOASTEDPUMPKINSEED.NAME
+msgctxt "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_TOASTEDPUMPKINSEED.NAME"
+msgid "<link=\"SPTOASTEDPUMPKINSEED\">Roasted Pumpkin Seeds</link>"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.GHOSTPIP_LIGHT.TITLE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.GHOSTPIP_LIGHT.TITLE"
+msgid "Suspicious Pip emits Light"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.GHOSTPIP_LIGHT.TOOLTIP
+msgctxt "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.GHOSTPIP_LIGHT.TOOLTIP"
+msgid "If true, the Suspicious Pip will emit some light."
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.ROT.TITLE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.ROT.TITLE"
+msgid "Use rot for fertilizer"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.ROT.TOOLTIP
+msgctxt "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.ROT.TOOLTIP"
+msgid "If true, pumpkin plants will use Rot along Dirt for fertilization."
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TEXT_ACTIVE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TEXT_ACTIVE"
+msgid "Answer mysterious call"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TEXT_INACTIVE
+msgctxt ""
+"SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TEXT_INACTIVE"
+msgid "Pip called"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TOOLTIP
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TOOLTIP"
+msgid "Spooky squeaks are whispered through the receiver... "
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TOOLTIP_INACTIVE
+msgctxt ""
+"SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TOOLTIP_INACTIVE"
+msgid "Pip spawned."
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.CANCELBUTTON
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.CANCELBUTTON"
+msgid "Cancel"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.CONFIRM
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.CONFIRM"
+msgid "Are you sure?"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.LABEL
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.LABEL"
+msgid "Wants one "
+msgstr "WANTS ONE TEST STRINGD"
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.LABEL2
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.LABEL2"
+msgid "Delivering "
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.MESSAGE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.MESSAGE"
+msgid "This suspicious pip looks like it wants some treats."
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.SHOO
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.SHOO"
+msgid "Shoo Away"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.TITLE
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.TITLE"
+msgid "Suspicious Pip"
+msgstr ""
+
+#. SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.TREATBUTTON
+msgctxt "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.TREATBUTTON"
+msgid "Deliver Treat"
+msgstr ""
