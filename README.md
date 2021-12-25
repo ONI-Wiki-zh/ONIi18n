@@ -8,11 +8,14 @@ Then translate it (e.g. with Poedit). When finished, you can [create an issue](h
 
 To update existing translations, just download the old po file instead.
 
+To test your translations, you can set "Use Local Translations Only" to true in the in-game mod options of ModI18n, and then put your translations as `mods/i18n/xx.po`. Available language code could be found inside [`strings/languages.json`](/strings/languages.json)
+
 # Adding your mod for translation
 To add your mod for translation, please make a PR with your `.pot` file under `/strings/YOUR_MOD_NAME/`. The `YOUR_MOD_NAME` here is not strict, just make sure to be different from other's mod. If you want, you can also create a issue a with your pot file so that we can add it for you.
 
 To make sure all users of your mod have ModI18n enabled, you can mention it in your mod's description page or add ModI18n as the dependency of your mod (it should not add any noticeable lag to English users).
 
+To update existing string templates, just create a new issue/PR with the new templates.
+
 # Known issues & TODO
-- It seems that strings in the options popup created by PLib is not translatable via ModI18n
 - Link this repo with smartCat
