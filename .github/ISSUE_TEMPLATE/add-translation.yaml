@@ -1,0 +1,32 @@
+name: Add Translation
+description: Add your translation of a mod. 
+title: "Pot Request: "
+labels:
+  - translation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If the mod is not exist in [strings](/strings), please create a [Pot Request](https://github.com/ONI-Wiki-zh/ONIi18n/issues/new?assignees=&labels=pot&template=pot-request.yaml&title=Pot+Request%3A+) for it.
+
+  - type: input
+    attributes:
+      label: language code
+      description: The language code of the target language. e.g. en, zh-hans
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Mod
+      description: The mod you translated
+    validations:
+      required: false
+      
+  - type: textarea
+    attributes:
+      label: File
+      description: The `.po` file which contains your translation. Due to GitHub's limitation, you need to first change its extension to `.txt`
+    validations:
+      required: true
+
