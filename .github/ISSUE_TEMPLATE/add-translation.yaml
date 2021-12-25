@@ -1,6 +1,6 @@
 name: Add Translation
 description: Add your translation of a mod. 
-title: "Pot Request: "
+title: "Translation: "
 labels:
   - translation
 body:
