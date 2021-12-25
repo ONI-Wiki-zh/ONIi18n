@@ -13,6 +13,6 @@ body:
   - type: textarea
     attributes:
       label: File
-      description: The `.pot` file you want us to added
+      description: The `.pot` file you want us to added. Due to GitHub's limitation, you need to first change its extension to `.txt`
     validations:
       required: true
