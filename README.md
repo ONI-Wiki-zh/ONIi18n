@@ -17,5 +17,9 @@ To make sure all users of your mod have ModI18n enabled, you can mention it in y
 
 To update existing string templates, just create a new issue/PR with the new templates.
 
+# Modder opt-out
+The following modders don't want their mods to be translated without thier supervision. Therefore this repo can't provide translation for their mods.
+* Cairath
+
 # Known issues & TODO
 - Link this repo with smartCat
