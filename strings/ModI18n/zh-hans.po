@@ -22,3 +22,18 @@ msgstr "选择一项最合适您的语言。"
 msgctxt "ModI18n.STRINGS.OPTIONS.LANG.NAME"
 msgid "Prefered Language"
 msgstr "语言偏好"
+
+#. ModI18n.STRINGS.OPTIONS.LOCAL_ONLY.DESC
+msgctxt "ModI18n.STRINGS.OPTIONS.LOCAL_ONLY.DESC"
+msgid ""
+"ModI18n will fetch the latest translation files online when started. If "
+"fails, it will try to find local translations to load. If set to true, "
+"ModI18n will skip downloading translation files."
+msgstr ""
+"ModI18n 会在启动时下载最新的翻译文件。如若失败，则会尝试在本地加载之前下"
+"载的翻译。启用这个选项来使 ModI18n 跳过下载过程。"
+
+#. ModI18n.STRINGS.OPTIONS.LOCAL_ONLY.NAME
+msgctxt "ModI18n.STRINGS.OPTIONS.LOCAL_ONLY.NAME"
+msgid "Use Local Translations Only"
+msgstr "仅使用本地翻译"

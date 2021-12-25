@@ -13,3 +13,13 @@ msgctxt "ModI18n.STRINGS.OPTIONS.LANG.NAME"
 msgid "Prefered Language"
 msgstr ""
 
+#. ModI18n.STRINGS.OPTIONS.LOCAL_ONLY.DESC
+msgctxt "ModI18n.STRINGS.OPTIONS.LOCAL_ONLY.DESC"
+msgid "ModI18n will fetch the latest translation files online when started. If fails, it will try to find local translations to load. If set to true, ModI18n will skip downloading translation files."
+msgstr ""
+
+#. ModI18n.STRINGS.OPTIONS.LOCAL_ONLY.NAME
+msgctxt "ModI18n.STRINGS.OPTIONS.LOCAL_ONLY.NAME"
+msgid "Use Local Translations Only"
+msgstr ""
+
