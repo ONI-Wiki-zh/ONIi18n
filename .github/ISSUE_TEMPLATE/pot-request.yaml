@@ -1,16 +1,16 @@
 name: Pot Request
 description: Request pot file of a mod to translate. We will try to get the pot file you want so that you can start translating with it later.
 title: "Pot Request: "
-# labels:
-#   - bug
+labels:
+  - pot
 body:
-  - type: textarea
+  - type: input
     attributes:
       label: Steam Workshop Url
       description: The steam workshop address of the mod you want to translate.
     validations:
       required: true
-  - type: textarea
+  - type: input
     attributes:
       label: Repo url
       description: The GitHub (or other host) link of its source code

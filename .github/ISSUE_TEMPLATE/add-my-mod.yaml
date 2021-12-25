@@ -1,8 +1,8 @@
 name: Add My Mod
 description: Add your mod's `.pot` file by creating a issue so that we can add it for you. You can also create a PR with it by you self. 
 title: "Add My Mod: "
-# labels:
-#   - bug
+labels:
+  - pot
 body:
   - type: input
     attributes:
