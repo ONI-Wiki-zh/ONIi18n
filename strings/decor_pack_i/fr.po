@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.DESC
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.DESC"
+msgid "Stained glass tiles are transparent tiles that provide a fashionable barrier against liquid and gas."
+msgstr ""
+"Les dalles de verre coloré sont des dalles transparentes qui constituent une barrière à la mode contre les liquides et "
+"les gaz."
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.EFFECT
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.EFFECT"
+msgid ""
+"Used to build the walls and floors of rooms.\n"
+"\n"
+"Allows <link=\"LIGHT\">Light</link> and <link=\"DECOR\">Decor</link> pass through."
+msgstr ""
+"Utilisé pour construire les murs et les sols des pièces.\n"
+"\n"
+"Permet le passage de la <link=\"LIGHT\">lumière</link> et du <link=\"DECOR\">décor</link>."
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.NAME
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.NAME"
+msgid "<link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Stained Glass Tile</link>"
+msgstr "<link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Dalle en verre coloré</link>"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.STAINED_NAME
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.STAINED_NAME"
+msgid "{element} <link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Stained Glass Tile</link>"
+msgstr "{element} <link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Dalle en verre coloré</link>"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.AVERAGEQUALITYNAME
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.AVERAGEQUALITYNAME"
+msgid "Mediocre Glass Sculpture"
+msgstr "Sculpture en verre médiocre"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.DESC
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.DESC"
+msgid "Duplicants who have learned art skills can produce more decorative sculptures."
+msgstr "Les duplicants qui ont acquis des compétences artistiques peuvent produire des sculptures plus décoratives."
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EFFECT
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EFFECT"
+msgid ""
+"Majorly increases <link=\"DECOR\">Decor</link>, contributing to <link=\"MORALE\">Morale</link>.\n"
+"\n"
+"Must be sculpted by a Duplicant."
+msgstr ""
+"Augmente considérablement le <link=\"DECOR\">déco</link> qui contribue au <link=\"MORALE\">moral</link>.\n"
+"\n"
+"Doit être sculpté par un duplicant."
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EXCELLENTQUALITYNAME
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EXCELLENTQUALITYNAME"
+msgid "Genius Glass Sculpture"
+msgstr "Sculpture en verre géniale"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.NAME
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.NAME"
+msgid "<link=\"DECORPACKAGLASSSCULPTURE\">Glass Block</link>"
+msgstr "<link=\"DECORPACKAGLASSSCULPTURE\">Bloc de verre</link>"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.POORQUALITYNAME
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.POORQUALITYNAME"
+msgid "\"Abstract\" Glass Sculpture"
+msgstr "Sculpture en verre abstraite"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.DESC
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.DESC"
+msgid "Light reduces Duplicant stress and is required to grow certain plants."
+msgstr "La lumière réduit le stress des duplicants et est nécessaire à la croissance de certaines plantes."
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.EFFECT
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.EFFECT"
+msgid ""
+"Provides <link=\"LIGHT\">Light</link> when <link=\"POWER\">Powered</link>.\n"
+"\n"
+"Duplicants can operate buildings more quickly when the building is lit."
+msgstr ""
+"Fournit de la <link=\"LIGHT\">lumière</link> lorsqu' <link=\"POWER\">alimentée</link>.\n"
+"\n"
+"Les duplicants peuvent exploiter les bâtiments plus rapidement lorsque le bâtiment est éclairé."
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.NAME
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.NAME"
+msgid "<link=\"DECORPACKAMOODLAMP\">Mood Lamp</link>"
+msgstr "<link=\"DECORPACKAMOODLAMP\">Lampe d'ambiance</link>"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.BROTHGAR
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.BROTHGAR"
+msgid "Brothgar Logo"
+msgstr "Logo de Brothgar"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.CAT
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.CAT"
+msgid "Cat"
+msgstr "Chat"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.D6
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.D6"
+msgid "D6"
+msgstr "D6"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.DENSE
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.DENSE"
+msgid "Dense Puft"
+msgstr "Bouffette compacte"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MOON
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MOON"
+msgid "Moon"
+msgstr "Lune"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MORB
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MORB"
+msgid "Morb"
+msgstr "Morb"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OGRE
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OGRE"
+msgid "Shrumal Ogre"
+msgstr "Ogre Fongique"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OWO
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OWO"
+msgid "OwO Slickster"
+msgstr "Gluant OwO"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.PIP
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.PIP"
+msgid "Pip"
+msgstr "Pip"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.RANDOM
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.RANDOM"
+msgid "Random"
+msgstr "Aléatoire"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.ROCKET
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.ROCKET"
+msgid "Rocket"
+msgstr "Fusée"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.SATURN
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.SATURN"
+msgid "Saturn"
+msgstr "Saturne"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.STAR
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.STAR"
+msgid "Star"
+msgstr "Étoile"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.TESSERACT
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.TESSERACT"
+msgid "Tesseract"
+msgstr "Tesseract"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.UNICORN
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.UNICORN"
+msgid "Unicorn"
+msgstr "Licorne"
+
+#. DecorPackA.STRINGS.MISC.TAGS.DECORPACKA_STAINEDGLASSMATERIAL
+msgctxt "DecorPackA.STRINGS.MISC.TAGS.DECORPACKA_STAINEDGLASSMATERIAL"
+msgid "Glass Dye"
+msgstr "Colorant pour verre"
+
+#. DecorPackA.STRINGS.UI.BUILDINGEFFECTS.THERMALCONDUCTIVITYCHANGE
+msgctxt "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.THERMALCONDUCTIVITYCHANGE"
+msgid "Thermal Conductivity: {0}"
+msgstr "Conductivité thermique : {0}"
+
+#. DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.HIGHER
+msgctxt "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.HIGHER"
+msgid "higher"
+msgstr "plus haut"
+
+#. DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.LOWER
+msgctxt "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.LOWER"
+msgid "lower"
+msgstr "plus basse"
+
+#. DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.THERMALCONDUCTIVITYCHANGE
+msgctxt "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.THERMALCONDUCTIVITYCHANGE"
+msgid "The dye {dyeElement} has {higherOrLower} thermal conductivity than {baseElement}, modifying it by {percent}."
+msgstr ""
+"Le matériaux {dyeElement} a une conductivité thermique {higherOrLower} que le matériaux {baseElement}, la modifiant de "
+"{percent}."
+
+#. DecorPackA.STRINGS.UI.UISIDESCREENS.MOODLAMP_SIDE_SCREEN.TITLE
+msgctxt "DecorPackA.STRINGS.UI.UISIDESCREENS.MOODLAMP_SIDE_SCREEN.TITLE"
+msgid "Lamp type"
+msgstr "Type de lampe"
+
+#. DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.NAME
+msgctxt "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.NAME"
+msgid "Fabulous Off"
+msgstr "Arrêt fabuleux"
+
+#. DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.TOOLTIP
+msgctxt "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.TOOLTIP"
+msgid "Take away the magic."
+msgstr "Enlève la magie."
+
+#. DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.NAME
+msgctxt "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.NAME"
+msgid "Fabulous On"
+msgstr "Allumage fabuleux"
+
+#. DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.TOOLTIP
+msgctxt "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.TOOLTIP"
+msgid "Bring the magic!"
+msgstr "Amenez la magie !"
