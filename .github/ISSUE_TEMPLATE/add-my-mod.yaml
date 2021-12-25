@@ -1,0 +1,18 @@
+name: Add My Mod
+description: Add your mod's `.pot` file by creating a issue so that we can add it for you. You can also create a PR with it by you self. 
+title: "Add My Mod: "
+# labels:
+#   - bug
+body:
+  - type: input
+    attributes:
+      label: Steam Workshop Url
+      description: The steam workshop address of your mod whose `.pot` file will be added.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: File
+      description: The `.pot` file you want us to added
+    validations:
+      required: true
