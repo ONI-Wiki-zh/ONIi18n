@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ventulus\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.DESC
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.DESC"
+msgid ""
+"Stained glass tiles are transparent tiles that provide a fashionable barrier "
+"against liquid and gas."
+msgstr "彩绘玻璃砖是透明的砖块，可以阻挡液体和气体的时尚屏障。"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.EFFECT
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE."
+"EFFECT"
+msgid ""
+"Used to build the walls and floors of rooms.\n"
+"\n"
+"Allows <link=\"LIGHT\">Light</link> and <link=\"DECOR\">Decor</link> pass "
+"through."
+msgstr ""
+"用于建造房间的墙壁和地板。\n"
+"\n"
+"允许<link=\"LIGHT\">光线</link>和<link=\"DECOR\">装饰度</link>穿过。"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.NAME
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.NAME"
+msgid "<link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Stained Glass Tile</link>"
+msgstr "<link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">彩绘玻璃砖</link>"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.STAINED_NAME
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE."
+"STAINED_NAME"
+msgid ""
+"{element} <link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Stained Glass Tile</"
+"link>"
+msgstr ""
+"{element} <link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">彩绘玻璃砖</link>"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.AVERAGEQUALITYNAME
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE."
+"AVERAGEQUALITYNAME"
+msgid "Mediocre Glass Sculpture"
+msgstr "平庸的玻璃雕塑"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.DESC
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.DESC"
+msgid ""
+"Duplicants who have learned art skills can produce more decorative "
+"sculptures."
+msgstr "学习了艺术技能的复制人可以制作更有装饰性的雕塑。"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EFFECT
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EFFECT"
+msgid ""
+"Majorly increases <link=\"DECOR\">Decor</link>, contributing to <link="
+"\"MORALE\">Morale</link>.\n"
+"\n"
+"Must be sculpted by a Duplicant."
+msgstr ""
+"大幅提高<link=\"DECOR\">装饰度</link>，有助于<link=\"MORALE\">士气</link>。\n"
+"\n"
+"必须由复制人雕刻。"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EXCELLENTQUALITYNAME
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE."
+"EXCELLENTQUALITYNAME"
+msgid "Genius Glass Sculpture"
+msgstr "天才的玻璃雕塑"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.NAME
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.NAME"
+msgid "<link=\"DECORPACKAGLASSSCULPTURE\">Glass Block</link>"
+msgstr "<link=\"DECORPACKAGLASSSCULPTURE\">玻璃砖块</link>"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.POORQUALITYNAME
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE."
+"POORQUALITYNAME"
+msgid "\"Abstract\" Glass Sculpture"
+msgstr "“抽象的”玻璃雕塑"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.DESC
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.DESC"
+msgid "Light reduces Duplicant stress and is required to grow certain plants."
+msgstr "光线可以减少复制人的压力，也是某些植物生长所需要的。"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.EFFECT
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.EFFECT"
+msgid ""
+"Provides <link=\"LIGHT\">Light</link> when <link=\"POWER\">Powered</link>.\n"
+"\n"
+"Duplicants can operate buildings more quickly when the building is lit."
+msgstr ""
+"提供<link=\"POWER\">电力</link>就能发出<link=\"LIGHT\">光线</link>。\n"
+"\n"
+"光照条件下复制人可以更快地操作建筑物。"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.NAME
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.NAME"
+msgid "<link=\"DECORPACKAMOODLAMP\">Mood Lamp</link>"
+msgstr "<link=\"DECORPACKAMOODLAMP\">氛围灯</link>"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.BROTHGAR
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.BROTHGAR"
+msgid "Brothgar Logo"
+msgstr "Brothgar牌"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.CAT
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.CAT"
+msgid "Cat"
+msgstr "猫"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.D6
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.D6"
+msgid "D6"
+msgstr "骰子"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.DENSE
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.DENSE"
+msgid "Dense Puft"
+msgstr "厚壳飞鱼"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MOON
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MOON"
+msgid "Moon"
+msgstr "月球"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MORB
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MORB"
+msgid "Morb"
+msgstr "疫病章鱼"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OGRE
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OGRE"
+msgid "Shrumal Ogre"
+msgstr "蘑菇巨怪"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OWO
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OWO"
+msgid "OwO Slickster"
+msgstr "OwO小滑头"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.PIP
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.PIP"
+msgid "Pip"
+msgstr "树鼠"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.RANDOM
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.RANDOM"
+msgid "Random"
+msgstr "随机"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.ROCKET
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.ROCKET"
+msgid "Rocket"
+msgstr "火箭"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.SATURN
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.SATURN"
+msgid "Saturn"
+msgstr "土星"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.STAR
+msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.STAR"
+msgid "Star"
+msgstr "星星"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.TESSERACT
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.TESSERACT"
+msgid "Tesseract"
+msgstr "宇宙魔方"
+
+#. DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.UNICORN
+msgctxt ""
+"DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.UNICORN"
+msgid "Unicorn"
+msgstr "独角兽"
+
+#. DecorPackA.STRINGS.MISC.TAGS.DECORPACKA_STAINEDGLASSMATERIAL
+msgctxt "DecorPackA.STRINGS.MISC.TAGS.DECORPACKA_STAINEDGLASSMATERIAL"
+msgid "Glass Dye"
+msgstr "玻璃染色剂"
+
+#. DecorPackA.STRINGS.UI.BUILDINGEFFECTS.THERMALCONDUCTIVITYCHANGE
+msgctxt "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.THERMALCONDUCTIVITYCHANGE"
+msgid "Thermal Conductivity: {0}"
+msgstr "热导率: {0}"
+
+#. DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.HIGHER
+msgctxt "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.HIGHER"
+msgid "higher"
+msgstr "更高"
+
+#. DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.LOWER
+msgctxt "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.LOWER"
+msgid "lower"
+msgstr "更低"
+
+#. DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.THERMALCONDUCTIVITYCHANGE
+msgctxt ""
+"DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.THERMALCONDUCTIVITYCHANGE"
+msgid ""
+"The dye {dyeElement} has {higherOrLower} thermal conductivity than "
+"{baseElement}, modifying it by {percent}."
+msgstr "染色剂{dyeElement}比{baseElement}有{higherOrLower}{percent}导热率。"
+
+#. DecorPackA.STRINGS.UI.UISIDESCREENS.MOODLAMP_SIDE_SCREEN.TITLE
+msgctxt "DecorPackA.STRINGS.UI.UISIDESCREENS.MOODLAMP_SIDE_SCREEN.TITLE"
+msgid "Lamp type"
+msgstr "氛围灯造型"
+
+#. DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.NAME
+msgctxt "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.NAME"
+msgid "Fabulous Off"
+msgstr "妙趣横生关"
+
+#. DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.TOOLTIP
+msgctxt "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.TOOLTIP"
+msgid "Take away the magic."
+msgstr "给我魔法吧。"
+
+#. DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.NAME
+msgctxt "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.NAME"
+msgid "Fabulous On"
+msgstr "妙趣横生开"
+
+#. DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.TOOLTIP
+msgctxt "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.TOOLTIP"
+msgid "Bring the magic!"
+msgstr "不要魔法！"
