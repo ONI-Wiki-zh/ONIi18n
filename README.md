@@ -1,3 +1,6 @@
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![JSDelivr CDN](https://data.jsdelivr.com/v1/package/gh/ONI-Wiki-zh/ONIi18n/badge?style=rounded)](https://www.jsdelivr.com/package/gh/ONI-Wiki-zh/ONIi18n)
+
 # ONIi18n
 The repo to hold the translation for [ModI18n](https://github.com/ONI-Wiki-zh/ModI18n).
 
