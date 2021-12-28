@@ -1,7 +1,10 @@
 import copy
 import os.path as path
 import babel.messages.pofile as pofile
+import re
 
+CJK = r'\u2e80-\u2eff\u2f00-\u2fdf\u3040-\u309f\u30a0-\u30fa\u30fc-\u30ff\u3100-\u312f\u3200-\u32ff\u3400-\u4dbf' \
+      r'\u4e00-\u9fff\uf900-\ufaff'
 
 def load_po(file_dir):
     with open(file_dir, 'r', encoding='utf-8') as f_obj:
@@ -25,11 +28,17 @@ def main(base_template=r"C:\Program Files (x86)\Steam\steamapps\common\OxygenNot
                        r"\StreamingAssets\strings\strings_template.pot",
          mod_template_dir=path.join(path.expanduser("~"), "Documents", "Klei", "OxygenNotIncluded", "mods",
                                     "strings_templates"),
-         minuend="curr_mods_template.pot",
-         output_file="curr_mods.pot"):
+         minuend="curr_strings.pot",
+         output_file="curr_mods_template.pot"):
     generated_template = path.join(mod_template_dir, minuend)
+    result = subtract(generated_template, base_template)
+    for msg in list(result):
+        if re.search(rf'[{CJK}]', msg.id):
+            result.delete(msg.id, msg.context)
+            print(f"Deleted {msg.context}")
+
     with open(path.join(mod_template_dir, output_file), 'wb') as f_obj:
-        pofile.write_po(f_obj, subtract(generated_template, base_template))
+        pofile.write_po(f_obj, result)
 
 
 if __name__ == '__main__':
