@@ -16,19 +16,19 @@ msgstr ""
 #. Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.NAME
 msgctxt "Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.NAME"
 msgid "Cooling Contents: {UsedPower}"
-msgstr ""
+msgstr "速冻模式：{UsedPower}"
 
 #. Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.TOOLTIP
 msgctxt "Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.TOOLTIP"
 msgid ""
 "{UsedPower} of {MaxPower} are being used to cool the contents of this food "
 "storage"
-msgstr ""
+msgstr "已使用{MaxPower}中的{UsedPower}电力来冷却内容物"
 
 #. Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.NAME
 msgctxt "Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.NAME"
 msgid "Energy Saver: {UsedPower}"
-msgstr ""
+msgstr "节能模式：{UsedPower}"
 
 #. Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.TOOLTIP
 msgctxt "Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.TOOLTIP"
@@ -38,6 +38,9 @@ msgid ""
 "Energy Saver mode has been automatically activated using only {UsedPower} of "
 "{MaxPower}"
 msgstr ""
+"在此储存的食物已处于冷冻温度\n"
+"\n"
+"节能模式已自动激活，只使用{MaxPower}中的{UsedPower}电力。"
 
 #. Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.DESC
 msgctxt "Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.DESC"
