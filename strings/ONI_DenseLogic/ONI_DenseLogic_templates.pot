@@ -1,0 +1,1125 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.DESC
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.DESC"
+msgid "A 4-Bit multiplexer with <link=\"LOGICRIBBON\">Automation Ribbon</link> as output."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.EFFECT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.EFFECT"
+msgid "Controls which bit of the output <link=\"LOGICRIBBON\">Automation Ribbon</link> the input is sent to using two control inputs."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.NAME
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEDEMULTIPLEXER\">Dense DeMultiplexer</link>"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.DESC
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.DESC"
+msgid "Banhi told us she didn't like the old logic gates. Banhi is weird."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.EFFECT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.EFFECT"
+msgid "Switches between different logic functions easily in the UI.\n\nPerforms logic on each bit in <link=\"LOGICRIBBON\">Automation Ribbon</link> based on the specified mode.\n\nAND:\nOutputs <b><style=\"logic_on\">Green</style></b> when both Input A <b>AND</b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n\nOR:\nOutputs <b><style=\"logic_on\">Green</style></b> when either Input A <b>OR</b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n\nXOR:\nOutputs <b><style=\"logic_on\">Green</style></b> when <b>EXACTLY ONE</b> of Input A and Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n\nOutputs <b><style=\"logic_off\">Red Signal</style></b>s if none of the above are true."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.INPUT_LOGIC_PORT_ONE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.INPUT_LOGIC_PORT_ONE"
+msgid "4-Bit Input A"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.INPUT_LOGIC_PORT_TWO
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.INPUT_LOGIC_PORT_TWO"
+msgid "4-Bit Input B"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.NAME
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEGATE\">Dense Multigate</link>"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.OUTPUT_LOGIC_PORT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.OUTPUT_LOGIC_PORT"
+msgid "4-Bit Logic Output"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTIN_ACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTIN_ACTIVE"
+msgid "Reads <b><style=\"logic_on\">Green</style></b> signals from the <link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTIN_INACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTIN_INACTIVE"
+msgid "Reads <b><style=\"logic_off\">Red</style></b> signals from the <link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTOUT_ACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTOUT_ACTIVE"
+msgid "Writes <b><style=\"logic_on\">Green</style></b> signals to the <link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTOUT_INACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTOUT_INACTIVE"
+msgid "Writes <b><style=\"logic_off\">Red</style></b> signals to the <link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.DESC
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.DESC"
+msgid "A 4-Bit constant input with <link=\"LOGICRIBBON\">Automation Ribbon</link> as output."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.EFFECT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.EFFECT"
+msgid "Sends a configurable 4-Bit signal on an <link=\"LOGIC\">Automation</link> grid.\n\n<link=\"LOGICRIBBON\">Automation Ribbon</link> must be used as the output wire to avoid overloading."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.LOGIC_PORT_OUTPUT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.LOGIC_PORT_OUTPUT"
+msgid "Multisignal Toggle"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.NAME
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEINPUT\">Signal Multiswitch</link>"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.PORTOUT_ACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.PORTOUT_ACTIVE"
+msgid "Writes <b><style=\"logic_on\">Green</style></b> signals to some bits of the <link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.PORTOUT_INACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.PORTOUT_INACTIVE"
+msgid "Writes <b><style=\"logic_off\">Red</style></b> signals to some bits of the <link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.DESC
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.DESC"
+msgid "A 4-Bit multiplexer with <link=\"LOGICRIBBON\">Automation Ribbon</link> as input."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.EFFECT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.EFFECT"
+msgid "Controls which bit of the input <link=\"LOGICRIBBON\">Automation Ribbon</link> is sent to the output using two control inputs."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.NAME
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEMULTIPLEXER\">Dense Multiplexer</link>"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_LOGIC_PORT_ONE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_LOGIC_PORT_ONE"
+msgid "Control Input A"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_LOGIC_PORT_TWO
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_LOGIC_PORT_TWO"
+msgid "Control Input B"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_PORT_ACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: Selects which bit to pass through/onto."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_PORT_INACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: Selects which bit to pass through/onto."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_LOGIC_PORT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_LOGIC_PORT"
+msgid "1-Bit Input"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_LOGIC_PORT_RIBBON
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_LOGIC_PORT_RIBBON"
+msgid "4-Bit Input"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_ACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: Passes a <b><style=\"logic_on\">Green Signal</style></b> to the selected bit of the output."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_ACTIVE_RIBBON
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_ACTIVE_RIBBON"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: Provides <b><style=\"logic_on\">Green</style></b> signals as selectable bits."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_INACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: Passes a <b><style=\"logic_off\">Red Signal</style></b> to the selected bit of the output."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_INACTIVE_RIBBON
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_INACTIVE_RIBBON"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: Provides <b><style=\"logic_off\">Red</style></b> signals as selectable bits."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_LOGIC_PORT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_LOGIC_PORT"
+msgid "1-Bit Selection"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_LOGIC_PORT_RIBBON
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_LOGIC_PORT_RIBBON"
+msgid "4-Bit Selection"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_PORT_ACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: The bit is selected and is <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_PORT_INACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: The bit is not selected bit or is <b><style=\"logic_off\">Red</style></b>."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.DESC
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.DESC"
+msgid "Just when we thought that Moore's law could go no further, Banhi found a way to make logic gates smaller than ever."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.EFFECT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.EFFECT"
+msgid "Performs logic on the selected bits in <link=\"LOGICRIBBON\">Automation Ribbon</link> and outputs the result to another selected bit.\n\nAND:\nOutputs <b><style=\"logic_on\">Green</style></b> when both Input A <b>AND</b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n\nOR:\nOutputs <b><style=\"logic_on\">Green</style></b> when either Input A <b>OR</b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n\nXOR:\nOutputs <b><style=\"logic_on\">Green</style></b> when <b>EXACTLY ONE</b> of Input A and Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n\nOutputs <b><style=\"logic_off\">Red</style></b> if none of the above are true."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.LOGIC_PORT_IO
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.LOGIC_PORT_IO"
+msgid "Bit Reading and Writing"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.NAME
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.NAME"
+msgid "<link=\"DENSELOGICTEAMINLINEGATE\">Inline Logic Gate</link>"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.PORT_ACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.PORT_ACTIVE"
+msgid "Reads and writes <b><style=\"logic_on\">Green</style></b> signals on <link=\"LOGICRIBBON\">Automation Ribbon</link> bits."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.PORT_INACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.PORT_INACTIVE"
+msgid "Reads and writes <b><style=\"logic_off\">Red</style></b> signals on <link=\"LOGICRIBBON\">Automation Ribbon</link> bits."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT"
+msgid "DATA PORT (D)"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT_ACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: The internal Memory will be set to <b><style=\"logic_on\">Green</style></b> if the Set Port (S) receives a <b><style=\"logic_on\">Green Signal</style></b>"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT_INACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: The internal Memory will be set to <b><style=\"logic_off\">Red</style></b> if the Set Port (S) receives a <b><style=\"logic_on\">Green Signal</style></b>"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DESC
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DESC"
+msgid "A Memory stores an <link=\"LOGIC\">Automation</link> signal received in the Data Port (D) when the Set Port (S) receives a <b><style=\"logic_on\">Green Signal</style></b>."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.EFFECT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.EFFECT"
+msgid "Contains an internal Memory, and will output whatever signal is stored in that Memory. Signals sent to the Inputs <i>only</i> affect the Memory, and do not pass through to the Output.\n\nSending a <b><style=\"logic_on\">Green Signal</style></b> to the Set Port (S) will set the memory to the value of the Data Port (D)."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.NAME
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICDATA\">Data Latch</link>"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT"
+msgid "SET PORT (S)"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT_ACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: Set the internal Memory to the <link=\"LOGIC\">Automation</link> signal received in the Data Port (D)"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT_INACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: The <link=\"LOGIC\">Automation</link> signal read from this Memory will not change"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.INPUT_LOGIC_PORT_ONE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.INPUT_LOGIC_PORT_ONE"
+msgid "Input A"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.INPUT_LOGIC_PORT_TWO
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.INPUT_LOGIC_PORT_TWO"
+msgid "Input B"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.OUTPUT_LOGIC_PORT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.OUTPUT_LOGIC_PORT"
+msgid "Logic Output"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTIN_ACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTIN_ACTIVE"
+msgid "Reads a <b><style=\"logic_on\">Green</style></b> signal from the <link=\"LOGIC\">Automation</link> wire."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTIN_INACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTIN_INACTIVE"
+msgid "Reads a <b><style=\"logic_off\">Red</style></b> signal from the <link=\"LOGIC\">Automation</link> wire."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTOUT_ACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTOUT_ACTIVE"
+msgid "Writes a <b><style=\"logic_on\">Green</style></b> signal to the <link=\"LOGIC\">Automation</link> wire."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTOUT_INACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTOUT_INACTIVE"
+msgid "Writes a <b><style=\"logic_off\">Red</style></b> signal to the <link=\"LOGIC\">Automation</link> wire."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.DESC
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.DESC"
+msgid "This gate outputs a <b><style=\"logic_off\">Red Signal</style></b> if receiving two <b><style=\"logic_on\">Green Signal</style></b>s."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.EFFECT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.EFFECT"
+msgid "Outputs a <b><style=\"logic_off\">Red Signal</style></b> if both Input A <b>AND</b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n\nOutputs a <b><style=\"logic_on\">Green Signal</style></b> when even one Input is receiving <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.NAME
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICNOR\">NAND Gate</link>"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.DESC
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.DESC"
+msgid "This gate outputs a <b><style=\"logic_off\">Red Signal</style></b> if receiving one or more <b><style=\"logic_on\">Green Signal</style></b>s."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.EFFECT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.EFFECT"
+msgid "Outputs a <b><style=\"logic_off\">Red Signal</style></b> if at least one of Input A <b>OR</b> Input B is receiving a <b><style=\"logic_on\">Green</style></b>.\n\nOutputs a <b><style=\"logic_on\">Green Signal</style></b> when neither Input A or Input B are receiving <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.NAME
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICNOR\">NOR Gate</link>"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.DESC
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.DESC"
+msgid "Giving the duplicants a way to show off their favorite numbers has never been easier."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.EFFECT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.EFFECT"
+msgid "Displays the value of a <link=\"LOGICRIBBON\">Automation Ribbon</link> as a number 0 through 9."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.INPUT_PORT_ACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.INPUT_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: Displays a non-zero number."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.INPUT_PORT_INACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.INPUT_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: Displays zero."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.LOGIC_PORT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.LOGIC_PORT"
+msgid "Numerical Input"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.NAME
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICSEVENSEGMENT\">Seven Segment Display</link>"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_LOGIC_PORT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_LOGIC_PORT"
+msgid "Overflow"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_PORT_ACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_PORT_ACTIVE"
+msgid "Outputs a <b><style=\"logic_on\">Green Signal</style></b> if the input is larger than 9."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_PORT_INACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_PORT_INACTIVE"
+msgid "Outputs a <b><style=\"logic_off\">Red Signal</style></b> if the input is less than or equal to 9."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.DESC
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.DESC"
+msgid "This gate outputs a <b><style=\"logic_off\">Red Signal</style></b> if exactly one of its Inputs is receiving a <b><style=\"logic_on\">Green Signal</style></b>."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.EFFECT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.EFFECT"
+msgid "Outputs a <b><style=\"logic_off\">Red Signal</style></b> if exactly one of its Inputs is receiving <b><style=\"logic_on\">Green</style></b>.\n\nOutputs a <b><style=\"logic_on\">Green Signal</style></b> if both or neither Inputs are receiving <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.NAME
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICNOR\">XNOR Gate</link>"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.DESC
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.DESC"
+msgid "Repeats the signals on its <link=\"LOGICRIBBON\">Automation Ribbon</link> input to its <link=\"LOGICRIBBON\">Automation Ribbon</link> output in a different order."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.EFFECT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.EFFECT"
+msgid "Rearranges the order of signals from one <link=\"LOGIC\">Automation</link> grid to another.\n\n<link=\"LOGICRIBBON\">Automation Ribbon</link> must be used as both the input and output wire to avoid overloading."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.NAME
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.NAME"
+msgid "<link=\"DENSELOGICTEAMSIGNALREMAPPER\">Ribbon Rearranger</link>"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_ACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_ACTIVE"
+msgid "Reads <b><style=\"logic_on\">Green</style></b> signals from <link=\"LOGICRIBBON\">Automation Ribbon</link>s."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_INACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_INACTIVE"
+msgid "Reads <b><style=\"logic_off\">Red</style></b> signals from <link=\"LOGICRIBBON\">Automation Ribbon</link>s."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_ACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_ACTIVE"
+msgid "Writes <b><style=\"logic_on\">Green</style></b> signals to each bit of the output <link=\"LOGICRIBBON\">Automation Ribbon</link> when the configured input <link=\"LOGICRIBBON\">Automation Ribbon</link> bit is sending <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_INACTIVE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_INACTIVE"
+msgid "Writes <b><style=\"logic_off\">Red</style></b> signals to each bit of the output <link=\"LOGICRIBBON\">Automation Ribbon</link> when the configured input <link=\"LOGICRIBBON\">Automation Ribbon</link> bit is sending <b><style=\"logic_off\">Red</style></b>."
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.FOURBITSELECT.DISABLE_ALL
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.FOURBITSELECT.DISABLE_ALL"
+msgid "Disables all bits"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.FOURBITSELECT.ENABLE_ALL
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.FOURBITSELECT.ENABLE_ALL"
+msgid "Enables all bits"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.INLINELOGIC.INPUT_ONE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.INLINELOGIC.INPUT_ONE"
+msgid "Select input bit to use for Logic Input 1"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.INLINELOGIC.INPUT_TWO
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.INLINELOGIC.INPUT_TWO"
+msgid "Select input bit to use for Logic Input 2"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.INLINELOGIC.OUTPUT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.INLINELOGIC.OUTPUT"
+msgid "Select bit to output logic result"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_1
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_1"
+msgid "Select input bit to use on Output Bit 1"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_2
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_2"
+msgid "Select input bit to use on Output Bit 2"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_3
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_3"
+msgid "Select input bit to use on Output Bit 3"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_4
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_4"
+msgid "Select input bit to use on Output Bit 4"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.CLEAR
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.CLEAR"
+msgid "Stop all bits from passing through"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.IDENTITY
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.IDENTITY"
+msgid "Sets all bits to pass through as normal"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.FOURBITSELECT.DISABLE_ALL
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.FOURBITSELECT.DISABLE_ALL"
+msgid "Clear"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.FOURBITSELECT.ENABLE_ALL
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.FOURBITSELECT.ENABLE_ALL"
+msgid "Set"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.FOURBITSELECT.TITLE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.FOURBITSELECT.TITLE"
+msgid "Set Provided Signal"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.GATESELECT.TITLE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.GATESELECT.TITLE"
+msgid "Select Logic Function"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.INPUT_ONE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.INPUT_ONE"
+msgid "Input 1"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.INPUT_TWO
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.INPUT_TWO"
+msgid "Input 2"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.INVALID_BITS
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.INVALID_BITS"
+msgid "Output bit must be different!"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.OUTPUT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.OUTPUT"
+msgid "Output"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.TITLE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.TITLE"
+msgid "Configure Inline Logic Gate"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_1
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_1"
+msgid "Bit 1"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_2
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_2"
+msgid "Bit 2"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_3
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_3"
+msgid "Bit 3"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_4
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_4"
+msgid "Bit 4"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_NONE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_NONE"
+msgid "None"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.CLEAR
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.CLEAR"
+msgid "Clear Mapping"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.IDENTITY
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.IDENTITY"
+msgid "Set Default"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.OUTPUT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.OUTPUT"
+msgid "Output {0}"
+msgstr ""
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.TITLE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.TITLE"
+msgid "Configure Signal Mapping"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.DESC"
+msgid "A 4-Bit multiplexer with <link=\"LOGICRIBBON\">Automation Ribbon</link> as output."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.EFFECT"
+msgid "Controls which bit of the output <link=\"LOGICRIBBON\">Automation Ribbon</link> the input is sent to using two control inputs."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEDEMULTIPLEXER\">Dense DeMultiplexer</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.DESC"
+msgid "Banhi told us she didn't like the old logic gates. Banhi is weird."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.EFFECT"
+msgid "Switches between different logic functions easily in the UI.\n\nPerforms logic on each bit in <link=\"LOGICRIBBON\">Automation Ribbon</link> based on the specified mode.\n\nAND:\nOutputs <b><style=\"logic_on\">Green</style></b> when both Input A <b>AND</b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n\nOR:\nOutputs <b><style=\"logic_on\">Green</style></b> when either Input A <b>OR</b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n\nXOR:\nOutputs <b><style=\"logic_on\">Green</style></b> when <b>EXACTLY ONE</b> of Input A and Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n\nOutputs <b><style=\"logic_off\">Red Signal</style></b>s if none of the above are true."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.INPUT_LOGIC_PORT_ONE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.INPUT_LOGIC_PORT_ONE"
+msgid "4-Bit Input A"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.INPUT_LOGIC_PORT_TWO
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.INPUT_LOGIC_PORT_TWO"
+msgid "4-Bit Input B"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEGATE\">Dense Multigate</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.OUTPUT_LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.OUTPUT_LOGIC_PORT"
+msgid "4-Bit Logic Output"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTIN_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTIN_ACTIVE"
+msgid "Reads <b><style=\"logic_on\">Green</style></b> signals from the <link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTIN_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTIN_INACTIVE"
+msgid "Reads <b><style=\"logic_off\">Red</style></b> signals from the <link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTOUT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTOUT_ACTIVE"
+msgid "Writes <b><style=\"logic_on\">Green</style></b> signals to the <link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTOUT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTOUT_INACTIVE"
+msgid "Writes <b><style=\"logic_off\">Red</style></b> signals to the <link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.DESC"
+msgid "A 4-Bit constant input with <link=\"LOGICRIBBON\">Automation Ribbon</link> as output."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.EFFECT"
+msgid "Sends a configurable 4-Bit signal on an <link=\"LOGIC\">Automation</link> grid.\n\n<link=\"LOGICRIBBON\">Automation Ribbon</link> must be used as the output wire to avoid overloading."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.LOGIC_PORT_OUTPUT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.LOGIC_PORT_OUTPUT"
+msgid "Multisignal Toggle"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEINPUT\">Signal Multiswitch</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.PORTOUT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.PORTOUT_ACTIVE"
+msgid "Writes <b><style=\"logic_on\">Green</style></b> signals to some bits of the <link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.PORTOUT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.PORTOUT_INACTIVE"
+msgid "Writes <b><style=\"logic_off\">Red</style></b> signals to some bits of the <link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.DESC"
+msgid "A 4-Bit multiplexer with <link=\"LOGICRIBBON\">Automation Ribbon</link> as input."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.EFFECT"
+msgid "Controls which bit of the input <link=\"LOGICRIBBON\">Automation Ribbon</link> is sent to the output using two control inputs."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEMULTIPLEXER\">Dense Multiplexer</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_LOGIC_PORT_ONE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_LOGIC_PORT_ONE"
+msgid "Control Input A"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_LOGIC_PORT_TWO
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_LOGIC_PORT_TWO"
+msgid "Control Input B"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: Selects which bit to pass through/onto."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: Selects which bit to pass through/onto."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_LOGIC_PORT"
+msgid "1-Bit Input"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_LOGIC_PORT_RIBBON
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_LOGIC_PORT_RIBBON"
+msgid "4-Bit Input"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: Passes a <b><style=\"logic_on\">Green Signal</style></b> to the selected bit of the output."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_ACTIVE_RIBBON
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_ACTIVE_RIBBON"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: Provides <b><style=\"logic_on\">Green</style></b> signals as selectable bits."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: Passes a <b><style=\"logic_off\">Red Signal</style></b> to the selected bit of the output."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_INACTIVE_RIBBON
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_INACTIVE_RIBBON"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: Provides <b><style=\"logic_off\">Red</style></b> signals as selectable bits."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_LOGIC_PORT"
+msgid "1-Bit Selection"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_LOGIC_PORT_RIBBON
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_LOGIC_PORT_RIBBON"
+msgid "4-Bit Selection"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: The bit is selected and is <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: The bit is not selected bit or is <b><style=\"logic_off\">Red</style></b>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.DESC"
+msgid "Just when we thought that Moore's law could go no further, Banhi found a way to make logic gates smaller than ever."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.EFFECT"
+msgid "Performs logic on the selected bits in <link=\"LOGICRIBBON\">Automation Ribbon</link> and outputs the result to another selected bit.\n\nAND:\nOutputs <b><style=\"logic_on\">Green</style></b> when both Input A <b>AND</b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n\nOR:\nOutputs <b><style=\"logic_on\">Green</style></b> when either Input A <b>OR</b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n\nXOR:\nOutputs <b><style=\"logic_on\">Green</style></b> when <b>EXACTLY ONE</b> of Input A and Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n\nOutputs <b><style=\"logic_off\">Red</style></b> if none of the above are true."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.LOGIC_PORT_IO
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.LOGIC_PORT_IO"
+msgid "Bit Reading and Writing"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.NAME"
+msgid "<link=\"DENSELOGICTEAMINLINEGATE\">Inline Logic Gate</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.PORT_ACTIVE"
+msgid "Reads and writes <b><style=\"logic_on\">Green</style></b> signals on <link=\"LOGICRIBBON\">Automation Ribbon</link> bits."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.PORT_INACTIVE"
+msgid "Reads and writes <b><style=\"logic_off\">Red</style></b> signals on <link=\"LOGICRIBBON\">Automation Ribbon</link> bits."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT"
+msgid "DATA PORT (D)"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: The internal Memory will be set to <b><style=\"logic_on\">Green</style></b> if the Set Port (S) receives a <b><style=\"logic_on\">Green Signal</style></b>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: The internal Memory will be set to <b><style=\"logic_off\">Red</style></b> if the Set Port (S) receives a <b><style=\"logic_on\">Green Signal</style></b>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DESC"
+msgid "A Memory stores an <link=\"LOGIC\">Automation</link> signal received in the Data Port (D) when the Set Port (S) receives a <b><style=\"logic_on\">Green Signal</style></b>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.EFFECT"
+msgid "Contains an internal Memory, and will output whatever signal is stored in that Memory. Signals sent to the Inputs <i>only</i> affect the Memory, and do not pass through to the Output.\n\nSending a <b><style=\"logic_on\">Green Signal</style></b> to the Set Port (S) will set the memory to the value of the Data Port (D)."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICDATA\">Data Latch</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT"
+msgid "SET PORT (S)"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: Set the internal Memory to the <link=\"LOGIC\">Automation</link> signal received in the Data Port (D)"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: The <link=\"LOGIC\">Automation</link> signal read from this Memory will not change"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.INPUT_LOGIC_PORT_ONE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.INPUT_LOGIC_PORT_ONE"
+msgid "Input A"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.INPUT_LOGIC_PORT_TWO
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.INPUT_LOGIC_PORT_TWO"
+msgid "Input B"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.OUTPUT_LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.OUTPUT_LOGIC_PORT"
+msgid "Logic Output"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTIN_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTIN_ACTIVE"
+msgid "Reads a <b><style=\"logic_on\">Green</style></b> signal from the <link=\"LOGIC\">Automation</link> wire."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTIN_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTIN_INACTIVE"
+msgid "Reads a <b><style=\"logic_off\">Red</style></b> signal from the <link=\"LOGIC\">Automation</link> wire."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTOUT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTOUT_ACTIVE"
+msgid "Writes a <b><style=\"logic_on\">Green</style></b> signal to the <link=\"LOGIC\">Automation</link> wire."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTOUT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTOUT_INACTIVE"
+msgid "Writes a <b><style=\"logic_off\">Red</style></b> signal to the <link=\"LOGIC\">Automation</link> wire."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.DESC"
+msgid "This gate outputs a <b><style=\"logic_off\">Red Signal</style></b> if receiving two <b><style=\"logic_on\">Green Signal</style></b>s."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.EFFECT"
+msgid "Outputs a <b><style=\"logic_off\">Red Signal</style></b> if both Input A <b>AND</b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n\nOutputs a <b><style=\"logic_on\">Green Signal</style></b> when even one Input is receiving <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICNOR\">NAND Gate</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.DESC"
+msgid "This gate outputs a <b><style=\"logic_off\">Red Signal</style></b> if receiving one or more <b><style=\"logic_on\">Green Signal</style></b>s."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.EFFECT"
+msgid "Outputs a <b><style=\"logic_off\">Red Signal</style></b> if at least one of Input A <b>OR</b> Input B is receiving a <b><style=\"logic_on\">Green</style></b>.\n\nOutputs a <b><style=\"logic_on\">Green Signal</style></b> when neither Input A or Input B are receiving <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICNOR\">NOR Gate</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.DESC"
+msgid "Giving the duplicants a way to show off their favorite numbers has never been easier."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.EFFECT"
+msgid "Displays the value of a <link=\"LOGICRIBBON\">Automation Ribbon</link> as a number 0 through 9."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.INPUT_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.INPUT_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: Displays a non-zero number."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.INPUT_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.INPUT_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: Displays zero."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.LOGIC_PORT"
+msgid "Numerical Input"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICSEVENSEGMENT\">Seven Segment Display</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_LOGIC_PORT"
+msgid "Overflow"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_PORT_ACTIVE"
+msgid "Outputs a <b><style=\"logic_on\">Green Signal</style></b> if the input is larger than 9."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_PORT_INACTIVE"
+msgid "Outputs a <b><style=\"logic_off\">Red Signal</style></b> if the input is less than or equal to 9."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.DESC"
+msgid "This gate outputs a <b><style=\"logic_off\">Red Signal</style></b> if exactly one of its Inputs is receiving a <b><style=\"logic_on\">Green Signal</style></b>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.EFFECT"
+msgid "Outputs a <b><style=\"logic_off\">Red Signal</style></b> if exactly one of its Inputs is receiving <b><style=\"logic_on\">Green</style></b>.\n\nOutputs a <b><style=\"logic_on\">Green Signal</style></b> if both or neither Inputs are receiving <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICNOR\">XNOR Gate</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.DESC"
+msgid "Repeats the signals on its <link=\"LOGICRIBBON\">Automation Ribbon</link> input to its <link=\"LOGICRIBBON\">Automation Ribbon</link> output in a different order."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.EFFECT"
+msgid "Rearranges the order of signals from one <link=\"LOGIC\">Automation</link> grid to another.\n\n<link=\"LOGICRIBBON\">Automation Ribbon</link> must be used as both the input and output wire to avoid overloading."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.NAME"
+msgid "<link=\"DENSELOGICTEAMSIGNALREMAPPER\">Ribbon Rearranger</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_ACTIVE"
+msgid "Reads <b><style=\"logic_on\">Green</style></b> signals from <link=\"LOGICRIBBON\">Automation Ribbon</link>s."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_INACTIVE"
+msgid "Reads <b><style=\"logic_off\">Red</style></b> signals from <link=\"LOGICRIBBON\">Automation Ribbon</link>s."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_ACTIVE"
+msgid "Writes <b><style=\"logic_on\">Green</style></b> signals to each bit of the output <link=\"LOGICRIBBON\">Automation Ribbon</link> when the configured input <link=\"LOGICRIBBON\">Automation Ribbon</link> bit is sending <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_INACTIVE"
+msgid "Writes <b><style=\"logic_off\">Red</style></b> signals to each bit of the output <link=\"LOGICRIBBON\">Automation Ribbon</link> when the configured input <link=\"LOGICRIBBON\">Automation Ribbon</link> bit is sending <b><style=\"logic_off\">Red</style></b>."
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.FOURBITSELECT.DISABLE_ALL
+msgctxt "STRINGS.UI.TOOLTIPS.FOURBITSELECT.DISABLE_ALL"
+msgid "Disables all bits"
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.FOURBITSELECT.ENABLE_ALL
+msgctxt "STRINGS.UI.TOOLTIPS.FOURBITSELECT.ENABLE_ALL"
+msgid "Enables all bits"
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.INLINELOGIC.INPUT_ONE
+msgctxt "STRINGS.UI.TOOLTIPS.INLINELOGIC.INPUT_ONE"
+msgid "Select input bit to use for Logic Input 1"
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.INLINELOGIC.INPUT_TWO
+msgctxt "STRINGS.UI.TOOLTIPS.INLINELOGIC.INPUT_TWO"
+msgid "Select input bit to use for Logic Input 2"
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.INLINELOGIC.OUTPUT
+msgctxt "STRINGS.UI.TOOLTIPS.INLINELOGIC.OUTPUT"
+msgid "Select bit to output logic result"
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_1
+msgctxt "STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_1"
+msgid "Select input bit to use on Output Bit 1"
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_2
+msgctxt "STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_2"
+msgid "Select input bit to use on Output Bit 2"
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_3
+msgctxt "STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_3"
+msgid "Select input bit to use on Output Bit 3"
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_4
+msgctxt "STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_4"
+msgid "Select input bit to use on Output Bit 4"
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.CLEAR
+msgctxt "STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.CLEAR"
+msgid "Stop all bits from passing through"
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.IDENTITY
+msgctxt "STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.IDENTITY"
+msgid "Sets all bits to pass through as normal"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.FOURBITSELECT.DISABLE_ALL
+msgctxt "STRINGS.UI.UISIDESCREENS.FOURBITSELECT.DISABLE_ALL"
+msgid "Clear"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.FOURBITSELECT.ENABLE_ALL
+msgctxt "STRINGS.UI.UISIDESCREENS.FOURBITSELECT.ENABLE_ALL"
+msgid "Set"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.FOURBITSELECT.TITLE
+msgctxt "STRINGS.UI.UISIDESCREENS.FOURBITSELECT.TITLE"
+msgid "Set Provided Signal"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.GATESELECT.TITLE
+msgctxt "STRINGS.UI.UISIDESCREENS.GATESELECT.TITLE"
+msgid "Select Logic Function"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.INLINELOGIC.INPUT_ONE
+msgctxt "STRINGS.UI.UISIDESCREENS.INLINELOGIC.INPUT_ONE"
+msgid "Input 1"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.INLINELOGIC.INPUT_TWO
+msgctxt "STRINGS.UI.UISIDESCREENS.INLINELOGIC.INPUT_TWO"
+msgid "Input 2"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.INLINELOGIC.INVALID_BITS
+msgctxt "STRINGS.UI.UISIDESCREENS.INLINELOGIC.INVALID_BITS"
+msgid "Output bit must be different!"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.INLINELOGIC.OUTPUT
+msgctxt "STRINGS.UI.UISIDESCREENS.INLINELOGIC.OUTPUT"
+msgid "Output"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.INLINELOGIC.TITLE
+msgctxt "STRINGS.UI.UISIDESCREENS.INLINELOGIC.TITLE"
+msgid "Configure Inline Logic Gate"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_1
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_1"
+msgid "Bit 1"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_2
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_2"
+msgid "Bit 2"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_3
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_3"
+msgid "Bit 3"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_4
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_4"
+msgid "Bit 4"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_NONE
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_NONE"
+msgid "None"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.CLEAR
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.CLEAR"
+msgid "Clear Mapping"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.IDENTITY
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.IDENTITY"
+msgid "Set Default"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.OUTPUT
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.OUTPUT"
+msgid "Output {0}"
+msgstr ""
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.TITLE
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.TITLE"
+msgid "Configure Signal Mapping"
+msgstr ""
+

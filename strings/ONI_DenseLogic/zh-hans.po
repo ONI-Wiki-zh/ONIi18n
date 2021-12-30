@@ -1,0 +1,1758 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.DESC
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_DENSEDEMULTIPLEXER.DESC"
+msgid ""
+"A 4-Bit multiplexer with <link=\"LOGICRIBBON\">Automation Ribbon</link> as "
+"output."
+msgstr "一个作为输出的 4 位多路复用器。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.EFFECT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_DENSEDEMULTIPLEXER.EFFECT"
+msgid ""
+"Controls which bit of the output <link=\"LOGICRIBBON\">Automation Ribbon</"
+"link> the input is sent to using two control inputs."
+msgstr "使用两个控制输入控制将输入发送到输出的哪一位。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.NAME
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_DENSEDEMULTIPLEXER.NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEDEMULTIPLEXER\">Dense DeMultiplexer</link>"
+msgstr "密集解复用器"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.DESC
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE."
+"DESC"
+msgid "Banhi told us she didn't like the old logic gates. Banhi is weird."
+msgstr "Banhi 告诉我们她不喜欢旧的逻辑门。班海很奇怪。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.EFFECT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE."
+"EFFECT"
+msgid ""
+"Switches between different logic functions easily in the UI.\n"
+"\n"
+"Performs logic on each bit in <link=\"LOGICRIBBON\">Automation Ribbon</link> "
+"based on the specified mode.\n"
+"\n"
+"AND:\n"
+"Outputs <b><style=\"logic_on\">Green</style></b> when both Input A <b>AND</"
+"b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"OR:\n"
+"Outputs <b><style=\"logic_on\">Green</style></b> when either Input A <b>OR</"
+"b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"XOR:\n"
+"Outputs <b><style=\"logic_on\">Green</style></b> when <b>EXACTLY ONE</b> of "
+"Input A and Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"Outputs <b><style=\"logic_off\">Red Signal</style></b>s if none of the above "
+"are true."
+msgstr ""
+"在 UI 中轻松切换不同的逻辑功能。\n"
+"根据指定的模式对信号线组中的每一位执行逻辑。\n"
+"AND:\n"
+"当AND输入 A 输入 B 都接收绿色 时，则输出绿色。\n"
+"OR:\n"
+"当OR输入 A 输入 B 接收绿色时，则输出绿色。\n"
+"XOR:\n"
+"当输入 A 和输入 B 中的一个正接收绿色时，输出绿色\n"
+"如果以上都不为真，则输出 红色信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.INPUT_LOGIC_PORT_ONE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE."
+"INPUT_LOGIC_PORT_ONE"
+msgid "4-Bit Input A"
+msgstr "4位输入A"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.INPUT_LOGIC_PORT_TWO
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE."
+"INPUT_LOGIC_PORT_TWO"
+msgid "4-Bit Input B"
+msgstr "4位输入B"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.NAME
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE."
+"NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEGATE\">Dense Multigate</link>"
+msgstr "密集多门"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.OUTPUT_LOGIC_PORT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE."
+"OUTPUT_LOGIC_PORT"
+msgid "4-Bit Logic Output"
+msgstr "4位逻辑输出"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTIN_ACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE."
+"PORTIN_ACTIVE"
+msgid ""
+"Reads <b><style=\"logic_on\">Green</style></b> signals from the <link="
+"\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr "从自动化功能区读取绿色信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTIN_INACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE."
+"PORTIN_INACTIVE"
+msgid ""
+"Reads <b><style=\"logic_off\">Red</style></b> signals from the <link="
+"\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr "从自动化功能区读取红色信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTOUT_ACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE."
+"PORTOUT_ACTIVE"
+msgid ""
+"Writes <b><style=\"logic_on\">Green</style></b> signals to the <link="
+"\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr "将绿色信号写入信号线组。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTOUT_INACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE."
+"PORTOUT_INACTIVE"
+msgid ""
+"Writes <b><style=\"logic_off\">Red</style></b> signals to the <link="
+"\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr "将红色信号写入信号线组。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.DESC
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT."
+"DESC"
+msgid ""
+"A 4-Bit constant input with <link=\"LOGICRIBBON\">Automation Ribbon</link> "
+"as output."
+msgstr "以信号线组作为输出的 4 位常量输入。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.EFFECT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT."
+"EFFECT"
+msgid ""
+"Sends a configurable 4-Bit signal on an <link=\"LOGIC\">Automation</link> "
+"grid.\n"
+"\n"
+"<link=\"LOGICRIBBON\">Automation Ribbon</link> must be used as the output "
+"wire to avoid overloading."
+msgstr ""
+"在信号线组发送可配置的 4 位信号。\n"
+"信号线组必须用作输出线以避免过载。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.LOGIC_PORT_OUTPUT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT."
+"LOGIC_PORT_OUTPUT"
+msgid "Multisignal Toggle"
+msgstr "多信号切换"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.NAME
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT."
+"NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEINPUT\">Signal Multiswitch</link>"
+msgstr "多信号开关"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.PORTOUT_ACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT."
+"PORTOUT_ACTIVE"
+msgid ""
+"Writes <b><style=\"logic_on\">Green</style></b> signals to some bits of the "
+"<link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr "将绿色信号写入信号线组的某位。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.PORTOUT_INACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT."
+"PORTOUT_INACTIVE"
+msgid ""
+"Writes <b><style=\"logic_off\">Red</style></b> signals to some bits of the "
+"<link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr "将红色信号写入信号线组的某些位。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.DESC
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_DENSEMULTIPLEXER.DESC"
+msgid ""
+"A 4-Bit multiplexer with <link=\"LOGICRIBBON\">Automation Ribbon</link> as "
+"input."
+msgstr "以信号线组作为输入的 4 位多路复用器。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.EFFECT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_DENSEMULTIPLEXER.EFFECT"
+msgid ""
+"Controls which bit of the input <link=\"LOGICRIBBON\">Automation Ribbon</"
+"link> is sent to the output using two control inputs."
+msgstr "使用两个控制输入控制将输入的哪一位发送到输出。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.NAME
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_DENSEMULTIPLEXER.NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEMULTIPLEXER\">Dense Multiplexer</link>"
+msgstr "密集多路复用器"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_LOGIC_PORT_ONE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_LOGIC_PORT_ONE"
+msgid "Control Input A"
+msgstr "控制输入​​ A"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_LOGIC_PORT_TWO
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_LOGIC_PORT_TWO"
+msgid "Control Input B"
+msgstr "控制输入​​ B"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_PORT_ACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_PORT_ACTIVE"
+msgid ""
+"<b><style=\"logic_on\">Green Signal</style></b>: Selects which bit to pass "
+"through/onto."
+msgstr "绿色信号：选择要通过/进入的位。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_PORT_INACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_PORT_INACTIVE"
+msgid ""
+"<b><style=\"logic_off\">Red Signal</style></b>: Selects which bit to pass "
+"through/onto."
+msgstr "红色信号：选择要输出/输入的位。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_LOGIC_PORT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_LOGIC_PORT"
+msgid "1-Bit Input"
+msgstr "1位输入"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_LOGIC_PORT_RIBBON
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_LOGIC_PORT_RIBBON"
+msgid "4-Bit Input"
+msgstr "4位输入"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_ACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_ACTIVE"
+msgid ""
+"<b><style=\"logic_on\">Green Signal</style></b>: Passes a <b><style="
+"\"logic_on\">Green Signal</style></b> to the selected bit of the output."
+msgstr "绿色信号：将绿色信号传送到输出的选定位。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_ACTIVE_RIBBON
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_ACTIVE_RIBBON"
+msgid ""
+"<b><style=\"logic_on\">Green Signal</style></b>: Provides <b><style="
+"\"logic_on\">Green</style></b> signals as selectable bits."
+msgstr "绿色信号：提供绿色信号作为可选位。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_INACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_INACTIVE"
+msgid ""
+"<b><style=\"logic_off\">Red Signal</style></b>: Passes a <b><style="
+"\"logic_off\">Red Signal</style></b> to the selected bit of the output."
+msgstr "红色信号：将红色信号传送到输出的选定位。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_INACTIVE_RIBBON
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_INACTIVE_RIBBON"
+msgid ""
+"<b><style=\"logic_off\">Red Signal</style></b>: Provides <b><style="
+"\"logic_off\">Red</style></b> signals as selectable bits."
+msgstr "红色信号：提供红色信号作为可选位。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_LOGIC_PORT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_LOGIC_PORT"
+msgid "1-Bit Selection"
+msgstr "1位选择"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_LOGIC_PORT_RIBBON
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_LOGIC_PORT_RIBBON"
+msgid "4-Bit Selection"
+msgstr "4位选择"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_PORT_ACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_PORT_ACTIVE"
+msgid ""
+"<b><style=\"logic_on\">Green Signal</style></b>: The bit is selected and is "
+"<b><style=\"logic_on\">Green</style></b>."
+msgstr "绿色信号：该位已选择且为绿色。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_PORT_INACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_PORT_INACTIVE"
+msgid ""
+"<b><style=\"logic_off\">Red Signal</style></b>: The bit is not selected bit "
+"or is <b><style=\"logic_off\">Red</style></b>."
+msgstr "红色信号：该位不是选定位或为红色。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.DESC
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE."
+"DESC"
+msgid ""
+"Just when we thought that Moore's law could go no further, Banhi found a way "
+"to make logic gates smaller than ever."
+msgstr ""
+"就在我们认为摩尔定律不能再进一步的时候，Banhi 找到了一种使逻辑门比以往任何时"
+"候都更小的方法。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.EFFECT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE."
+"EFFECT"
+msgid ""
+"Performs logic on the selected bits in <link=\"LOGICRIBBON\">Automation "
+"Ribbon</link> and outputs the result to another selected bit.\n"
+"\n"
+"AND:\n"
+"Outputs <b><style=\"logic_on\">Green</style></b> when both Input A <b>AND</"
+"b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"OR:\n"
+"Outputs <b><style=\"logic_on\">Green</style></b> when either Input A <b>OR</"
+"b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"XOR:\n"
+"Outputs <b><style=\"logic_on\">Green</style></b> when <b>EXACTLY ONE</b> of "
+"Input A and Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"Outputs <b><style=\"logic_off\">Red</style></b> if none of the above are "
+"true."
+msgstr ""
+"对信号线组中的选定位执行逻辑并将结果输出到另一个选定位\n"
+"AND:\n"
+"当AND 输入 A 输入 B 都接收绿色时，则输出绿色。\n"
+"OR:\n"
+"当OR 输入 A 输入 B 接收绿色时，则输出绿色。\n"
+"XOR:\n"
+"当输入 A 和输入 B 中的一个正接收绿色时，输出绿色。\n"
+"\n"
+"如果以上都不为正确，则输出 红色。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.LOGIC_PORT_IO
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE."
+"LOGIC_PORT_IO"
+msgid "Bit Reading and Writing"
+msgstr "位读写"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.NAME
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE."
+"NAME"
+msgid "<link=\"DENSELOGICTEAMINLINEGATE\">Inline Logic Gate</link>"
+msgstr "内联逻辑门"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.PORT_ACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE."
+"PORT_ACTIVE"
+msgid ""
+"Reads and writes <b><style=\"logic_on\">Green</style></b> signals on <link="
+"\"LOGICRIBBON\">Automation Ribbon</link> bits."
+msgstr "在信号线组位上读取和写入绿色信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.PORT_INACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE."
+"PORT_INACTIVE"
+msgid ""
+"Reads and writes <b><style=\"logic_off\">Red</style></b> signals on <link="
+"\"LOGICRIBBON\">Automation Ribbon</link> bits."
+msgstr "在信号线组位上读取和写入红色信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA."
+"DATA_PORT"
+msgid "DATA PORT (D)"
+msgstr "数据端口 (D)"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT_ACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA."
+"DATA_PORT_ACTIVE"
+msgid ""
+"<b><style=\"logic_on\">Green Signal</style></b>: The internal Memory will be "
+"set to <b><style=\"logic_on\">Green</style></b> if the Set Port (S) receives "
+"a <b><style=\"logic_on\">Green Signal</style></b>"
+msgstr "绿色信号：如果设置端口接收到绿色信号，内部存储器将设置为绿色"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT_INACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA."
+"DATA_PORT_INACTIVE"
+msgid ""
+"<b><style=\"logic_off\">Red Signal</style></b>: The internal Memory will be "
+"set to <b><style=\"logic_off\">Red</style></b> if the Set Port (S) receives "
+"a <b><style=\"logic_on\">Green Signal</style></b>"
+msgstr "红色信号：如果设置端口接收到绿色信号，内部存储器将设置为红色"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DESC
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA."
+"DESC"
+msgid ""
+"A Memory stores an <link=\"LOGIC\">Automation</link> signal received in the "
+"Data Port (D) when the Set Port (S) receives a <b><style=\"logic_on\">Green "
+"Signal</style></b>."
+msgstr ""
+"当设置端口 (S) 接收到绿色信号 时，存储器存储在数据端口 (D) 中接收到的信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.EFFECT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA."
+"EFFECT"
+msgid ""
+"Contains an internal Memory, and will output whatever signal is stored in "
+"that Memory. Signals sent to the Inputs <i>only</i> affect the Memory, and "
+"do not pass through to the Output.\n"
+"\n"
+"Sending a <b><style=\"logic_on\">Green Signal</style></b> to the Set Port "
+"(S) will set the memory to the value of the Data Port (D)."
+msgstr ""
+"包含一个内部存储器，并将输出存储在该存储器中的任何信号。发送到输入端的信号仅"
+"影响内存，不会传递到输出端。\n"
+"向设置端口 (S) 发送 绿色信号会将内存设置为数据端口 (D) 的值。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.NAME
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA."
+"NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICDATA\">Data Latch</link>"
+msgstr "数据锁存器"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA."
+"SET_PORT"
+msgid "SET PORT (S)"
+msgstr "设置端口 (S)"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT_ACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA."
+"SET_PORT_ACTIVE"
+msgid ""
+"<b><style=\"logic_on\">Green Signal</style></b>: Set the internal Memory to "
+"the <link=\"LOGIC\">Automation</link> signal received in the Data Port (D)"
+msgstr "绿色信号：将内部存储器设置为在数据端口（D）中接收到的自动化信号"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT_INACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA."
+"SET_PORT_INACTIVE"
+msgid ""
+"<b><style=\"logic_off\">Red Signal</style></b>: The <link=\"LOGIC"
+"\">Automation</link> signal read from this Memory will not change"
+msgstr "红色信号：从该存储器读取的自动化信号不会改变"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.INPUT_LOGIC_PORT_ONE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE."
+"INPUT_LOGIC_PORT_ONE"
+msgid "Input A"
+msgstr "输入 A"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.INPUT_LOGIC_PORT_TWO
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE."
+"INPUT_LOGIC_PORT_TWO"
+msgid "Input B"
+msgstr "输入 B"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.OUTPUT_LOGIC_PORT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE."
+"OUTPUT_LOGIC_PORT"
+msgid "Logic Output"
+msgstr "逻辑输出"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTIN_ACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE."
+"PORTIN_ACTIVE"
+msgid ""
+"Reads a <b><style=\"logic_on\">Green</style></b> signal from the <link="
+"\"LOGIC\">Automation</link> wire."
+msgstr "从自动化线读取绿色信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTIN_INACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE."
+"PORTIN_INACTIVE"
+msgid ""
+"Reads a <b><style=\"logic_off\">Red</style></b> signal from the <link=\"LOGIC"
+"\">Automation</link> wire."
+msgstr "从自动化线读取红色信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTOUT_ACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE."
+"PORTOUT_ACTIVE"
+msgid ""
+"Writes a <b><style=\"logic_on\">Green</style></b> signal to the <link=\"LOGIC"
+"\">Automation</link> wire."
+msgstr "将绿色信号写入自动化线。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTOUT_INACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE."
+"PORTOUT_INACTIVE"
+msgid ""
+"Writes a <b><style=\"logic_off\">Red</style></b> signal to the <link=\"LOGIC"
+"\">Automation</link> wire."
+msgstr "将红色信号写入自动化线。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.DESC
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND."
+"DESC"
+msgid ""
+"This gate outputs a <b><style=\"logic_off\">Red Signal</style></b> if "
+"receiving two <b><style=\"logic_on\">Green Signal</style></b>s."
+msgstr "如果接收到两个绿色信号，该门会输出一个红色信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.EFFECT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND."
+"EFFECT"
+msgid ""
+"Outputs a <b><style=\"logic_off\">Red Signal</style></b> if both Input A "
+"<b>AND</b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"Outputs a <b><style=\"logic_on\">Green Signal</style></b> when even one "
+"Input is receiving <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+"如果AND输入 A 输入 B 都接收绿色，则输出红色信号。\n"
+"\n"
+"即使一个输入接收到绿色，也输出绿色信号。。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.NAME
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND."
+"NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICNOR\">NAND Gate</link>"
+msgstr "与非门"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.DESC
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR."
+"DESC"
+msgid ""
+"This gate outputs a <b><style=\"logic_off\">Red Signal</style></b> if "
+"receiving one or more <b><style=\"logic_on\">Green Signal</style></b>s."
+msgstr "如果接收到一个或多个绿色信号，该门会输出一个红色信号 ."
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.EFFECT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR."
+"EFFECT"
+msgid ""
+"Outputs a <b><style=\"logic_off\">Red Signal</style></b> if at least one of "
+"Input A <b>OR</b> Input B is receiving a <b><style=\"logic_on\">Green</"
+"style></b>.\n"
+"\n"
+"Outputs a <b><style=\"logic_on\">Green Signal</style></b> when neither Input "
+"A or Input B are receiving <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+"如果OR 输入 A输入 B 中的至少一个收到绿色信号，则输出红色信号。\n"
+"当输入 A 或输入 B 均未接收到绿色信号时，则输出绿色信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.NAME
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR."
+"NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICNOR\">NOR Gate</link>"
+msgstr "或非门"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.DESC
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_LOGICSEVENSEGMENT.DESC"
+msgid ""
+"Giving the duplicants a way to show off their favorite numbers has never "
+"been easier."
+msgstr "让复制人炫耀他们最喜欢的数字从未如此简单。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.EFFECT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_LOGICSEVENSEGMENT.EFFECT"
+msgid ""
+"Displays the value of a <link=\"LOGICRIBBON\">Automation Ribbon</link> as a "
+"number 0 through 9."
+msgstr "将信号线组的值显示为 0 到 9 的数字。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.INPUT_PORT_ACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_LOGICSEVENSEGMENT.INPUT_PORT_ACTIVE"
+msgid ""
+"<b><style=\"logic_on\">Green Signal</style></b>: Displays a non-zero number."
+msgstr "绿色信号：显示非零数字。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.INPUT_PORT_INACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_LOGICSEVENSEGMENT.INPUT_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: Displays zero."
+msgstr "红色信号：显示零。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.LOGIC_PORT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_LOGICSEVENSEGMENT.LOGIC_PORT"
+msgid "Numerical Input"
+msgstr "数字输入"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.NAME
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_LOGICSEVENSEGMENT.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICSEVENSEGMENT\">Seven Segment Display</link>"
+msgstr "七段显示器"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_LOGIC_PORT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_LOGIC_PORT"
+msgid "Overflow"
+msgstr "溢出"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_PORT_ACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_PORT_ACTIVE"
+msgid ""
+"Outputs a <b><style=\"logic_on\">Green Signal</style></b> if the input is "
+"larger than 9."
+msgstr "如果输入大于 9，则输出 绿色信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_PORT_INACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_PORT_INACTIVE"
+msgid ""
+"Outputs a <b><style=\"logic_off\">Red Signal</style></b> if the input is "
+"less than or equal to 9."
+msgstr "如果输入小于或等于 9，则输出 红色信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.DESC
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR."
+"DESC"
+msgid ""
+"This gate outputs a <b><style=\"logic_off\">Red Signal</style></b> if "
+"exactly one of its Inputs is receiving a <b><style=\"logic_on\">Green "
+"Signal</style></b>."
+msgstr "如果正好有一个输入正在接收绿色信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.EFFECT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR."
+"EFFECT"
+msgid ""
+"Outputs a <b><style=\"logic_off\">Red Signal</style></b> if exactly one of "
+"its Inputs is receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"Outputs a <b><style=\"logic_on\">Green Signal</style></b> if both or neither "
+"Inputs are receiving <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+"如果它的输入之一正在接收绿色，则输出红色信号。\n"
+"\n"
+"如果两个输入或两个输入都没有接收到绿色，则输出绿色信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.NAME
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR."
+"NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICNOR\">XNOR Gate</link>"
+msgstr "同或门"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.DESC
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_SIGNALREMAPPER.DESC"
+msgid ""
+"Repeats the signals on its <link=\"LOGICRIBBON\">Automation Ribbon</link> "
+"input to its <link=\"LOGICRIBBON\">Automation Ribbon</link> output in a "
+"different order."
+msgstr "以不同的顺序将信号线组上输入的信号重复到其信号线组输出。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.EFFECT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_SIGNALREMAPPER.EFFECT"
+msgid ""
+"Rearranges the order of signals from one <link=\"LOGIC\">Automation</link> "
+"grid to another.\n"
+"\n"
+"<link=\"LOGICRIBBON\">Automation Ribbon</link> must be used as both the "
+"input and output wire to avoid overloading."
+msgstr ""
+"将信号的顺序从一个信号线组重新排列到另一个。\n"
+"信号线组必须同时用作输入和输出线，以避免过载。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.NAME
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_SIGNALREMAPPER.NAME"
+msgid "<link=\"DENSELOGICTEAMSIGNALREMAPPER\">Ribbon Rearranger</link>"
+msgstr "色带重排器"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_ACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_ACTIVE"
+msgid ""
+"Reads <b><style=\"logic_on\">Green</style></b> signals from <link="
+"\"LOGICRIBBON\">Automation Ribbon</link>s."
+msgstr "读取来自自动化功能区的绿色信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_INACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_INACTIVE"
+msgid ""
+"Reads <b><style=\"logic_off\">Red</style></b> signals from <link="
+"\"LOGICRIBBON\">Automation Ribbon</link>s."
+msgstr "从自动化功能区中读取红色信号。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_ACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_ACTIVE"
+msgid ""
+"Writes <b><style=\"logic_on\">Green</style></b> signals to each bit of the "
+"output <link=\"LOGICRIBBON\">Automation Ribbon</link> when the configured "
+"input <link=\"LOGICRIBBON\">Automation Ribbon</link> bit is sending "
+"<b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+"当配置的输入时，将绿色信号写入输出的信号线组的每一位 信号线组正在发送绿色。"
+
+#. ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_INACTIVE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS."
+"DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_INACTIVE"
+msgid ""
+"Writes <b><style=\"logic_off\">Red</style></b> signals to each bit of the "
+"output <link=\"LOGICRIBBON\">Automation Ribbon</link> when the configured "
+"input <link=\"LOGICRIBBON\">Automation Ribbon</link> bit is sending "
+"<b><style=\"logic_off\">Red</style></b>."
+msgstr ""
+"当配置的信号线组输入口发送红色时，则将红色信号写入输出口信号线组的每一位。"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.FOURBITSELECT.DISABLE_ALL
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.FOURBITSELECT.DISABLE_ALL"
+msgid "Disables all bits"
+msgstr "禁用所有位"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.FOURBITSELECT.ENABLE_ALL
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.FOURBITSELECT.ENABLE_ALL"
+msgid "Enables all bits"
+msgstr "启用所有位"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.INLINELOGIC.INPUT_ONE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.INLINELOGIC.INPUT_ONE"
+msgid "Select input bit to use for Logic Input 1"
+msgstr "选择用于逻辑输入 1 的输入位"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.INLINELOGIC.INPUT_TWO
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.INLINELOGIC.INPUT_TWO"
+msgid "Select input bit to use for Logic Input 2"
+msgstr "选择用于逻辑输入 2 的输入位"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.INLINELOGIC.OUTPUT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.INLINELOGIC.OUTPUT"
+msgid "Select bit to output logic result"
+msgstr "选择位输出逻辑结果"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_1
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_1"
+msgid "Select input bit to use on Output Bit 1"
+msgstr "选择要在输出位 1 上使用的输入位"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_2
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_2"
+msgid "Select input bit to use on Output Bit 2"
+msgstr "选择要在输出位 2 上使用的输入位"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_3
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_3"
+msgid "Select input bit to use on Output Bit 3"
+msgstr "选择要在输出位 3 上使用的输入位"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_4
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.BIT_4"
+msgid "Select input bit to use on Output Bit 4"
+msgstr "选择要在输出位 4 上使用的输入位"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.CLEAR
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.CLEAR"
+msgid "Stop all bits from passing through"
+msgstr "阻止所有位通过"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.IDENTITY
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.TOOLTIPS.SIGNALREMAPPER.IDENTITY"
+msgid "Sets all bits to pass through as normal"
+msgstr "将所有位设置为正常通过"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.FOURBITSELECT.DISABLE_ALL
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.FOURBITSELECT.DISABLE_ALL"
+msgid "Clear"
+msgstr "清除"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.FOURBITSELECT.ENABLE_ALL
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.FOURBITSELECT.ENABLE_ALL"
+msgid "Set"
+msgstr "放"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.FOURBITSELECT.TITLE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.FOURBITSELECT.TITLE"
+msgid "Set Provided Signal"
+msgstr "设置提供的信号"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.GATESELECT.TITLE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.GATESELECT.TITLE"
+msgid "Select Logic Function"
+msgstr "选择逻辑功能"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.INPUT_ONE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.INPUT_ONE"
+msgid "Input 1"
+msgstr "输入 1"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.INPUT_TWO
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.INPUT_TWO"
+msgid "Input 2"
+msgstr "输入 2"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.INVALID_BITS
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.INVALID_BITS"
+msgid "Output bit must be different!"
+msgstr "输出位必须不同！"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.OUTPUT
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.OUTPUT"
+msgid "Output"
+msgstr "输出"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.TITLE
+msgctxt "ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.INLINELOGIC.TITLE"
+msgid "Configure Inline Logic Gate"
+msgstr "配置内联逻辑门"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_1
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_1"
+msgid "Bit 1"
+msgstr "第1位"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_2
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_2"
+msgid "Bit 2"
+msgstr "第2位"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_3
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_3"
+msgid "Bit 3"
+msgstr "第3位"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_4
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_4"
+msgid "Bit 4"
+msgstr "第4位"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_NONE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_NONE"
+msgid "None"
+msgstr "未知"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.CLEAR
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.CLEAR"
+msgid "Clear Mapping"
+msgstr "清除映射"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.IDENTITY
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.IDENTITY"
+msgid "Set Default"
+msgstr "默认设置"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.OUTPUT
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.OUTPUT"
+msgid "Output {0}"
+msgstr "输出"
+
+#. ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.TITLE
+msgctxt ""
+"ONI_DenseLogic.DenseLogicStrings.UI.UISIDESCREENS.SIGNALREMAPPER.TITLE"
+msgid "Configure Signal Mapping"
+msgstr "配置信号映射"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.DESC"
+msgid ""
+"A 4-Bit multiplexer with <link=\"LOGICRIBBON\">Automation Ribbon</link> as "
+"output."
+msgstr "一个作为输出的 4 位多路复用器。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.EFFECT"
+msgid ""
+"Controls which bit of the output <link=\"LOGICRIBBON\">Automation Ribbon</"
+"link> the input is sent to using two control inputs."
+msgstr "使用两个控制输入控制将输入发送到输出的哪一位"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEDEMULTIPLEXER\">Dense DeMultiplexer</link>"
+msgstr "密集解复用器"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.DESC"
+msgid "Banhi told us she didn't like the old logic gates. Banhi is weird."
+msgstr "Banhi 告诉我们她不喜欢旧的逻辑门。班海很奇怪。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.EFFECT"
+msgid ""
+"Switches between different logic functions easily in the UI.\n"
+"\n"
+"Performs logic on each bit in <link=\"LOGICRIBBON\">Automation Ribbon</link> "
+"based on the specified mode.\n"
+"\n"
+"AND:\n"
+"Outputs <b><style=\"logic_on\">Green</style></b> when both Input A <b>AND</"
+"b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"OR:\n"
+"Outputs <b><style=\"logic_on\">Green</style></b> when either Input A <b>OR</"
+"b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"XOR:\n"
+"Outputs <b><style=\"logic_on\">Green</style></b> when <b>EXACTLY ONE</b> of "
+"Input A and Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"Outputs <b><style=\"logic_off\">Red Signal</style></b>s if none of the above "
+"are true."
+msgstr ""
+"在 UI 中轻松切换不同的逻辑功能。\n"
+"根据指定的模式对信号线组中的每一位执行逻辑。\n"
+"AND:\n"
+"当AND输入 A 输入 B 都接收绿色 时，则输出绿色。\n"
+"OR:\n"
+"当OR输入 A 输入 B 接收绿色时，则输出绿色。\n"
+"XOR:\n"
+"当输入 A 和输入 B 中的一个正接收绿色时，输出绿色\n"
+"如果以上都不为真，则输出 红色信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.INPUT_LOGIC_PORT_ONE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.INPUT_LOGIC_PORT_ONE"
+msgid "4-Bit Input A"
+msgstr "4位输入A"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.INPUT_LOGIC_PORT_TWO
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.INPUT_LOGIC_PORT_TWO"
+msgid "4-Bit Input B"
+msgstr "4位输入B"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEGATE\">Dense Multigate</link>"
+msgstr "密集多门"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.OUTPUT_LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.OUTPUT_LOGIC_PORT"
+msgid "4-Bit Logic Output"
+msgstr "4位逻辑输出"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTIN_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTIN_ACTIVE"
+msgid ""
+"Reads <b><style=\"logic_on\">Green</style></b> signals from the <link="
+"\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr "从自动化功能区读取绿色信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTIN_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTIN_INACTIVE"
+msgid ""
+"Reads <b><style=\"logic_off\">Red</style></b> signals from the <link="
+"\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr "从自动化功能区读取红色信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTOUT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTOUT_ACTIVE"
+msgid ""
+"Writes <b><style=\"logic_on\">Green</style></b> signals to the <link="
+"\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr "将绿色信号写入信号线组。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTOUT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEGATE.PORTOUT_INACTIVE"
+msgid ""
+"Writes <b><style=\"logic_off\">Red</style></b> signals to the <link="
+"\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr "将红色信号写入信号线组。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.DESC"
+msgid ""
+"A 4-Bit constant input with <link=\"LOGICRIBBON\">Automation Ribbon</link> "
+"as output."
+msgstr "以信号线组作为输出的 4 位常量输入。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.EFFECT"
+msgid ""
+"Sends a configurable 4-Bit signal on an <link=\"LOGIC\">Automation</link> "
+"grid.\n"
+"\n"
+"<link=\"LOGICRIBBON\">Automation Ribbon</link> must be used as the output "
+"wire to avoid overloading."
+msgstr ""
+"在信号线组发送可配置的 4 位信号。\n"
+"信号线组必须用作输出线以避免过载。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.LOGIC_PORT_OUTPUT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.LOGIC_PORT_OUTPUT"
+msgid "Multisignal Toggle"
+msgstr "多信号切换"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEINPUT\">Signal Multiswitch</link>"
+msgstr "多信号开关"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.PORTOUT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.PORTOUT_ACTIVE"
+msgid ""
+"Writes <b><style=\"logic_on\">Green</style></b> signals to some bits of the "
+"<link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr "将绿色信号写入信号线组的某位。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.PORTOUT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEINPUT.PORTOUT_INACTIVE"
+msgid ""
+"Writes <b><style=\"logic_off\">Red</style></b> signals to some bits of the "
+"<link=\"LOGICRIBBON\">Automation Ribbon</link>."
+msgstr "将红色信号写入信号线组的某些位。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.DESC"
+msgid ""
+"A 4-Bit multiplexer with <link=\"LOGICRIBBON\">Automation Ribbon</link> as "
+"input."
+msgstr "以信号线组作为输入的 4 位多路复用器。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.EFFECT"
+msgid ""
+"Controls which bit of the input <link=\"LOGICRIBBON\">Automation Ribbon</"
+"link> is sent to the output using two control inputs."
+msgstr "使用两个控制输入控制将输入的哪一位发送到输出。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEMULTIPLEXER.NAME"
+msgid "<link=\"DENSELOGICTEAMDENSEMULTIPLEXER\">Dense Multiplexer</link>"
+msgstr "密集多路复用器"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_LOGIC_PORT_ONE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER."
+"CONTROL_LOGIC_PORT_ONE"
+msgid "Control Input A"
+msgstr "控制输入​​ A"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_LOGIC_PORT_TWO
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER."
+"CONTROL_LOGIC_PORT_TWO"
+msgid "Control Input B"
+msgstr "控制输入​​ B"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_PORT_ACTIVE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER."
+"CONTROL_PORT_ACTIVE"
+msgid ""
+"<b><style=\"logic_on\">Green Signal</style></b>: Selects which bit to pass "
+"through/onto."
+msgstr "绿色信号：选择要通过/进入的位。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.CONTROL_PORT_INACTIVE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER."
+"CONTROL_PORT_INACTIVE"
+msgid ""
+"<b><style=\"logic_off\">Red Signal</style></b>: Selects which bit to pass "
+"through/onto."
+msgstr "红色信号：选择要输出/输入的位。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_LOGIC_PORT
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_LOGIC_PORT"
+msgid "1-Bit Input"
+msgstr "1位输入"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_LOGIC_PORT_RIBBON
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER."
+"INPUT_LOGIC_PORT_RIBBON"
+msgid "4-Bit Input"
+msgstr "4位输入"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_ACTIVE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_ACTIVE"
+msgid ""
+"<b><style=\"logic_on\">Green Signal</style></b>: Passes a <b><style="
+"\"logic_on\">Green Signal</style></b> to the selected bit of the output."
+msgstr "绿色信号：将绿色信号传送到输出的选定位。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_ACTIVE_RIBBON
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER."
+"INPUT_PORT_ACTIVE_RIBBON"
+msgid ""
+"<b><style=\"logic_on\">Green Signal</style></b>: Provides <b><style="
+"\"logic_on\">Green</style></b> signals as selectable bits."
+msgstr "绿色信号：提供绿色信号作为可选位。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_INACTIVE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER."
+"INPUT_PORT_INACTIVE"
+msgid ""
+"<b><style=\"logic_off\">Red Signal</style></b>: Passes a <b><style="
+"\"logic_off\">Red Signal</style></b> to the selected bit of the output."
+msgstr "红色信号：将红色信号传送到输出的选定位。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.INPUT_PORT_INACTIVE_RIBBON
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER."
+"INPUT_PORT_INACTIVE_RIBBON"
+msgid ""
+"<b><style=\"logic_off\">Red Signal</style></b>: Provides <b><style="
+"\"logic_off\">Red</style></b> signals as selectable bits."
+msgstr "红色信号：提供红色信号作为可选位。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_LOGIC_PORT
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_LOGIC_PORT"
+msgid "1-Bit Selection"
+msgstr "1位选择"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_LOGIC_PORT_RIBBON
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER."
+"OUTPUT_LOGIC_PORT_RIBBON"
+msgid "4-Bit Selection"
+msgstr "4位选择"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_PORT_ACTIVE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER."
+"OUTPUT_PORT_ACTIVE"
+msgid ""
+"<b><style=\"logic_on\">Green Signal</style></b>: The bit is selected and is "
+"<b><style=\"logic_on\">Green</style></b>."
+msgstr "绿色信号：该位已选择且为绿色。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER.OUTPUT_PORT_INACTIVE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_GENERALMULTIPLEXER."
+"OUTPUT_PORT_INACTIVE"
+msgid ""
+"<b><style=\"logic_off\">Red Signal</style></b>: The bit is not selected bit "
+"or is <b><style=\"logic_off\">Red</style></b>."
+msgstr "红色信号：该位不是选定位或为红色。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.DESC"
+msgid ""
+"Just when we thought that Moore's law could go no further, Banhi found a way "
+"to make logic gates smaller than ever."
+msgstr ""
+"就在我们认为摩尔定律不能再进一步的时候，Banhi 找到了一种使逻辑门比以往任何时"
+"候都更小的方法。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.EFFECT"
+msgid ""
+"Performs logic on the selected bits in <link=\"LOGICRIBBON\">Automation "
+"Ribbon</link> and outputs the result to another selected bit.\n"
+"\n"
+"AND:\n"
+"Outputs <b><style=\"logic_on\">Green</style></b> when both Input A <b>AND</"
+"b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"OR:\n"
+"Outputs <b><style=\"logic_on\">Green</style></b> when either Input A <b>OR</"
+"b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"XOR:\n"
+"Outputs <b><style=\"logic_on\">Green</style></b> when <b>EXACTLY ONE</b> of "
+"Input A and Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"Outputs <b><style=\"logic_off\">Red</style></b> if none of the above are "
+"true."
+msgstr ""
+"对信号线组中的选定位执行逻辑并将结果输出到另一个选定位\n"
+"AND:\n"
+"当AND 输入 A 输入 B 都接收绿色时，则输出绿色。\n"
+"OR:\n"
+"当OR 输入 A 输入 B 接收绿色时，则输出绿色。\n"
+"XOR:\n"
+"当输入 A 和输入 B 中的一个正接收绿色时，输出绿色。\n"
+"\n"
+"如果以上都不为正确，则输出 红色。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.LOGIC_PORT_IO
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.LOGIC_PORT_IO"
+msgid "Bit Reading and Writing"
+msgstr "位读写"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.NAME"
+msgid "<link=\"DENSELOGICTEAMINLINEGATE\">Inline Logic Gate</link>"
+msgstr "内联逻辑门"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.PORT_ACTIVE"
+msgid ""
+"Reads and writes <b><style=\"logic_on\">Green</style></b> signals on <link="
+"\"LOGICRIBBON\">Automation Ribbon</link> bits."
+msgstr "在信号线组位上读取和写入绿色信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_INLINEGATE.PORT_INACTIVE"
+msgid ""
+"Reads and writes <b><style=\"logic_off\">Red</style></b> signals on <link="
+"\"LOGICRIBBON\">Automation Ribbon</link> bits."
+msgstr "在信号线组位上读取和写入红色信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT"
+msgid "DATA PORT (D)"
+msgstr "数据端口 (D)"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT_ACTIVE"
+msgid ""
+"<b><style=\"logic_on\">Green Signal</style></b>: The internal Memory will be "
+"set to <b><style=\"logic_on\">Green</style></b> if the Set Port (S) receives "
+"a <b><style=\"logic_on\">Green Signal</style></b>"
+msgstr "绿色信号：如果设置端口接收到绿色信号，内部存储器将设置为绿色"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DATA_PORT_INACTIVE"
+msgid ""
+"<b><style=\"logic_off\">Red Signal</style></b>: The internal Memory will be "
+"set to <b><style=\"logic_off\">Red</style></b> if the Set Port (S) receives "
+"a <b><style=\"logic_on\">Green Signal</style></b>"
+msgstr "红色信号：如果设置端口接收到绿色信号，内部存储器将设置为红色"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.DESC"
+msgid ""
+"A Memory stores an <link=\"LOGIC\">Automation</link> signal received in the "
+"Data Port (D) when the Set Port (S) receives a <b><style=\"logic_on\">Green "
+"Signal</style></b>."
+msgstr ""
+"当设置端口 (S) 接收到绿色信号 时，存储器存储在数据端口 (D) 中接收到的信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.EFFECT"
+msgid ""
+"Contains an internal Memory, and will output whatever signal is stored in "
+"that Memory. Signals sent to the Inputs <i>only</i> affect the Memory, and "
+"do not pass through to the Output.\n"
+"\n"
+"Sending a <b><style=\"logic_on\">Green Signal</style></b> to the Set Port "
+"(S) will set the memory to the value of the Data Port (D)."
+msgstr ""
+"包含一个内部存储器，并将输出存储在该存储器中的任何信号。发送到输入端的信号仅"
+"影响内存，不会传递到输出端。\n"
+"向设置端口 (S) 发送 绿色信号会将内存设置为数据端口 (D) 的值。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICDATA\">Data Latch</link>"
+msgstr "数据锁存器"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT"
+msgid "SET PORT (S)"
+msgstr "设置端口 (S)"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT_ACTIVE"
+msgid ""
+"<b><style=\"logic_on\">Green Signal</style></b>: Set the internal Memory to "
+"the <link=\"LOGIC\">Automation</link> signal received in the Data Port (D)"
+msgstr "绿色信号：将内部存储器设置为在数据端口（D）中接收到的自动化信号"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICDATA.SET_PORT_INACTIVE"
+msgid ""
+"<b><style=\"logic_off\">Red Signal</style></b>: The <link=\"LOGIC"
+"\">Automation</link> signal read from this Memory will not change"
+msgstr "红色信号：从该存储器读取的自动化信号不会改变"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.INPUT_LOGIC_PORT_ONE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.INPUT_LOGIC_PORT_ONE"
+msgid "Input A"
+msgstr "输入 A"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.INPUT_LOGIC_PORT_TWO
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.INPUT_LOGIC_PORT_TWO"
+msgid "Input B"
+msgstr "输入 B"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.OUTPUT_LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.OUTPUT_LOGIC_PORT"
+msgid "Logic Output"
+msgstr "逻辑输出"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTIN_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTIN_ACTIVE"
+msgid ""
+"Reads a <b><style=\"logic_on\">Green</style></b> signal from the <link="
+"\"LOGIC\">Automation</link> wire."
+msgstr "从自动化线读取绿色信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTIN_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTIN_INACTIVE"
+msgid ""
+"Reads a <b><style=\"logic_off\">Red</style></b> signal from the <link=\"LOGIC"
+"\">Automation</link> wire."
+msgstr "从自动化线读取红色信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTOUT_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTOUT_ACTIVE"
+msgid ""
+"Writes a <b><style=\"logic_on\">Green</style></b> signal to the <link=\"LOGIC"
+"\">Automation</link> wire."
+msgstr "将绿色信号写入自动化线。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTOUT_INACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICGATE.PORTOUT_INACTIVE"
+msgid ""
+"Writes a <b><style=\"logic_off\">Red</style></b> signal to the <link=\"LOGIC"
+"\">Automation</link> wire."
+msgstr "将红色信号写入自动化线。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.DESC"
+msgid ""
+"This gate outputs a <b><style=\"logic_off\">Red Signal</style></b> if "
+"receiving two <b><style=\"logic_on\">Green Signal</style></b>s."
+msgstr "如果接收到两个绿色信号，该门会输出一个红色信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.EFFECT"
+msgid ""
+"Outputs a <b><style=\"logic_off\">Red Signal</style></b> if both Input A "
+"<b>AND</b> Input B are receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"Outputs a <b><style=\"logic_on\">Green Signal</style></b> when even one "
+"Input is receiving <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+"如果AND输入 A 输入 B 都接收绿色，则输出红色信号。\n"
+"\n"
+"即使一个输入接收到绿色，也输出绿色信号。。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNAND.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICNOR\">NAND Gate</link>"
+msgstr "与非门"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.DESC"
+msgid ""
+"This gate outputs a <b><style=\"logic_off\">Red Signal</style></b> if "
+"receiving one or more <b><style=\"logic_on\">Green Signal</style></b>s."
+msgstr "如果接收到一个或多个绿色信号，该门会输出一个红色信号 ."
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.EFFECT"
+msgid ""
+"Outputs a <b><style=\"logic_off\">Red Signal</style></b> if at least one of "
+"Input A <b>OR</b> Input B is receiving a <b><style=\"logic_on\">Green</"
+"style></b>.\n"
+"\n"
+"Outputs a <b><style=\"logic_on\">Green Signal</style></b> when neither Input "
+"A or Input B are receiving <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+"如果OR 输入 A输入 B 中的至少一个收到绿色信号，则输出红色信号。\n"
+"当输入 A 或输入 B 均未接收到绿色信号时，则输出绿色信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICNOR.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICNOR\">NOR Gate</link>"
+msgstr "或非门"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.DESC"
+msgid ""
+"Giving the duplicants a way to show off their favorite numbers has never "
+"been easier."
+msgstr "让复制人炫耀他们最喜欢的数字从未如此简单。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.EFFECT"
+msgid ""
+"Displays the value of a <link=\"LOGICRIBBON\">Automation Ribbon</link> as a "
+"number 0 through 9."
+msgstr "将信号线组的值显示为 0 到 9 的数字。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.INPUT_PORT_ACTIVE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.INPUT_PORT_ACTIVE"
+msgid ""
+"<b><style=\"logic_on\">Green Signal</style></b>: Displays a non-zero number."
+msgstr "绿色信号：显示非零数字。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.INPUT_PORT_INACTIVE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT."
+"INPUT_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: Displays zero."
+msgstr "红色信号：显示零。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.LOGIC_PORT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.LOGIC_PORT"
+msgid "Numerical Input"
+msgstr "数字输入"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICSEVENSEGMENT\">Seven Segment Display</link>"
+msgstr "七段显示器"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_LOGIC_PORT
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_LOGIC_PORT"
+msgid "Overflow"
+msgstr "溢出"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_PORT_ACTIVE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_PORT_ACTIVE"
+msgid ""
+"Outputs a <b><style=\"logic_on\">Green Signal</style></b> if the input is "
+"larger than 9."
+msgstr "如果输入大于 9，则输出 绿色信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT.OUTPUT_PORT_INACTIVE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICSEVENSEGMENT."
+"OUTPUT_PORT_INACTIVE"
+msgid ""
+"Outputs a <b><style=\"logic_off\">Red Signal</style></b> if the input is "
+"less than or equal to 9."
+msgstr "如果输入小于或等于 9，则输出 红色信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.DESC"
+msgid ""
+"This gate outputs a <b><style=\"logic_off\">Red Signal</style></b> if "
+"exactly one of its Inputs is receiving a <b><style=\"logic_on\">Green "
+"Signal</style></b>."
+msgstr "如果正好有一个输入正在接收绿色信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.EFFECT"
+msgid ""
+"Outputs a <b><style=\"logic_off\">Red Signal</style></b> if exactly one of "
+"its Inputs is receiving <b><style=\"logic_on\">Green</style></b>.\n"
+"\n"
+"Outputs a <b><style=\"logic_on\">Green Signal</style></b> if both or neither "
+"Inputs are receiving <b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+"如果它的输入之一正在接收绿色，则输出红色信号。\n"
+"\n"
+"如果两个输入或两个输入都没有接收到绿色，则输出绿色信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_LOGICXNOR.NAME"
+msgid "<link=\"DENSELOGICTEAMLOGICNOR\">XNOR Gate</link>"
+msgstr "同或门"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.DESC"
+msgid ""
+"Repeats the signals on its <link=\"LOGICRIBBON\">Automation Ribbon</link> "
+"input to its <link=\"LOGICRIBBON\">Automation Ribbon</link> output in a "
+"different order."
+msgstr "以不同的顺序将信号线组上输入的信号重复到其信号线组输出。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.EFFECT"
+msgid ""
+"Rearranges the order of signals from one <link=\"LOGIC\">Automation</link> "
+"grid to another.\n"
+"\n"
+"<link=\"LOGICRIBBON\">Automation Ribbon</link> must be used as both the "
+"input and output wire to avoid overloading."
+msgstr ""
+"将信号的顺序从一个信号线组重新排列到另一个。\n"
+"信号线组必须同时用作输入和输出线，以避免过载。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.NAME"
+msgid "<link=\"DENSELOGICTEAMSIGNALREMAPPER\">Ribbon Rearranger</link>"
+msgstr "色带重排器"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_ACTIVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_ACTIVE"
+msgid ""
+"Reads <b><style=\"logic_on\">Green</style></b> signals from <link="
+"\"LOGICRIBBON\">Automation Ribbon</link>s."
+msgstr "读取来自自动化功能区的绿色信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_INACTIVE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTIN_INACTIVE"
+msgid ""
+"Reads <b><style=\"logic_off\">Red</style></b> signals from <link="
+"\"LOGICRIBBON\">Automation Ribbon</link>s."
+msgstr "从自动化功能区中读取红色信号。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_ACTIVE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_ACTIVE"
+msgid ""
+"Writes <b><style=\"logic_on\">Green</style></b> signals to each bit of the "
+"output <link=\"LOGICRIBBON\">Automation Ribbon</link> when the configured "
+"input <link=\"LOGICRIBBON\">Automation Ribbon</link> bit is sending "
+"<b><style=\"logic_on\">Green</style></b>."
+msgstr ""
+"当配置的输入时，将绿色信号写入输出的信号线组的每一位 信号线组正在发送绿色。"
+
+#. STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_INACTIVE
+msgctxt ""
+"STRINGS.BUILDINGS.PREFABS.DENSELOGICTEAM_SIGNALREMAPPER.PORTOUT_INACTIVE"
+msgid ""
+"Writes <b><style=\"logic_off\">Red</style></b> signals to each bit of the "
+"output <link=\"LOGICRIBBON\">Automation Ribbon</link> when the configured "
+"input <link=\"LOGICRIBBON\">Automation Ribbon</link> bit is sending "
+"<b><style=\"logic_off\">Red</style></b>."
+msgstr ""
+"当配置的信号线组输入口发送红色时，则将红色信号写入输出口信号线组的每一位。"
+
+#. STRINGS.UI.TOOLTIPS.FOURBITSELECT.DISABLE_ALL
+msgctxt "STRINGS.UI.TOOLTIPS.FOURBITSELECT.DISABLE_ALL"
+msgid "Disables all bits"
+msgstr "禁用所有位"
+
+#. STRINGS.UI.TOOLTIPS.FOURBITSELECT.ENABLE_ALL
+msgctxt "STRINGS.UI.TOOLTIPS.FOURBITSELECT.ENABLE_ALL"
+msgid "Enables all bits"
+msgstr "启用所有位"
+
+#. STRINGS.UI.TOOLTIPS.INLINELOGIC.INPUT_ONE
+msgctxt "STRINGS.UI.TOOLTIPS.INLINELOGIC.INPUT_ONE"
+msgid "Select input bit to use for Logic Input 1"
+msgstr "选择用于逻辑输入 1 的输入位"
+
+#. STRINGS.UI.TOOLTIPS.INLINELOGIC.INPUT_TWO
+msgctxt "STRINGS.UI.TOOLTIPS.INLINELOGIC.INPUT_TWO"
+msgid "Select input bit to use for Logic Input 2"
+msgstr "选择用于逻辑输入 2 的输入位"
+
+#. STRINGS.UI.TOOLTIPS.INLINELOGIC.OUTPUT
+msgctxt "STRINGS.UI.TOOLTIPS.INLINELOGIC.OUTPUT"
+msgid "Select bit to output logic result"
+msgstr "选择位输出逻辑结果"
+
+#. STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_1
+msgctxt "STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_1"
+msgid "Select input bit to use on Output Bit 1"
+msgstr "选择要在输出位 1 上使用的输入位"
+
+#. STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_2
+msgctxt "STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_2"
+msgid "Select input bit to use on Output Bit 2"
+msgstr "选择要在输出位 2 上使用的输入位"
+
+#. STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_3
+msgctxt "STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_3"
+msgid "Select input bit to use on Output Bit 3"
+msgstr "选择要在输出位 3 上使用的输入位"
+
+#. STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_4
+msgctxt "STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.BIT_4"
+msgid "Select input bit to use on Output Bit 4"
+msgstr "选择要在输出位 4 上使用的输入位"
+
+#. STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.CLEAR
+msgctxt "STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.CLEAR"
+msgid "Stop all bits from passing through"
+msgstr "阻止所有位通过"
+
+#. STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.IDENTITY
+msgctxt "STRINGS.UI.TOOLTIPS.SIGNALREMAPPER.IDENTITY"
+msgid "Sets all bits to pass through as normal"
+msgstr "将所有位设置为正常通过"
+
+#. STRINGS.UI.UISIDESCREENS.FOURBITSELECT.DISABLE_ALL
+msgctxt "STRINGS.UI.UISIDESCREENS.FOURBITSELECT.DISABLE_ALL"
+msgid "Clear"
+msgstr "清除"
+
+#. STRINGS.UI.UISIDESCREENS.FOURBITSELECT.ENABLE_ALL
+msgctxt "STRINGS.UI.UISIDESCREENS.FOURBITSELECT.ENABLE_ALL"
+msgid "Set"
+msgstr "放"
+
+#. STRINGS.UI.UISIDESCREENS.FOURBITSELECT.TITLE
+msgctxt "STRINGS.UI.UISIDESCREENS.FOURBITSELECT.TITLE"
+msgid "Set Provided Signal"
+msgstr "设置提供的信号"
+
+#. STRINGS.UI.UISIDESCREENS.GATESELECT.TITLE
+msgctxt "STRINGS.UI.UISIDESCREENS.GATESELECT.TITLE"
+msgid "Select Logic Function"
+msgstr "选择逻辑功能"
+
+#. STRINGS.UI.UISIDESCREENS.INLINELOGIC.INPUT_ONE
+msgctxt "STRINGS.UI.UISIDESCREENS.INLINELOGIC.INPUT_ONE"
+msgid "Input 1"
+msgstr "输入 1"
+
+#. STRINGS.UI.UISIDESCREENS.INLINELOGIC.INPUT_TWO
+msgctxt "STRINGS.UI.UISIDESCREENS.INLINELOGIC.INPUT_TWO"
+msgid "Input 2"
+msgstr "输入 2"
+
+#. STRINGS.UI.UISIDESCREENS.INLINELOGIC.INVALID_BITS
+msgctxt "STRINGS.UI.UISIDESCREENS.INLINELOGIC.INVALID_BITS"
+msgid "Output bit must be different!"
+msgstr "输出位必须不同！"
+
+#. STRINGS.UI.UISIDESCREENS.INLINELOGIC.OUTPUT
+msgctxt "STRINGS.UI.UISIDESCREENS.INLINELOGIC.OUTPUT"
+msgid "Output"
+msgstr "输出"
+
+#. STRINGS.UI.UISIDESCREENS.INLINELOGIC.TITLE
+msgctxt "STRINGS.UI.UISIDESCREENS.INLINELOGIC.TITLE"
+msgid "Configure Inline Logic Gate"
+msgstr "配置内联逻辑门"
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_1
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_1"
+msgid "Bit 1"
+msgstr "第1位"
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_2
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_2"
+msgid "Bit 2"
+msgstr "第2位"
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_3
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_3"
+msgid "Bit 3"
+msgstr "第3位"
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_4
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_4"
+msgid "Bit 4"
+msgstr "第4位"
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_NONE
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.BIT_NONE"
+msgid "None"
+msgstr "未知"
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.CLEAR
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.CLEAR"
+msgid "Clear Mapping"
+msgstr "清除映射"
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.IDENTITY
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.IDENTITY"
+msgid "Set Default"
+msgstr "默认设置"
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.OUTPUT
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.OUTPUT"
+msgid "Output {0}"
+msgstr "输出"
+
+#. STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.TITLE
+msgctxt "STRINGS.UI.UISIDESCREENS.SIGNALREMAPPER.TITLE"
+msgid "Configure Signal Mapping"
+msgstr "配置信号映射"
