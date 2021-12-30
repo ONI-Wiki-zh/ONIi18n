@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ventulus\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. STRINGS.BUILDINGS.PREFABS.NATURALTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.NATURALTILE.DESC"
+msgid "Fill that hole you dug out back in with any solid element."
+msgstr "用任何固体元素把你挖出的那个洞填回去。"
+
+#. STRINGS.BUILDINGS.PREFABS.NATURALTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.NATURALTILE.EFFECT"
+msgid "Fills a block in the world with <link=\"ELEMENTSSOLID\">Solids</link>."
+msgstr "用<link=\"ELEMENTSSOLID\">固体</link>填充世界中的一格砖块。"
+
+#. STRINGS.BUILDINGS.PREFABS.NATURALTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.NATURALTILE.NAME"
+msgid "<link=\"NATURALTILE\">Natural Tile</link>"
+msgstr "<link=\"NATURALTILE\">天然砖</link>"

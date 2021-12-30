@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.NATURALTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.NATURALTILE.DESC"
+msgid "Fill that hole you dug out back in with any solid element."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.NATURALTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.NATURALTILE.EFFECT"
+msgid "Fills a block in the world with <link=\"ELEMENTSSOLID\">Solids</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.NATURALTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.NATURALTILE.NAME"
+msgid "<link=\"NATURALTILE\">Natural Tile</link>"
+msgstr ""
+
