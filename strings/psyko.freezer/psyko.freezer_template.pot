@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.NAME
+msgctxt "Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.NAME"
+msgid "Cooling Contents: {UsedPower}"
+msgstr ""
+
+#. Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.TOOLTIP
+msgctxt "Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.TOOLTIP"
+msgid "{UsedPower} of {MaxPower} are being used to cool the contents of this food storage"
+msgstr ""
+
+#. Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.NAME
+msgctxt "Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.NAME"
+msgid "Energy Saver: {UsedPower}"
+msgstr ""
+
+#. Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.TOOLTIP
+msgctxt "Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGESTEADY.TOOLTIP"
+msgid "The contents of this food storage are at refrigeration temperatures\n\nEnergy Saver mode has been automatically activated using only {UsedPower} of {MaxPower}"
+msgstr ""
+
+#. Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.DESC
+msgctxt "Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.DESC"
+msgid "Food will be kept nice and very cold."
+msgstr ""
+
+#. Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.EFFECT
+msgctxt "Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.EFFECT"
+msgid "Stores <link=\"FOOD\">Food</link> at a very cold <link=\"HEAT\">Temperature</link> to stop spoilage."
+msgstr ""
+
+#. Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.LOGIC_PORT
+msgctxt "Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.LOGIC_PORT"
+msgid "Full/Not Full"
+msgstr ""
+
+#. Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.LOGIC_PORT_ACTIVE
+msgctxt "Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.LOGIC_PORT_ACTIVE"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when full"
+msgstr ""
+
+#. Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.LOGIC_PORT_INACTIVE
+msgctxt "Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.LOGIC_PORT_INACTIVE"
+msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
+msgstr ""
+
+#. Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.NAME
+msgctxt "Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.NAME"
+msgid "<link=\"FREEZER\">Freezer</link>"
+msgstr ""
+
