@@ -1,0 +1,427 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2021-12-27 22:48-0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#. STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.DESC"
+msgid "An advanced form of Kiln that uses induction to produce heat."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.EFFECT"
+msgid ""
+"The advantage of the induction kiln is a clean, energy-efficient and "
+"well-controllable heating process compared to most other means of fuel "
+"heating."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.NAME"
+msgid "Advanced Kiln"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.DESC"
+msgid "Separate Sludges into their base Elements."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.EFFECT"
+msgid ""
+"A specialized press that uses centrifugal force to separate sludges into "
+"their base elements."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.NAME"
+msgid "Centrifugal Press"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.DESC"
+msgid "Produces Dirt from Polluted Water and processed stone."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.EFFECT"
+msgid ""
+"Converts <link=\"DIRTYWATER\">Polluted Water</link> and "
+"<link=\"CRUSHEDROCK\">Crushed Rock</link> into "
+"<link=\"DIRT\">Dirt</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.NAME"
+msgid "Compost Processor"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.DESC"
+msgid ""
+"An advanced petrochemical refinery capable to perform delicate molecular "
+"reactions."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.EFFECT"
+msgid ""
+"This unit is capable to produce <link=\"SUPERCOOLANT\">Super "
+"Coolant</link> with <link=\"PETROLEUM\">Petroleum</link>, refined "
+"<link=\"GOLD\">Gold</link>, and <link=\"FULLERENE\">Fullerene</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.NAME"
+msgid "Super Coolant Refinery"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.DESC"
+msgid ""
+"A plasma arc furnace uses low-temperature plasma flow created by an "
+"electric arc heater (plasmatron)."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.EFFECT"
+msgid ""
+"Electrometallurgy provides better smelting process than the standard "
+"metallurgical processes."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.NAME"
+msgid "Plasma Furnace"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MINERALDRILL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDRILL.DESC"
+msgid "Drills in to Mineral Deposit for solid resources."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MINERALDRILL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDRILL.EFFECT"
+msgid ""
+"A strong well-maintened drilling apparatus capable to drill through "
+"Mineral Deposits. Need a constant supply of refined metals for the "
+"drilling operation. Materials used also affect the mineral resources the "
+"drill can grind."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MINERALDRILL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDRILL.NAME"
+msgid "Mineral Drill"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MINERALMILL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALMILL.DESC"
+msgid ""
+"A ball mill consists of a hollow cylindrical shell rotating about its "
+"axis. It is partially filled with metal balls."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MINERALMILL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALMILL.EFFECT"
+msgid ""
+"A ball mill is a type of grinder used to grind or blend materials for use"
+" in mineral dressing processes."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MINERALMILL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALMILL.NAME"
+msgid "Mineral Mill"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.DESC"
+msgid ""
+"A self controlled distillation plant that uses induction to produce "
+"Naphtha from Crude Oil. Has an extra special device that pumps out the "
+"Sour Gas generated."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.EFFECT"
+msgid ""
+"Distils <link=\"NAPHTHA \">Naphtha</link> and <link=\"SOURGAS\">Sour "
+"Gas</link> from <link=\"CRUDEOIL\">Crude Oil</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.NAME"
+msgid "Naphtha Distillery"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.DESC"
+msgid ""
+"A self controlled distillation plant that uses induction to produce "
+"Petrolleum from Crude Oil. Has an extra special device that pumps out the"
+" Natural Gas generated."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.EFFECT"
+msgid ""
+"Distils <link=\"PETROLEUM\">Petroleum</link> and "
+"<link=\"METHANE\">Natural Gas</link> from <link=\"CRUDEOIL\">Crude "
+"Oil</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.NAME"
+msgid "Petroleum Distillery"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.DESC"
+msgid ""
+"A basic kiln that uses pyrolysis process to convert woodlogs to usable "
+"coal."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.EFFECT"
+msgid ""
+"Decomposes <link=\"WOODLOG\">Woodlog</link> to "
+"<link=\"CARBON\">Coal</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.NAME"
+msgid "Pyrolysis Kiln"
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.MINERALDEPOSIT.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.MINERALDEPOSIT.DESC"
+msgid "A vast mineral deposit that spreads through other regions of the asteroid."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.MINERALDEPOSIT.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.MINERALDEPOSIT.NAME"
+msgid "<link=\"GEYSERGENERICMINERALDEPOSIT\">Mineral Deposit</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.ARGENTITEORE.DESC
+msgctxt "STRINGS.ELEMENTS.ARGENTITEORE.DESC"
+msgid ""
+"(Ag<sub>2</sub>S) Argentite is a cubic silver sulfide is a conductive "
+"metal, and the main source of refined <link=\"SOLIDSILVER\">Silver</link>"
+" metal."
+msgstr ""
+
+#. STRINGS.ELEMENTS.ARGENTITEORE.NAME
+msgctxt "STRINGS.ELEMENTS.ARGENTITEORE.NAME"
+msgid "<link=\"ARGENTITEORE\">Silver Ore</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.AURICHALCITEORE.DESC
+msgctxt "STRINGS.ELEMENTS.AURICHALCITEORE.DESC"
+msgid ""
+"((Zn,Cu)<sub>5</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)<sub>6</sub>) "
+"Aurichalcite is a carbonate mineral, and the main source of refined "
+"<link=\"SOLIDZINC\">Zinc</link> metal."
+msgstr ""
+
+#. STRINGS.ELEMENTS.AURICHALCITEORE.NAME
+msgctxt "STRINGS.ELEMENTS.AURICHALCITEORE.NAME"
+msgid "<link=\"AURICHALCITEORE\">Zinc Ore</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.HALONGAS.DESC
+msgctxt "STRINGS.ELEMENTS.HALONGAS.DESC"
+msgid ""
+"A halocarbon gas with an absolute freezing point used as a refrigerant. "
+"Becomes unstable at temperatures near the boiling point of water, "
+"degrading to other elements. Fluorine free!"
+msgstr ""
+
+#. STRINGS.ELEMENTS.HALONGAS.NAME
+msgctxt "STRINGS.ELEMENTS.HALONGAS.NAME"
+msgid "<link=\"HALONGAS\">Halon Gas</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.MOLTENSILVER.DESC
+msgctxt "STRINGS.ELEMENTS.MOLTENSILVER.DESC"
+msgid ""
+"(Ag) Silver is soft, white, lustrous transition metal, in its molten "
+"state."
+msgstr ""
+
+#. STRINGS.ELEMENTS.MOLTENSILVER.NAME
+msgctxt "STRINGS.ELEMENTS.MOLTENSILVER.NAME"
+msgid "<link=\"MOLTENSILVER\">Molten Silver</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.MOLTENTITANIUM.DESC
+msgctxt "STRINGS.ELEMENTS.MOLTENTITANIUM.DESC"
+msgid "(Ti) Titanium is a lustrous transition metal in its molten state."
+msgstr ""
+
+#. STRINGS.ELEMENTS.MOLTENTITANIUM.NAME
+msgctxt "STRINGS.ELEMENTS.MOLTENTITANIUM.NAME"
+msgid "<link=\"MOLTENTITANIUM\">Molten Titanium</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.MOLTENZINC.DESC
+msgctxt "STRINGS.ELEMENTS.MOLTENZINC.DESC"
+msgid ""
+"(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its molten "
+"state."
+msgstr ""
+
+#. STRINGS.ELEMENTS.MOLTENZINC.NAME
+msgctxt "STRINGS.ELEMENTS.MOLTENZINC.NAME"
+msgid "<link=\"MOLTENZINC\">Molten Zinc</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.SILVERGAS.DESC
+msgctxt "STRINGS.ELEMENTS.SILVERGAS.DESC"
+msgid ""
+"(Ag) Silver is soft, white, lustrous transition metal, in its gaseous "
+"state."
+msgstr ""
+
+#. STRINGS.ELEMENTS.SILVERGAS.NAME
+msgctxt "STRINGS.ELEMENTS.SILVERGAS.NAME"
+msgid "<link=\"SILVERGAS\">Silver Gas</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDBORAX.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDBORAX.DESC"
+msgid ""
+"Borax, also known as sodium borate, is an important boron compound, "
+"mainly used in the manufacture of "
+"<link=\"SOLIDFIBERGLASS\">Fiberglass</link>, and as a flux in metallurgy."
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDBORAX.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDBORAX.NAME"
+msgid "<link=\"SOLIDBORAX\">Borax</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDBRASS.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDBRASS.DESC"
+msgid ""
+"Brass is an alloy of <link=\"COPPER\">Copper</link> and "
+"<link=\"SOLIDZINC\">Zinc</link>, widely used to make utensils due to "
+"properties such as having a low melting point, high workability, "
+"durability, and electrical and thermal conductivity."
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDBRASS.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDBRASS.NAME"
+msgid "<link=\"SOLIDBRASS\">Brass</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDFIBERGLASS.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDFIBERGLASS.DESC"
+msgid ""
+"Fiberglass is a thermoset polymer matrix made by a poltrusion of "
+"boronsilicate <link=\"GLASS\">Glass</link> and "
+"<link=\"POLYPROPYLENE\">Plastic</link>. Although the fiber is weak in "
+"compression, this composite material has moderate insulating properties, "
+"and can be easily used in many different applications due to its relative"
+" flexibility."
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDFIBERGLASS.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDFIBERGLASS.NAME"
+msgid "<link=\"SOLIDFIBERGLASS\">Fiberglass</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDOILSHALE.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDOILSHALE.DESC"
+msgid ""
+"Oil shale is an organic-rich fine-grained sedimentary rock containing "
+"heavy crude oil, sulfur compounds and heavy metals."
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDOILSHALE.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDOILSHALE.NAME"
+msgid "<link=\"SOLIDOILSHALE\">Oil Shale</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDSILVER.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDSILVER.DESC"
+msgid ""
+"(Ag) Silver is soft, white, lustrous transition metal, that exhibits a "
+"high electrical and thermal conductivity."
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDSILVER.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDSILVER.NAME"
+msgid "<link=\"SOLIDSILVER\">Silver</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDTITANIUM.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDTITANIUM.DESC"
+msgid ""
+"(Ti) Titanium is a lustrous transition metal with a silver color, low "
+"density, and high strength."
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDTITANIUM.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDTITANIUM.NAME"
+msgid "<link=\"SOLIDTITANIUM\">Titanium</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDTUNGSTENCARBIDE.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDTUNGSTENCARBIDE.DESC"
+msgid ""
+"(WC) Tungsten Carbide is a chemical compound of "
+"<link=\"TUNGSTEN\">Tungsten</link> and <link=\"CARBON\">Carbon</link>. "
+"Almost twice as stiff as steel, and a bit less hard as diamond, this "
+"compound has many building and industrial uses, as well a an effective "
+"neutron reflector for nuclear applications."
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDTUNGSTENCARBIDE.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDTUNGSTENCARBIDE.NAME"
+msgid "<link=\"SOLIDTUNGSTENCARBIDE\">Tungsten Carbide</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDZINC.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDZINC.DESC"
+msgid ""
+"(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal, slightly "
+"brittle metal."
+msgstr ""
+
+#. STRINGS.ELEMENTS.SOLIDZINC.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDZINC.NAME"
+msgid "<link=\"SOLIDZINC\">Zinc</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.TITANIUMGAS.DESC
+msgctxt "STRINGS.ELEMENTS.TITANIUMGAS.DESC"
+msgid "(Ti) Titanium is a lustrous transition metal in its gaseous state."
+msgstr ""
+
+#. STRINGS.ELEMENTS.TITANIUMGAS.NAME
+msgctxt "STRINGS.ELEMENTS.TITANIUMGAS.NAME"
+msgid "<link=\"TITANIUMGAS\">Titanium</link>"
+msgstr ""
+
+#. STRINGS.ELEMENTS.ZINCGAS.DESC
+msgctxt "STRINGS.ELEMENTS.ZINCGAS.DESC"
+msgid ""
+"(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its gaseous "
+"state."
+msgstr ""
+
+#. STRINGS.ELEMENTS.ZINCGAS.NAME
+msgctxt "STRINGS.ELEMENTS.ZINCGAS.NAME"
+msgid "<link=\"ZINCGAS\">Zinc Gas</link>"
+msgstr ""
+
