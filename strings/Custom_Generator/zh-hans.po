@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.DESC"
+msgid "A small, custom Combustible Gas generator. This rather versatile generator has piped outputs."
+msgstr "一个使用可燃气体的小型客制化发电机，这个通用型发电机使用管道输出废物。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.EFFECT"
+msgid "Converts <link=\"METHANE\">Natural Gas</link> or <link=\"PROPANE\">Propane</link> into electrical <link=\"POWER\">Power</link>.\n\nProduces <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> and <link=\"DIRTYWATER\">Polluted Water</link>."
+msgstr "将<link=\"METHANE\">天然气</link>或<link=\"PROPANE\">乙烷</link>转化为<link=\"POWER\">电力</link>，排出<link=\"CARBONDIOXIDE\">二氧化碳</link>和<link=\"DIRTYWATER\">污染水</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.NAME"
+msgid "Custom Natural Gas Generator"
+msgstr "客制化天然气发电机"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.DESC"
+msgid "A small, custom Combustible Liquid generator. This rather versatile generator has piped outputs."
+msgstr "一个使用可燃液体的小型客制化发电机，这个通用型发电机使用管道输出废物。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.EFFECT"
+msgid "Converts either <link=\"PETROLEUM\">Petroleum</link>, <link=\"ETHANOL\">Ethanol</link> or <link=\"NAPHTHA\">Naphtha</link> into electrical <link=\"POWER\">Power</link>.\n\nProduces <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> and <link=\"DIRTYWATER\">Polluted Water</link>."
+msgstr "将<link=\"PETROLEUM\">石油</link>，<link=\"ETHANOL\">乙醇</link>或<link=\"NAPHTHA\">石脑油</link>转化为<link=\"POWER\">电力</link>，排出<link=\"CARBONDIOXIDE\">二氧化碳</link>和<link=\"DIRTYWATER\">污染水</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.NAME"
+msgid "Custom Petroleum Generator"
+msgstr "客制化石油发电机"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.DESC"
+msgid "A small reciprocating engine that uses Steam to perform mechanical work. Useful for converting the geothermal energy into usable power."
+msgstr "一种使用蒸汽工作的小型往复式发动机。可用于将地热能转换为电力。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.EFFECT"
+msgid "Draws in <link=\"STEAM\">Steam</link> from the tiles directly below the machine's foundation and uses it to generate electrical <link=\"POWER\">Power</link>.\n\nOutputs <link=\"WATER\">Water</link>."
+msgstr "直接抽取发电机基座下的<link=\"STEAM\">蒸汽</link>用来发<link=\"POWER\">电力</link>并通过管道输出<link=\"WATER\">水</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.NAME"
+msgid "Steam Engine Generator"
+msgstr "小型蒸汽发电机"
+
