@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ONIi18n v1.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-12-31 07:58+0000\n"
+"POT-Creation-Date: 2022-01-01 05:44+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2089,6 +2089,104 @@ msgstr "用<link=\"ELEMENTSSOLID\">固体</link>填充世界中的一格砖块�
 msgctxt "STRINGS.BUILDINGS.PREFABS.NATURALTILE.NAME"
 msgid "<link=\"NATURALTILE\">Natural Tile</link>"
 msgstr "<link=\"NATURALTILE\">天然砖</link>"
+
+msgctxt "Asphalt.STRINGS.BUILDINGS.PREFABS.ASPHALTTILE.DESC"
+msgid "Asphalt tiles feel great to run on."
+msgstr "沥青砖上跑步的感觉很好。"
+
+msgctxt "Asphalt.STRINGS.BUILDINGS.PREFABS.ASPHALTTILE.EFFECT"
+msgid ""
+"Used to build the walls and floors of rooms.\n"
+"\n"
+"Substantially increases Duplicant runspeed."
+msgstr ""
+"用来建造房间的墙壁和地板。\n"
+"\n"
+"大幅提高复制人的移动速度。"
+
+msgctxt "Asphalt.STRINGS.BUILDINGS.PREFABS.ASPHALTTILE.NAME"
+msgid "<link=\"ID\">Asphalt Tile</link>"
+msgstr "<link=\"ID\">沥青砖</link>"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.BUTTONS.CANCELBUTTON.TEXT"
+msgid "Cancel"
+msgstr "取消"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.BUTTONS.GITHUBBUTTON.TEXT"
+msgid "Github"
+msgstr "Github"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.BUTTONS.OK.TEXT"
+msgid "Apply"
+msgstr "应用"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.BUTTONS.STEAMBUTTON.TEXT"
+msgid "Steam Workshop"
+msgstr "Steam创意工坊"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.SLIDERPANEL.RANGES.TIER1_NOBONUS"
+msgid "No bonus"
+msgstr "T1无加成"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.SLIDERPANEL.RANGES.TIER10_RIDICULOUS"
+msgid "Ridiculous"
+msgstr "T10荒谬"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.SLIDERPANEL.RANGES.TIER11_LUDICROUS"
+msgid "Ludicrous"
+msgstr "T11可笑"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.SLIDERPANEL.RANGES.TIER2_SMALLBONUS"
+msgid "Small bonus"
+msgstr "T2小加成"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.SLIDERPANEL.RANGES.TIER3_REGULARTILE"
+msgid "Regular Tiles"
+msgstr "T3普通砖"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.SLIDERPANEL.RANGES.TIER4_SOMEBONUS"
+msgid "Some bonus"
+msgstr "T4有些加成"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.SLIDERPANEL.RANGES.TIER5_METALTILE"
+msgid "Metal tiles"
+msgstr "T5金属砖"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.SLIDERPANEL.RANGES.TIER6_FAST"
+msgid "Fast"
+msgstr "T6快速"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.SLIDERPANEL.RANGES.TIER7_DEFAULT"
+msgid "Default"
+msgstr "T7默认"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.SLIDERPANEL.RANGES.TIER8_GOFAST"
+msgid "GO FAST"
+msgstr "T8超快"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.SLIDERPANEL.RANGES.TIER9_LIGHTSPEED"
+msgid "Light Speed"
+msgstr "T9光速"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.SLIDERPANEL.SLIDER.LABEL"
+msgid "Speed: {number}x"
+msgstr "速度：{number}倍"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.SLIDERPANEL.SLIDER.RANGELABEL"
+msgid "{label}"
+msgstr "{label}"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.SLIDERPANEL.TITLETEXT"
+msgid "Run Speed Modifier"
+msgstr "移动速度修改"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.TITLE.TITLETEXT"
+msgid "Asphalt Settings"
+msgstr "沥青设定"
+
+msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.VERSIONLABEL"
+msgid "v{number}"
+msgstr "版本{number}"
 
 msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.DESC"
 msgid ""
