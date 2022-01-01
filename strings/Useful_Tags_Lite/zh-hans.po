@@ -51,7 +51,7 @@ msgstr "转角警示条"
 #. STRINGS.BUILDINGS.PREFABS.GASTAG.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASTAG.DESC"
 msgid "A wall informative tag for gases."
-msgstr "一个指示气体信息的壁标签挂。"
+msgstr "一个指示气体信息的墙上签挂。"
 
 #. STRINGS.BUILDINGS.PREFABS.GASTAG.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASTAG.EFFECT"
@@ -96,7 +96,7 @@ msgstr "字母标签"
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.DESC"
 msgid "A wall informative tag for liquids."
-msgstr "一个可以挂在墙上的液体标签。"
+msgstr "一个指示液体信息的墙上标签。"
 
 #. STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.EFFECT"
@@ -121,7 +121,7 @@ msgstr "这个标尺常用于计量水库中的液体。"
 #. STRINGS.BUILDINGS.PREFABS.METER_SCALE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.METER_SCALE.NAME"
 msgid "Meter Scale Tag"
-msgstr "垂直标尺(标签)"
+msgstr "标尺标签"
 
 #. STRINGS.BUILDINGS.PREFABS.NUMBERSTAG.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.NUMBERSTAG.DESC"
@@ -141,7 +141,7 @@ msgstr "数字标签"
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTAG.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTAG.DESC"
 msgid "A wall informative tag for solids."
-msgstr "一个可以挂在墙上的固体信息标签。"
+msgstr "一个指示固体信息的墙上标签。"
 
 #. STRINGS.BUILDINGS.PREFABS.SOLIDTAG.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTAG.EFFECT"
@@ -181,5 +181,5 @@ msgstr "这个标签直观地显示了不同种的设备标签。使用菜单选
 #. STRINGS.BUILDINGS.PREFABS.UTILITYTAG.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.UTILITYTAG.NAME"
 msgid "Utility Tag"
-msgstr "方向和设备标签"
+msgstr "设备标签"
 
