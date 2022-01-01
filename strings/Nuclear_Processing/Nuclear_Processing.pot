@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.HEPCALCINATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPCALCINATOR.DESC"
+msgid "Voloxidation process can separate uranium oxides from nuclear waste, along with other heavy elements. Produces waves of contaminating radiation while operational."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HEPCALCINATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPCALCINATOR.EFFECT"
+msgid "An advanced kiln capable of volumetric oxidation with heavy nuclear waste by alternating different stages of oxidation and reduction."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HEPCALCINATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPCALCINATOR.NAME"
+msgid "Voloxidation Calcinator"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HEPCENTRIFUGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPCENTRIFUGE.DESC"
+msgid "A gas centrifuge is a device that performs isotope separation of gases. A centrifuge relies on the principles of centripetal force accelerating molecules so that particles of different masses are physically separated in a gradient along the radius of a rotating container."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HEPCENTRIFUGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPCENTRIFUGE.EFFECT"
+msgid "The Zippe-type centrifuge is a gas device designed to enrich the rare fissile <link=\"ENRICHEDURANIUM\">Enriched Uranium</link> from the mixture of isotopes found in the manufactured <link=\"YELLOWCAKE\">Yellow Cake</link>. The separation process releases small amounts of<link=\"RADIUM\">Radium</link>as waste product."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HEPCENTRIFUGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPCENTRIFUGE.NAME"
+msgid "Zippe-Type Centrifuge"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HEPPROJECTOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPPROJECTOR.DESC"
+msgid "A radiactive source containing radionuclids which emits ionizing radiation."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HEPPROJECTOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPPROJECTOR.EFFECT"
+msgid "The projector makes uses of radionuclids stored within a Radfuel Pellet casing. As the fuel decays, it turns to liquid <link=\"NUCLEARWASTE\">Nuclear Waste</link>, which is piped out of the source."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HEPPROJECTOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEPPROJECTOR.NAME"
+msgid "Rad Projector"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIGHTREACTOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIGHTREACTOR.DESC"
+msgid "The advanced boiling water reactor (ABWR) uses non-pressurized coolant for steam production. Its comparative small size favors for a quicker heating of the coolant, however, it also increases the odds of a Meltdown in the absence of cooling.Releases Steam in the area directly bellow its central tile segment."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIGHTREACTOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIGHTREACTOR.EFFECT"
+msgid "Uses <link=\"ENRICHEDURANIUM\">Enriched Uranium</link> to produce <link=\"STEAM\">Steam</link> for electrical purpose.\n\nGenerates no direct radiation from its operations."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIGHTREACTOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIGHTREACTOR.NAME"
+msgid "ABWR Reactor"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.RADFUELASSEMBLER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.RADFUELASSEMBLER.DESC"
+msgid "A mechanical press used for pressing radionuclids in to a solid ceramic nuclear fuel."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.RADFUELASSEMBLER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.RADFUELASSEMBLER.EFFECT"
+msgid "The press is capable of pressing either <link=\"ENRICHEDURANIUM\">Enriched Uranium</link> or <link=\"RADIUM\">Radium</link>, to a ceramic like solid contained in a safe metal case."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.RADFUELASSEMBLER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.RADFUELASSEMBLER.NAME"
+msgid "Radfuel Assembler"
+msgstr ""
+
+#. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RADFUEL.DESC
+msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RADFUEL.DESC"
+msgid "A small steel pellet filled with radionucluids pressed down in to a dense ceramic like solid. Requires specialized equipment to be used."
+msgstr ""
+
+#. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RADFUEL.NAME
+msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RADFUEL.NAME"
+msgid "<link=\"RADFUEL\">Radfuel Pellet</link>"
+msgstr ""
+
