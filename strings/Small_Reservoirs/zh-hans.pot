@@ -6,150 +6,150 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLGASRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLGASRESERVOIR.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr ""
+msgstr "储气库无法由人力储存资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLGASRESERVOIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLGASRESERVOIR.EFFECT"
 msgid "A small sized reservoir that stores any Gas resources piped into it."
-msgstr ""
+msgstr "一个小型储气库，可以储存任何由管道输入的气体资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLGASRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLGASRESERVOIR.NAME"
 msgid "Small Gas Reservoir B"
-msgstr ""
+msgstr "小型储气库 B型"
 
 #. STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLLIQUIDRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLLIQUIDRESERVOIR.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr ""
+msgstr "储液库无法由人力储存资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLLIQUIDRESERVOIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLLIQUIDRESERVOIR.EFFECT"
 msgid "A small sized reservoir that stores any Liquid resources piped into it."
-msgstr ""
+msgstr "一个小型储液库，可以储存任何由管道输入的液体资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLLIQUIDRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLLIQUIDRESERVOIR.NAME"
 msgid "Small Liquid Reservoir B"
-msgstr ""
+msgstr "小型储液库 B型"
 
 #. STRINGS.BUILDINGS.PREFABS.MEDGASRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDGASRESERVOIR.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr ""
+msgstr "储气库无法由人力储存资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.MEDGASRESERVOIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDGASRESERVOIR.EFFECT"
 msgid "A medium sized reservoir that stores any Gas resources piped into it."
-msgstr ""
+msgstr "一个中型储气库，可以储存任何由管道输入的气体资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.MEDGASRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDGASRESERVOIR.NAME"
 msgid "Medium Gas Reservoir"
-msgstr ""
+msgstr "中型储气库"
 
 #. STRINGS.BUILDINGS.PREFABS.MEDLIQUIDRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDLIQUIDRESERVOIR.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr ""
+msgstr "储液库无法由人力储存资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.MEDLIQUIDRESERVOIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDLIQUIDRESERVOIR.EFFECT"
 msgid "A medium sized reservoir that stores any Liquid resources piped into it."
-msgstr ""
+msgstr "一个中型储液库，可以储存任何由管道输入的液体资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.MEDLIQUIDRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDLIQUIDRESERVOIR.NAME"
 msgid "Medium Liquid Reservoir"
-msgstr ""
+msgstr "中型储液库"
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLGASRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLGASRESERVOIR.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr ""
+msgstr "储气库无法由人力储存资源"
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLGASRESERVOIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLGASRESERVOIR.EFFECT"
 msgid "A small sized reservoir that stores any Gas resources piped into it."
-msgstr ""
+msgstr "一个小型储气库，可以储存任何由管道输入的气体资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLGASRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLGASRESERVOIR.NAME"
 msgid "Small Gas Reservoir A"
-msgstr ""
+msgstr "小型储气库 A型"
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLLIQUIDRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLLIQUIDRESERVOIR.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr ""
+msgstr "储液库无法由人力储存资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLLIQUIDRESERVOIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLLIQUIDRESERVOIR.EFFECT"
 msgid "A small sized reservoir that stores any Liquid resources piped into it."
-msgstr ""
+msgstr "一个小型储液库，可以储存任何由管道输入的液体资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.SMALLLIQUIDRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLLIQUIDRESERVOIR.NAME"
 msgid "Small Liquid Reservoir A"
-msgstr ""
+msgstr "小型储气库 A型"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIR.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr ""
+msgstr "储气库无法由人力储存资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIR.EFFECT"
 msgid "A small sized reservoir that stores any Gas resources piped into it. Can be placed on walls."
-msgstr ""
+msgstr "一个可被置于墙上的小型储气库，可以储存任何由管道输入的气体资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIR.NAME"
 msgid "Wall Gas Reservoir A"
-msgstr ""
+msgstr "小型壁挂储气库 A型"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIRINVERTED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIRINVERTED.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr ""
+msgstr "储气库无法由人力储存资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIRINVERTED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIRINVERTED.EFFECT"
 msgid "A small sized reservoir that stores any Gas resources piped into it. Can be placed on walls."
-msgstr ""
+msgstr "一个可被置于墙上的小型储气库，可以储存任何由管道输入的气体资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIRINVERTED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIRINVERTED.NAME"
 msgid "Wall Gas Reservoir B"
-msgstr ""
+msgstr "小型壁挂储气库 B型"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIR.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr ""
+msgstr "储液库无法由人力储存资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIR.EFFECT"
 msgid "A small sized reservoir that stores any Gas resources piped into it. Can be placed on walls."
-msgstr ""
+msgstr "一个可被置于墙上的小型储液库，可以储存任何由管道输入的液体资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIR.NAME"
 msgid "Wall Liquid Reservoir A"
-msgstr ""
+msgstr "小型壁挂储液库 A型"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIRINVERTED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIRINVERTED.DESC"
 msgid "Reservoirs cannot receive manually delivered resources."
-msgstr ""
+msgstr "储液库无法由人力储存资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIRINVERTED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIRINVERTED.EFFECT"
 msgid "A small sized reservoir that stores any Gas resources piped into it. Can be placed on walls."
-msgstr ""
+msgstr "一个可被置于墙上的小型储液库，可以储存任何由管道输入的液体资源。"
 
 #. STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIRINVERTED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIRINVERTED.NAME"
 msgid "Wall Liquid Reservoir B"
-msgstr ""
+msgstr "小型壁挂储液库 A型"
 
