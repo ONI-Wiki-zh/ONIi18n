@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.ALGAEVAT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEVAT.DESC"
+msgid "An advanced biological vat that grows algae. Due to the controlled atmospheric condition, this algae formation produces oxygen more efficiently than the standard terrarium. This unit also uses advanced filter to extract Carbon Dioxide from its surroundings, albeit its not necessery for it to function. "
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ALGAEVAT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEVAT.EFFECT"
+msgid "Algae patch needs <link=\"WATER\">Water</link> to grow, producing a fair amount of clean <link=\"OXYGEN\">Oxygen</link> as result of its biological functions. Excess water is expelled in the form of <link=\"DIRTYWATER\">Polluted Water</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ALGAEVAT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEVAT.NAME"
+msgid "Algae Vat"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CORALVAT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CORALVAT.DESC"
+msgid "An advanced biological vat that grows a special colony of marine invertebrates, engineered from the Earth species of the class Anthozoa. This unit also uses advanced filter to extract Chlorine Gas from its surroundings, albeit its not necessery for it to function. "
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CORALVAT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CORALVAT.EFFECT"
+msgid "Coral colony needs <link=\"SALTWATER\">Salt Water</link> or <link=\"BRINE\">Brine</link> to grow, producing a fair amount of clean <link=\"WATER\">Water</link> as result of its biological functions. The coral colony will also excreate tiny particles of <link=\"BLEACHSTONE\">Bleach Stone</link>, which are filtered from the water and later released as a solid mass."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CORALVAT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CORALVAT.NAME"
+msgid "Coral Vat"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SLIMEVAT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SLIMEVAT.DESC"
+msgid "An advanced biological vat that grows a culture of mucopolysaccharides and multicelular fungi mould. This unit also uses advanced filter to extract Polluted Oxygen from its surroundings, albeit its not necessery for it to function. "
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SLIMEVAT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SLIMEVAT.EFFECT"
+msgid "Slime Vat needs <link=\"WATER\">Water</link> and <link=\"MUSHBAR\">Mush Bars</link> to grow, producing <link=\"SLIMEMOLD\">Slime</link> outgrowth that is collected from the botton. Due to its nature, the slime its produce will be contaminated with Slimelung."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SLIMEVAT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SLIMEVAT.NAME"
+msgid "Slime Vat"
+msgstr ""
+

@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTTAG.DESC"
+msgid "A wall informative tag for alerts."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTTAG.EFFECT"
+msgid "This tag is a visual representation of many different alerts. Select the type of alert using the menu option. \n\nList of tags: \n - Warning\n - Hot Spot\n - Cold Spot\n - Comet Alert\n - Biohazard Alert\n - Radiation Alert\n - Brightness Alert\n - Electricity Alert\n - Danger Alert"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTTAG.NAME"
+msgid "Alert Tag"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DANGERRIBBON.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DANGERRIBBON.DESC"
+msgid "A wall tag with a danger ribbon mark."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DANGERRIBBON.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DANGERRIBBON.EFFECT"
+msgid "This tag serves to demark a straight line used to outline a dangerous area."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DANGERRIBBON.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DANGERRIBBON.NAME"
+msgid "Danger Ribbon Tag"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DANGERRIBBONCORNER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DANGERRIBBONCORNER.DESC"
+msgid "A wall tag with a danger ribbon mark for corners."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DANGERRIBBONCORNER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DANGERRIBBONCORNER.EFFECT"
+msgid "This tag serves to demark a corner segment of a dangerous ribbon line."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DANGERRIBBONCORNER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DANGERRIBBONCORNER.NAME"
+msgid "Danger Ribbon Corner Tag"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASTAG.DESC"
+msgid "A wall informative tag for gases."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASTAG.EFFECT"
+msgid "This tag is a visual representation of gases in an industrial environment. Select the type of gas using the menu option. \n\nList of tags: \n - Oxygen\n - Polluted Oxygen\n - Carbon Dioxide\n - Hydrogen\n - Natural Gas\n - Propane\n - Chlorine\n - Helium\n - Sour Gas\n - Steam\n - Nuclear Fallout"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASTAG.NAME"
+msgid "Gas Tag"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INFOTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.INFOTAG.DESC"
+msgid "A wall tag for directive environmental information."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INFOTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.INFOTAG.EFFECT"
+msgid "This tag is a visual representation many different directive informations regarding environment. Select the type of directive using the menu option. \n\nList of tags: \n - Atmo Suit\n - Jet Suit\n - Lead Suit\n - Dormitory\n - Infirmary\n - Workshop\n - Research Facility\n - Observatory\n - Restroom\n - Refectory\n - Farm\n - Critter Ranch\n - Rocket Platform"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INFOTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.INFOTAG.NAME"
+msgid "Info Tag"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LETTERTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LETTERTAG.DESC"
+msgid "A wall tag for letters."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LETTERTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LETTERTAG.EFFECT"
+msgid "This tag serves to show a single letter."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LETTERTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LETTERTAG.NAME"
+msgid "Letters Tag"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.DESC"
+msgid "A wall informative tag for liquids."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.EFFECT"
+msgid "This tag is a visual representation of liquids in an industrial environment. Select the type of liquid using the menu option. \n\nList of tags: \n - Water\n - Polluted Water\n - Salt Water\n - Brine\n - Ethanol\n - Crude Oil\n - Petroleum\n - Super Coolant\n - Naphtha\n - Visco-Gel\n - Liquid Oxygen\n - Liquid Hydrogen\n - Liquid Carbon Dioxide\n - Nuclear Waste"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.NAME"
+msgid "Liquid Tag"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.METER_SCALE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.METER_SCALE.DESC"
+msgid "A wall meter scale used in open liquid reservoirs."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.METER_SCALE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.METER_SCALE.EFFECT"
+msgid "This scale tag is often used to measure the amount of liquid in a reservoir."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.METER_SCALE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.METER_SCALE.NAME"
+msgid "Meter Scale Tag"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.NUMBERSTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.NUMBERSTAG.DESC"
+msgid "A wall tag for numbers."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.NUMBERSTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.NUMBERSTAG.EFFECT"
+msgid "This tag serves to show a single number."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.NUMBERSTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.NUMBERSTAG.NAME"
+msgid "Numbers Tag"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SOLIDTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTAG.DESC"
+msgid "A wall informative tag for solids."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SOLIDTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTAG.EFFECT"
+msgid "This tag is a visual representation of solids in an industrial environment. Select the type of solids using the menu option. \n\nList of tags: \n - Agriculture\n - Consumable Ore\n - Critter Egg\n - Cultivable Soil\n - Filtration Medium\n - Industrial Ingredient\n - Liquefiable\n - Manufacture Material\n - Medical Supplies\n - Metal Ore\n - Miscellaneous\n - Organic\n - Rare Resource\n - Raw Mineral\n - Refined Metal\n - Refined Mineral\n - Cooking Ingredient\n - Edibles"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SOLIDTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTAG.NAME"
+msgid "Solid Tag"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SYSTEMTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SYSTEMTAG.DESC"
+msgid "A wall informative tag for system and sensors."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SYSTEMTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SYSTEMTAG.EFFECT"
+msgid "This tag is a visual representation of many different kinds of eletronics, systems and sensors signs. Select the type of system using the menu option. \n\nList of tags: \n - Closed Cycle\n - Organic Recycle\n - Recycle\n - Power Toggle\n - Gas Element Sensor\n - Liquid Sensor\n - Power Sensor\n - Pressure Sensor\n - Temperature Sensor\n - Time Sensor"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SYSTEMTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SYSTEMTAG.NAME"
+msgid "System Tag"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.UTILITYTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.UTILITYTAG.DESC"
+msgid "A wall informative tag for utilities."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.UTILITYTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.UTILITYTAG.EFFECT"
+msgid "This tag is a visual representation of many different kinds of utilities signs. Select the type of utility using the menu option. \n\nList of tags: \n - Direction\n - Diagonal Direction\n - Both Direction\n - Gas Pump\n - Liquid Pump\n - Solid Conveyor"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.UTILITYTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.UTILITYTAG.NAME"
+msgid "Utility Tag"
+msgstr ""
+

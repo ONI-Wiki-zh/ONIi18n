@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.COAL_BOILER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.COAL_BOILER.DESC"
+msgid "An industrial grade steam boiler that uses coal as fuel."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.COAL_BOILER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.COAL_BOILER.EFFECT"
+msgid "Boils <link=\"WATER\">Water</link> to <link=\"STEAM\">Steam</link> at 200 °C. This particular boiler uses <link=\"CARBON\">Coal</link> as fuel."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.COAL_BOILER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.COAL_BOILER.NAME"
+msgid "Coal Steam Boiler"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GAS_BOILER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GAS_BOILER.DESC"
+msgid "An industrial grade steam boiler that uses natural gas as fuel."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GAS_BOILER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GAS_BOILER.EFFECT"
+msgid "Boils <link=\"WATER\">Water</link> to <link=\"STEAM\">Steam</link> at 200 °C. This particular boiler uses <link=\"METHANE\">Natural Gas</link> as fuel."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GAS_BOILER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GAS_BOILER.NAME"
+msgid "Natural Gas Steam Boiler"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODEN_BOILER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODEN_BOILER.DESC"
+msgid "An industrial grade steam boiler that uses lumber as fuel."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODEN_BOILER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODEN_BOILER.EFFECT"
+msgid "Boils <link=\"WATER\">Water</link> to <link=\"STEAM\">Steam</link> at 200 °C. This particular boiler uses Lumber as fuel."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODEN_BOILER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODEN_BOILER.NAME"
+msgid "Lumber Steam Boiler"
+msgstr ""
+

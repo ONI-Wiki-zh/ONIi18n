@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.CREATURES.SPECIES.CREAMCAP.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.CREAMCAP.DESC"
+msgid "A soft white mushroom with a creamie texture on its cap. Despite growing in filthy dark spots, it is edible."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.CREAMCAP.DOMESTICATEDDESC
+msgctxt "STRINGS.CREATURES.SPECIES.CREAMCAP.DOMESTICATEDDESC"
+msgid "A soft white mushroom with a creamie texture on its cap. Despite growing in filthy dark spots, it is edible.This domesticated Creamcap requires <link=\"TOXICSAND\">Polluted Dirty</link> as fertilizer."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.CREAMCAP.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.CREAMCAP.NAME"
+msgid "Creamcap Mushroom"
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.KAKAWATREE.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.KAKAWATREE.DESC"
+msgid "A lush, golden leafed tree that grows in temperate forest biomes. It produces a rock hard edible <link=\"KAKAWAACORN\">Kakawa Acorn</link>."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.KAKAWATREE.DOMESTICATEDDESC
+msgctxt "STRINGS.CREATURES.SPECIES.KAKAWATREE.DOMESTICATEDDESC"
+msgid "A lush, golden leafed tree that grows in temperate forest biomes. It produces a rock hard edible <link=\"KAKAWAACORN\">Kakawa Acorn</link>./n/n This domesticated tree requires copious amounts of <link=\"WATER\">Water</link>, and <link=\"DIRT\">Dirt</link> as fertilizer."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.KAKAWATREE.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.KAKAWATREE.NAME"
+msgid "Kakawa Tree"
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SEEDS.CREAMCAPSEED.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.CREAMCAPSEED.DESC"
+msgid "A small spore from the <link=\"CREAMCAP\">Creamcap Mushroom</link>. Plant it in a dark place and its surely to flourish."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SEEDS.CREAMCAPSEED.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.CREAMCAPSEED.NAME"
+msgid "Creamcap Mushroom Spore"
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SEEDS.KAKAWATREESEED.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.KAKAWATREESEED.DESC"
+msgid "The Sprout of a <link=\"KAKAWATREE\">Kakawa Tree</link>."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SEEDS.KAKAWATREESEED.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.KAKAWATREESEED.NAME"
+msgid "Kakawa Tree Sprout"
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SEEDS.SUNNYWHEATSEED.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SUNNYWHEATSEED.DESC"
+msgid "The bulb of a <link=\"SUNNYWHEAT\">Sunny Wheat</link>."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SEEDS.SUNNYWHEATSEED.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SUNNYWHEATSEED.NAME"
+msgid "Sunny Wheat Bulb"
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SUNNYWHEAT.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.SUNNYWHEAT.DESC"
+msgid "A vibrant wheat that grows in temperate and hot biomes. It produces <link=\"SUNNYWHEATGRAIN\">Sunny Wheat Grain</link>, a warm grain that can be processed in to food."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SUNNYWHEAT.DOMESTICATEDDESC
+msgctxt "STRINGS.CREATURES.SPECIES.SUNNYWHEAT.DOMESTICATEDDESC"
+msgid "A vibrant wheat that grows in temperate and hot biomes. It produces <link=\"SUNNYWHEATGRAIN\">Sunny Wheat Grain</link>, a warm grain that can be processed in to food./n/n This domesticated wheat require little <link=\"WATER\">Water</link>. Also require <link=\"SAND\">Sand</link> as fertilizer."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SUNNYWHEAT.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.SUNNYWHEAT.NAME"
+msgid "Sunny Wheat"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.CREAMTOP_CAP.DESC
+msgctxt "STRINGS.ITEMS.FOOD.CREAMTOP_CAP.DESC"
+msgid "The fruiting body of a Creamcap Mushroom. Has a rich earthy flavor and a pungent, mildly sweet aroma"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.CREAMTOP_CAP.NAME
+msgctxt "STRINGS.ITEMS.FOOD.CREAMTOP_CAP.NAME"
+msgid "<link=\"CREAMTOPCAP\">Creamcap</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.FISHWRAP.DESC
+msgctxt "STRINGS.ITEMS.FOOD.FISHWRAP.DESC"
+msgid "A tasty snack made by wrapping grilled <link=\"FISHMEAT\">Pacu Fillet</link> with <link=\"FLATBREAD\">Warm Flat Bread</link>. Each bite leaves a mild warm sensation in one's mouth, even when the snack itself is served cold."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.FISHWRAP.NAME
+msgctxt "STRINGS.ITEMS.FOOD.FISHWRAP.NAME"
+msgid "<link=\"FISHWRAP\">Pacu Wrap</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.FLATBREAD.DESC
+msgctxt "STRINGS.ITEMS.FOOD.FLATBREAD.DESC"
+msgid "A simple flat bread baked from <link=\"SUNNYWHEATGRAIN\">Sunny Wheat Grain</link>. Each bite leaves a mild warmth sensation in one's mouth, even when the bread itself is cold."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.FLATBREAD.NAME
+msgctxt "STRINGS.ITEMS.FOOD.FLATBREAD.NAME"
+msgid "<link=\"FLATBREAD\">Warm Flat Bread</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.GRILLED_CREAMTOP.DESC
+msgctxt "STRINGS.ITEMS.FOOD.GRILLED_CREAMTOP.DESC"
+msgid "The grilled fruiting of a <link=\"CREAMTOPCAP\">Creamcap</link>. It has a crispy texture and a soft, mildly sweet, earthy flavor."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.GRILLED_CREAMTOP.NAME
+msgctxt "STRINGS.ITEMS.FOOD.GRILLED_CREAMTOP.NAME"
+msgid "<link=\"GRILLEDCREAMTOP\">Grilled Creamcap</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.KAKAWA_ACORN.DESC
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWA_ACORN.DESC"
+msgid "The fruits of a <link=\"KAKAWATREE\">Kakawa Tree</link>. Differently from other nuts, this one is so hard that can't be eat raw. The edible inside is also very bitter."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.KAKAWA_ACORN.NAME
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWA_ACORN.NAME"
+msgid "<link=\"KAKAWAACORN\">Kakawa Acorn</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.KAKAWABAR.DESC
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWABAR.DESC"
+msgid "<link=\"ROASTEDKAKAWA\">Roasted Kakawa</link> compressed to a dense, buttery mass. Further cooking remove most of Kakawa bitterness, rendering this bar incredible tasty."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.KAKAWABAR.NAME
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWABAR.NAME"
+msgid "<link=\"KAKAWABAR\">Kakawa Bar</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.KAKAWABUTTER.DESC
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWABUTTER.DESC"
+msgid "An oily butter extracted from <link=\"KAKAWAACORN\">Kakawa Acorn</link>. This butter has a tasty aroma, although one must like bitterness to actually eat it in this form."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.KAKAWABUTTER.NAME
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWABUTTER.NAME"
+msgid "<link=\"KAKAWABUTTER\">Kakawa Butter</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.KAKAWACOOKIE.DESC
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWACOOKIE.DESC"
+msgid "A buttery cookie with a subtle bittersweet, cold flavor."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.KAKAWACOOKIE.NAME
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWACOOKIE.NAME"
+msgid "<link=\"KAKAWACOOKIE\">Frost Cookie</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.LICEWRAP.DESC
+msgctxt "STRINGS.ITEMS.FOOD.LICEWRAP.DESC"
+msgid "A dubious snack made by wrapping fresh <link=\"BASICPLANTFOOD\">Meal Lice</link> with <link=\"FLATBREAD\">Warm Flat Bread</link>. The warm flavor from the bread mitigates regretable texture of filling."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.LICEWRAP.NAME
+msgctxt "STRINGS.ITEMS.FOOD.LICEWRAP.NAME"
+msgid "<link=\"LICEWRAP\">Lice Wrap</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.MEATTACO.DESC
+msgctxt "STRINGS.ITEMS.FOOD.MEATTACO.DESC"
+msgid "A filling meal made with slowly baked <link=\"MEAT\">Meat</link> with <link=\"COOKEDEGG\">Omellete</link>, all served within a <link=\"FLATBREAD\">Warm Flat Bread</link>. It promptly leaves a warm sensation while it goes inside, as well when it leaves."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.MEATTACO.NAME
+msgctxt "STRINGS.ITEMS.FOOD.MEATTACO.NAME"
+msgid "<link=\"MEATTACO\">Meat Taco</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.MEATWRAP.DESC
+msgctxt "STRINGS.ITEMS.FOOD.MEATWRAP.DESC"
+msgid "A tasty snack made by wrapping grilled <link=\"MEAT\">Meat</link> with <link=\"FLATBREAD\">Warm Flat Bread</link>. Each bite leaves a mild warm sensation in one's mouth, even when the snack itself is served cold."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.MEATWRAP.NAME
+msgctxt "STRINGS.ITEMS.FOOD.MEATWRAP.NAME"
+msgid "<link=\"MEATWRAP\">Meat Wrap</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.MUSHROOMSTEW.DESC
+msgctxt "STRINGS.ITEMS.FOOD.MUSHROOMSTEW.DESC"
+msgid "A thick, flavorful soup made by simmering mushroons and spices, placed within a hallowed Frost Bun and baked in a oven."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.MUSHROOMSTEW.NAME
+msgctxt "STRINGS.ITEMS.FOOD.MUSHROOMSTEW.NAME"
+msgid "<link=\"MUSHROOMSTEW\">Mushroom Stew</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.NUT_CAKE.DESC
+msgctxt "STRINGS.ITEMS.FOOD.NUT_CAKE.DESC"
+msgid "A saborous <link=\"NUTCAKE\">Nutcake</link> baked from bitter nuts, spieces and wheat. Brings warmth to the heart (and stomach)."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.NUT_CAKE.NAME
+msgctxt "STRINGS.ITEMS.FOOD.NUT_CAKE.NAME"
+msgid "<link=\"NUTCAKE\">Nutcake</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.ROASTED_KAKAWA.DESC
+msgctxt "STRINGS.ITEMS.FOOD.ROASTED_KAKAWA.DESC"
+msgid "A fully roasted <link=\"KAKAWAACORN\">Kakawa Acorn</link>. The roasting crack open its hard shell reaveling a edible nut, although the eating may be a bitter experience."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.ROASTED_KAKAWA.NAME
+msgctxt "STRINGS.ITEMS.FOOD.ROASTED_KAKAWA.NAME"
+msgid "<link=\"ROASTEDKAKAWA\">Roasted Kakawa</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.SEATACO.DESC
+msgctxt "STRINGS.ITEMS.FOOD.SEATACO.DESC"
+msgid "A filling meal made with slowly baked <link=\"FISHMEAT\">Pacu Fillet</link> with <link=\"LETTUCE\">Lettuce</link>, and a pinch of <link=\"SPICENUT\">Pepper Nut</link>, all served with a <link=\"FLATBREAD\">Warm Flat Bread</link>. It promptly leaves a warm sensation while it goes inside, as well when it leaves."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.SEATACO.NAME
+msgctxt "STRINGS.ITEMS.FOOD.SEATACO.NAME"
+msgid "<link=\"SEATACO\">Sea Taco</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.SUNNYWHEAT_GRAIN.DESC
+msgctxt "STRINGS.ITEMS.FOOD.SUNNYWHEAT_GRAIN.DESC"
+msgid "The edible grain of a <link=\"SUNNYWHEAT\">Sunny Wheat</link>. This edible grain leaves a warm taste on the tongue."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.SUNNYWHEAT_GRAIN.NAME
+msgctxt "STRINGS.ITEMS.FOOD.SUNNYWHEAT_GRAIN.NAME"
+msgid "<link=\"SUNNYWHEATGRAIN\">Sunny Wheat Grain</link>"
+msgstr ""
+

@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALJUICER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALJUICER.DESC"
+msgid "Grind food in to juices."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALJUICER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALJUICER.EFFECT"
+msgid "A cooking appliance used to grind down food in to liquids."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALJUICER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALJUICER.NAME"
+msgid "Electric Grinder"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.BREADEDPACU.DESC
+msgctxt "STRINGS.ITEMS.FOOD.BREADEDPACU.DESC"
+msgid "A crispy <link=\"BREADEDPACU\">Battered Pacu</link> made with <link=\"FISHMEAT\">Pacu Fillet</link> and <link=\"MEALSLURRY\">Meal Lice Batter</link>. Gives off cruchy noises as one eats them."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.BREADEDPACU.NAME
+msgctxt "STRINGS.ITEMS.FOOD.BREADEDPACU.NAME"
+msgid "<link=\"BREADEDPACU\">Battered Pacu</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.COOKEDMUCKROOT.DESC
+msgctxt "STRINGS.ITEMS.FOOD.COOKEDMUCKROOT.DESC"
+msgid "The highlight point of a <link=\"BASICFORAGEPLANT\">Muckroot</link>, or at least as far as it can get through cooking. The baking process renders it aftertaste less bland."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.COOKEDMUCKROOT.NAME
+msgctxt "STRINGS.ITEMS.FOOD.COOKEDMUCKROOT.NAME"
+msgid "<link=\"COOKEDMUCKROOT\">Baked Muckroot</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.COOKEDSHARD.DESC
+msgctxt "STRINGS.ITEMS.FOOD.COOKEDSHARD.DESC"
+msgid "A baked <link=\"SWAMPFORAGEPLANT\">Swamp Chard Heart</link>. It don't taste as bad as it looks, but it does smell as bad as it taste."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.COOKEDSHARD.NAME
+msgctxt "STRINGS.ITEMS.FOOD.COOKEDSHARD.NAME"
+msgid "<link=\"COOKEDSHARD\">Baked Chard</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.DUSKOMELETTE.DESC
+msgctxt "STRINGS.ITEMS.FOOD.DUSKOMELETTE.DESC"
+msgid "A fluffy dish made from beaten <link=\"RAWEGG\">Eggs</link> and folded over nice fried <link=\"MUSHROOM\">Dusk Cap</link> mushroons. The savory flavors of the mushroons get along well with the omelette soft texture."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.DUSKOMELETTE.NAME
+msgctxt "STRINGS.ITEMS.FOOD.DUSKOMELETTE.NAME"
+msgid "<link=\"DUSKOMELETTE\">Dusk Omelette</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.GRILLEDPLANTMEAT.DESC
+msgctxt "STRINGS.ITEMS.FOOD.GRILLEDPLANTMEAT.DESC"
+msgid "A delightful grilled <link=\"PLANTMEAT\">Plant Meat</link>. It don't taste like meat, nor it taste like plant, but it really does taste good."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.GRILLEDPLANTMEAT.NAME
+msgctxt "STRINGS.ITEMS.FOOD.GRILLEDPLANTMEAT.NAME"
+msgid "<link=\"GRILLEDPLANTMEAT\">Grilled Plant Meat</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.JELLYDOUGHNUT.DESC
+msgctxt "STRINGS.ITEMS.FOOD.JELLYDOUGHNUT.DESC"
+msgid "A leavened fried dough prepared from <link=\"MEALSLURRY\">Meal Lice Batter</link> and <link=\"NOSHMILK\">Nosh Milk</link>. The interior is filled a hearty portion of <link=\"SWAMPFRUIT\">Bog Jelly</link>."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.JELLYDOUGHNUT.NAME
+msgctxt "STRINGS.ITEMS.FOOD.JELLYDOUGHNUT.NAME"
+msgid "<link=\"JELLYDOUGHNUT\">Jelly Doughnut</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.MEALBREAD.DESC
+msgctxt "STRINGS.ITEMS.FOOD.MEALBREAD.DESC"
+msgid "A loaf of <link=\"MEALBREAD\">Bread</link> baked from a mixture of <link=\"MEALSLURRY\">Meal Batter</link>, <link=\"NOSHMILK\">Nosh Milk</link> and <link=\"RAWEGG\">Eggs</link>. Despite its hard crust, this bread is actually tasty, and has a long shelf life."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.MEALBREAD.NAME
+msgctxt "STRINGS.ITEMS.FOOD.MEALBREAD.NAME"
+msgid "<link=\"MEALBREAD\">Mealbrot</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.MEALSLURRY.DESC
+msgctxt "STRINGS.ITEMS.FOOD.MEALSLURRY.DESC"
+msgid "A fearsome sticky slurry made from <link=\"BASICPLANTFOOD\">Meal Lice</link> and Water. Used as a basic ingredient in many recipes."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.MEALSLURRY.NAME
+msgctxt "STRINGS.ITEMS.FOOD.MEALSLURRY.NAME"
+msgid "<link=\"MEALSLURRY\">Meal Batter</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.MILKBUN.DESC
+msgctxt "STRINGS.ITEMS.FOOD.MILKBUN.DESC"
+msgid "A soft bun baked from <link=\"MEALSLURRY\">Meal Batter</link>, <link=\"NOSHMILK\">Nosh Milk</link> and <link=\"SUCROSE\">Sucrose</link>. It gives the duplicants who eats it a happy face, and a quite unhappy face to others who will have to endure the farts."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.MILKBUN.NAME
+msgctxt "STRINGS.ITEMS.FOOD.MILKBUN.NAME"
+msgid "<link=\"MILKBUN\">Milk Bun</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.NOSHMILK.DESC
+msgctxt "STRINGS.ITEMS.FOOD.NOSHMILK.DESC"
+msgid "A plant-based drink produced by soaking and pressing of <link=\"BEAN\">Nosh Bean</link>."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.NOSHMILK.NAME
+msgctxt "STRINGS.ITEMS.FOOD.NOSHMILK.NAME"
+msgid "<link=\"NOSHMILK\">Nosh Milk</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.NOSHPUDDING.DESC
+msgctxt "STRINGS.ITEMS.FOOD.NOSHPUDDING.DESC"
+msgid "A fancy sweet dessert made with <link=\"NOSHMILK\">Nosh Milk</link>, <link=\"COLDWHEATSEED\">Sleet Wheat Grain</link>, whisked <link=\"RAWEGG\">Eggs</link> and quite a lot of <link=\"SUCROSE\">Sucrose</link>. Has a fine rimmed pastry that prevents it from breaking apart as one holds it (for a short time)."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.NOSHPUDDING.NAME
+msgctxt "STRINGS.ITEMS.FOOD.NOSHPUDDING.NAME"
+msgid "<link=\"NOSHPUDDING\">Nosh Custard Flan</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.NUTPIE.DESC
+msgctxt "STRINGS.ITEMS.FOOD.NUTPIE.DESC"
+msgid "A gourmet pie with a nut filling of caramelised <link=\"WORMBASICFOOD\">Roast Grubfruit Nuts</link>, <link=\"COLDWHEATSEED\">Sleet Wheat Grain</link> and <link=\"RAWEGG\">Eggs</link> dough, and <link=\"SUCROSE\">Sucrose</link>. The buttery crust remains fresh for a long time."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.NUTPIE.NAME
+msgctxt "STRINGS.ITEMS.FOOD.NUTPIE.NAME"
+msgid "<link=\"NUTPIE\">Grubner Nusstorte</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.PLANTBURGER.DESC
+msgctxt "STRINGS.ITEMS.FOOD.PLANTBURGER.DESC"
+msgid "Tasty <link=\"GRILLEDPLANTMEAT\">Grilled Plant Meat</link> and <link=\"LETTUCE\">Lettuce</link> pressed together inside a split <link=\"MEALBREAD\">Mealbrot</link>. Can cause shivers and shakes after consumption."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.PLANTBURGER.NAME
+msgctxt "STRINGS.ITEMS.FOOD.PLANTBURGER.NAME"
+msgid "<link=\"PLANTBURGER\">Plant Burger</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.SALTEDMEAT.DESC
+msgctxt "STRINGS.ITEMS.FOOD.SALTEDMEAT.DESC"
+msgid "A shunk of <link=\"MEAT\">Meat</link> dried with a lot of <link=\"SALT\">Salt</link>. The large amount of salt present in this meat made it completely resistant to microorganisms that would spoil it under normal conditions."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.SALTEDMEAT.NAME
+msgctxt "STRINGS.ITEMS.FOOD.SALTEDMEAT.NAME"
+msgid "<link=\"SALTEDMEAT\">Salt-cured Meat</link>"
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.SPICEDOMELETTE.DESC
+msgctxt "STRINGS.ITEMS.FOOD.SPICEDOMELETTE.DESC"
+msgid "A fluffy dish made from beaten <link=\"RAWEGG\">Eggs</link> and served with generous pinch of <link=\"SPICENUT\">Pincha Peppernut</link>. Has a deep spiced flavour that sticks to the mouth."
+msgstr ""
+
+#. STRINGS.ITEMS.FOOD.SPICEDOMELETTE.NAME
+msgctxt "STRINGS.ITEMS.FOOD.SPICEDOMELETTE.NAME"
+msgid "<link=\"SPICEDOMELETTE\">Spiced Omelette</link>"
+msgstr ""
+
