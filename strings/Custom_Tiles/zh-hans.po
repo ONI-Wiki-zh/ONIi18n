@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTGREEN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTGREEN.DESC"
+msgid "Greem colored alert light."
+msgstr "绿色的警示灯。"
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTGREEN.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTGREEN.EFFECT"
+msgid "A led light that servers as alert. Produces no significant luminosity."
+msgstr "一个LED警示灯，不足以提供光照。"
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTGREEN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTGREEN.NAME"
+msgid "Green Alert Led"
+msgstr "绿色警示灯"
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTRED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTRED.DESC"
+msgid "Red colored alert light."
+msgstr "红色的警示灯。"
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTRED.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTRED.EFFECT"
+msgid "A led light that servers as alert. Produces no significant luminosity."
+msgstr "一个LED警示灯，不足以提供光照。"
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTRED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTRED.NAME"
+msgid "Red Alert Light"
+msgstr "红色警示灯"
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTYELLOW.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTYELLOW.DESC"
+msgid "Yellow colored alert light."
+msgstr "黄色的警示灯。"
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTYELLOW.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTYELLOW.EFFECT"
+msgid "A led light that servers as alert. Produces no significant luminosity."
+msgstr "一个LED警示灯，不足以提供光照。"
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTYELLOW.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTYELLOW.NAME"
+msgid "Yellow Alert Light"
+msgstr "黄色警示灯"
+
+#. STRINGS.BUILDINGS.PREFABS.CEMENTMIXER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CEMENTMIXER.DESC"
+msgid "Cement is a quite old building material, but still pretty much useful."
+msgstr "水泥是种挺老的建筑材料了，但仍然非常有用。"
+
+#. STRINGS.BUILDINGS.PREFABS.CEMENTMIXER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CEMENTMIXER.EFFECT"
+msgid "A device that can homogeneously combine several solid and liquid ingredients used in the production of cement."
+msgstr "一种可以将液体和固体原料充分混合来生产水泥的机器"
+
+#. STRINGS.BUILDINGS.PREFABS.CEMENTMIXER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CEMENTMIXER.NAME"
+msgid "Cement Mixer"
+msgstr "水泥搅拌器"
+
+#. STRINGS.BUILDINGS.PREFABS.CONCRETETILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CONCRETETILE.DESC"
+msgid "A rock hard composite tile made with coarse aggregate bonded together with a fluid cement. The concrete's relatively low tensile strength and ductility are compensated for by the inclusion of a internal rebar reinforcement having higher tensile strength or ductility."
+msgstr "由粗骨料与流体水泥粘合而成的硬质复合瓷砖。混凝土相对较低的抗拉强度和延展性通过包含高强度内部钢筋来补偿。"
+
+#. STRINGS.BUILDINGS.PREFABS.CONCRETETILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CONCRETETILE.EFFECT"
+msgid "Concrete tiles are not aesthetically pleasing, but they make up for strength and thermal resistance."
+msgstr "混凝土砖并不好看，但它们补偿了强度和耐热性。"
+
+#. STRINGS.BUILDINGS.PREFABS.CONCRETETILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CONCRETETILE.NAME"
+msgid "Concrete Tile"
+msgstr "水泥砖"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMGRANITETILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMGRANITETILE.DESC"
+msgid "Granite tiles are aesthetically pleasing while remaining a good insulator."
+msgstr "花岗岩瓷砖在美观的同时也是良好的隔热体。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMGRANITETILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMGRANITETILE.EFFECT"
+msgid "A smooth tile made with several granite stones carefully placed together."
+msgstr "一块光滑的瓷砖，由几块花岗岩石小心地放在一起。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMGRANITETILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMGRANITETILE.NAME"
+msgid "Granite Tile"
+msgstr "大理石砖"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMIGNEOUSTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMIGNEOUSTILE.DESC"
+msgid "A notable tile made exclusively with Igneous Rock."
+msgstr "一种用火成岩制成的上好砖块。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMIGNEOUSTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMIGNEOUSTILE.EFFECT"
+msgid "Igneous tile enhance not only the environmental beauty, but also increases duplicants walking speed. Has very poor insulating properties."
+msgstr "火成岩砖不仅让环境更好看，还增加了复制人的行走速度。 具有非常差的隔热性能。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMIGNEOUSTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMIGNEOUSTILE.NAME"
+msgid "Igneous Tile"
+msgstr "火成岩砖"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMOBSIDIANTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMOBSIDIANTILE.DESC"
+msgid "A notable tile made exclusively with Obsidian, a form of volcanic glass."
+msgstr "一种用黑曜石（一种火山玻璃）制成的上好砖块。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMOBSIDIANTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMOBSIDIANTILE.EFFECT"
+msgid "Obsidian tile enhance not only the environmental beauty, but also increases duplicants walking speed. Has almost no insulating property, and its also thermically reactive."
+msgstr "黑曜石砖不仅让环境更好看，还增加了复制人的行走速度。几乎没有隔热能力，而且对热量敏感。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMOBSIDIANTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMOBSIDIANTILE.NAME"
+msgid "Obsidian Tile"
+msgstr "黑曜石砖"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSANDSTONETILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSANDSTONETILE.DESC"
+msgid "A notable tile made exclusively with Sandstone."
+msgstr "一种用砂岩制成的上号砖块。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSANDSTONETILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSANDSTONETILE.EFFECT"
+msgid "Sandstone tile enhance not only the environmental beauty, but also increases duplicants walking speed. Has some small insulation properties as well."
+msgstr "砂岩砖不仅让环境更好看，还增加了复制人的行走速度。 只具备较低的隔热能力。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSANDSTONETILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSANDSTONETILE.NAME"
+msgid "Sandstone Tile"
+msgstr "砂岩砖"
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORRED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORRED.DESC"
+msgid "A light-weight door with intricate designs that suggests it bellongs to a industrial facility."
+msgstr "一扇轻巧的门，设计复杂，表明它属于工业设施。"
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORRED.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORRED.EFFECT"
+msgid "A high-tech light door with red tint."
+msgstr "红色调的轻型高科技大门。"
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORRED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORRED.NAME"
+msgid "Red Facility Door"
+msgstr "红色工厂门"
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORWHITE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORWHITE.DESC"
+msgid "A light-weight door with intricate designs that suggests it bellongs to a industrial facility."
+msgstr "一扇轻巧的门，设计复杂，表明它属于工业设施。"
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORWHITE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORWHITE.EFFECT"
+msgid "A high-tech light door with white tint."
+msgstr "白色调的轻型高科技大门。"
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORWHITE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORWHITE.NAME"
+msgid "White Facility Door"
+msgstr "白色工厂门"
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORYELLOW.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORYELLOW.DESC"
+msgid "A light-weight door with intricate designs that suggests it bellongs to a industrial facility."
+msgstr "一扇轻巧的门，设计复杂，表明它属于工业设施。"
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORYELLOW.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORYELLOW.EFFECT"
+msgid "A high-tech light door with yellow tint."
+msgstr "黄色调的轻型高科技大门。"
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORYELLOW.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORYELLOW.NAME"
+msgid "Yellow Facility Door"
+msgstr "黄色工厂门"
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSDOORCOMPLEX.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSDOORCOMPLEX.DESC"
+msgid "Functions as a Manual Airlock when no Power is available."
+msgstr "没有电力时与手动气闸作用一致。"
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSDOORCOMPLEX.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSDOORCOMPLEX.EFFECT"
+msgid "A mechanized airlock door made with glass panels. Blocks Liquid and Gas flow, maintaining pressure between areas. Sets Duplicant Access Permissions for area restriction."
+msgstr "一扇玻璃制成的机械气闸，可阻挡液体和气体流动并保证两侧的压力。通过设置复制人权限来管理区域权限。"
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSDOORCOMPLEX.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSDOORCOMPLEX.NAME"
+msgid "Security Glass Door"
+msgstr "玻璃安全门"
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSDOORSIMPLE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSDOORSIMPLE.DESC"
+msgid "Wild Critters cannot pass through doors. Door controls can be used to prevent Duplicants from entering restricted areas."
+msgstr "野生小动物不能穿过这扇门，也可以让复制人不能进入限制区域。"
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSDOORSIMPLE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSDOORSIMPLE.EFFECT"
+msgid "A simple model door made with glass panels. Encloses areas without blocking Liquid or Gas flow. Sets Duplicant Access Permissions for area restriction."
+msgstr "一种简单的玻璃门型号，封闭区域而不会阻塞液体或气体流动。为区域限制设置复制人访问权限。"
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSDOORSIMPLE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSDOORSIMPLE.NAME"
+msgid "Simple Glass Door"
+msgstr "简单玻璃门"
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATINGTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATINGTILE.DESC"
+msgid "The lowered thermal conductivity of insulated tiles slows any heat passing through them."
+msgstr "隔热砖额外的低导热性减缓热量穿过墙壁。"
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATINGTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATINGTILE.EFFECT"
+msgid "Used to build the walls and floors of rooms. Reduces heat transfer between walls, retaining ambient heat in an area. "
+msgstr "用于建造房间的地板或墙壁，减少穿过墙壁的热量，将热量保留在某个区域。"
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATINGTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATINGTILE.NAME"
+msgid "Insulating Tile"
+msgstr "隔热砖"
+
+#. STRINGS.BUILDINGS.PREFABS.LAMP_A.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAMP_A.DESC"
+msgid "A pretty ceiling lamp made of polished metal."
+msgstr "用抛光金属制作的漂亮吊顶灯。"
+
+#. STRINGS.BUILDINGS.PREFABS.LAMP_A.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAMP_A.EFFECT"
+msgid "A pretty lamp to light a small area."
+msgstr "一个漂亮的吊顶灯能照亮一个小的区域。"
+
+#. STRINGS.BUILDINGS.PREFABS.LAMP_A.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAMP_A.NAME"
+msgid "Pretty Ceiling Light"
+msgstr "漂亮的吊顶灯"
+
+#. STRINGS.BUILDINGS.PREFABS.LAMP_B.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAMP_B.DESC"
+msgid "A fancy ceiling lamp made of polished metal."
+msgstr "用抛光金属制作的华丽吊顶灯。"
+
+#. STRINGS.BUILDINGS.PREFABS.LAMP_B.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAMP_B.EFFECT"
+msgid "A fancy lamp to light a small area."
+msgstr "一个华丽的吊顶灯能照亮一个小的区域"
+
+#. STRINGS.BUILDINGS.PREFABS.LAMP_B.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAMP_B.NAME"
+msgid "Fancy Ceiling Light"
+msgstr "华丽的吊顶灯"
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.DESC"
+msgid "A medium sized structural frame."
+msgstr "一个中型的结构框架。"
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.EFFECT"
+msgid "Provides background support for buildings, or least gives the nice appearance of doing so. Don't prevent gases or liquid from leaking in to the void."
+msgstr "为建筑物提供背景支撑，至少这样做能得到漂亮的外观。别指望它能防止气体和液体在太空中流失。"
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.NAME"
+msgid "Medium Structure Frame"
+msgstr "中型结构框"
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMESMALL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMESMALL.DESC"
+msgid "A small sized structural frame."
+msgstr "一个小型的结构框架。"
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMESMALL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMESMALL.EFFECT"
+msgid "Provides background support for buildings, or least gives the nice appearance of doing so. Don't prevent gases or liquid from leaking in to the void."
+msgstr "为建筑物提供背景支撑，至少这样做能得到漂亮的外观。别指望它能防止气体和液体在太空中流失。"
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMESMALL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMESMALL.NAME"
+msgid "Small Structure Frame"
+msgstr "小型结构框"
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTURETILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTURETILE.DESC"
+msgid "A solid structural tile wrought from refined metal. Use to build the walls and floors of rooms."
+msgstr "一个用精炼金属制作的框架砖块，用来建造房间的墙壁和地板。"
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTURETILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTURETILE.EFFECT"
+msgid "This metal structure is commonly used as a simple, yet strong tile for buildings. The frame structure will not hold any gas or liquid."
+msgstr "这个简单，高强度的金属结构通常用于建筑。框架结构将不会留住任何气体或液体。"
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTURETILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTURETILE.NAME"
+msgid "Structure Tile"
+msgstr "框架砖"
+
