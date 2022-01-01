@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.COZYBED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.COZYBED.DESC"
+msgid "Duplicants prefer wooden beds to cots and gain more stamina from sleeping in them."
+msgstr "复制人更喜欢木床而不是婴儿床，睡在木床上将获得更多的精力。"
+
+#. STRINGS.BUILDINGS.PREFABS.COZYBED.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.COZYBED.EFFECT"
+msgid "A cozy bed that somewhat resembles a sofa. This bed grants extra stamina restoration."
+msgstr "一张看起来像沙发的床，非常舒适。复制人睡在这张床上可以得到额外的精力恢复。"
+
+#. STRINGS.BUILDINGS.PREFABS.COZYBED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.COZYBED.NAME"
+msgid "Sofa Bed"
+msgstr "沙发床"
+
+#. STRINGS.BUILDINGS.PREFABS.KITCHENHOOD.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.KITCHENHOOD.DESC"
+msgid "A kitchen hood decoration."
+msgstr "一个装饰性的抽油烟机。"
+
+#. STRINGS.BUILDINGS.PREFABS.KITCHENHOOD.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.KITCHENHOOD.EFFECT"
+msgid "A kitchen hood made with polished metal. The model can be changed by using the Change Model option."
+msgstr "用抛光金属制成的抽油烟机，可以通过 'Change Next' 和 'Change Previous' 改变装饰。"
+
+#. STRINGS.BUILDINGS.PREFABS.KITCHENHOOD.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.KITCHENHOOD.NAME"
+msgid "Kitchen Hood"
+msgstr "抽油烟机"
+
+#. STRINGS.BUILDINGS.PREFABS.SHELFWOOD.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SHELFWOOD.DESC"
+msgid "A simple wooden shelf prop."
+msgstr "一个简单的木架子。"
+
+#. STRINGS.BUILDINGS.PREFABS.SHELFWOOD.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SHELFWOOD.EFFECT"
+msgid "A wooden wall shelf that provides decoration. The model can be changed by using the Change Model option."
+msgstr "一个可以提供装饰的木架子，可以通过 'Change Next' 和 'Change Previous' 改变装饰。"
+
+#. STRINGS.BUILDINGS.PREFABS.SHELFWOOD.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SHELFWOOD.NAME"
+msgid "Wooden Shelf"
+msgstr "木壁架"
+
+#. STRINGS.BUILDINGS.PREFABS.SIMPLEFIREPLACE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SIMPLEFIREPLACE.DESC"
+msgid "A house with no fireplace is a house without a heart."
+msgstr "没有壁炉的房子就如同没有心脏的复制人。"
+
+#. STRINGS.BUILDINGS.PREFABS.SIMPLEFIREPLACE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SIMPLEFIREPLACE.EFFECT"
+msgid "A simple stone fireplace. Uses wood lumber to produce heat."
+msgstr "一个简单的石头壁炉，通过燃烧木料加热环境。"
+
+#. STRINGS.BUILDINGS.PREFABS.SIMPLEFIREPLACE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SIMPLEFIREPLACE.NAME"
+msgid "Simple Fireplace"
+msgstr "简约壁炉"
+
+#. STRINGS.BUILDINGS.PREFABS.SINGLECHAIR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SINGLECHAIR.DESC"
+msgid "A simple chair decoration."
+msgstr "一个简单的装饰椅子。"
+
+#. STRINGS.BUILDINGS.PREFABS.SINGLECHAIR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SINGLECHAIR.EFFECT"
+msgid "A fine chair made from refined metals and plastic. The model can be changed by using the Change Model option."
+msgstr "一个用塑料和金属制作的精美椅子，可以通过 'Change Next' 和 'Change Previous' 改变装饰。"
+
+#. STRINGS.BUILDINGS.PREFABS.SINGLECHAIR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SINGLECHAIR.NAME"
+msgid "Single Chair"
+msgstr "单人椅"
+
+#. STRINGS.BUILDINGS.PREFABS.TABLEWOOD.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.TABLEWOOD.DESC"
+msgid "A simple wooden table prop."
+msgstr "一张简单的木桌。"
+
+#. STRINGS.BUILDINGS.PREFABS.TABLEWOOD.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.TABLEWOOD.EFFECT"
+msgid "A fine table that provides decoration. The model can be changed by using the Change Model option."
+msgstr "一张供装饰的精美桌子，可以通过 'Change Next' 和 'Change Previous' 改变装饰。"
+
+#. STRINGS.BUILDINGS.PREFABS.TABLEWOOD.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.TABLEWOOD.NAME"
+msgid "Wooden Table"
+msgstr "木桌"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENBED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENBED.DESC"
+msgid "Duplicants prefer wooden beds to cots and gain more stamina from sleeping in them."
+msgstr "复制人更喜欢木床而不是婴儿床，睡在木床上将获得更多的精力。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENBED.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENBED.EFFECT"
+msgid "Provides a sleeping area for one Duplicant and restores additional Stamina."
+msgstr "提供一个睡觉的地方，为复制人提供额外的精力恢复。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENBED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENBED.NAME"
+msgid "Wooden Bed"
+msgstr "木床"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENPEDESTAL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENPEDESTAL.DESC"
+msgid "The wooden pedestal provides a sophisticated way of thoughtful presentation."
+msgstr "木制基座提供了一种深思熟虑的展示方式。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENPEDESTAL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENPEDESTAL.EFFECT"
+msgid "Displays a single object, doubling its Decor value. Objects with negative decor will gain some positive decor when displayed."
+msgstr "展示单个物件，使其装饰度翻倍。负装饰度的物体通过展示可以提供正装饰度。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENPEDESTAL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENPEDESTAL.NAME"
+msgid "Wooden Pedestal"
+msgstr "木制基座"
+
