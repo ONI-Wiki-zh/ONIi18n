@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.BRICKWALL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.BRICKWALL.DESC"
+msgid "A pretty dry wall made with fine bricks."
+msgstr "一面由精致的砖块制作的漂亮砖墙。"
+
+#. STRINGS.BUILDINGS.PREFABS.BRICKWALL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.BRICKWALL.EFFECT"
+msgid "Prevents gas and liquid loss in space. Builds an insulating backwall behind buildings."
+msgstr "防止空气中的气体和液体流失。\n在建筑后面建造隔离后墙。"
+
+#. STRINGS.BUILDINGS.PREFABS.BRICKWALL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.BRICKWALL.NAME"
+msgid "Brick Wall"
+msgstr "砖墙"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENCEILING.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENCEILING.DESC"
+msgid "Wood work used to decorate the ceilings of rooms. Increases Decor, contributing to Morale."
+msgstr "用于装饰天花板的木制顶饰条，可以增加装饰和提高复制人士气。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENCEILING.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENCEILING.EFFECT"
+msgid "This ceiling is a beautiful masonry and wood work, but serves only as a decorative purpose."
+msgstr "这个顶饰条是漂亮的砖石和木制品，仅用于装饰。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENCEILING.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENCEILING.NAME"
+msgid "Wooden Ceiling"
+msgstr "木质顶饰条"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENCORNERARCH.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENCORNERARCH.DESC"
+msgid "A wooden arch used to decorate the ceiling corners of rooms. Increases Decor, contributing to Morale."
+msgstr "木制的圆顶用于装饰天花板，可以增加装饰和提高复制人士气。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENCORNERARCH.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENCORNERARCH.EFFECT"
+msgid "This corner ceiling arch is beautiful masonry and wood work, but serves only as a decorative purpose."
+msgstr "这个木圆顶由漂亮的砖石和木制品制作，仅用于装饰。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENCORNERARCH.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENCORNERARCH.NAME"
+msgid "Wooden Corner Arch"
+msgstr "木圆顶"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDOOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDOOR.DESC"
+msgid "A pretty wooden door that encloses areas without blocking Liquid or Gas flow. Sets Duplicant Access Permissions for area restriction."
+msgstr "一扇漂亮的木门，可以在不阻挡液体或气体流动的情况下封闭区域。 为区域限制设置复制人访问权限。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDOOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDOOR.EFFECT"
+msgid "Wild Critters cannot pass through doors. Door controls can be used to prevent Duplicants from entering restricted areas."
+msgstr "野生动物不能穿过这扇门，也可以防止复制人进入限制区域。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDOOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDOOR.NAME"
+msgid "Wooden Door"
+msgstr "木门"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL.DESC"
+msgid "A dry wall covered with a pretty wooden panel."
+msgstr "一面木板覆盖的漂亮干板墙。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL.EFFECT"
+msgid "Prevents gas and liquid loss in space. Builds an insulating backwall behind buildings."
+msgstr "防止空气中的气体和液体流失。\n\n在建筑后面建造隔离后墙。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL.NAME"
+msgid "Wooden Panel Wall"
+msgstr "木板墙"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL_B.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL_B.DESC"
+msgid "A dry wall covered with a pretty wooden panel in Parquet design."
+msgstr "由镶嵌设计的木板覆盖的干板墙。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL_B.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL_B.EFFECT"
+msgid "Prevents gas and liquid loss in space. Builds an insulating backwall behind buildings."
+msgstr "防止空气中的气体和液体流失。\n\n在建筑后面建造隔离后墙。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL_B.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL_B.NAME"
+msgid "Parquet Drywall"
+msgstr "镶木干板墙"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENGASTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENGASTILE.DESC"
+msgid "An impermeable wooden tile, used to build walls and floors of rooms. \n\nBlocks Liquid flow without obstructing Gas."
+msgstr "一种阻挡液体的砖块，用于建造房间的墙壁和地板。\n\n在不阻碍气体的情况下阻止液体流动。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENGASTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENGASTILE.EFFECT"
+msgid "Building with wooden airflow tile promotes better gas circulation within a colony."
+msgstr "用木制透气砖建造建筑可以为殖民地获得更好的空气流通。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENGASTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENGASTILE.NAME"
+msgid "Wooden Airflow Tile"
+msgstr "木质透气砖"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENLADDER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENLADDER.DESC"
+msgid "A pretty ladder made of wood."
+msgstr "一架漂亮的木制梯子。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENLADDER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENLADDER.EFFECT"
+msgid "Increase duplicants climbing speed."
+msgstr "增加复制人的攀爬速度。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENLADDER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENLADDER.NAME"
+msgid "Wooden Ladder"
+msgstr "木梯"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENMESHTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENMESHTILE.DESC"
+msgid "A wooden tile filled with minute holes, used to build walls and floors of rooms.  \n\nDoes not obstruct Liquid or Gas flow. "
+msgstr "一种有小孔的砖块，用于建造房间的墙壁和地板。\n\n不会阻止液体或气体流动。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENMESHTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENMESHTILE.EFFECT"
+msgid "Wooden mesh tile can be used to make Duplicant pathways in areas where liquid flows."
+msgstr "木质网格砖可以为复制人在液体流动的地区提供路面。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENMESHTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENMESHTILE.NAME"
+msgid "Wooden Mesh Tile"
+msgstr "木质网格砖"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENTILE.DESC"
+msgid "Used to build the walls and floors of rooms. Increases Decor, contributing to Morale. "
+msgstr "用于建造房间的墙壁和地板。\n\n增加装饰度和提高复制人士气。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENTILE.EFFECT"
+msgid "Simple wooden tiles."
+msgstr "简单的木砖块。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENTILE.NAME"
+msgid "Wooden Tile"
+msgstr "木质砖"
+
