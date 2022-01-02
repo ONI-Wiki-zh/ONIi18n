@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: TerrestrisYE <yelingfeng0815@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh-cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. STRINGS.CREATURES.SPECIES.CREAMCAP.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.CREAMCAP.DESC"
+msgid "A soft white mushroom with a creamie texture on its cap. Despite growing in filthy dark spots, it is edible."
+msgstr "一种柔软的白色蘑菇，菌帽是奶油质地的。虽然长在黑暗肮脏的地方，但还是能吃的。"
+
+#. STRINGS.CREATURES.SPECIES.CREAMCAP.DOMESTICATEDDESC
+msgctxt "STRINGS.CREATURES.SPECIES.CREAMCAP.DOMESTICATEDDESC"
+msgid "A soft white mushroom with a creamie texture on its cap. Despite growing in filthy dark spots, it is edible.This domesticated Creamcap requires <link=\"TOXICSAND\">Polluted Dirty</link> as fertilizer."
+msgstr "一种柔软的白色蘑菇，菌帽是奶油质地的。虽然长在黑暗肮脏的地方，但还是能吃的。这种培育的奶油蘑菇需要以<link=\"TOXICSAND\">污染土</link>作为肥料。"
+
+#. STRINGS.CREATURES.SPECIES.CREAMCAP.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.CREAMCAP.NAME"
+msgid "Creamcap Mushroom"
+msgstr "奶油蘑菇"
+
+#. STRINGS.CREATURES.SPECIES.KAKAWATREE.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.KAKAWATREE.DESC"
+msgid "A lush, golden leafed tree that grows in temperate forest biomes. It produces a rock hard edible <link=\"KAKAWAACORN\">Kakawa Acorn</link>."
+msgstr "一种生长在温带森林生物群落中郁郁葱葱的金叶树，能长出坚如磐石的<link=\"KAKAWAACORN\">可可果</link>。"
+
+#. STRINGS.CREATURES.SPECIES.KAKAWATREE.DOMESTICATEDDESC
+msgctxt "STRINGS.CREATURES.SPECIES.KAKAWATREE.DOMESTICATEDDESC"
+msgid "A lush, golden leafed tree that grows in temperate forest biomes. It produces a rock hard edible <link=\"KAKAWAACORN\">Kakawa Acorn</link>./n/n This domesticated tree requires copious amounts of <link=\"WATER\">Water</link>, and <link=\"DIRT\">Dirt</link> as fertilizer."
+msgstr "一种生长在温带森林生物群落中郁郁葱葱的金叶树，能长出坚如磐石的<link=\"KAKAWAACORN\">可可果</link>。这种培育的果树需要大量的<link=\"WATER\">水</link>和<link=\"DIRT\">泥土</link>作肥料。"
+
+#. STRINGS.CREATURES.SPECIES.KAKAWATREE.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.KAKAWATREE.NAME"
+msgid "Kakawa Tree"
+msgstr "可可树"
+
+#. STRINGS.CREATURES.SPECIES.SEEDS.CREAMCAPSEED.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.CREAMCAPSEED.DESC"
+msgid "A small spore from the <link=\"CREAMCAP\">Creamcap Mushroom</link>. Plant it in a dark place and its surely to flourish."
+msgstr "一颗<link=\"CREAMCAP\">奶油蘑菇</link>的孢子，种在黑暗的地方就能蓬勃生长。"
+
+#. STRINGS.CREATURES.SPECIES.SEEDS.CREAMCAPSEED.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.CREAMCAPSEED.NAME"
+msgid "Creamcap Mushroom Spore"
+msgstr "奶油蘑菇孢子"
+
+#. STRINGS.CREATURES.SPECIES.SEEDS.KAKAWATREESEED.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.KAKAWATREESEED.DESC"
+msgid "The Sprout of a <link=\"KAKAWATREE\">Kakawa Tree</link>."
+msgstr "一颗<link=\"KAKAWATREE\">可可树</link>的种子。"
+
+#. STRINGS.CREATURES.SPECIES.SEEDS.KAKAWATREESEED.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.KAKAWATREESEED.NAME"
+msgid "Kakawa Tree Sprout"
+msgstr "可可树种"
+
+#. STRINGS.CREATURES.SPECIES.SEEDS.SUNNYWHEATSEED.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SUNNYWHEATSEED.DESC"
+msgid "The bulb of a <link=\"SUNNYWHEAT\">Sunny Wheat</link>."
+msgstr "<link=\"SUNNYWHEAT\">暖阳小麦</link>的种子。"
+
+#. STRINGS.CREATURES.SPECIES.SEEDS.SUNNYWHEATSEED.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SUNNYWHEATSEED.NAME"
+msgid "Sunny Wheat Bulb"
+msgstr "暖阳麦种"
+
+#. STRINGS.CREATURES.SPECIES.SUNNYWHEAT.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.SUNNYWHEAT.DESC"
+msgid "A vibrant wheat that grows in temperate and hot biomes. It produces <link=\"SUNNYWHEATGRAIN\">Sunny Wheat Grain</link>, a warm grain that can be processed in to food."
+msgstr "一种生长在温暖和炎热生物群落中充满活力的小麦。可以长出<link=\"SUNNYWHEATGRAIN\">暖阳麦粒</link>，一种用于制作美食的谷物。"
+
+#. STRINGS.CREATURES.SPECIES.SUNNYWHEAT.DOMESTICATEDDESC
+msgctxt "STRINGS.CREATURES.SPECIES.SUNNYWHEAT.DOMESTICATEDDESC"
+msgid "A vibrant wheat that grows in temperate and hot biomes. It produces <link=\"SUNNYWHEATGRAIN\">Sunny Wheat Grain</link>, a warm grain that can be processed in to food./n/n This domesticated wheat require little <link=\"WATER\">Water</link>. Also require <link=\"SAND\">Sand</link> as fertilizer."
+msgstr "一种生长在温暖和炎热生物群落中充满活力的小麦。可以长出<link=\"SUNNYWHEATGRAIN\">暖阳麦粒</link>，一种用于制作美食的谷物。/n/n 这种培育的小麦只需要一点<link=\"WATER\">水</link>的灌溉和<link=\"SAND\">沙子</link>作为肥料。"
+
+#. STRINGS.CREATURES.SPECIES.SUNNYWHEAT.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.SUNNYWHEAT.NAME"
+msgid "Sunny Wheat"
+msgstr "暖阳小麦"
+
+#. STRINGS.ITEMS.FOOD.CREAMTOP_CAP.DESC
+msgctxt "STRINGS.ITEMS.FOOD.CREAMTOP_CAP.DESC"
+msgid "The fruiting body of a Creamcap Mushroom. Has a rich earthy flavor and a pungent, mildly sweet aroma"
+msgstr "奶油蘑菇的子实体，有浓郁的泥土味和辛辣、微甜的香气。"
+
+#. STRINGS.ITEMS.FOOD.CREAMTOP_CAP.NAME
+msgctxt "STRINGS.ITEMS.FOOD.CREAMTOP_CAP.NAME"
+msgid "<link=\"CREAMTOPCAP\">Creamcap</link>"
+msgstr "<link=\"CREAMTOPCAP\">奶油菌盖</link>"
+
+#. STRINGS.ITEMS.FOOD.FISHWRAP.DESC
+msgctxt "STRINGS.ITEMS.FOOD.FISHWRAP.DESC"
+msgid "A tasty snack made by wrapping grilled <link=\"FISHMEAT\">Pacu Fillet</link> with <link=\"FLATBREAD\">Warm Flat Bread</link>. Each bite leaves a mild warm sensation in one's mouth, even when the snack itself is served cold."
+msgstr "一块美味的鱼肉卷饼由<link=\"FLATBREAD\">小麦薄饼</link>包裹着<link=\"FISHMEAT\">帕库鱼片</link>而成，每一口都会在嘴里留下温暖的感觉，即便没有加热。"
+
+#. STRINGS.ITEMS.FOOD.FISHWRAP.NAME
+msgctxt "STRINGS.ITEMS.FOOD.FISHWRAP.NAME"
+msgid "<link=\"FISHWRAP\">Pacu Wrap</link>"
+msgstr "<link=\"FISHWRAP\">鱼肉卷饼</link>"
+
+#. STRINGS.ITEMS.FOOD.FLATBREAD.DESC
+msgctxt "STRINGS.ITEMS.FOOD.FLATBREAD.DESC"
+msgid "A simple flat bread baked from <link=\"SUNNYWHEATGRAIN\">Sunny Wheat Grain</link>. Each bite leaves a mild warmth sensation in one's mouth, even when the bread itself is cold."
+msgstr "一块简单的薄饼，由<link=\"SUNNYWHEATGRAIN\">暖阳麦粒</link>制作而成，每一口都会在嘴里留下温暖的感觉，即便没有加热。"
+
+#. STRINGS.ITEMS.FOOD.FLATBREAD.NAME
+msgctxt "STRINGS.ITEMS.FOOD.FLATBREAD.NAME"
+msgid "<link=\"FLATBREAD\">Warm Flat Bread</link>"
+msgstr "<link=\"FLATBREAD\">小麦薄饼</link>"
+
+#. STRINGS.ITEMS.FOOD.GRILLED_CREAMTOP.DESC
+msgctxt "STRINGS.ITEMS.FOOD.GRILLED_CREAMTOP.DESC"
+msgid "The grilled fruiting of a <link=\"CREAMTOPCAP\">Creamcap</link>. It has a crispy texture and a soft, mildly sweet, earthy flavor."
+msgstr "烤制的奶油蘑菇子实体，有浓郁的泥土味和辛辣、微甜的香气。"
+
+#. STRINGS.ITEMS.FOOD.GRILLED_CREAMTOP.NAME
+msgctxt "STRINGS.ITEMS.FOOD.GRILLED_CREAMTOP.NAME"
+msgid "<link=\"GRILLEDCREAMTOP\">Grilled Creamcap</link>"
+msgstr "<link=\"GRILLEDCREAMTOP\">烤奶油菇</link>"
+
+#. STRINGS.ITEMS.FOOD.KAKAWA_ACORN.DESC
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWA_ACORN.DESC"
+msgid "The fruits of a <link=\"KAKAWATREE\">Kakawa Tree</link>. Differently from other nuts, this one is so hard that can't be eat raw. The edible inside is also very bitter."
+msgstr "<link=\"KAKAWATREE\">可可树</link>的果实和其他坚果不同，不加处理直接食用根本咬不动。里面的籽能吃但很苦。"
+
+#. STRINGS.ITEMS.FOOD.KAKAWA_ACORN.NAME
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWA_ACORN.NAME"
+msgid "<link=\"KAKAWAACORN\">Kakawa Acorn</link>"
+msgstr "<link=\"KAKAWAACORN\">可可果</link>"
+
+#. STRINGS.ITEMS.FOOD.KAKAWABAR.DESC
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWABAR.DESC"
+msgid "<link=\"ROASTEDKAKAWA\">Roasted Kakawa</link> compressed to a dense, buttery mass. Further cooking remove most of Kakawa bitterness, rendering this bar incredible tasty."
+msgstr "把<link=\"ROASTEDKAKAWA\">烤可可果</link>压缩成致密的黄油状物质。进一步的烹制可以消除可可果的大部分苦味，使这根可可棒变得难以置信的美味。"
+
+#. STRINGS.ITEMS.FOOD.KAKAWABAR.NAME
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWABAR.NAME"
+msgid "<link=\"KAKAWABAR\">Kakawa Bar</link>"
+msgstr "<link=\"KAKAWABAR\">可可棒</link>"
+
+#. STRINGS.ITEMS.FOOD.KAKAWABUTTER.DESC
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWABUTTER.DESC"
+msgid "An oily butter extracted from <link=\"KAKAWAACORN\">Kakawa Acorn</link>. This butter has a tasty aroma, although one must like bitterness to actually eat it in this form."
+msgstr "可可果中提取的黄油，有一种美味的香气。复制人必须喜欢苦味才能食用这种形式的食物。"
+
+#. STRINGS.ITEMS.FOOD.KAKAWABUTTER.NAME
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWABUTTER.NAME"
+msgid "<link=\"KAKAWABUTTER\">Kakawa Butter</link>"
+msgstr "<link=\"KAKAWABUTTER\">可可黄油</link>"
+
+#. STRINGS.ITEMS.FOOD.KAKAWACOOKIE.DESC
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWACOOKIE.DESC"
+msgid "A buttery cookie with a subtle bittersweet, cold flavor."
+msgstr "一块吃起来口感冰凉的黄油饼干，微苦中带甜。"
+
+#. STRINGS.ITEMS.FOOD.KAKAWACOOKIE.NAME
+msgctxt "STRINGS.ITEMS.FOOD.KAKAWACOOKIE.NAME"
+msgid "<link=\"KAKAWACOOKIE\">Frost Cookie</link>"
+msgstr "<link=\"KAKAWACOOKIE\">冰霜饼干</link>"
+
+#. STRINGS.ITEMS.FOOD.LICEWRAP.DESC
+msgctxt "STRINGS.ITEMS.FOOD.LICEWRAP.DESC"
+msgid "A dubious snack made by wrapping fresh <link=\"BASICPLANTFOOD\">Meal Lice</link> with <link=\"FLATBREAD\">Warm Flat Bread</link>. The warm flavor from the bread mitigates regretable texture of filling."
+msgstr "把新鲜<link=\"BASICPLANTFOOD\">米蚤</link>包在<link=\"FLATBREAD\">小麦薄饼</link>中就可以做出这种可疑的小吃，薄饼的温暖味道减轻了怪异馅料的遗憾。"
+
+#. STRINGS.ITEMS.FOOD.LICEWRAP.NAME
+msgctxt "STRINGS.ITEMS.FOOD.LICEWRAP.NAME"
+msgid "<link=\"LICEWRAP\">Lice Wrap</link>"
+msgstr "<link=\"LICEWRAP\">米蚤卷饼</link>"
+
+#. STRINGS.ITEMS.FOOD.MEATTACO.DESC
+msgctxt "STRINGS.ITEMS.FOOD.MEATTACO.DESC"
+msgid "A filling meal made with slowly baked <link=\"MEAT\">Meat</link> with <link=\"COOKEDEGG\">Omellete</link>, all served within a <link=\"FLATBREAD\">Warm Flat Bread</link>. It promptly leaves a warm sensation while it goes inside, as well when it leaves."
+msgstr "用暖阳<link=\"FLATBREAD\">小麦薄饼</link>卷上慢烤的<link=\"MEAT\">肉</link>和<link=\"COOKEDEGG\">煎蛋卷</link>，在入口和吞下时都会留下温暖的感觉。"
+
+#. STRINGS.ITEMS.FOOD.MEATTACO.NAME
+msgctxt "STRINGS.ITEMS.FOOD.MEATTACO.NAME"
+msgid "<link=\"MEATTACO\">Meat Taco</link>"
+msgstr "<link=\"MEATTACO\">肉蛋卷饼</link>"
+
+#. STRINGS.ITEMS.FOOD.MEATWRAP.DESC
+msgctxt "STRINGS.ITEMS.FOOD.MEATWRAP.DESC"
+msgid "A tasty snack made by wrapping grilled <link=\"MEAT\">Meat</link> with <link=\"FLATBREAD\">Warm Flat Bread</link>. Each bite leaves a mild warm sensation in one's mouth, even when the snack itself is served cold."
+msgstr "用暖阳<link=\"FLATBREAD\">小麦薄饼</link>卷上慢烤的<link=\"MEAT\">肉</link>，在入口和吞下时都会留下温暖的感觉。"
+
+#. STRINGS.ITEMS.FOOD.MEATWRAP.NAME
+msgctxt "STRINGS.ITEMS.FOOD.MEATWRAP.NAME"
+msgid "<link=\"MEATWRAP\">Meat Wrap</link>"
+msgstr "<link=\"MEATWRAP\">烤肉卷饼</link>"
+
+#. STRINGS.ITEMS.FOOD.MUSHROOMSTEW.DESC
+msgctxt "STRINGS.ITEMS.FOOD.MUSHROOMSTEW.DESC"
+msgid "A thick, flavorful soup made by simmering mushroons and spices, placed within a hallowed Frost Bun and baked in a oven."
+msgstr "把用文火炖蘑菇和香料烹制的可口浓汤，放入神圣的冰霜面包中，然后在烤箱中烘烤。"
+
+#. STRINGS.ITEMS.FOOD.MUSHROOMSTEW.NAME
+msgctxt "STRINGS.ITEMS.FOOD.MUSHROOMSTEW.NAME"
+msgid "<link=\"MUSHROOMSTEW\">Mushroom Stew</link>"
+msgstr "<link=\"MUSHROOMSTEW\">炖蘑菇</link>"
+
+#. STRINGS.ITEMS.FOOD.NUT_CAKE.DESC
+msgctxt "STRINGS.ITEMS.FOOD.NUT_CAKE.DESC"
+msgid "A saborous <link=\"NUTCAKE\">Nutcake</link> baked from bitter nuts, spieces and wheat. Brings warmth to the heart (and stomach)."
+msgstr "由苦坚果、香料和小麦烘焙而成的美味<link=\"NUTCAKE\">坚果蛋糕</link>，为心脏（和胃）带来温暖。"
+
+#. STRINGS.ITEMS.FOOD.NUT_CAKE.NAME
+msgctxt "STRINGS.ITEMS.FOOD.NUT_CAKE.NAME"
+msgid "<link=\"NUTCAKE\">Nutcake</link>"
+msgstr "<link=\"NUTCAKE\">坚果蛋糕</link>"
+
+#. STRINGS.ITEMS.FOOD.ROASTED_KAKAWA.DESC
+msgctxt "STRINGS.ITEMS.FOOD.ROASTED_KAKAWA.DESC"
+msgid "A fully roasted <link=\"KAKAWAACORN\">Kakawa Acorn</link>. The roasting crack open its hard shell reaveling a edible nut, although the eating may be a bitter experience."
+msgstr "一颗完全烤熟的<link=\"KAKAWAACORN\">可可果</link>，烘烤打开了它坚硬的外壳并暴露出可食用的坚果，虽然吃起来是一种苦的味道。"
+
+#. STRINGS.ITEMS.FOOD.ROASTED_KAKAWA.NAME
+msgctxt "STRINGS.ITEMS.FOOD.ROASTED_KAKAWA.NAME"
+msgid "<link=\"ROASTEDKAKAWA\">Roasted Kakawa</link>"
+msgstr "<link=\"ROASTEDKAKAWA\">烤可可果</link>"
+
+#. STRINGS.ITEMS.FOOD.SEATACO.DESC
+msgctxt "STRINGS.ITEMS.FOOD.SEATACO.DESC"
+msgid "A filling meal made with slowly baked <link=\"FISHMEAT\">Pacu Fillet</link> with <link=\"LETTUCE\">Lettuce</link>, and a pinch of <link=\"SPICENUT\">Pepper Nut</link>, all served with a <link=\"FLATBREAD\">Warm Flat Bread</link>. It promptly leaves a warm sensation while it goes inside, as well when it leaves."
+msgstr "用暖阳<link=\"FLATBREAD\">小麦薄饼</link>卷上慢烤的<link=\"FISHMEAT\">帕库鱼片</link>和<link=\"LETTUCE\">海生菜</link>，再加上一小撮<link=\"SPICENUT\">火椒</link>粉，在入口和吞下时都会留下温暖的感觉。"
+
+#. STRINGS.ITEMS.FOOD.SEATACO.NAME
+msgctxt "STRINGS.ITEMS.FOOD.SEATACO.NAME"
+msgid "<link=\"SEATACO\">Sea Taco</link>"
+msgstr "<link=\"SEATACO\">海鲜卷饼</link>"
+
+#. STRINGS.ITEMS.FOOD.SUNNYWHEAT_GRAIN.DESC
+msgctxt "STRINGS.ITEMS.FOOD.SUNNYWHEAT_GRAIN.DESC"
+msgid "The edible grain of a <link=\"SUNNYWHEAT\">Sunny Wheat</link>. This edible grain leaves a warm taste on the tongue."
+msgstr "<link=\"SUNNYWHEAT\">暖阳小麦</link>长出的可食用谷粒，在入口和吞下时都会留下温暖的感觉。"
+
+#. STRINGS.ITEMS.FOOD.SUNNYWHEAT_GRAIN.NAME
+msgctxt "STRINGS.ITEMS.FOOD.SUNNYWHEAT_GRAIN.NAME"
+msgid "<link=\"SUNNYWHEATGRAIN\">Sunny Wheat Grain</link>"
+msgstr "<link=\"SUNNYWHEATGRAIN\">暖阳麦粒</link>"
+
