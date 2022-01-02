@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.DESC"
+msgid "A small, custom Combustible Gas generator. This rather versatile generator has piped outputs."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.EFFECT"
+msgid "Converts <link=\"METHANE\">Natural Gas</link> or <link=\"PROPANE\">Propane</link> into electrical <link=\"POWER\">Power</link>.\n\nProduces <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> and <link=\"DIRTYWATER\">Polluted Water</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.NAME"
+msgid "Custom Natural Gas Generator"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.DESC"
+msgid "A small, custom Combustible Liquid generator. This rather versatile generator has piped outputs."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.EFFECT"
+msgid "Converts either <link=\"PETROLEUM\">Petroleum</link>, <link=\"ETHANOL\">Ethanol</link> or <link=\"NAPHTHA\">Naphtha</link> into electrical <link=\"POWER\">Power</link>.\n\nProduces <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> and <link=\"DIRTYWATER\">Polluted Water</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.NAME"
+msgid "Custom Petroleum Generator"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.DESC"
+msgid "A small reciprocating engine that uses Steam to perform mechanical work. Useful for converting the geothermal energy into usable power."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.EFFECT"
+msgid "Draws in <link=\"STEAM\">Steam</link> from the tiles directly below the machine's foundation and uses it to generate electrical <link=\"POWER\">Power</link>.\n\nOutputs <link=\"WATER\">Water</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.NAME"
+msgid "Steam Engine Generator"
+msgstr ""
+

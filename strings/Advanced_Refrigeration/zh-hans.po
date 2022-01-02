@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: TerrestrisYE <yelingfeng0815@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh-cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. STRINGS.BUILDINGS.PREFABS.FRIDGEADVANCED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FRIDGEADVANCED.DESC"
+msgid "Stores Food at an ideal Temperature to prevent spoilage. This modern style fridge was engineered to store large amounts of edibles and ingredients."
+msgstr "在理想的温度下储存食物以防止变质。这款现代风格的冰箱专为储存大量食物和烹饪原料而设计。"
+
+#. STRINGS.BUILDINGS.PREFABS.FRIDGEADVANCED.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FRIDGEADVANCED.EFFECT"
+msgid "Food spoilage can be slowed by ambient conditions as well as refrigerators."
+msgstr "环境条件和冰箱可以减缓食物变质。"
+
+#. STRINGS.BUILDINGS.PREFABS.FRIDGEADVANCED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FRIDGEADVANCED.NAME"
+msgid "Advanced Fridge"
+msgstr "高级冰箱"
+
+#. STRINGS.BUILDINGS.PREFABS.FRIDGEBLUE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FRIDGEBLUE.DESC"
+msgid "Stores Food at an ideal Temperature to prevent spoilage. This old style fridge was engineered to store large amounts of edibles and ingredients."
+msgstr "在理想的温度下储存食物以防止变质。这款老式的冰箱专为储存大量食物和烹饪原料而设计。"
+
+#. STRINGS.BUILDINGS.PREFABS.FRIDGEBLUE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FRIDGEBLUE.EFFECT"
+msgid "Food spoilage can be slowed by ambient conditions as well as refrigerators."
+msgstr "环境条件和冰箱可以减缓食物变质。"
+
+#. STRINGS.BUILDINGS.PREFABS.FRIDGEBLUE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FRIDGEBLUE.NAME"
+msgid "Blue Fridge"
+msgstr "蓝色冰箱"
+
+#. STRINGS.BUILDINGS.PREFABS.FRIDGERED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FRIDGERED.DESC"
+msgid "Stores Food at an ideal Temperature to prevent spoilage. This old style fridge was engineered to store large amounts of edibles and ingredients."
+msgstr "在理想的温度下储存食物以防止变质。这款老式的冰箱专为储存大量食物和烹饪原料而设计。"
+
+#. STRINGS.BUILDINGS.PREFABS.FRIDGERED.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FRIDGERED.EFFECT"
+msgid "Food spoilage can be slowed by ambient conditions as well as refrigerators."
+msgstr "环境条件和冰箱可以减缓食物变质。"
+
+#. STRINGS.BUILDINGS.PREFABS.FRIDGERED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FRIDGERED.NAME"
+msgid "Red Fridge"
+msgstr "红色冰箱"
+
+#. STRINGS.BUILDINGS.PREFABS.FRIDGEYELLOW.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FRIDGEYELLOW.DESC"
+msgid "Stores Food at an ideal Temperature to prevent spoilage. This old style fridge was engineered to store large amounts of edibles and ingredients."
+msgstr "在理想的温度下储存食物以防止变质。这款老式的冰箱专为储存大量食物和烹饪原料而设计。"
+
+#. STRINGS.BUILDINGS.PREFABS.FRIDGEYELLOW.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FRIDGEYELLOW.EFFECT"
+msgid "Food spoilage can be slowed by ambient conditions as well as refrigerators."
+msgstr "环境条件和冰箱可以减缓食物变质。"
+
+#. STRINGS.BUILDINGS.PREFABS.FRIDGEYELLOW.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FRIDGEYELLOW.NAME"
+msgid "Yellow Fridge"
+msgstr "黄色冰箱"
+
+#. STRINGS.BUILDINGS.PREFABS.SIMPLEFRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SIMPLEFRIDGE.DESC"
+msgid "Stores Food at an ideal Temperature to prevent spoilage. This simple style fridge was designed for standard use with no additional function."
+msgstr "在理想的温度下储存食物以防止变质。这款简约风格的冰箱专为标准用途而设计，没有附加功能。"
+
+#. STRINGS.BUILDINGS.PREFABS.SIMPLEFRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SIMPLEFRIDGE.EFFECT"
+msgid "Food spoilage can be slowed by ambient conditions as well as refrigerators."
+msgstr "环境条件和冰箱可以减缓食物变质。"
+
+#. STRINGS.BUILDINGS.PREFABS.SIMPLEFRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SIMPLEFRIDGE.NAME"
+msgid "Simple Fridge"
+msgstr "简约冰箱"
+

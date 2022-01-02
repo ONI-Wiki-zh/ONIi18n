@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: TerrestrisYE <yelingfeng0815@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh-cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTTAG.DESC"
+msgid "A wall informative tag for alerts."
+msgstr "一个需要注意的壁挂标签。"
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTTAG.EFFECT"
+msgid "This tag is a visual representation of many different alerts. Select the type of alert using the menu option. \n\nList of tags: \n - Warning\n - Hot Spot\n - Cold Spot\n - Comet Alert\n - Biohazard Alert\n - Radiation Alert\n - Brightness Alert\n - Electricity Alert\n - Danger Alert"
+msgstr "这个标签可以直观地体现不同的警告，使用菜单选项选择警告类型。\n\n标签列表: \n - 警告\n - 热量警告\n - 寒冷警告\n - 流星警告\n - 生物污染警告\n - 辐射警告\n - 亮度警告\n - 电力警告\n - 危险警告"
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTTAG.NAME"
+msgid "Alert Tag"
+msgstr "警告标签"
+
+#. STRINGS.BUILDINGS.PREFABS.DANGERRIBBON.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DANGERRIBBON.DESC"
+msgid "A wall tag with a danger ribbon mark."
+msgstr "带有危险带标记的墙标。"
+
+#. STRINGS.BUILDINGS.PREFABS.DANGERRIBBON.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DANGERRIBBON.EFFECT"
+msgid "This tag serves to demark a straight line used to outline a dangerous area."
+msgstr "此标签用于以直线划分危险区域。"
+
+#. STRINGS.BUILDINGS.PREFABS.DANGERRIBBON.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DANGERRIBBON.NAME"
+msgid "Danger Ribbon Tag"
+msgstr "警示条"
+
+#. STRINGS.BUILDINGS.PREFABS.DANGERRIBBONCORNER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DANGERRIBBONCORNER.DESC"
+msgid "A wall tag with a danger ribbon mark for corners."
+msgstr "带有危险带标记的折角墙标。"
+
+#. STRINGS.BUILDINGS.PREFABS.DANGERRIBBONCORNER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DANGERRIBBONCORNER.EFFECT"
+msgid "This tag serves to demark a corner segment of a dangerous ribbon line."
+msgstr "此标签用于划分危险区域的转角。"
+
+#. STRINGS.BUILDINGS.PREFABS.DANGERRIBBONCORNER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DANGERRIBBONCORNER.NAME"
+msgid "Danger Ribbon Corner Tag"
+msgstr "转角警示条"
+
+#. STRINGS.BUILDINGS.PREFABS.GASTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASTAG.DESC"
+msgid "A wall informative tag for gases."
+msgstr "一个指示气体信息的墙上签挂。"
+
+#. STRINGS.BUILDINGS.PREFABS.GASTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASTAG.EFFECT"
+msgid "This tag is a visual representation of gases in an industrial environment. Select the type of gas using the menu option. \n\nList of tags: \n - Oxygen\n - Polluted Oxygen\n - Carbon Dioxide\n - Hydrogen\n - Natural Gas\n - Propane\n - Chlorine\n - Helium\n - Sour Gas\n - Steam\n - Nuclear Fallout"
+msgstr "这个标签是工业环境中气体元素的直观显示。使用菜单选择气体类型。\n\n标签列表: \n - 氧气\n - 污染氧\n - 二氧化碳\n - 氢气\n - 天然气\n - 丙烷\n - 氯气\n - 氦气\n - 高硫天然气\n - 蒸汽\n - 核尘埃"
+
+#. STRINGS.BUILDINGS.PREFABS.GASTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASTAG.NAME"
+msgid "Gas Tag"
+msgstr "气体标签"
+
+#. STRINGS.BUILDINGS.PREFABS.INFOTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.INFOTAG.DESC"
+msgid "A wall tag for directive environmental information."
+msgstr "指示性环境信息的墙上标签。"
+
+#. STRINGS.BUILDINGS.PREFABS.INFOTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.INFOTAG.EFFECT"
+msgid "This tag is a visual representation many different directive informations regarding environment. Select the type of directive using the menu option. \n\nList of tags: \n - Atmo Suit\n - Jet Suit\n - Lead Suit\n - Dormitory\n - Infirmary\n - Workshop\n - Research Facility\n - Observatory\n - Restroom\n - Refectory\n - Farm\n - Critter Ranch\n - Rocket Platform"
+msgstr "这个标签是不同导向和环境信息的直观显示。使用菜单选择导向样式。\n\n标签列表: \n - 气压服\n - 喷漆服\n - 铅服\n - 宿舍\n - 医务室\n - 工作间\n - 研究设施\n - 天文台\n - 休息室\n - 洗手间\n - 农场\n - 牧场\n - 火箭平台"
+
+#. STRINGS.BUILDINGS.PREFABS.INFOTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.INFOTAG.NAME"
+msgid "Info Tag"
+msgstr "信息标签"
+
+#. STRINGS.BUILDINGS.PREFABS.LETTERTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LETTERTAG.DESC"
+msgid "A wall tag for letters."
+msgstr "一个可以挂在墙壁上的字母标签。"
+
+#. STRINGS.BUILDINGS.PREFABS.LETTERTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LETTERTAG.EFFECT"
+msgid "This tag serves to show a single letter."
+msgstr "这个标签用来显示一个字母。"
+
+#. STRINGS.BUILDINGS.PREFABS.LETTERTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LETTERTAG.NAME"
+msgid "Letters Tag"
+msgstr "字母标签"
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.DESC"
+msgid "A wall informative tag for liquids."
+msgstr "一个指示液体信息的墙上标签。"
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.EFFECT"
+msgid "This tag is a visual representation of liquids in an industrial environment. Select the type of liquid using the menu option. \n\nList of tags: \n - Water\n - Polluted Water\n - Salt Water\n - Brine\n - Ethanol\n - Crude Oil\n - Petroleum\n - Super Coolant\n - Naphtha\n - Visco-Gel\n - Liquid Oxygen\n - Liquid Hydrogen\n - Liquid Carbon Dioxide\n - Nuclear Waste"
+msgstr "这个标签是工业环境中液体元素的直观显示。使用菜单选择气体类型。\n\n标签列表: \n - 水\n - 污染水\n - 盐水\n - 浓盐水\n - 乙醇\n - 原油\n - 石油\n - 超级冷却剂\n - 石脑油\n - 粘性凝胶\n - 液态氧\n - 液态氢\n - 液态二氧化碳\n - 液态核废料"
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDTAG.NAME"
+msgid "Liquid Tag"
+msgstr "液体标签"
+
+#. STRINGS.BUILDINGS.PREFABS.METER_SCALE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.METER_SCALE.DESC"
+msgid "A wall meter scale used in open liquid reservoirs."
+msgstr "一个可以装在开放式水库里的液面标尺。"
+
+#. STRINGS.BUILDINGS.PREFABS.METER_SCALE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.METER_SCALE.EFFECT"
+msgid "This scale tag is often used to measure the amount of liquid in a reservoir."
+msgstr "这个标尺常用于计量水库中的液体。"
+
+#. STRINGS.BUILDINGS.PREFABS.METER_SCALE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.METER_SCALE.NAME"
+msgid "Meter Scale Tag"
+msgstr "标尺标签"
+
+#. STRINGS.BUILDINGS.PREFABS.NUMBERSTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.NUMBERSTAG.DESC"
+msgid "A wall tag for numbers."
+msgstr "一个可以挂载墙上的数字标签。"
+
+#. STRINGS.BUILDINGS.PREFABS.NUMBERSTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.NUMBERSTAG.EFFECT"
+msgid "This tag serves to show a single number."
+msgstr "这个标签用来显示一个数字。"
+
+#. STRINGS.BUILDINGS.PREFABS.NUMBERSTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.NUMBERSTAG.NAME"
+msgid "Numbers Tag"
+msgstr "数字标签"
+
+#. STRINGS.BUILDINGS.PREFABS.SOLIDTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTAG.DESC"
+msgid "A wall informative tag for solids."
+msgstr "一个指示固体信息的墙上标签。"
+
+#. STRINGS.BUILDINGS.PREFABS.SOLIDTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTAG.EFFECT"
+msgid "This tag is a visual representation of solids in an industrial environment. Select the type of solids using the menu option. \n\nList of tags: \n - Agriculture\n - Consumable Ore\n - Critter Egg\n - Cultivable Soil\n - Filtration Medium\n - Industrial Ingredient\n - Liquefiable\n - Manufacture Material\n - Medical Supplies\n - Metal Ore\n - Miscellaneous\n - Organic\n - Rare Resource\n - Raw Mineral\n - Refined Metal\n - Refined Mineral\n - Cooking Ingredient\n - Edibles"
+msgstr "这个标签是工业环境中固体元素的直观显示。使用菜单选择固体类型。 \n\n标签列表: \n - 农业用品\n - 消耗性矿石\n - 小动物蛋\n - 可耕作的土壤\n - 过滤介质\n - 工业原料\n - 可液化物\n - 人造材料\n - 医疗物品\n - 金属矿石\n - 杂项\n - 有机物\n - 稀有资源\n - 矿物原料\n - 精炼金属\n - 精炼矿物\n - 烹饪原料\n - 食物"
+
+#. STRINGS.BUILDINGS.PREFABS.SOLIDTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SOLIDTAG.NAME"
+msgid "Solid Tag"
+msgstr "固体标签"
+
+#. STRINGS.BUILDINGS.PREFABS.SYSTEMTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SYSTEMTAG.DESC"
+msgid "A wall informative tag for system and sensors."
+msgstr "可以挂在墙上的系统和传感器标签。"
+
+#. STRINGS.BUILDINGS.PREFABS.SYSTEMTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SYSTEMTAG.EFFECT"
+msgid "This tag is a visual representation of many different kinds of eletronics, systems and sensors signs. Select the type of system using the menu option. \n\nList of tags: \n - Closed Cycle\n - Organic Recycle\n - Recycle\n - Power Toggle\n - Gas Element Sensor\n - Liquid Sensor\n - Power Sensor\n - Pressure Sensor\n - Temperature Sensor\n - Time Sensor"
+msgstr "这个标签是电力，系统和传感器的直观显示。使用菜单选择系统类型。\n\n标签列表: \n - 闭环系统\n - 有机循环\n - 回收系统\n - 电力开关\n - 气体元素传感器\n - 液体元素传感器\n - 电力传感器\n - 压力传感器\n - 温度传感器\n - 时间传感器"
+
+#. STRINGS.BUILDINGS.PREFABS.SYSTEMTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SYSTEMTAG.NAME"
+msgid "System Tag"
+msgstr "系统标签"
+
+#. STRINGS.BUILDINGS.PREFABS.UTILITYTAG.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.UTILITYTAG.DESC"
+msgid "A wall informative tag for utilities."
+msgstr "一个可以挂在墙上的方向和设备标签。"
+
+#. STRINGS.BUILDINGS.PREFABS.UTILITYTAG.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.UTILITYTAG.EFFECT"
+msgid "This tag is a visual representation of many different kinds of utilities signs. Select the type of utility using the menu option. \n\nList of tags: \n - Direction\n - Diagonal Direction\n - Both Direction\n - Gas Pump\n - Liquid Pump\n - Solid Conveyor"
+msgstr "这个标签直观地显示了不同种的设备标签。使用菜单选择方向和设备的标签选项。\n\n标签列表: \n - 方向\n - 对角线方向\n - 双方向\n - 气泵\n - 液泵\n - 固体传送带"
+
+#. STRINGS.BUILDINGS.PREFABS.UTILITYTAG.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.UTILITYTAG.NAME"
+msgid "Utility Tag"
+msgstr "设备标签"
+

@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLGASRESERVOIR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLGASRESERVOIR.DESC"
+msgid "Reservoirs cannot receive manually delivered resources."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLGASRESERVOIR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLGASRESERVOIR.EFFECT"
+msgid "A small sized reservoir that stores any Gas resources piped into it."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLGASRESERVOIR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLGASRESERVOIR.NAME"
+msgid "Small Gas Reservoir B"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLLIQUIDRESERVOIR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLLIQUIDRESERVOIR.DESC"
+msgid "Reservoirs cannot receive manually delivered resources."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLLIQUIDRESERVOIR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLLIQUIDRESERVOIR.EFFECT"
+msgid "A small sized reservoir that stores any Liquid resources piped into it."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLLIQUIDRESERVOIR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLLIQUIDRESERVOIR.NAME"
+msgid "Small Liquid Reservoir B"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MEDGASRESERVOIR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MEDGASRESERVOIR.DESC"
+msgid "Reservoirs cannot receive manually delivered resources."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MEDGASRESERVOIR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MEDGASRESERVOIR.EFFECT"
+msgid "A medium sized reservoir that stores any Gas resources piped into it."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MEDGASRESERVOIR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MEDGASRESERVOIR.NAME"
+msgid "Medium Gas Reservoir"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MEDLIQUIDRESERVOIR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MEDLIQUIDRESERVOIR.DESC"
+msgid "Reservoirs cannot receive manually delivered resources."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MEDLIQUIDRESERVOIR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MEDLIQUIDRESERVOIR.EFFECT"
+msgid "A medium sized reservoir that stores any Liquid resources piped into it."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MEDLIQUIDRESERVOIR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MEDLIQUIDRESERVOIR.NAME"
+msgid "Medium Liquid Reservoir"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SMALLGASRESERVOIR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLGASRESERVOIR.DESC"
+msgid "Reservoirs cannot receive manually delivered resources."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SMALLGASRESERVOIR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLGASRESERVOIR.EFFECT"
+msgid "A small sized reservoir that stores any Gas resources piped into it."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SMALLGASRESERVOIR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLGASRESERVOIR.NAME"
+msgid "Small Gas Reservoir A"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SMALLLIQUIDRESERVOIR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLLIQUIDRESERVOIR.DESC"
+msgid "Reservoirs cannot receive manually delivered resources."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SMALLLIQUIDRESERVOIR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLLIQUIDRESERVOIR.EFFECT"
+msgid "A small sized reservoir that stores any Liquid resources piped into it."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SMALLLIQUIDRESERVOIR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SMALLLIQUIDRESERVOIR.NAME"
+msgid "Small Liquid Reservoir A"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIR.DESC"
+msgid "Reservoirs cannot receive manually delivered resources."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIR.EFFECT"
+msgid "A small sized reservoir that stores any Gas resources piped into it. Can be placed on walls."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIR.NAME"
+msgid "Wall Gas Reservoir A"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIRINVERTED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIRINVERTED.DESC"
+msgid "Reservoirs cannot receive manually delivered resources."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIRINVERTED.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIRINVERTED.EFFECT"
+msgid "A small sized reservoir that stores any Gas resources piped into it. Can be placed on walls."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIRINVERTED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WALLGASRESERVOIRINVERTED.NAME"
+msgid "Wall Gas Reservoir B"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIR.DESC"
+msgid "Reservoirs cannot receive manually delivered resources."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIR.EFFECT"
+msgid "A small sized reservoir that stores any Gas resources piped into it. Can be placed on walls."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIR.NAME"
+msgid "Wall Liquid Reservoir A"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIRINVERTED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIRINVERTED.DESC"
+msgid "Reservoirs cannot receive manually delivered resources."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIRINVERTED.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIRINVERTED.EFFECT"
+msgid "A small sized reservoir that stores any Gas resources piped into it. Can be placed on walls."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIRINVERTED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WALLLIQUIDRESERVOIRINVERTED.NAME"
+msgid "Wall Liquid Reservoir B"
+msgstr ""
+

@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: TerrestrisYE <yelingfeng0815@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh-cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. STRINGS.BUILDINGS.PREFABS.COAL_BOILER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.COAL_BOILER.DESC"
+msgid "An industrial grade steam boiler that uses coal as fuel."
+msgstr "一个以煤炭为燃料的工业级锅炉。"
+
+#. STRINGS.BUILDINGS.PREFABS.COAL_BOILER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.COAL_BOILER.EFFECT"
+msgid "Boils <link=\"WATER\">Water</link> to <link=\"STEAM\">Steam</link> at 200 °C. This particular boiler uses <link=\"CARBON\">Coal</link> as fuel."
+msgstr "通过以<link=\"CARBON\">煤炭</link>为燃料将<link=\"WATER\">水</link>煮沸为200°C的<link=\"STEAM\">蒸汽</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.COAL_BOILER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.COAL_BOILER.NAME"
+msgid "Coal Steam Boiler"
+msgstr "煤炭锅炉"
+
+#. STRINGS.BUILDINGS.PREFABS.GAS_BOILER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GAS_BOILER.DESC"
+msgid "An industrial grade steam boiler that uses natural gas as fuel."
+msgstr "一个以天然气为燃料的工业级锅炉。"
+
+#. STRINGS.BUILDINGS.PREFABS.GAS_BOILER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GAS_BOILER.EFFECT"
+msgid "Boils <link=\"WATER\">Water</link> to <link=\"STEAM\">Steam</link> at 200 °C. This particular boiler uses <link=\"METHANE\">Natural Gas</link> as fuel."
+msgstr "通过以<link=\"Natural Gas\">天然气</link>为燃料将<link=\"WATER\">水</link>煮沸为200°C的<link=\"STEAM\">蒸汽</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.GAS_BOILER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GAS_BOILER.NAME"
+msgid "Natural Gas Steam Boiler"
+msgstr "天然气锅炉"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODEN_BOILER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODEN_BOILER.DESC"
+msgid "An industrial grade steam boiler that uses lumber as fuel."
+msgstr "一个以木料为燃料的工业级锅炉。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODEN_BOILER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODEN_BOILER.EFFECT"
+msgid "Boils <link=\"WATER\">Water</link> to <link=\"STEAM\">Steam</link> at 200 °C. This particular boiler uses Lumber as fuel."
+msgstr "通过以木料为燃料将<link=\"WATER\">水</link>煮沸为200°C的<link=\"STEAM\">蒸汽</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.WOODEN_BOILER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODEN_BOILER.NAME"
+msgid "Lumber Steam Boiler"
+msgstr "木料锅炉"
+

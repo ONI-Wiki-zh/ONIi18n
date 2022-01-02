@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.COZYBED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.COZYBED.DESC"
+msgid "Duplicants prefer wooden beds to cots and gain more stamina from sleeping in them."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.COZYBED.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.COZYBED.EFFECT"
+msgid "A cozy bed that somewhat resembles a sofa. This bed grants extra stamina restoration."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.COZYBED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.COZYBED.NAME"
+msgid "Sofa Bed"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.KITCHENHOOD.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.KITCHENHOOD.DESC"
+msgid "A kitchen hood decoration."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.KITCHENHOOD.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.KITCHENHOOD.EFFECT"
+msgid "A kitchen hood made with polished metal. The model can be changed by using the Change Model option."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.KITCHENHOOD.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.KITCHENHOOD.NAME"
+msgid "Kitchen Hood"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SHELFWOOD.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SHELFWOOD.DESC"
+msgid "A simple wooden shelf prop."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SHELFWOOD.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SHELFWOOD.EFFECT"
+msgid "A wooden wall shelf that provides decoration. The model can be changed by using the Change Model option."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SHELFWOOD.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SHELFWOOD.NAME"
+msgid "Wooden Shelf"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SIMPLEFIREPLACE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SIMPLEFIREPLACE.DESC"
+msgid "A house with no fireplace is a house without a heart."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SIMPLEFIREPLACE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SIMPLEFIREPLACE.EFFECT"
+msgid "A simple stone fireplace. Uses wood lumber to produce heat."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SIMPLEFIREPLACE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SIMPLEFIREPLACE.NAME"
+msgid "Simple Fireplace"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SINGLECHAIR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SINGLECHAIR.DESC"
+msgid "A simple chair decoration."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SINGLECHAIR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SINGLECHAIR.EFFECT"
+msgid "A fine chair made from refined metals and plastic. The model can be changed by using the Change Model option."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SINGLECHAIR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SINGLECHAIR.NAME"
+msgid "Single Chair"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.TABLEWOOD.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.TABLEWOOD.DESC"
+msgid "A simple wooden table prop."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.TABLEWOOD.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.TABLEWOOD.EFFECT"
+msgid "A fine table that provides decoration. The model can be changed by using the Change Model option."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.TABLEWOOD.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.TABLEWOOD.NAME"
+msgid "Wooden Table"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENBED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENBED.DESC"
+msgid "Duplicants prefer wooden beds to cots and gain more stamina from sleeping in them."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENBED.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENBED.EFFECT"
+msgid "Provides a sleeping area for one Duplicant and restores additional Stamina."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENBED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENBED.NAME"
+msgid "Wooden Bed"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENPEDESTAL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENPEDESTAL.DESC"
+msgid "The wooden pedestal provides a sophisticated way of thoughtful presentation."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENPEDESTAL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENPEDESTAL.EFFECT"
+msgid "Displays a single object, doubling its Decor value. Objects with negative decor will gain some positive decor when displayed."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENPEDESTAL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENPEDESTAL.NAME"
+msgid "Wooden Pedestal"
+msgstr ""
+

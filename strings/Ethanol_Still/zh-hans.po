@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: TerrestrisYE <yelingfeng0815@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh-cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. STRINGS.BUILDINGS.PREFABS.ETHANOLSTILL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ETHANOLSTILL.DESC"
+msgid "A solid metal still capable of distillation by selective temperature."
+msgstr "一个可以进行选择性温度蒸馏的固体蒸馏器。"
+
+#. STRINGS.BUILDINGS.PREFABS.ETHANOLSTILL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ETHANOLSTILL.EFFECT"
+msgid "Distills <link=\"ETHANOL\">Ethanol</link> from a fermented mixture of <link=\"SUCROSE\">Sucrose</link> and <link=\"WATER\">Water</link>. The fermenting process occurs with <link=\"SLIMEMOLD\">Slime</link> bacterias by the degradation of organic nutrients anaerobically."
+msgstr "将<link=\"SUCROSE\">蔗糖</link>和水由<link=\"SLIMEMOLD\">菌泥</link>通过厌氧降解发酵成<link=\"ETHANOL\">乙醇</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.ETHANOLSTILL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ETHANOLSTILL.NAME"
+msgid "Ethanol Still"
+msgstr "乙醇发酵器"
+

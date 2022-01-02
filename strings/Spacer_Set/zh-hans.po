@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: TerrestrisYE <yelingfeng0815@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh-cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERDANGER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERDANGER.DESC"
+msgid "A solid wall wrought from steel. Hermetically sealed joints prevent gas leakage into space."
+msgstr "由钢制成的坚固墙板，密封连接可防止气体泄漏到宇宙中。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERDANGER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERDANGER.EFFECT"
+msgid "This spacer wall is fitted with a perimeter stripped demarcation. Can be flipped around."
+msgstr "这面太空墙板用于以直线标记警示区，可以任意翻转。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERDANGER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERDANGER.NAME"
+msgid "Spacer Perimeter Wall"
+msgstr "警示带墙"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERDANGERCORNER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERDANGERCORNER.DESC"
+msgid "A solid wall wrought from steel. Hermetically sealed joints prevent gas leakage into space."
+msgstr "由钢制成的坚固墙板，密封连接可防止气体泄漏到宇宙中。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERDANGERCORNER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERDANGERCORNER.EFFECT"
+msgid "This spacer wall is fitted with a corner perimeter stripped demarcation destined to corners. Can be flipped around."
+msgstr "这面太空墙板用于在拐角标记警示区，可以任意翻转。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERDANGERCORNER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERDANGERCORNER.NAME"
+msgid "Spacer Perimeter Wall Corner"
+msgstr "转角警示带墙"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERPANEL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERPANEL.DESC"
+msgid "A solid panel wrought from steel. Hermetically sealed joints prevent gas leakage into space."
+msgstr "由钢制成的坚固墙板，密封连接可防止气体泄漏到宇宙中。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERPANEL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERPANEL.EFFECT"
+msgid "A small sized spacer panel."
+msgstr "一面小型的太空墙板"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERPANEL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERPANEL.NAME"
+msgid "Spacer Panel"
+msgstr "太空墙板"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERTILEGLASS.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERTILEGLASS.DESC"
+msgid "A solid tile wrought from steel and fitted with glass. Use to build the walls and floors of rooms."
+msgstr "由钢框架和玻璃制成的坚固砖块，用于建造房间的墙壁和地板。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERTILEGLASS.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERTILEGLASS.EFFECT"
+msgid "This steel framed glass tile provide a barrier against liquid and gas and are completely transparent."
+msgstr "这个钢制框架的玻璃砖可以阻挡液体和气体并保持透明。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERTILEGLASS.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERTILEGLASS.NAME"
+msgid "Spacer Glass Tile"
+msgstr "太空玻璃砖"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERTILESOLID.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERTILESOLID.DESC"
+msgid "A solid tile wrought from steel. Use to build the walls and floors of rooms."
+msgstr "由钢制成的坚固砖块，用于建造房间的墙壁和地板。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERTILESOLID.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERTILESOLID.EFFECT"
+msgid "This steel tile significantly increases Duplicant runspeed, and provide protection against space hazardous environment."
+msgstr "这个钢制的砖块可以显著地增加复制人的移动速度，并提供对宇宙有害环境的保护。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERTILESOLID.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERTILESOLID.NAME"
+msgid "Spacer Tile"
+msgstr "太空地砖"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWALLLARGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWALLLARGE.DESC"
+msgid "A solid wall wrought from steel. Hermetically sealed joints prevent gas leakage into space."
+msgstr "由钢制成的坚固墙板，密封连接可防止气体泄漏到宇宙中。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWALLLARGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWALLLARGE.EFFECT"
+msgid "A large sized spacer wall."
+msgstr "一面大型太空墙板"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWALLLARGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWALLLARGE.NAME"
+msgid "Spacer Wall Large"
+msgstr "大型太空墙板"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWALLSMALL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWALLSMALL.DESC"
+msgid "A solid wall wrought from steel. Hermetically sealed joints prevent gas leakage into space."
+msgstr "由钢制成的坚固墙板，密封连接可防止气体泄漏到宇宙中。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWALLSMALL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWALLSMALL.EFFECT"
+msgid "A small sized spacer wall."
+msgstr "一面小型太空墙板"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWALLSMALL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWALLSMALL.NAME"
+msgid "Spacer Wall Small"
+msgstr "小型太空墙板"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_A.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_A.DESC"
+msgid "A solid wall wrought from steel and fitted with thick layers of glass. Hermetically sealed joints prevent gas leakage into space."
+msgstr "由钢和多层玻璃制成的坚固墙板，密封连接可防止气体泄漏到宇宙中。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_A.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_A.EFFECT"
+msgid "A small sized spacer window. This is the A model."
+msgstr "一扇小型太空窗，这是A型。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_A.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_A.NAME"
+msgid "Spacer Window A"
+msgstr "太空窗 A型"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_B.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_B.DESC"
+msgid "A solid wall wrought from steel and fitted with thick layers of glass. Hermetically sealed joints prevent gas leakage into space."
+msgstr "由钢和多层玻璃制成的坚固墙板，密封连接可防止气体泄漏到宇宙中。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_B.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_B.EFFECT"
+msgid "A small sized spacer window. This is the B model, and can be fliped around."
+msgstr "一扇小型太空窗。这是B型，可以任意翻转。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_B.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_B.NAME"
+msgid "Spacer Window B"
+msgstr "太空窗 B型"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOWLARGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOWLARGE.DESC"
+msgid "A solid wall wrought from steel. Hermetically sealed joints prevent gas leakage into space."
+msgstr "由钢和多层玻璃制成的坚固墙板，密封连接可防止气体泄漏到宇宙中。"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOWLARGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOWLARGE.EFFECT"
+msgid "A large sized spacer window."
+msgstr "一扇大型的太空窗"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOWLARGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOWLARGE.NAME"
+msgid "Spacer Window Large"
+msgstr "大型太空窗"
+

@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTGREEN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTGREEN.DESC"
+msgid "Greem colored alert light."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTGREEN.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTGREEN.EFFECT"
+msgid "A led light that servers as alert. Produces no significant luminosity."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTGREEN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTGREEN.NAME"
+msgid "Green Alert Led"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTRED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTRED.DESC"
+msgid "Red colored alert light."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTRED.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTRED.EFFECT"
+msgid "A led light that servers as alert. Produces no significant luminosity."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTRED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTRED.NAME"
+msgid "Red Alert Light"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTYELLOW.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTYELLOW.DESC"
+msgid "Yellow colored alert light."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTYELLOW.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTYELLOW.EFFECT"
+msgid "A led light that servers as alert. Produces no significant luminosity."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ALERTLIGHTYELLOW.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTYELLOW.NAME"
+msgid "Yellow Alert Light"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CEMENTMIXER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CEMENTMIXER.DESC"
+msgid "Cement is a quite old building material, but still pretty much useful."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CEMENTMIXER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CEMENTMIXER.EFFECT"
+msgid "A device that can homogeneously combine several solid and liquid ingredients used in the production of cement."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CEMENTMIXER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CEMENTMIXER.NAME"
+msgid "Cement Mixer"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CONCRETETILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CONCRETETILE.DESC"
+msgid "A rock hard composite tile made with coarse aggregate bonded together with a fluid cement. The concrete's relatively low tensile strength and ductility are compensated for by the inclusion of a internal rebar reinforcement having higher tensile strength or ductility."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CONCRETETILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CONCRETETILE.EFFECT"
+msgid "Concrete tiles are not aesthetically pleasing, but they make up for strength and thermal resistance."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CONCRETETILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CONCRETETILE.NAME"
+msgid "Concrete Tile"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMGRANITETILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMGRANITETILE.DESC"
+msgid "Granite tiles are aesthetically pleasing while remaining a good insulator."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMGRANITETILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMGRANITETILE.EFFECT"
+msgid "A smooth tile made with several granite stones carefully placed together."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMGRANITETILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMGRANITETILE.NAME"
+msgid "Granite Tile"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMIGNEOUSTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMIGNEOUSTILE.DESC"
+msgid "A notable tile made exclusively with Igneous Rock."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMIGNEOUSTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMIGNEOUSTILE.EFFECT"
+msgid "Igneous tile enhance not only the environmental beauty, but also increases duplicants walking speed. Has very poor insulating properties."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMIGNEOUSTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMIGNEOUSTILE.NAME"
+msgid "Igneous Tile"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMOBSIDIANTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMOBSIDIANTILE.DESC"
+msgid "A notable tile made exclusively with Obsidian, a form of volcanic glass."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMOBSIDIANTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMOBSIDIANTILE.EFFECT"
+msgid "Obsidian tile enhance not only the environmental beauty, but also increases duplicants walking speed. Has almost no insulating property, and its also thermically reactive."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMOBSIDIANTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMOBSIDIANTILE.NAME"
+msgid "Obsidian Tile"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSANDSTONETILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSANDSTONETILE.DESC"
+msgid "A notable tile made exclusively with Sandstone."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSANDSTONETILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSANDSTONETILE.EFFECT"
+msgid "Sandstone tile enhance not only the environmental beauty, but also increases duplicants walking speed. Has some small insulation properties as well."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSANDSTONETILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSANDSTONETILE.NAME"
+msgid "Sandstone Tile"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORRED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORRED.DESC"
+msgid "A light-weight door with intricate designs that suggests it bellongs to a industrial facility."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORRED.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORRED.EFFECT"
+msgid "A high-tech light door with red tint."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORRED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORRED.NAME"
+msgid "Red Facility Door"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORWHITE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORWHITE.DESC"
+msgid "A light-weight door with intricate designs that suggests it bellongs to a industrial facility."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORWHITE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORWHITE.EFFECT"
+msgid "A high-tech light door with white tint."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORWHITE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORWHITE.NAME"
+msgid "White Facility Door"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORYELLOW.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORYELLOW.DESC"
+msgid "A light-weight door with intricate designs that suggests it bellongs to a industrial facility."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORYELLOW.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORYELLOW.EFFECT"
+msgid "A high-tech light door with yellow tint."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FACILITYDOORYELLOW.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FACILITYDOORYELLOW.NAME"
+msgid "Yellow Facility Door"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSDOORCOMPLEX.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSDOORCOMPLEX.DESC"
+msgid "Functions as a Manual Airlock when no Power is available."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSDOORCOMPLEX.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSDOORCOMPLEX.EFFECT"
+msgid "A mechanized airlock door made with glass panels. Blocks Liquid and Gas flow, maintaining pressure between areas. Sets Duplicant Access Permissions for area restriction."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSDOORCOMPLEX.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSDOORCOMPLEX.NAME"
+msgid "Security Glass Door"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSDOORSIMPLE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSDOORSIMPLE.DESC"
+msgid "Wild Critters cannot pass through doors. Door controls can be used to prevent Duplicants from entering restricted areas."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSDOORSIMPLE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSDOORSIMPLE.EFFECT"
+msgid "A simple model door made with glass panels. Encloses areas without blocking Liquid or Gas flow. Sets Duplicant Access Permissions for area restriction."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSDOORSIMPLE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSDOORSIMPLE.NAME"
+msgid "Simple Glass Door"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATINGTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATINGTILE.DESC"
+msgid "The lowered thermal conductivity of insulated tiles slows any heat passing through them."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATINGTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATINGTILE.EFFECT"
+msgid "Used to build the walls and floors of rooms. Reduces heat transfer between walls, retaining ambient heat in an area. "
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATINGTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATINGTILE.NAME"
+msgid "Insulating Tile"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LAMP_A.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAMP_A.DESC"
+msgid "A pretty ceiling lamp made of polished metal."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LAMP_A.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAMP_A.EFFECT"
+msgid "A pretty lamp to light a small area."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LAMP_A.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAMP_A.NAME"
+msgid "Pretty Ceiling Light"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LAMP_B.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAMP_B.DESC"
+msgid "A fancy ceiling lamp made of polished metal."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LAMP_B.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAMP_B.EFFECT"
+msgid "A fancy lamp to light a small area."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LAMP_B.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LAMP_B.NAME"
+msgid "Fancy Ceiling Light"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.DESC"
+msgid "A medium sized structural frame."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.EFFECT"
+msgid "Provides background support for buildings, or least gives the nice appearance of doing so. Don't prevent gases or liquid from leaking in to the void."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMELARGE.NAME"
+msgid "Medium Structure Frame"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMESMALL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMESMALL.DESC"
+msgid "A small sized structural frame."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMESMALL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMESMALL.EFFECT"
+msgid "Provides background support for buildings, or least gives the nice appearance of doing so. Don't prevent gases or liquid from leaking in to the void."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMESMALL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTUREFRAMESMALL.NAME"
+msgid "Small Structure Frame"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTURETILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTURETILE.DESC"
+msgid "A solid structural tile wrought from refined metal. Use to build the walls and floors of rooms."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTURETILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTURETILE.EFFECT"
+msgid "This metal structure is commonly used as a simple, yet strong tile for buildings. The frame structure will not hold any gas or liquid."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STRUCTURETILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.STRUCTURETILE.NAME"
+msgid "Structure Tile"
+msgstr ""
+

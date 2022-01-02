@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.BRICKWALL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.BRICKWALL.DESC"
+msgid "A pretty dry wall made with fine bricks."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.BRICKWALL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.BRICKWALL.EFFECT"
+msgid "Prevents gas and liquid loss in space. Builds an insulating backwall behind buildings."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.BRICKWALL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.BRICKWALL.NAME"
+msgid "Brick Wall"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENCEILING.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENCEILING.DESC"
+msgid "Wood work used to decorate the ceilings of rooms. Increases Decor, contributing to Morale."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENCEILING.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENCEILING.EFFECT"
+msgid "This ceiling is a beautiful masonry and wood work, but serves only as a decorative purpose."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENCEILING.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENCEILING.NAME"
+msgid "Wooden Ceiling"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENCORNERARCH.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENCORNERARCH.DESC"
+msgid "A wooden arch used to decorate the ceiling corners of rooms. Increases Decor, contributing to Morale."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENCORNERARCH.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENCORNERARCH.EFFECT"
+msgid "This corner ceiling arch is beautiful masonry and wood work, but serves only as a decorative purpose."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENCORNERARCH.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENCORNERARCH.NAME"
+msgid "Wooden Corner Arch"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDOOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDOOR.DESC"
+msgid "A pretty wooden door that encloses areas without blocking Liquid or Gas flow. Sets Duplicant Access Permissions for area restriction."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDOOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDOOR.EFFECT"
+msgid "Wild Critters cannot pass through doors. Door controls can be used to prevent Duplicants from entering restricted areas."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDOOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDOOR.NAME"
+msgid "Wooden Door"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL.DESC"
+msgid "A dry wall covered with a pretty wooden panel."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL.EFFECT"
+msgid "Prevents gas and liquid loss in space. Builds an insulating backwall behind buildings."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL.NAME"
+msgid "Wooden Panel Wall"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL_B.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL_B.DESC"
+msgid "A dry wall covered with a pretty wooden panel in Parquet design."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL_B.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL_B.EFFECT"
+msgid "Prevents gas and liquid loss in space. Builds an insulating backwall behind buildings."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL_B.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENDRYWALL_B.NAME"
+msgid "Parquet Drywall"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENGASTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENGASTILE.DESC"
+msgid "An impermeable wooden tile, used to build walls and floors of rooms. \n\nBlocks Liquid flow without obstructing Gas."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENGASTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENGASTILE.EFFECT"
+msgid "Building with wooden airflow tile promotes better gas circulation within a colony."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENGASTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENGASTILE.NAME"
+msgid "Wooden Airflow Tile"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENLADDER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENLADDER.DESC"
+msgid "A pretty ladder made of wood."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENLADDER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENLADDER.EFFECT"
+msgid "Increase duplicants climbing speed."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENLADDER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENLADDER.NAME"
+msgid "Wooden Ladder"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENMESHTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENMESHTILE.DESC"
+msgid "A wooden tile filled with minute holes, used to build walls and floors of rooms.  \n\nDoes not obstruct Liquid or Gas flow. "
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENMESHTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENMESHTILE.EFFECT"
+msgid "Wooden mesh tile can be used to make Duplicant pathways in areas where liquid flows."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENMESHTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENMESHTILE.NAME"
+msgid "Wooden Mesh Tile"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENTILE.DESC"
+msgid "Used to build the walls and floors of rooms. Increases Decor, contributing to Morale. "
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENTILE.EFFECT"
+msgid "Simple wooden tiles."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.WOODENTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENTILE.NAME"
+msgid "Wooden Tile"
+msgstr ""
+

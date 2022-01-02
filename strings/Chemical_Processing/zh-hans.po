@@ -1,0 +1,439 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: TerrestrisYE <yelingfeng0815@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh-cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.DESC"
+msgid "An advanced form of Kiln that uses induction to produce heat."
+msgstr "通过电磁感应产生热量的高级窑炉。"
+
+#. STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.EFFECT"
+msgid ""
+"The advantage of the induction kiln is a clean, energy-efficient and "
+"well-controllable heating process compared to most other means of fuel "
+"heating."
+msgstr "高级窑炉比使用燃料的窑炉提供更清洁，节能和可控的加热过程。"
+
+#. STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.NAME"
+msgid "Advanced Kiln"
+msgstr "高级窑炉"
+
+#. STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.DESC"
+msgid "Separate Sludges into their base Elements."
+msgstr "将污泥分离成它们的基本元素。"
+
+#. STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.EFFECT"
+msgid ""
+"A specialized press that uses centrifugal force to separate sludges into "
+"their base elements."
+msgstr "一台专门于通过离心力将污泥分离为其基本元素的压缩机。"
+
+#. STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.NAME"
+msgid "Centrifugal Press"
+msgstr "离心压缩机"
+
+#. STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.DESC"
+msgid "Produces Dirt from Polluted Water and processed stone."
+msgstr "从污染水中分离泥土和碎岩。"
+
+#. STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.EFFECT"
+msgid ""
+"Converts <link=\"DIRTYWATER\">Polluted Water</link> and "
+"<link=\"CRUSHEDROCK\">Crushed Rock</link> into "
+"<link=\"DIRT\">Dirt</link>."
+msgstr "将<link=\"DIRTYWATER\">污染水</link>和<link=\"CRUSHEDROCK\">碎岩</link>转化为泥土。"
+
+#. STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.NAME"
+msgid "Compost Processor"
+msgstr "降解处理器"
+
+#. STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.DESC"
+msgid ""
+"An advanced petrochemical refinery capable to perform delicate molecular "
+"reactions."
+msgstr "能够进行精细分子反应的先进石化精炼器。"
+
+#. STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.EFFECT"
+msgid ""
+"This unit is capable to produce <link=\"SUPERCOOLANT\">Super "
+"Coolant</link> with <link=\"PETROLEUM\">Petroleum</link>, refined "
+"<link=\"GOLD\">Gold</link>, and <link=\"FULLERENE\">Fullerene</link>."
+msgstr ""
+"这台机器可以使用<link=\"PETROLEUM\">石油</link>，<link=\"GOLD\">黄金</link>和"
+"<link=\"FULLERENE\">富勒烯</link>生产<link=\"SUPERCOOLANT\">超级冷却剂</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.NAME"
+msgid "Super Coolant Refinery"
+msgstr "超级冷却剂精炼器"
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.DESC"
+msgid ""
+"A plasma arc furnace uses low-temperature plasma flow created by an "
+"electric arc heater (plasmatron)."
+msgstr "等离子电弧熔炉通过等离子管创造低温等离子体。"
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.EFFECT"
+msgid ""
+"Electrometallurgy provides better smelting process than the standard "
+"metallurgical processes."
+msgstr "电力冶金提供比一般冶金更好的工艺。"
+
+#. STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.NAME"
+msgid "Plasma Furnace"
+msgstr "等离子熔炉"
+
+#. STRINGS.BUILDINGS.PREFABS.MINERALDRILL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDRILL.DESC"
+msgid "Drills in to Mineral Deposit for solid resources."
+msgstr "钻探矿床以获取固体资源。"
+
+#. STRINGS.BUILDINGS.PREFABS.MINERALDRILL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDRILL.EFFECT"
+msgid ""
+"A strong well-maintened drilling apparatus capable to drill through "
+"Mineral Deposits. Need a constant supply of refined metals for the "
+"drilling operation. Materials used also affect the mineral resources the "
+"drill can grind."
+msgstr "良好维护的强大钻井设备，能够钻穿矿床。需要持续供应精炼金属进行钻井作业。使用的材料将影响可钻取的资源。"
+
+#. STRINGS.BUILDINGS.PREFABS.MINERALDRILL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDRILL.NAME"
+msgid "Mineral Drill"
+msgstr "矿床钻台"
+
+#. STRINGS.BUILDINGS.PREFABS.MINERALMILL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALMILL.DESC"
+msgid ""
+"A ball mill consists of a hollow cylindrical shell rotating about its "
+"axis. It is partially filled with metal balls."
+msgstr "球磨机有一个绕轴旋转的圆筒，里面装满了金属球。"
+
+#. STRINGS.BUILDINGS.PREFABS.MINERALMILL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALMILL.EFFECT"
+msgid ""
+"A ball mill is a type of grinder used to grind or blend materials for use"
+" in mineral dressing processes."
+msgstr "球磨机是一种研磨机械，用于研磨和从混合矿物中筛选可用材料。"
+
+#. STRINGS.BUILDINGS.PREFABS.MINERALMILL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALMILL.NAME"
+msgid "Mineral Mill"
+msgstr "矿物研磨器"
+
+#. STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.DESC"
+msgid ""
+"A self controlled distillation plant that uses induction to produce "
+"Naphtha from Crude Oil. Has an extra special device that pumps out the "
+"Sour Gas generated."
+msgstr "一台自动化蒸馏器，使用电磁加热从原油中生产石脑油。有一个特殊装置用于泵出高硫天然气。"
+
+#. STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.EFFECT"
+msgid ""
+"Distils <link=\"NAPHTHA \">Naphtha</link> and <link=\"SOURGAS\">Sour "
+"Gas</link> from <link=\"CRUDEOIL\">Crude Oil</link>."
+msgstr "从原油中蒸馏<link=\"NAPHTHA\">石脑油</link>和<link=\"SOURGAS\">高硫天然气</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.NAME"
+msgid "Naphtha Distillery"
+msgstr "石脑油蒸馏器"
+
+#. STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.DESC"
+msgid ""
+"A self controlled distillation plant that uses induction to produce "
+"Petrolleum from Crude Oil. Has an extra special device that pumps out the"
+" Natural Gas generated."
+msgstr "一台自动化蒸馏器，使用电磁加热从原油中蒸馏石油。有一个特殊装置用于泵出天然气。"
+
+#. STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.EFFECT"
+msgid ""
+"Distils <link=\"PETROLEUM\">Petroleum</link> and "
+"<link=\"METHANE\">Natural Gas</link> from <link=\"CRUDEOIL\">Crude "
+"Oil</link>."
+msgstr ""
+"从<link=\"CRUDEOIL\">原油</link>中蒸馏<link=\"PETROLEUM\">石油"
+"</link>和<link=\"METHANE\">天然气</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.NAME"
+msgid "Petroleum Distillery"
+msgstr "石油蒸馏器"
+
+#. STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.DESC"
+msgid ""
+"A basic kiln that uses pyrolysis process to convert woodlogs to usable "
+"coal."
+msgstr "使用热解工艺将木料转化为煤炭的基础窑炉。"
+
+#. STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.EFFECT"
+msgid ""
+"Decomposes <link=\"WOODLOG\">Woodlog</link> to "
+"<link=\"CARBON\">Coal</link>."
+msgstr "将<link=\"WOODLOG\">木料</link>热解为<link=\"CARBON\">煤炭</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.NAME"
+msgid "Pyrolysis Kiln"
+msgstr "热解窑炉"
+
+#. STRINGS.CREATURES.SPECIES.MINERALDEPOSIT.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.MINERALDEPOSIT.DESC"
+msgid "A vast mineral deposit that spreads through other regions of the asteroid."
+msgstr "遍布小行星其他区域的巨大矿床。"
+
+#. STRINGS.CREATURES.SPECIES.MINERALDEPOSIT.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.MINERALDEPOSIT.NAME"
+msgid "<link=\"GEYSERGENERICMINERALDEPOSIT\">Mineral Deposit</link>"
+msgstr "矿床"
+
+#. STRINGS.ELEMENTS.ARGENTITEORE.DESC
+msgctxt "STRINGS.ELEMENTS.ARGENTITEORE.DESC"
+msgid ""
+"(Ag<sub>2</sub>S) Argentite is a cubic silver sulfide is a conductive "
+"metal, and the main source of refined <link=\"SOLIDSILVER\">Silver</link>"
+" metal."
+msgstr "(Ag<sub>2</sub>S) 辉银矿是方块状的硫化银，一种导电金属。主要用于精炼<link=\"SOLIDSILVER\">银</link>。"
+
+#. STRINGS.ELEMENTS.ARGENTITEORE.NAME
+msgctxt "STRINGS.ELEMENTS.ARGENTITEORE.NAME"
+msgid "<link=\"ARGENTITEORE\">Silver Ore</link>"
+msgstr "银矿"
+
+#. STRINGS.ELEMENTS.AURICHALCITEORE.DESC
+msgctxt "STRINGS.ELEMENTS.AURICHALCITEORE.DESC"
+msgid ""
+"((Zn,Cu)<sub>5</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)<sub>6</sub>) "
+"Aurichalcite is a carbonate mineral, and the main source of refined "
+"<link=\"SOLIDZINC\">Zinc</link> metal."
+msgstr ""
+"((Zn,Cu)<sub>5</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)<sub>6</sub>) "
+"绿铜锌矿是一种碳酸盐矿物，是精炼<link=\"SOLIDZINC\">锌</link>的主要来源。"
+
+#. STRINGS.ELEMENTS.AURICHALCITEORE.NAME
+msgctxt "STRINGS.ELEMENTS.AURICHALCITEORE.NAME"
+msgid "<link=\"AURICHALCITEORE\">Zinc Ore</link>"
+msgstr "锌矿"
+
+#. STRINGS.ELEMENTS.HALONGAS.DESC
+msgctxt "STRINGS.ELEMENTS.HALONGAS.DESC"
+msgid ""
+"A halocarbon gas with an absolute freezing point used as a refrigerant. "
+"Becomes unstable at temperatures near the boiling point of water, "
+"degrading to other elements. Fluorine free!"
+msgstr "哈龙是一种拥有接近绝对凝固点的卤化碳气体，用于制冷。在水的沸腾温度下不稳定，会分解为其他元素。不含氟!"
+
+#. STRINGS.ELEMENTS.HALONGAS.NAME
+msgctxt "STRINGS.ELEMENTS.HALONGAS.NAME"
+msgid "<link=\"HALONGAS\">Halon Gas</link>"
+msgstr "<link=\"HALONGAS\">哈龙气体 Gas</link>"
+
+#. STRINGS.ELEMENTS.MOLTENSILVER.DESC
+msgctxt "STRINGS.ELEMENTS.MOLTENSILVER.DESC"
+msgid ""
+"(Ag) Silver is soft, white, lustrous transition metal, in its molten "
+"state."
+msgstr "(Ag) 银是一种质地软，呈白色和有光泽的过渡金属。(熔融状态)"
+
+#. STRINGS.ELEMENTS.MOLTENSILVER.NAME
+msgctxt "STRINGS.ELEMENTS.MOLTENSILVER.NAME"
+msgid "<link=\"MOLTENSILVER\">Molten Silver</link>"
+msgstr "<link=\"MOLTENSILVER\">熔融银</link>"
+
+#. STRINGS.ELEMENTS.MOLTENTITANIUM.DESC
+msgctxt "STRINGS.ELEMENTS.MOLTENTITANIUM.DESC"
+msgid "(Ti) Titanium is a lustrous transition metal in its molten state."
+msgstr "(Ti) 钛是一种有光泽的过渡金属。(熔融状态)"
+
+#. STRINGS.ELEMENTS.MOLTENTITANIUM.NAME
+msgctxt "STRINGS.ELEMENTS.MOLTENTITANIUM.NAME"
+msgid "<link=\"MOLTENTITANIUM\">Molten Titanium</link>"
+msgstr "<link=\"MOLTENTITANIUM\">熔融钛</link>"
+
+#. STRINGS.ELEMENTS.MOLTENZINC.DESC
+msgctxt "STRINGS.ELEMENTS.MOLTENZINC.DESC"
+msgid ""
+"(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its molten "
+"state."
+msgstr "(Zn)锌是一种呈蓝白色，有光泽的抗磁性金属。(熔融状态)"
+
+#. STRINGS.ELEMENTS.MOLTENZINC.NAME
+msgctxt "STRINGS.ELEMENTS.MOLTENZINC.NAME"
+msgid "<link=\"MOLTENZINC\">Molten Zinc</link>"
+msgstr "<link=\"MOLTENZINC\">熔融锌</link>"
+
+#. STRINGS.ELEMENTS.SILVERGAS.DESC
+msgctxt "STRINGS.ELEMENTS.SILVERGAS.DESC"
+msgid ""
+"(Ag) Silver is soft, white, lustrous transition metal, in its gaseous "
+"state."
+msgstr "(Ag) 银是一种质地软，呈白色和有光泽的过渡金属。(气态)"
+
+#. STRINGS.ELEMENTS.SILVERGAS.NAME
+msgctxt "STRINGS.ELEMENTS.SILVERGAS.NAME"
+msgid "<link=\"SILVERGAS\">Silver Gas</link>"
+msgstr "<link=\"SILVERGAS\">气态银</link>"
+
+#. STRINGS.ELEMENTS.SOLIDBORAX.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDBORAX.DESC"
+msgid ""
+"Borax, also known as sodium borate, is an important boron compound, "
+"mainly used in the manufacture of "
+"<link=\"SOLIDFIBERGLASS\">Fiberglass</link>, and as a flux in metallurgy."
+msgstr "硼砂又称硼酸钠，是一种重要的硼化物。主要用于制造玻璃纤维和在冶金中充当助溶剂。"
+
+#. STRINGS.ELEMENTS.SOLIDBORAX.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDBORAX.NAME"
+msgid "<link=\"SOLIDBORAX\">Borax</link>"
+msgstr "<link=\"SOLIDBORAX\">硼砂</link>"
+
+#. STRINGS.ELEMENTS.SOLIDBRASS.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDBRASS.DESC"
+msgid ""
+"Brass is an alloy of <link=\"COPPER\">Copper</link> and "
+"<link=\"SOLIDZINC\">Zinc</link>, widely used to make utensils due to "
+"properties such as having a low melting point, high workability, "
+"durability, and electrical and thermal conductivity."
+msgstr "青铜是<link=\"COPPER\">铜</link>和<link=\"SOLIDZINC\">锌</link>的合金。"
+"由于熔点低，可塑性好，耐久强，导电和导热性良好被广泛地生产。"
+
+#. STRINGS.ELEMENTS.SOLIDBRASS.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDBRASS.NAME"
+msgid "<link=\"SOLIDBRASS\">Brass</link>"
+msgstr "<link=\"SOLIDBRASS\">青铜</link>"
+
+#. STRINGS.ELEMENTS.SOLIDFIBERGLASS.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDFIBERGLASS.DESC"
+msgid ""
+"Fiberglass is a thermoset polymer matrix made by a poltrusion of "
+"boronsilicate <link=\"GLASS\">Glass</link> and "
+"<link=\"POLYPROPYLENE\">Plastic</link>. Although the fiber is weak in "
+"compression, this composite material has moderate insulating properties, "
+"and can be easily used in many different applications due to its relative"
+" flexibility."
+msgstr ""
+"玻璃纤维是一种由硼硅酸盐和塑料混合而成的热固性聚合物基质。"
+"尽管纤维抗压能力弱，这种具备中等导热性的柔性复合材料可被用于许多不同的应用。"
+
+#. STRINGS.ELEMENTS.SOLIDFIBERGLASS.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDFIBERGLASS.NAME"
+msgid "<link=\"SOLIDFIBERGLASS\">Fiberglass</link>"
+msgstr "<link=\"SOLIDFIBERGLASS\">玻璃纤维</link>"
+
+#. STRINGS.ELEMENTS.SOLIDOILSHALE.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDOILSHALE.DESC"
+msgid ""
+"Oil shale is an organic-rich fine-grained sedimentary rock containing "
+"heavy crude oil, sulfur compounds and heavy metals."
+msgstr "油页岩是一种富含有机质的细颗粒沉积岩，含有重质原油，硫化物和重金属。"
+
+#. STRINGS.ELEMENTS.SOLIDOILSHALE.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDOILSHALE.NAME"
+msgid "<link=\"SOLIDOILSHALE\">Oil Shale</link>"
+msgstr "<link=\"SOLIDOILSHALE\">油页岩</link>"
+
+#. STRINGS.ELEMENTS.SOLIDSILVER.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDSILVER.DESC"
+msgid ""
+"(Ag) Silver is soft, white, lustrous transition metal, that exhibits a "
+"high electrical and thermal conductivity."
+msgstr "(Ag) 银是一种质地软，呈白色，有光泽，具备高导热性的过渡金属。"
+
+#. STRINGS.ELEMENTS.SOLIDSILVER.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDSILVER.NAME"
+msgid "<link=\"SOLIDSILVER\">Silver</link>"
+msgstr "<link=\"SOLIDSILVER\">银</link>"
+
+#. STRINGS.ELEMENTS.SOLIDTITANIUM.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDTITANIUM.DESC"
+msgid ""
+"(Ti) Titanium is a lustrous transition metal with a silver color, low "
+"density, and high strength."
+msgstr "(Ti) 钛是一种有类银色光泽，低密度和高强度的过渡金属。"
+
+#. STRINGS.ELEMENTS.SOLIDTITANIUM.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDTITANIUM.NAME"
+msgid "<link=\"SOLIDTITANIUM\">Titanium</link>"
+msgstr "<link=\"SOLIDTITANIUM\">钛</link>"
+
+#. STRINGS.ELEMENTS.SOLIDTUNGSTENCARBIDE.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDTUNGSTENCARBIDE.DESC"
+msgid ""
+"(WC) Tungsten Carbide is a chemical compound of "
+"<link=\"TUNGSTEN\">Tungsten</link> and <link=\"CARBON\">Carbon</link>. "
+"Almost twice as stiff as steel, and a bit less hard as diamond, this "
+"compound has many building and industrial uses, as well a an effective "
+"neutron reflector for nuclear applications."
+msgstr ""
+"碳化钨是一种钨和碳的化合物，具备两倍于钢的硬度，略低于金刚石。"
+"这种化合物有许多建筑和工业用途，也是核工业应用中有效的中子反射体。"
+
+#. STRINGS.ELEMENTS.SOLIDTUNGSTENCARBIDE.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDTUNGSTENCARBIDE.NAME"
+msgid "<link=\"SOLIDTUNGSTENCARBIDE\">Tungsten Carbide</link>"
+msgstr "<link=\"SOLIDTUNGSTENCARBIDE\">碳化钨</link>"
+
+#. STRINGS.ELEMENTS.SOLIDZINC.DESC
+msgctxt "STRINGS.ELEMENTS.SOLIDZINC.DESC"
+msgid ""
+"(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal, slightly "
+"brittle metal."
+msgstr "(Zn) 锌是一种呈蓝白色，有光泽，有抗磁性，较脆的金属。"
+
+#. STRINGS.ELEMENTS.SOLIDZINC.NAME
+msgctxt "STRINGS.ELEMENTS.SOLIDZINC.NAME"
+msgid "<link=\"SOLIDZINC\">Zinc</link>"
+msgstr "<link=\"SOLIDZINC\">锌</link>"
+
+#. STRINGS.ELEMENTS.TITANIUMGAS.DESC
+msgctxt "STRINGS.ELEMENTS.TITANIUMGAS.DESC"
+msgid "(Ti) Titanium is a lustrous transition metal in its gaseous state."
+msgstr "(Ti) 钛是一种有光泽的过渡金属。(气态)"
+
+#. STRINGS.ELEMENTS.TITANIUMGAS.NAME
+msgctxt "STRINGS.ELEMENTS.TITANIUMGAS.NAME"
+msgid "<link=\"TITANIUMGAS\">Titanium</link>"
+msgstr "<link=\"TITANIUMGAS\">气态钛</link>"
+
+#. STRINGS.ELEMENTS.ZINCGAS.DESC
+msgctxt "STRINGS.ELEMENTS.ZINCGAS.DESC"
+msgid ""
+"(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its gaseous "
+"state."
+msgstr "(Zn) 锌是一种呈蓝白色，有光泽和有抗磁性的金属。(气态)"
+
+#. STRINGS.ELEMENTS.ZINCGAS.NAME
+msgctxt "STRINGS.ELEMENTS.ZINCGAS.NAME"
+msgid "<link=\"ZINCGAS\">Zinc Gas</link>"
+msgstr "<link=\"ZINCGAS\">气态锌</link>"
+

@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERDANGER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERDANGER.DESC"
+msgid "A solid wall wrought from steel. Hermetically sealed joints prevent gas leakage into space."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERDANGER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERDANGER.EFFECT"
+msgid "This spacer wall is fitted with a perimeter stripped demarcation. Can be flipped around."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERDANGER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERDANGER.NAME"
+msgid "Spacer Perimeter Wall"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERDANGERCORNER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERDANGERCORNER.DESC"
+msgid "A solid wall wrought from steel. Hermetically sealed joints prevent gas leakage into space."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERDANGERCORNER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERDANGERCORNER.EFFECT"
+msgid "This spacer wall is fitted with a corner perimeter stripped demarcation destined to corners. Can be flipped around."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERDANGERCORNER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERDANGERCORNER.NAME"
+msgid "Spacer Perimeter Wall Corner"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERPANEL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERPANEL.DESC"
+msgid "A solid panel wrought from steel. Hermetically sealed joints prevent gas leakage into space."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERPANEL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERPANEL.EFFECT"
+msgid "A small sized spacer panel."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERPANEL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERPANEL.NAME"
+msgid "Spacer Panel"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERTILEGLASS.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERTILEGLASS.DESC"
+msgid "A solid tile wrought from steel and fitted with glass. Use to build the walls and floors of rooms."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERTILEGLASS.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERTILEGLASS.EFFECT"
+msgid "This steel framed glass tile provide a barrier against liquid and gas and are completely transparent."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERTILEGLASS.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERTILEGLASS.NAME"
+msgid "Spacer Glass Tile"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERTILESOLID.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERTILESOLID.DESC"
+msgid "A solid tile wrought from steel. Use to build the walls and floors of rooms."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERTILESOLID.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERTILESOLID.EFFECT"
+msgid "This steel tile significantly increases Duplicant runspeed, and provide protection against space hazardous environment."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERTILESOLID.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERTILESOLID.NAME"
+msgid "Spacer Tile"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWALLLARGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWALLLARGE.DESC"
+msgid "A solid wall wrought from steel. Hermetically sealed joints prevent gas leakage into space."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWALLLARGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWALLLARGE.EFFECT"
+msgid "A large sized spacer wall."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWALLLARGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWALLLARGE.NAME"
+msgid "Spacer Wall Large"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWALLSMALL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWALLSMALL.DESC"
+msgid "A solid wall wrought from steel. Hermetically sealed joints prevent gas leakage into space."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWALLSMALL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWALLSMALL.EFFECT"
+msgid "A small sized spacer wall."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWALLSMALL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWALLSMALL.NAME"
+msgid "Spacer Wall Small"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_A.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_A.DESC"
+msgid "A solid wall wrought from steel and fitted with thick layers of glass. Hermetically sealed joints prevent gas leakage into space."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_A.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_A.EFFECT"
+msgid "A small sized spacer window. This is the A model."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_A.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_A.NAME"
+msgid "Spacer Window A"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_B.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_B.DESC"
+msgid "A solid wall wrought from steel and fitted with thick layers of glass. Hermetically sealed joints prevent gas leakage into space."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_B.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_B.EFFECT"
+msgid "A small sized spacer window. This is the B model, and can be fliped around."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_B.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOW_B.NAME"
+msgid "Spacer Window B"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOWLARGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOWLARGE.DESC"
+msgid "A solid wall wrought from steel. Hermetically sealed joints prevent gas leakage into space."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOWLARGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOWLARGE.EFFECT"
+msgid "A large sized spacer window."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SPACERWINDOWLARGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SPACERWINDOWLARGE.NAME"
+msgid "Spacer Window Large"
+msgstr ""
+

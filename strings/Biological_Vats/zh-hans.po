@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: TerrestrisYE <yelingfeng0815@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh-cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. STRINGS.BUILDINGS.PREFABS.ALGAEVAT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEVAT.DESC"
+msgid "An advanced biological vat that grows algae. Due to the controlled atmospheric condition, this algae formation produces oxygen more efficiently than the standard terrarium. This unit also uses advanced filter to extract Carbon Dioxide from its surroundings, albeit its not necessery for it to function. "
+msgstr "一个可以培育藻类的先进培养罐。因为环境条件得到了控制，藻类生长并产生氧气变得比普通培养箱更有效率。这个单元使用了先进的过滤器从环境中过滤二氧化碳，尽管这不是生物罐正常运行必须的。"
+
+#. STRINGS.BUILDINGS.PREFABS.ALGAEVAT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEVAT.EFFECT"
+msgid "Algae patch needs <link=\"WATER\">Water</link> to grow, producing a fair amount of clean <link=\"OXYGEN\">Oxygen</link> as result of its biological functions. Excess water is expelled in the form of <link=\"DIRTYWATER\">Polluted Water</link>."
+msgstr "藻类需要<link=\"WATER\">水</link>生长，通过生物机能生产足量的干净<link=\"OXYGEN\">氧气</link>。废水将以<link=\"DIRTYWATER\">污染水</link>的形式排出。"
+
+#. STRINGS.BUILDINGS.PREFABS.ALGAEVAT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEVAT.NAME"
+msgid "Algae Vat"
+msgstr "藻类生物罐"
+
+#. STRINGS.BUILDINGS.PREFABS.CORALVAT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CORALVAT.DESC"
+msgid "An advanced biological vat that grows a special colony of marine invertebrates, engineered from the Earth species of the class Anthozoa. This unit also uses advanced filter to extract Chlorine Gas from its surroundings, albeit its not necessery for it to function. "
+msgstr "一个可以培育特殊海洋无脊椎动物的先进培养罐，使用来自地球的珊瑚虫类生物。这个单元使用了先进的过滤器从环境中过滤氯气以增加产量，尽管这不是生物罐正常运行必须的。"
+
+#. STRINGS.BUILDINGS.PREFABS.CORALVAT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CORALVAT.EFFECT"
+msgid "Coral colony needs <link=\"SALTWATER\">Salt Water</link> or <link=\"BRINE\">Brine</link> to grow, producing a fair amount of clean <link=\"WATER\">Water</link> as result of its biological functions. The coral colony will also excreate tiny particles of <link=\"BLEACHSTONE\">Bleach Stone</link>, which are filtered from the water and later released as a solid mass."
+msgstr "珊瑚群的生长需要供应<link=\"SALTWATER\">盐水</link>或<link=\"BRINE\">浓盐水</link>，通过生物机能将其过滤为净<link=\"WATER\">水</link>。珊瑚群也会从液体中过滤出少量固体<link=\"BLEACHSTONE\">漂白石</link>并释放。"
+
+#. STRINGS.BUILDINGS.PREFABS.CORALVAT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CORALVAT.NAME"
+msgid "Coral Vat"
+msgstr "珊瑚生物罐"
+
+#. STRINGS.BUILDINGS.PREFABS.SLIMEVAT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SLIMEVAT.DESC"
+msgid "An advanced biological vat that grows a culture of mucopolysaccharides and multicelular fungi mould. This unit also uses advanced filter to extract Polluted Oxygen from its surroundings, albeit its not necessery for it to function. "
+msgstr "一个可以培育聚糖多细胞霉菌的先进培养罐。这个单元使用了先进的过滤器从环境中过滤污染氧以增加产量，尽管这不是生物罐正常运行必须的。"
+
+#. STRINGS.BUILDINGS.PREFABS.SLIMEVAT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SLIMEVAT.EFFECT"
+msgid "Slime Vat needs <link=\"WATER\">Water</link> and <link=\"MUSHBAR\">Mush Bars</link> to grow, producing <link=\"SLIMEMOLD\">Slime</link> outgrowth that is collected from the botton. Due to its nature, the slime its produce will be contaminated with Slimelung."
+msgstr "菌泥生物罐需要<link=\"WATER\">水</link>和<link=\"MUSHBAR\">软泥膏</link>来生长，可以从底部收集生产的<link=\"SLIMEMOLD\">菌泥</link>。因为它的生产模式，产生的菌泥带有粘液肺病菌。"
+
+#. STRINGS.BUILDINGS.PREFABS.SLIMEVAT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SLIMEVAT.NAME"
+msgid "Slime Vat"
+msgstr "菌泥生物罐"
+
