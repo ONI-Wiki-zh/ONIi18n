@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: TerrestrisYE <yelingfeng0815@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALJUICER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALJUICER.DESC"
+msgid "Grind food in to juices."
+msgstr "把食物榨汁。"
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALJUICER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALJUICER.EFFECT"
+msgid "A cooking appliance used to grind down food in to liquids."
+msgstr "一种用于将食物磨成液体的烹饪器具。"
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALJUICER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALJUICER.NAME"
+msgid "Electric Grinder"
+msgstr "电动料理机"
+
+#. STRINGS.ITEMS.FOOD.BREADEDPACU.DESC
+msgctxt "STRINGS.ITEMS.FOOD.BREADEDPACU.DESC"
+msgid "A crispy <link=\"BREADEDPACU\">Battered Pacu</link> made with <link=\"FISHMEAT\">Pacu Fillet</link> and <link=\"MEALSLURRY\">Meal Lice Batter</link>. Gives off cruchy noises as one eats them."
+msgstr "用<link=\"FISHMEAT\">帕库鱼片</link>和<link=\"MEALSLURRY\">米蚤面糊</link>制成的酥脆<link=\"BREADEDPACU\">香脆煎鱼排</link>，嚼起来嘎吱嘎吱响。"
+
+#. STRINGS.ITEMS.FOOD.BREADEDPACU.NAME
+msgctxt "STRINGS.ITEMS.FOOD.BREADEDPACU.NAME"
+msgid "<link=\"BREADEDPACU\">Battered Pacu</link>"
+msgstr "<link=\"BREADEDPACU\">香脆煎鱼排</link>"
+
+#. STRINGS.ITEMS.FOOD.COOKEDMUCKROOT.DESC
+msgctxt "STRINGS.ITEMS.FOOD.COOKEDMUCKROOT.DESC"
+msgid "The highlight point of a <link=\"BASICFORAGEPLANT\">Muckroot</link>, or at least as far as it can get through cooking. The baking process renders it aftertaste less bland."
+msgstr "<link=\"COOKEDMUCKROOT\">烤淤泥根</link>的重点在于，在可烘烤的范围内使其味道不那么寡淡。"
+
+#. STRINGS.ITEMS.FOOD.COOKEDMUCKROOT.NAME
+msgctxt "STRINGS.ITEMS.FOOD.COOKEDMUCKROOT.NAME"
+msgid "<link=\"COOKEDMUCKROOT\">Baked Muckroot</link>"
+msgstr "<link=\"COOKEDMUCKROOT\">烤淤泥根</link>"
+
+#. STRINGS.ITEMS.FOOD.COOKEDSHARD.DESC
+msgctxt "STRINGS.ITEMS.FOOD.COOKEDSHARD.DESC"
+msgid "A baked <link=\"SWAMPFORAGEPLANT\">Swamp Chard Heart</link>. It don't taste as bad as it looks, but it does smell as bad as it taste."
+msgstr "<link=\"COOKEDSHARD\">烤沼泽甜菜</link>，没有看起来那么难吃，但闻起来和尝一样糟糕。"
+
+#. STRINGS.ITEMS.FOOD.COOKEDSHARD.NAME
+msgctxt "STRINGS.ITEMS.FOOD.COOKEDSHARD.NAME"
+msgid "<link=\"COOKEDSHARD\">Baked Chard</link>"
+msgstr "<link=\"COOKEDSHARD\">烤沼泽甜菜</link>"
+
+#. STRINGS.ITEMS.FOOD.DUSKOMELETTE.DESC
+msgctxt "STRINGS.ITEMS.FOOD.DUSKOMELETTE.DESC"
+msgid "A fluffy dish made from beaten <link=\"RAWEGG\">Eggs</link> and folded over nice fried <link=\"MUSHROOM\">Dusk Cap</link> mushroons. The savory flavors of the mushroons get along well with the omelette soft texture."
+msgstr "松软的<link=\"RAWEGG\">鸡蛋</link>包裹着美味的炸<link=\"MUSHROOM\">蘑菇</link>，蘑菇的咸味和煎蛋的柔软口感赋予这道佳肴别样的美味。"
+
+#. STRINGS.ITEMS.FOOD.DUSKOMELETTE.NAME
+msgctxt "STRINGS.ITEMS.FOOD.DUSKOMELETTE.NAME"
+msgid "<link=\"DUSKOMELETTE\">Dusk Omelette</link>"
+msgstr "<link=\"DUSKOMELETTE\">蛋包蘑菇</link>"
+
+#. STRINGS.ITEMS.FOOD.GRILLEDPLANTMEAT.DESC
+msgctxt "STRINGS.ITEMS.FOOD.GRILLEDPLANTMEAT.DESC"
+msgid "A delightful grilled <link=\"PLANTMEAT\">Plant Meat</link>. It don't taste like meat, nor it taste like plant, but it really does taste good."
+msgstr "令人愉快的<link=\"GRILLEDPLANTMEAT\">烤植物肉</link>，尝起来既不像肉也不像植物，但还是很好吃。"
+
+#. STRINGS.ITEMS.FOOD.GRILLEDPLANTMEAT.NAME
+msgctxt "STRINGS.ITEMS.FOOD.GRILLEDPLANTMEAT.NAME"
+msgid "<link=\"GRILLEDPLANTMEAT\">Grilled Plant Meat</link>"
+msgstr "<link=\"GRILLEDPLANTMEAT\">烤植物肉</link>"
+
+#. STRINGS.ITEMS.FOOD.JELLYDOUGHNUT.DESC
+msgctxt "STRINGS.ITEMS.FOOD.JELLYDOUGHNUT.DESC"
+msgid "A leavened fried dough prepared from <link=\"MEALSLURRY\">Meal Lice Batter</link> and <link=\"NOSHMILK\">Nosh Milk</link>. The interior is filled a hearty portion of <link=\"SWAMPFRUIT\">Bog Jelly</link>."
+msgstr "由<link=\"MEALSLURRY\">粉虱面糊</link> 和<link=\"NOSHMILK\">小吃豆奶</link> 制成的发酵油炸面团，里面塞满了丰富的<link=\"SWAMPFRUIT\">沼泽果冻</link>。"
+
+#. STRINGS.ITEMS.FOOD.JELLYDOUGHNUT.NAME
+msgctxt "STRINGS.ITEMS.FOOD.JELLYDOUGHNUT.NAME"
+msgid "<link=\"JELLYDOUGHNUT\">Jelly Doughnut</link>"
+msgstr "<link=\"JELLYDOUGHNUT\">果冻甜甜圈</link>"
+
+#. STRINGS.ITEMS.FOOD.MEALBREAD.DESC
+msgctxt "STRINGS.ITEMS.FOOD.MEALBREAD.DESC"
+msgid "A loaf of <link=\"MEALBREAD\">Bread</link> baked from a mixture of <link=\"MEALSLURRY\">Meal Batter</link>, <link=\"NOSHMILK\">Nosh Milk</link> and <link=\"RAWEGG\">Eggs</link>. Despite its hard crust, this bread is actually tasty, and has a long shelf life."
+msgstr "由<link=\"MEALSLURRY\">米蚤面糊</link>，<link=\"NOSHMILK\">小吃豆奶</link>和<link=\"RAWEGG\">鸡蛋</link>烘培而成的一条<link=\"MEALBREAD\">米蚤面包</link>。尽管略硬但很好吃，而且保质期很长。"
+
+#. STRINGS.ITEMS.FOOD.MEALBREAD.NAME
+msgctxt "STRINGS.ITEMS.FOOD.MEALBREAD.NAME"
+msgid "<link=\"MEALBREAD\">Mealbrot</link>"
+msgstr "<link=\"MEALBREAD\">米蚤面包</link>"
+
+#. STRINGS.ITEMS.FOOD.MEALSLURRY.DESC
+msgctxt "STRINGS.ITEMS.FOOD.MEALSLURRY.DESC"
+msgid "A fearsome sticky slurry made from <link=\"BASICPLANTFOOD\">Meal Lice</link> and Water. Used as a basic ingredient in many recipes."
+msgstr "一种看起来很糟的粘性浆液，由<link=\"BASICPLANTFOOD\">米蚤</link>和水制成。用作许多食谱的原料。"
+
+#. STRINGS.ITEMS.FOOD.MEALSLURRY.NAME
+msgctxt "STRINGS.ITEMS.FOOD.MEALSLURRY.NAME"
+msgid "<link=\"MEALSLURRY\">Meal Batter</link>"
+msgstr "<link=\"MEALSLURRY\">米蚤面糊</link>"
+
+#. STRINGS.ITEMS.FOOD.MILKBUN.DESC
+msgctxt "STRINGS.ITEMS.FOOD.MILKBUN.DESC"
+msgid "A soft bun baked from <link=\"MEALSLURRY\">Meal Batter</link>, <link=\"NOSHMILK\">Nosh Milk</link> and <link=\"SUCROSE\">Sucrose</link>. It gives the duplicants who eats it a happy face, and a quite unhappy face to others who will have to endure the farts."
+msgstr "用<link=\"MEALSLURRY\">米蚤面糊</link>，<link=\"NOSHMILK\">小吃豆奶</link>和<link=\"SUCROSE\">蔗糖</link>制作的香软小面包。带给吃它的复制人一张幸福的笑脸，为其他复制人带去了因不得不忍受臭屁摆出的臭脸。"
+
+#. STRINGS.ITEMS.FOOD.MILKBUN.NAME
+msgctxt "STRINGS.ITEMS.FOOD.MILKBUN.NAME"
+msgid "<link=\"MILKBUN\">Milk Bun</link>"
+msgstr "豆奶面包"
+
+#. STRINGS.ITEMS.FOOD.NOSHMILK.DESC
+msgctxt "STRINGS.ITEMS.FOOD.NOSHMILK.DESC"
+msgid "A plant-based drink produced by soaking and pressing of <link=\"BEAN\">Nosh Bean</link>."
+msgstr "由<link=\"BEAN\">小吃豆</link>压榨而成的植物饮料。"
+
+#. STRINGS.ITEMS.FOOD.NOSHMILK.NAME
+msgctxt "STRINGS.ITEMS.FOOD.NOSHMILK.NAME"
+msgid "<link=\"NOSHMILK\">Nosh Milk</link>"
+msgstr "<link=\"NOSHMILK\">小吃豆奶</link>"
+
+#. STRINGS.ITEMS.FOOD.NOSHPUDDING.DESC
+msgctxt "STRINGS.ITEMS.FOOD.NOSHPUDDING.DESC"
+msgid "A fancy sweet dessert made with <link=\"NOSHMILK\">Nosh Milk</link>, <link=\"COLDWHEATSEED\">Sleet Wheat Grain</link>, whisked <link=\"RAWEGG\">Eggs</link> and quite a lot of <link=\"SUCROSE\">Sucrose</link>. Has a fine rimmed pastry that prevents it from breaking apart as one holds it (for a short time)."
+msgstr "由<link=\"COLDWHEATSEED\">冰霜麦粒</link>，<link=\"NOSHMILK\">豆奶</link>，打发的<link=\"RAWEGG\">生蛋</link>和大量的<link=\"SUCROSE\">蔗糖</link>制作的精美甜点。精致的饼底保证在拿着它时(短时间)不会破裂。"
+
+#. STRINGS.ITEMS.FOOD.NOSHPUDDING.NAME
+msgctxt "STRINGS.ITEMS.FOOD.NOSHPUDDING.NAME"
+msgid "<link=\"NOSHPUDDING\">Nosh Custard Flan</link>"
+msgstr "<link=\"NOSHPUDDING\">小吃豆馅饼</link>"
+
+#. STRINGS.ITEMS.FOOD.NUTPIE.DESC
+msgctxt "STRINGS.ITEMS.FOOD.NUTPIE.DESC"
+msgid "A gourmet pie with a nut filling of caramelised <link=\"WORMBASICFOOD\">Roast Grubfruit Nuts</link>, <link=\"COLDWHEATSEED\">Sleet Wheat Grain</link> and <link=\"RAWEGG\">Eggs</link> dough, and <link=\"SUCROSE\">Sucrose</link>. The buttery crust remains fresh for a long time."
+msgstr "由<link=\"WORMBASICFOOD\">烤虫果仁</link>，<link=\"COLDWHEATSEED\">冰霜麦粒</link>，<link=\"RAWEGG\">生蛋</link>面团和<link=\"SUCROSE\">蔗糖</link>制作的果仁派，加入黄油的外壳可以长时间保持新鲜。"
+
+#. STRINGS.ITEMS.FOOD.NUTPIE.NAME
+msgctxt "STRINGS.ITEMS.FOOD.NUTPIE.NAME"
+msgid "<link=\"NUTPIE\">Grubner Nusstorte</link>"
+msgstr "<link=\"NUTPIE\">果仁派</link>"
+
+#. STRINGS.ITEMS.FOOD.PLANTBURGER.DESC
+msgctxt "STRINGS.ITEMS.FOOD.PLANTBURGER.DESC"
+msgid "Tasty <link=\"GRILLEDPLANTMEAT\">Grilled Plant Meat</link> and <link=\"LETTUCE\">Lettuce</link> pressed together inside a split <link=\"MEALBREAD\">Mealbrot</link>. Can cause shivers and shakes after consumption."
+msgstr "美味的<link=\"GRILLEDPLANTMEAT\">烤植物肉</link>和<link=\"LETTUCE\">海生菜</link>夹在一个切开的<link=\"MEALBREAD\">米蚤面包</link>中，好吃到令人颤抖!"
+
+#. STRINGS.ITEMS.FOOD.PLANTBURGER.NAME
+msgctxt "STRINGS.ITEMS.FOOD.PLANTBURGER.NAME"
+msgid "<link=\"PLANTBURGER\">Plant Burger</link>"
+msgstr "<link=\"PLANTBURGER\">素肉汉堡</link>"
+
+#. STRINGS.ITEMS.FOOD.SALTEDMEAT.DESC
+msgctxt "STRINGS.ITEMS.FOOD.SALTEDMEAT.DESC"
+msgid "A shunk of <link=\"MEAT\">Meat</link> dried with a lot of <link=\"SALT\">Salt</link>. The large amount of salt present in this meat made it completely resistant to microorganisms that would spoil it under normal conditions."
+msgstr "一小块用大量的<link=\"SALT\">盐</link>腌制并晒干的<link=\"MEAT\">肉</link>，大量的盐分使其能够抵抗正常环境中导致食物变质的微生物。"
+
+#. STRINGS.ITEMS.FOOD.SALTEDMEAT.NAME
+msgctxt "STRINGS.ITEMS.FOOD.SALTEDMEAT.NAME"
+msgid "<link=\"SALTEDMEAT\">Salt-cured Meat</link>"
+msgstr "<link=\"SALTEDMEAT\">腌肉干</link>"
+
+#. STRINGS.ITEMS.FOOD.SPICEDOMELETTE.DESC
+msgctxt "STRINGS.ITEMS.FOOD.SPICEDOMELETTE.DESC"
+msgid "A fluffy dish made from beaten <link=\"RAWEGG\">Eggs</link> and served with generous pinch of <link=\"SPICENUT\">Pincha Peppernut</link>. Has a deep spiced flavour that sticks to the mouth."
+msgstr "一种用打发好的<link=\"RAWEGG\">生蛋</link>烧制的菜肴，佐以大量的火椒粉，浓郁的香料味会随着柔软的口感黏在嘴里。"
+
+#. STRINGS.ITEMS.FOOD.SPICEDOMELETTE.NAME
+msgctxt "STRINGS.ITEMS.FOOD.SPICEDOMELETTE.NAME"
+msgid "<link=\"SPICEDOMELETTE\">Spiced Omelette</link>"
+msgstr "<link=\"SPICEDOMELETTE\">辣荷包蛋</link>"
+
