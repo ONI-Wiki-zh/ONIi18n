@@ -1,7 +1,16 @@
 msgid ""
 msgstr ""
-"Application: Oxygen Not Included"
-"POT Version: 2.0"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: TerrestrisYE <yelingfeng0815@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh-cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. STRINGS.BUILDINGS.PREFABS.FRIDGEADVANCED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.FRIDGEADVANCED.DESC"
