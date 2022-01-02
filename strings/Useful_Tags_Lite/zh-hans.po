@@ -80,7 +80,7 @@ msgstr "指示性环境信息的墙上标签。"
 #. STRINGS.BUILDINGS.PREFABS.INFOTAG.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INFOTAG.EFFECT"
 msgid "This tag is a visual representation many different directive informations regarding environment. Select the type of directive using the menu option. \n\nList of tags: \n - Atmo Suit\n - Jet Suit\n - Lead Suit\n - Dormitory\n - Infirmary\n - Workshop\n - Research Facility\n - Observatory\n - Restroom\n - Refectory\n - Farm\n - Critter Ranch\n - Rocket Platform"
-msgstr "这个标签是不同导向和环境信息的直观显示。使用菜单选择导向样式。\n\n标签列表: \n - 气压服\n - 喷漆服\n - 铅服\n - 宿舍\n - 医务室\n - 工作间\n - 研究设施\n - 天文台\n - 休息室\n - 洗手间\n - 农场\n - 牧场\n - 火箭平台""
+msgstr "这个标签是不同导向和环境信息的直观显示。使用菜单选择导向样式。\n\n标签列表: \n - 气压服\n - 喷漆服\n - 铅服\n - 宿舍\n - 医务室\n - 工作间\n - 研究设施\n - 天文台\n - 休息室\n - 洗手间\n - 农场\n - 牧场\n - 火箭平台"
 
 #. STRINGS.BUILDINGS.PREFABS.INFOTAG.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INFOTAG.NAME"
