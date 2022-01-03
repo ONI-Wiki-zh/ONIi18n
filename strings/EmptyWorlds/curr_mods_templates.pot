@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. EmptyWorlds.PHO_STRINGS.E_DESCRIPTION
+msgctxt "EmptyWorlds.PHO_STRINGS.E_DESCRIPTION"
+msgid "Emptera is a difficult empty asteroid. Resources are limited and you will have to take advantage of your geysers to get them.\n\n<smallcaps> Colonizing Emptera will be a difficult experience. However, this asteroid has some advantages with its vacuum. </smallcaps>\n\n"
+msgstr ""
+
+#. EmptyWorlds.PHO_STRINGS.E_NAME
+msgctxt "EmptyWorlds.PHO_STRINGS.E_NAME"
+msgid "Emptera"
+msgstr ""
+
+#. EmptyWorlds.PHO_STRINGS.I_DESCRIPTION
+msgctxt "EmptyWorlds.PHO_STRINGS.I_DESCRIPTION"
+msgid "Islands is an asteroid composed of asteroids. The resources are scattered and you will have to go through space to colonize the place.\n\n<smallcaps> Colonizing Islands will be an original and fun experience. This will also allow you to easily access the vacuum for some setups</smallcaps>\n\n"
+msgstr ""
+
+#. EmptyWorlds.PHO_STRINGS.I_NAME
+msgctxt "EmptyWorlds.PHO_STRINGS.I_NAME"
+msgid "Islands"
+msgstr ""
+
+#. EmptyWorlds.PHO_STRINGS.SPACE_HOLE_DESC
+msgctxt "EmptyWorlds.PHO_STRINGS.SPACE_HOLE_DESC"
+msgid "This world is completely full of holes and emptiness everywhere."
+msgstr ""
+
+#. EmptyWorlds.PHO_STRINGS.SPACE_HOLE_NAME
+msgctxt "EmptyWorlds.PHO_STRINGS.SPACE_HOLE_NAME"
+msgid "Holes"
+msgstr ""
+
