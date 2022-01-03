@@ -30,7 +30,7 @@ msgstr ""
 #. baator.baatorPatch.BAATOR_MOONLET_NAME
 msgctxt "baator.baatorPatch.BAATOR_MOONLET_NAME"
 msgid "Baator Moonlet"
-msgstr "巴托小卫星"
+msgstr "巴托地狱星群"
 
 #. baator.baatorPatch.BAATOR_MOONLET_DESCRIPTION
 msgctxt "baator.baatorPatch.BAATOR_MOONLET_DESCRIPTION"
