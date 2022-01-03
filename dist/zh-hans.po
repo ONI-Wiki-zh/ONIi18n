@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ONIi18n v1.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-01-02 08:25+0000\n"
+"POT-Creation-Date: 2022-01-03 09:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4757,4 +4757,28 @@ msgstr "ModI18n 会在启动时下载最新的翻译文件。如若失败，则�
 msgctxt "ModI18n.STRINGS.OPTIONS.LOCAL_ONLY.NAME"
 msgid "Use Local Translations Only"
 msgstr "仅使用本地翻译"
+
+msgctxt "MAPOVERLAY.TITLE"
+msgid "Map Overlay"
+msgstr "地图概览"
+
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayBiomes"
+msgid "Biomes"
+msgstr "生态"
+
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayBuildings"
+msgid "Buildings"
+msgstr "建筑"
+
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayCritters"
+msgid "Critters"
+msgstr "小动物"
+
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayGeysers"
+msgid "Geysers"
+msgstr "间歇泉"
+
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayPlants"
+msgid "Plants"
+msgstr "植物"
 
