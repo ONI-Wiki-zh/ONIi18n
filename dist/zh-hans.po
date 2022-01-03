@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ONIi18n v1.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-01-03 09:23+0000\n"
+"POT-Creation-Date: 2022-01-03 10:02+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4527,6 +4527,374 @@ msgstr "沥青设定"
 msgctxt "Asphalt.STRINGS.UI.SETTINGSDIALOG.VERSIONLABEL"
 msgid "v{number}"
 msgstr "版本{number}"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Aluminum"
+msgid "Al"
+msgstr "铝"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.AluminumGas"
+msgid "Al"
+msgstr "铝"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.AluminumOre"
+msgid "Al"
+msgstr "铝"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Brine"
+msgid "Brine"
+msgstr "盐水"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.BrineIce"
+msgid "B-Ice"
+msgstr "盐冰"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Carbon"
+msgid "C"
+msgstr "碳"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CarbonDioxide"
+msgid "CO<sub>2</sub>"
+msgstr "二氧化碳"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CarbonGas"
+msgid "C"
+msgstr "碳"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Chlorine"
+msgid "Cl"
+msgstr "氯"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.ChlorineGas"
+msgid "Cl"
+msgstr "氯"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.ContaminatedOxygen"
+msgid "P-O<sub>2</sub>"
+msgstr "污氧"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Copper"
+msgid "Cu"
+msgstr "铜"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CopperGas"
+msgid "Cu"
+msgstr "铜"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CrudeOil"
+msgid "C-Oil"
+msgstr "原油"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CrushedIce"
+msgid "C-Ice"
+msgstr "碎冰"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CrushedRock"
+msgid "Rock"
+msgstr "碎岩"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.DirtyIce"
+msgid "P-Ice"
+msgstr "污冰"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.DirtyPrefix"
+msgid "P-"
+msgstr "污"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.DirtyWater"
+msgid "P-H<sub>2</sub>O"
+msgstr "污水"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Ethanol"
+msgid "EtOH"
+msgstr "乙醇"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.EthanolGas"
+msgid "EtOH"
+msgstr "乙醇"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Glass"
+msgid "Glass"
+msgstr "玻璃"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Gold"
+msgid "Au"
+msgstr "金"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.GoldAmalgam"
+msgid "AuAmal"
+msgstr "金汞齐"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.GoldGas"
+msgid "Au"
+msgstr "金"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Hydrogen"
+msgid "H"
+msgstr "氢"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Ice"
+msgid "Ice"
+msgstr "冰"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Iron"
+msgid "Fe"
+msgstr "铁"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.IronGas"
+msgid "Fe"
+msgstr "铁"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.IronOre"
+msgid "FeOre"
+msgstr "铁矿"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Lead"
+msgid "Pb"
+msgstr "铅"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LeadGas"
+msgid "Pb"
+msgstr "铅"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidCarbonDioxide"
+msgid "CO<sub>2</sub>"
+msgstr "二氧化碳"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidHydrogen"
+msgid "H"
+msgstr "氢"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidMethane"
+msgid "CH<sub>4</sub>"
+msgstr "甲烷"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidOxygen"
+msgid "O"
+msgstr "氧"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidPhosphorus"
+msgid "P"
+msgstr "磷"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidPropane"
+msgid "C<sub>3</sub>H<sub>8</sub>"
+msgstr "丙烷"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidSulfur"
+msgid "S"
+msgstr "硫"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Methane"
+msgid "CH<sub>4</sub>"
+msgstr "甲烷"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenAluminum"
+msgid "Al"
+msgstr "铝"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenCarbon"
+msgid "C"
+msgstr "碳"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenCopper"
+msgid "Cu"
+msgstr "铜"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenGlass"
+msgid "Glass"
+msgstr "玻璃"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenGold"
+msgid "Au"
+msgstr "金"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenIron"
+msgid "Fe"
+msgstr "铁"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenLead"
+msgid "Pb"
+msgstr "铅"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenNiobium"
+msgid "Nb"
+msgstr "铌"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenSalt"
+msgid "NaCl"
+msgstr "盐"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenSteel"
+msgid "Steel"
+msgstr "钢"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenTungsten"
+msgid "W"
+msgstr "钨"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Naphtha"
+msgid "Nap"
+msgstr "石脑油"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Niobium"
+msgid "Nb"
+msgstr "铌"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.NiobiumGas"
+msgid "Nb"
+msgstr "铌"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Oxygen"
+msgid "O<sub>2</sub>"
+msgstr "氧"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Petroleum"
+msgid "Petrol"
+msgstr "石油"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Phosphorite"
+msgid "P-rite"
+msgstr "磷矿"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Phosphorus"
+msgid "P"
+msgstr "磷"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.PhosphorusGas"
+msgid "P"
+msgstr "磷"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Propane"
+msgid "C<sub>3</sub>H<sub>8</sub>"
+msgstr "丙烷"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Radium"
+msgid "Ra"
+msgstr "镭"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.RefinedCarbon"
+msgid "C"
+msgstr "碳"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.RockGas"
+msgid "Rock"
+msgstr "岩"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Salt"
+msgid "NaCl"
+msgstr "盐"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SaltGas"
+msgid "NaCl"
+msgstr "盐"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SaltWater"
+msgid "S-H<sub>2</sub>O"
+msgstr "盐水"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidCarbonDioxide"
+msgid "CO<sub>2</sub>"
+msgstr "二氧化碳"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidChlorine"
+msgid "Cl"
+msgstr "氯"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidCrudeOil"
+msgid "C-Oil"
+msgstr "原油"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidEthanol"
+msgid "EtOH"
+msgstr "乙醇"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidHydrogen"
+msgid "H"
+msgstr "氢"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidMethane"
+msgid "CH<sub>4</sub>"
+msgstr "甲烷"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidNaphtha"
+msgid "Nap"
+msgstr "石脑油"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidOxygen"
+msgid "O"
+msgstr "氧"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidPetroleum"
+msgid "Petrol"
+msgstr "石油"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidPropane"
+msgid "C<sub>3</sub>H<sub>8</sub>"
+msgstr "丙烷"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidSuperCoolant"
+msgid "S-Cool"
+msgstr "超冷"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidViscoGel"
+msgid "V-Gel"
+msgstr "凝胶"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SourGas"
+msgid "Sour"
+msgstr "酸气"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Steam"
+msgid "H<sub>2</sub>O"
+msgstr "蒸汽"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Steel"
+msgid "Steel"
+msgstr "钢"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SteelGas"
+msgid "Steel"
+msgstr "钢"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Sulfur"
+msgid "S"
+msgstr "硫"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SulfurGas"
+msgid "S"
+msgstr "硫"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SuperCoolant"
+msgid "S-Cool"
+msgstr "超冷"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SuperCoolantGas"
+msgid "S-Cool"
+msgstr "超冷"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.ToxicSand"
+msgid "P-"
+msgstr "污土"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Tungsten"
+msgid "W"
+msgstr "钨"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.TungstenGas"
+msgid "W"
+msgstr "钨"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.ViscoGel"
+msgid "V-Gel"
+msgstr "凝胶"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Water"
+msgid "H<sub>2</sub>O"
+msgstr "水"
+
+msgctxt "BetterLogicOverlay.ASTRINGS.UNITMODIFIERS.thousand"
+msgid "k"
+msgstr "千"
 
 msgctxt "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.DESC"
 msgid ""
