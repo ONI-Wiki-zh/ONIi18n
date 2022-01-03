@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. baator.baatorPatch.BAATOR_DEBUG_WORLD_DESCRIPTION
+msgctxt "baator.baatorPatch.BAATOR_DEBUG_WORLD_DESCRIPTION"
+msgid "Baator Debug world DEBUG ONLY"
+msgstr ""
+
+#. baator.baatorPatch.BAATOR_DEBUG_WORLD_NAME
+msgctxt "baator.baatorPatch.BAATOR_DEBUG_WORLD_NAME"
+msgid "Baator_Debug"
+msgstr ""
+
+#. baator.baatorPatch.BAATOR_MOONLET_DESCRIPTION
+msgctxt "baator.baatorPatch.BAATOR_MOONLET_DESCRIPTION"
+msgid "Welcome to the 10 Biomes of Hell. \n\n Do not think that a smaller Asteroid will make Survival any more likely."
+msgstr ""
+
+#. baator.baatorPatch.BAATOR_MOONLET_NAME
+msgctxt "baator.baatorPatch.BAATOR_MOONLET_NAME"
+msgid "Baator Moonlet"
+msgstr ""
+
+#. baator.baatorPatch.BAATOR_WORLD_DESCRIPTION
+msgctxt "baator.baatorPatch.BAATOR_WORLD_DESCRIPTION"
+msgid "Welcome to 10 Biomes of Hell. \n\nDuplicants will have to learn to cope with Scorching hot wastelands, Dense pockets of Gas and Liquid and icy Glaciers. Survival will be a challenge in this inhospitable Hell, even the Pips Don't like it!"
+msgstr ""
+
+#. baator.baatorPatch.BAATOR_WORLD_NAME
+msgctxt "baator.baatorPatch.BAATOR_WORLD_NAME"
+msgid "Baator"
+msgstr ""
+
