@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: DDEle <andy-ding@outlook.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. MAPOVERLAY.TITLE
+msgctxt "MAPOVERLAY.TITLE"
+msgid "Map Overlay"
+msgstr "地图概览"
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayBiomes
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayBiomes"
+msgid "Biomes"
+msgstr "生态"
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayBuildings
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayBuildings"
+msgid "Buildings"
+msgstr "建筑"
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayCritters
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayCritters"
+msgid "Critters"
+msgstr "小动物"
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayGeysers
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayGeysers"
+msgid "Geysers"
+msgstr "间歇泉"
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayPlants
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayPlants"
+msgid "Plants"
+msgstr "植物"

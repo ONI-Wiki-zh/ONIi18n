@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDGASCONDUITBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDGASCONDUITBRIDGE.DESC"
+msgid "Separate pipe systems prevent mingled contents from causing building damage."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDGASCONDUITBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDGASCONDUITBRIDGE.EFFECT"
+msgid "Runs one <link=\"GASPIPING\">Gas Pipe</link> section over another two without joining them.\n\nCan be run through wall and floor tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDGASCONDUITBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDGASCONDUITBRIDGE.NAME"
+msgid "<link=\"EXTENDEDGASCONDUITBRIDGE\">Long Gas Bridge</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLIQUIDCONDUITBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLIQUIDCONDUITBRIDGE.DESC"
+msgid "Separate pipe systems prevent mingled contents from causing building damage."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLIQUIDCONDUITBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLIQUIDCONDUITBRIDGE.EFFECT"
+msgid "Runs one <link=\"LIQUIDPIPING\">Liquid Pipe</link> section over another two without joining them.\n\nCan be run through wall and floor tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLIQUIDCONDUITBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLIQUIDCONDUITBRIDGE.NAME"
+msgid "<link=\"EXTENDEDLIQUIDCONDUITBRIDGE\">Long Liquid Bridge</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICRIBBONBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICRIBBONBRIDGE.DESC"
+msgid "Wire bridges allow multiple automation grids to exist in a small area without connecting."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICRIBBONBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICRIBBONBRIDGE.EFFECT"
+msgid "Runs one <link=\"LOGICRIBBON\">Automation Ribbon</link> section over another two without joining them.\n\nCan be run through wall and floor tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICRIBBONBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICRIBBONBRIDGE.NAME"
+msgid "<link=\"EXTENDEDLOGICRIBBONBRIDGE\">Long Automation Ribbon Bridge</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICWIREBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICWIREBRIDGE.DESC"
+msgid "Wire bridges allow multiple automation grids to exist in a small area without connecting."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICWIREBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICWIREBRIDGE.EFFECT"
+msgid "Runs one <link=\"LOGICWIRE\">Automation Wire</link> section over another two without joining them.\n\nCan be run through wall and floor tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICWIREBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICWIREBRIDGE.NAME"
+msgid "<link=\"EXTENDEDLOGICWIREBRIDGE\">Long Automation Wire Bridge</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDSOLIDCONDUITBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDSOLIDCONDUITBRIDGE.DESC"
+msgid "Separating rail systems helps prevent materials from reaching the wrong destinations."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDSOLIDCONDUITBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDSOLIDCONDUITBRIDGE.EFFECT"
+msgid "Runs one <link=\"SOLIDCONDUIT\">Conveyor Rail</link> section over another two without joining them.\n\nCan be run through wall and floor tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDSOLIDCONDUITBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDSOLIDCONDUITBRIDGE.NAME"
+msgid "<link=\"EXTENDEDSOLIDCONDUITBRIDGE\">Long Conveyor Bridge</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREBRIDGE.DESC"
+msgid "Splitting generators onto separate systems can prevent power overloads and wasted electricity."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREBRIDGE.EFFECT"
+msgid "Runs one wire section over another two without joining them.\n\nCan be run through wall and floor tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREBRIDGE.NAME"
+msgid "<link=\"EXTENDEDWIREBRIDGE\">Long Wire Bridge</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREREFINEDBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREREFINEDBRIDGE.DESC"
+msgid "Splitting generators onto separate systems can prevent power overloads and wasted electricity."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREREFINEDBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREREFINEDBRIDGE.EFFECT"
+msgid "Carries more <link=\"POWER\">Wattage</link> than a regular <link=\"WIREBRIDGE\">Wire Bridge</link> without overloading.\n\nRuns one wire section over another two without joining them.\n\nCan be run through wall and floor tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREREFINEDBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREREFINEDBRIDGE.NAME"
+msgid "<link=\"EXTENDEDWIREREFINEDBRIDGE\">Long Conductive Wire Bridge</link>"
+msgstr ""
+
