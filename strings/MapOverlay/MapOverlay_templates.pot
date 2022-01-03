@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. MAPOVERLAY.TITLE
+msgctxt "MAPOVERLAY.TITLE"
+msgid "Map Overlay"
+msgstr ""
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayBiomes
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayBiomes"
+msgid "Biomes"
+msgstr ""
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayBuildings
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayBuildings"
+msgid "Buildings"
+msgstr ""
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayCritters
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayCritters"
+msgid "Critters"
+msgstr ""
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayGeysers
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayGeysers"
+msgid "Geysers"
+msgstr ""
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayPlants
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.MapOverlayPlants"
+msgid "Plants"
+msgstr ""
+
