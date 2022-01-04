@@ -263,7 +263,7 @@ msgctxt "STRINGS.ELEMENTS.MOLTENSILVER.DESC"
 msgid ""
 "(Ag) Silver is soft, white, lustrous transition metal, in its molten "
 "state."
-msgstr "(Ag) 银是一种质地软，呈白色和有光泽的过渡金属。(熔融状态)"
+msgstr "(Ag) 银是一种质地软，呈白色和有光泽的过渡金属。（熔融状态）"
 
 #. STRINGS.ELEMENTS.MOLTENSILVER.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENSILVER.NAME"
@@ -273,7 +273,7 @@ msgstr "<link=\"MOLTENSILVER\">熔融银</link>"
 #. STRINGS.ELEMENTS.MOLTENTITANIUM.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENTITANIUM.DESC"
 msgid "(Ti) Titanium is a lustrous transition metal in its molten state."
-msgstr "(Ti) 钛是一种有光泽的过渡金属。(熔融状态)"
+msgstr "(Ti) 钛是一种有光泽的过渡金属。（熔融状态）"
 
 #. STRINGS.ELEMENTS.MOLTENTITANIUM.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENTITANIUM.NAME"
@@ -285,7 +285,7 @@ msgctxt "STRINGS.ELEMENTS.MOLTENZINC.DESC"
 msgid ""
 "(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its molten "
 "state."
-msgstr "(Zn)锌是一种呈蓝白色，有光泽的抗磁性金属。(熔融状态)"
+msgstr "(Zn) 锌是一种呈蓝白色，有光泽的抗磁性金属。（熔融状态）"
 
 #. STRINGS.ELEMENTS.MOLTENZINC.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENZINC.NAME"
@@ -297,7 +297,7 @@ msgctxt "STRINGS.ELEMENTS.SILVERGAS.DESC"
 msgid ""
 "(Ag) Silver is soft, white, lustrous transition metal, in its gaseous "
 "state."
-msgstr "(Ag) 银是一种质地软，呈白色和有光泽的过渡金属。(气态)"
+msgstr "(Ag) 银是一种质地软，呈白色和有光泽的过渡金属。（气态）"
 
 #. STRINGS.ELEMENTS.SILVERGAS.NAME
 msgctxt "STRINGS.ELEMENTS.SILVERGAS.NAME"
@@ -395,7 +395,7 @@ msgid ""
 "compound has many building and industrial uses, as well a an effective "
 "neutron reflector for nuclear applications."
 msgstr ""
-"碳化钨是一种钨和碳的化合物，具备两倍于钢的硬度，略低于金刚石。"
+"(WC) 碳化钨是一种钨和碳的化合物，具备两倍于钢的硬度，略低于金刚石。"
 "这种化合物有许多建筑和工业用途，也是核工业应用中有效的中子反射体。"
 
 #. STRINGS.ELEMENTS.SOLIDTUNGSTENCARBIDE.NAME
@@ -430,7 +430,7 @@ msgctxt "STRINGS.ELEMENTS.ZINCGAS.DESC"
 msgid ""
 "(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its gaseous "
 "state."
-msgstr "(Zn) 锌是一种呈蓝白色，有光泽和有抗磁性的金属。(气态)"
+msgstr "(Zn) 锌是一种呈蓝白色，有光泽和有抗磁性的金属。（气态）"
 
 #. STRINGS.ELEMENTS.ZINCGAS.NAME
 msgctxt "STRINGS.ELEMENTS.ZINCGAS.NAME"
