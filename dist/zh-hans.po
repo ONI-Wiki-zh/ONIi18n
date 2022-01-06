@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ONIi18n v1.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-01-06 10:56+0000\n"
+"POT-Creation-Date: 2022-01-06 12:50+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1146,6 +1146,54 @@ msgstr "专门用于将充满放射性核素的小核燃料丸被压成致密的
 msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RADFUEL.NAME"
 msgid "<link=\"RADFUEL\">Radfuel Pellet</link>"
 msgstr "核燃料包"
+
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_ACTION_BACK"
+msgid "BACK"
+msgstr "返回"
+
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_ACTION_DRAG"
+msgid "DRAG"
+msgstr "拖动"
+
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_NAME"
+msgid "Pliers"
+msgstr "剪刀"
+
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_TOOLTIP"
+msgid "Disconnect utility networks {0}"
+msgstr "断开公共网络{0}"
+
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_TOOLTIP_TITLE"
+msgid "PLIERS"
+msgstr "剪刀"
+
+msgctxt "STRINGS.INPUT_BINDINGS.PLIB.269"
+msgid "Pliers"
+msgstr "剪刀"
+
+msgctxt "STRINGS.INPUT_BINDINGS.PLIB.NAME"
+msgid "Mods"
+msgstr "模组"
+
+msgctxt "STRINGS.PliersStrings.STRING_PLIERS_ACTION_BACK"
+msgid "BACK"
+msgstr "返回"
+
+msgctxt "STRINGS.PliersStrings.STRING_PLIERS_ACTION_DRAG"
+msgid "DRAG"
+msgstr "拖动"
+
+msgctxt "STRINGS.PliersStrings.STRING_PLIERS_NAME"
+msgid "Pliers"
+msgstr "剪刀"
+
+msgctxt "STRINGS.PliersStrings.STRING_PLIERS_TOOLTIP"
+msgid "Disconnect utility networks {0}"
+msgstr "断开公共网络{0}"
+
+msgctxt "STRINGS.PliersStrings.STRING_PLIERS_TOOLTIP_TITLE"
+msgid "PLIERS"
+msgstr "剪刀"
 
 msgctxt "STRINGS.BUILDINGS.PREFABS.COAL_BOILER.DESC"
 msgid "An industrial grade steam boiler that uses coal as fuel."
@@ -3446,6 +3494,26 @@ msgstr "将<link=\"SUCROSE\">蔗糖</link>和水由<link=\"SLIMEMOLD\">菌泥</l
 msgctxt "STRINGS.BUILDINGS.PREFABS.ETHANOLSTILL.NAME"
 msgid "Ethanol Still"
 msgstr "乙醇发酵器"
+
+msgctxt "PeterHan.Resculpt.ResculptStrings.REPAINT_BUTTON"
+msgid "Repaint"
+msgstr "重新绘制"
+
+msgctxt "PeterHan.Resculpt.ResculptStrings.RESCULPT_BUTTON"
+msgid "Resculpt"
+msgstr "重新雕刻"
+
+msgctxt "PeterHan.Resculpt.ResculptStrings.RESCULPT_TOOLTIP"
+msgid "Changes the design of this object"
+msgstr "改变对象的设计"
+
+msgctxt "PeterHan.Resculpt.ResculptStrings.ROTATE_BUTTON"
+msgid "Rotate"
+msgstr "旋转"
+
+msgctxt "PeterHan.Resculpt.ResculptStrings.ROTATE_TOOLTIP"
+msgid "Rotates artwork. {Hotkey}"
+msgstr "旋转艺术品{Hotkey}"
 
 msgctxt "baator.baatorPatch.BAATOR_WORLD_NAME"
 msgid "Baator"
