@@ -71,7 +71,7 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.DESC"
 msgid ""
 "An advanced petrochemical refinery capable to perform delicate molecular "
 "reactions."
-msgstr "能够进行精细分子反应的先进石化精炼器。"
+msgstr "能够进行精细分子反应的先进石化精炼器。\n\n本建筑可能由于版本更新被移除。"
 
 #. STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.EFFECT"
@@ -86,7 +86,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.NAME"
 msgid "Super Coolant Refinery"
-msgstr "超级冷却剂精炼器"
+msgstr "超级冷却剂精炼器[可能移除]"
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.DESC"
@@ -171,7 +171,7 @@ msgid ""
 "A self controlled distillation plant that uses induction to produce "
 "Petrolleum from Crude Oil. Has an extra special device that pumps out the"
 " Natural Gas generated."
-msgstr "一台自动化蒸馏器，使用电磁加热从原油中蒸馏石油。有一个特殊装置用于泵出高硫天然气。"
+msgstr "一台自动化蒸馏器，使用电磁加热从原油中蒸馏石油。有一个特殊装置用于泵出天然气。"
 
 #. STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.EFFECT"
@@ -181,7 +181,7 @@ msgid ""
 "Oil</link>."
 msgstr ""
 "从<link=\"CRUDEOIL\">原油</link>中蒸馏<link=\"PETROLEUM\">石油"
-"<link=\"SOURGAS\">高硫天然气</link>。"
+"<link=\"METHANE\">天然气</link>。"
 
 #. STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.NAME"
