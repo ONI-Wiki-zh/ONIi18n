@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. PeterHan.Resculpt.ResculptStrings.REPAINT_BUTTON
+msgctxt "PeterHan.Resculpt.ResculptStrings.REPAINT_BUTTON"
+msgid "Repaint"
+msgstr ""
+
+#. PeterHan.Resculpt.ResculptStrings.RESCULPT_BUTTON
+msgctxt "PeterHan.Resculpt.ResculptStrings.RESCULPT_BUTTON"
+msgid "Resculpt"
+msgstr ""
+
+#. PeterHan.Resculpt.ResculptStrings.RESCULPT_TOOLTIP
+msgctxt "PeterHan.Resculpt.ResculptStrings.RESCULPT_TOOLTIP"
+msgid "Changes the design of this object"
+msgstr ""
+
+#. PeterHan.Resculpt.ResculptStrings.ROTATE_BUTTON
+msgctxt "PeterHan.Resculpt.ResculptStrings.ROTATE_BUTTON"
+msgid "Rotate"
+msgstr ""
+
+#. PeterHan.Resculpt.ResculptStrings.ROTATE_TOOLTIP
+msgctxt "PeterHan.Resculpt.ResculptStrings.ROTATE_TOOLTIP"
+msgid "Rotates artwork. {Hotkey}"
+msgstr ""
