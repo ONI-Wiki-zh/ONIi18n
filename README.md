@@ -34,7 +34,13 @@ To make sure all users of your mod have ModI18n enabled, you can mention it in y
 
 To update existing string templates, just create a new issue/PR with the new templates.
 
-# Modder opt out
+# Modders Choice
+The following modders explictly stated that they don't mind people adding translations via ModI18n.
+* [Aki](https://github.com/aki-art/ONI-Mods)
+* [DoctorFeelGoodMD](https://github.com/DoctorFeelGoodMD/OxygenNotIncluded-Mods)
+* [YMS](https://steamcommunity.com/profiles/76561198078647212/myworkshopfiles/?appid=457140)
+
+## Opt out
 [Mod Translation](https://github.com/ONI-Wiki-zh/ModI18n) is an open "platform" for translations of various languages for Oxygen Not Included mods and it won't steal or ruin your work (instead it helps mods to be subscribed by more international gamers). However, if you do want to prevent Mod Translation from translating your mods, you can opt out here so that this repo won't hold translations for your mods.
 
 The following modders don't want their mods to be translated without their supervision:
