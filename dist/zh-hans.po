@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ONIi18n v1.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-01-06 12:50+0000\n"
+"POT-Creation-Date: 2022-01-07 15:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3615,6 +3615,18 @@ msgstr "菌泥生物罐需要<link=\"WATER\">水</link>和<link=\"MUSHBAR\">软�
 msgctxt "STRINGS.BUILDINGS.PREFABS.SLIMEVAT.NAME"
 msgid "Slime Vat"
 msgstr "菌泥生物罐"
+
+msgctxt "STRINGS.BUILDINGS.PREFABS.HAULINGPOINT.DESC"
+msgid "Relocate selected items here, then deconstruct to drop them on the ground."
+msgstr "将所选物品移动到此地，然后摧毁它将物品放在地上。"
+
+msgctxt "STRINGS.BUILDINGS.PREFABS.HAULINGPOINT.EFFECT"
+msgid "A temporary designation to bring items to a specific place."
+msgstr "将物品临时存放在特定地点。"
+
+msgctxt "STRINGS.BUILDINGS.PREFABS.HAULINGPOINT.NAME"
+msgid "<link=\"HAULINGPOINT\">Hauling Point</link>"
+msgstr "<link=\"HAULINGPOINT\">运送点</link>"
 
 msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALJUICER.DESC"
 msgid "Grind food in to juices."
