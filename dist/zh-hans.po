@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ONIi18n v1.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-01-07 15:48+0000\n"
+"POT-Creation-Date: 2022-01-09 08:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1035,6 +1035,2535 @@ msgstr ""
 msgctxt "STRINGS.BUILDINGS.PREFABS.UTILITYTAG.NAME"
 msgid "Utility Tag"
 msgstr "设备标签"
+
+msgctxt "CustomizeBuildings.PROPERTY.version"
+msgid "version"
+msgstr "版本"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.Header_Title"
+msgid "_______________________________________________________________________________________"
+msgstr "_______________________________________________________________________________________"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ResetToKleiDefault_Title"
+msgid "Reset To Klei Default"
+msgstr "重置为Klei默认"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ResetToKleiDefault_ToolTip"
+msgid "This will discard all changes and set all options to 'off'."
+msgstr "这将放弃所有的修改，并将所有的选项设置为 \"关闭\"。"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ResetToCustomDefault_Title"
+msgid "Reset To Mod Preset"
+msgstr "重置为本模组预设"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ResetToCustomDefault_ToolTip"
+msgid "This will discard all changes and enable most options."
+msgstr "这将放弃所有的修改，并启用大多数选项。"
+
+msgctxt "CustomizeBuildings.PROPERTY.BuildingBaseSettingGlobalFlag"
+msgid "BuildingBaseSettingGlobalFlag"
+msgstr "建筑基础设置总开关"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.BuildingBaseSettingGlobalFlag_Title"
+msgid "Base Setting Global Flag"
+msgstr "基础设置总开关"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.BuildingBaseSettingGlobalFlag_ToolTip"
+msgid "If false, will keep disable all basic manual changes."
+msgstr "如果关，会强制关闭所有基础手动修改。"
+
+msgctxt "CustomizeBuildings.PROPERTY.BuildingBaseSettings"
+msgid "BuildingBaseSettings"
+msgstr "建筑基础设置"
+
+msgctxt "CustomizeBuildings.PROPERTY.BuildingAdvancedGlobalFlag"
+msgid "BuildingAdvancedGlobalFlag"
+msgstr "建筑高级设置总开关"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.BuildingAdvancedGlobalFlag_Title"
+msgid "Advanced Global Flag"
+msgstr "高级设置总开关"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.BuildingAdvancedGlobalFlag_ToolTip"
+msgid "If false, will keep disable all advanced manual changes."
+msgstr "如果关，会强制关闭所有高级手动修改。"
+
+msgctxt "CustomizeBuildings.PROPERTY.BuildingAdvancedMachineMultiplier"
+msgid "BuildingAdvancedMachineMultiplier"
+msgstr "建筑高级机械倍率"
+
+msgctxt "CustomizeBuildings.PROPERTY.BuildingAdvancedMaterial"
+msgid "BuildingAdvancedMaterial"
+msgstr "建筑高级机械"
+
+msgctxt "CustomizeBuildings.PROPERTY.BuildingAdvancedOutputTemp"
+msgid "BuildingAdvancedOutputTemp"
+msgstr "建筑高级输出临时"
+
+msgctxt "CustomizeBuildings.PROPERTY.AlgaeTerrarium"
+msgid "AlgaeTerrarium"
+msgstr "藻类箱"
+
+msgctxt "CustomizeBuildings.PROPERTY.AdvancedSettings"
+msgid "AdvancedSettings"
+msgstr "高级设置"
+
+msgctxt "CustomizeBuildings.PROPERTY.AutoSweeperCapacity"
+msgid "AutoSweeperCapacity"
+msgstr "自动清扫器容量"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.AutoSweeperCapacity_Title"
+msgid "Auto Sweeper Capacity"
+msgstr "自动清扫器容量"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.AutoSweeperCapacity_ToolTip"
+msgid "Storage capacity of auto sweepers."
+msgstr "自动清扫器的存储容量。"
+
+msgctxt "CustomizeBuildings.PROPERTY.AutoSweeperRange"
+msgid "AutoSweeperRange"
+msgstr "自动清扫器范围"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.AutoSweeperRange_Title"
+msgid "Auto Sweeper Range"
+msgstr "自动清扫器范围"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.AutoSweeperRange_ToolTip"
+msgid "Range of Auto Sweeper. Very large numbers will cause lag."
+msgstr "自动清扫器范围。非常大的数字会导致卡顿。"
+
+msgctxt "CustomizeBuildings.PROPERTY.AutoSweeperSlider"
+msgid "AutoSweeperSlider"
+msgstr "自动清扫器滑块"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.AutoSweeperSlider_Title"
+msgid "Auto Sweeper Slider"
+msgstr "自动清扫器滑块"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.AutoSweeperSlider_ToolTip"
+msgid "If true, will show a slider to reduce the Sweeper's range."
+msgstr "如果开，会给清扫器的范围显示一个滑块。"
+
+msgctxt "CustomizeBuildings.PROPERTY.AutoSweeperPickupAnything"
+msgid "AutoSweeperPickupAnything"
+msgstr "自动清扫器拾取所有东西"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.AutoSweeperPickupAnything_Title"
+msgid "Auto Sweeper Pickup Anything"
+msgstr "自动清扫器拾取所有东西"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.AutoSweeperPickupAnything_ToolTip"
+msgid "If true, Auto Sweeper can move/store anything that dupes can."
+msgstr "如果开，自动清扫器能移动/储存任何复制人能动的东西。"
+
+msgctxt "CustomizeBuildings.PROPERTY.ElectrolizerMaxPressure"
+msgid "ElectrolizerMaxPressure"
+msgstr "电解器最大压力"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ElectrolizerMaxPressure_Title"
+msgid "Electrolizer Max Pressure"
+msgstr "电解器最大压力"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ElectrolizerMaxPressure_ToolTip"
+msgid "Pressure the electrolizer will stop producing oxygen/hydrogen."
+msgstr "过压会让电解器停止产出氧气/氢气。"
+
+msgctxt "CustomizeBuildings.PROPERTY.AirfilterDropsCanisters"
+msgid "AirfilterDropsCanisters"
+msgstr "空气净化器掉落罐装"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.AirfilterDropsCanisters_Title"
+msgid "Airfilter Canisters"
+msgstr "空气净化器罐装"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.AirfilterDropsCanisters_ToolTip"
+msgid ""
+"On deconstruction, air-filters (as well as all other buildings) drop gas "
+"canisters instead of venting stored gases."
+msgstr "在拆除时，空气净化器（其他建筑一样）会掉落空气罐而不是排出储存的气体。"
+
+msgctxt "CustomizeBuildings.PROPERTY.NewRecipeRockCrusher"
+msgid "NewRecipeRockCrusher"
+msgstr "碎石机新配方"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NewRecipeRockCrusher_Title"
+msgid "New Recipe: Rock-Crusher"
+msgstr "新配方：碎石机"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NewRecipeRockCrusher_ToolTip"
+msgid "Adds regolith to sand recipe."
+msgstr "加入浮土变沙子配方。"
+
+msgctxt "CustomizeBuildings.PROPERTY.AirConditionerAbsoluteOutput"
+msgid "AirConditionerAbsoluteOutput"
+msgstr "温度调节器绝对输出"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.AirConditionerAbsoluteOutput_Title"
+msgid "Air Conditioner Absolute Output"
+msgstr "温度调节器绝对输出"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.AirConditionerAbsoluteOutput_ToolTip"
+msgid ""
+"If true, Air Conditioner and Aquatuner get a new target temperature "
+"slider. If the target temperature is 0 Kelvin, it will retain -14°C "
+"behaviour. Otherwise output temperature will match exactly target "
+"temperature. Also adds a kJoules slider, which limits how fast the "
+"building heats up. Energy consumption will scale on cooling/heating "
+"factor."
+msgstr "如果开，温度调节器和液温调节器会有一个新的目标温度滑块。如果目标。如果目标温度是0K，它会保留减14度的行为。其他情况下输出温度会精确匹配目标温度。还会加入一个千焦耳滑块，会限制建筑热起来的速度。能量消耗将根据制冷/制热系数进行调整。"
+
+msgctxt "CustomizeBuildings.PROPERTY.AirConditionerAbsolutePowerFactor"
+msgid "AirConditionerAbsolutePowerFactor"
+msgstr "温度调节器绝对功率因数"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.AirConditionerAbsolutePowerFactor_Title"
+msgid "Air Conditioner Absolute Power Factor"
+msgstr "温度调节器绝对功率因数"
+
+#, python-format
+msgctxt "CustomizeBuildings.LOCSTRINGS.AirConditionerAbsolutePowerFactor_ToolTip"
+msgid "% of MaxDPU the Air Conditioner takes full power. Default: 0.1"
+msgstr "温度调节器满负荷工作时占最大DPU的百分比。默认0.1"
+
+msgctxt "CustomizeBuildings.PROPERTY.SpaceHeaterTargetTemperature"
+msgid "SpaceHeaterTargetTemperature"
+msgstr "空间加热器目标温度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SpaceHeaterTargetTemperature_Title"
+msgid "Space Heater Target Temperature"
+msgstr "空间加热器目标温度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SpaceHeaterTargetTemperature_ToolTip"
+msgid ""
+"If true, Space Heater gets a temperature setting to control target "
+"temperature."
+msgstr "如果开，空间加热器会有个温度设定来控制目标温度。"
+
+msgctxt "CustomizeBuildings.PROPERTY.AlgaeTerrariumPatch"
+msgid "AlgaeTerrariumPatch"
+msgstr "藻类箱补丁"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.AlgaeTerrariumPatch_Title"
+msgid "Algae Terrarium Grower"
+msgstr "藻类箱种植"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.AlgaeTerrariumPatch_ToolTip"
+msgid ""
+"If true, will modify the Algae Terrarium. By default will convert dirt "
+"into algae."
+msgstr "如果开，会定制藻类箱。默认会把泥土转换成藻类。"
+
+msgctxt "CustomizeBuildings.PROPERTY.DoorSelfSealing"
+msgid "DoorSelfSealing"
+msgstr "自封门"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.DoorSelfSealing_Title"
+msgid "Self Sealing Door"
+msgstr "自封门"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.DoorSelfSealing_ToolTip"
+msgid "If true, doors will block gas flow while set to automatic."
+msgstr "如果开，当门设为自动时会阻止气体流过。"
+
+msgctxt "CustomizeBuildings.PROPERTY.MaterialIgnoreInsufficientMaterial"
+msgid "MaterialIgnoreInsufficientMaterial"
+msgstr "材料忽略材料不足"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.MaterialIgnoreInsufficientMaterial_Title"
+msgid "Ignore Insufficient Material"
+msgstr "忽略材料不足"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.MaterialIgnoreInsufficientMaterial_ToolTip"
+msgid ""
+"If true, will allow placing buildings while having insufficient building "
+"material."
+msgstr "如果开，会允许建筑材料不足时也能放置建筑。"
+
+msgctxt "CustomizeBuildings.PROPERTY.MaterialAutoSelect"
+msgid "MaterialAutoSelect"
+msgstr "材料自动选择"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.MaterialAutoSelect_Title"
+msgid "Material No Auto Select"
+msgstr "材料不自动选择"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.MaterialAutoSelect_ToolTip"
+msgid ""
+"If true, will keep selected building material, even if stored amount is "
+"insufficient."
+msgstr "如果开，会即使材料数量不足也会保持选择的建筑材料。"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeGlobal"
+msgid "NoDupeGlobal"
+msgstr "不用复制人"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeGlobal_Title"
+msgid "<b><color=red>!!! Unlock No Dupe !!!</color></b>"
+msgstr "<b><color=red>!!! 解锁不用复制人 !!!</color></b>"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeGlobal_ToolTip"
+msgid "If false, will disable all settings in this category."
+msgstr "如果关，会禁用这个目录所有设置。"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeApothecary"
+msgid "NoDupeApothecary"
+msgstr "无复制人配药桌"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeApothecary_Title"
+msgid "No Dupe Apothecary"
+msgstr "无复制人配药桌"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeClothingFabricator"
+msgid "NoDupeClothingFabricator"
+msgstr "无复制人纺织机"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeClothingFabricator_Title"
+msgid "No Dupe ClothingFabricator"
+msgstr "无复制人纺织机"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeCookingStation"
+msgid "NoDupeCookingStation"
+msgstr "无复制人电动烤炉"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeCookingStation_Title"
+msgid "No Dupe Cooking Station"
+msgstr "无复制人电动烤炉"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeGourmetCookingStation"
+msgid "NoDupeGourmetCookingStation"
+msgstr "无复制人燃气灶"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeGourmetCookingStation_Title"
+msgid "No Dupe Gourmet Cooking Station"
+msgstr "无复制人燃气灶"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeEggCracker"
+msgid "NoDupeEggCracker"
+msgstr "无复制人打蛋桌"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeEggCracker_Title"
+msgid "No Dupe Egg Cracker"
+msgstr "无复制人打蛋桌"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeGlassForge"
+msgid "NoDupeGlassForge"
+msgstr "无复制人玻璃熔炉"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeGlassForge_Title"
+msgid "No Dupe Glass Forge"
+msgstr "无复制人玻璃熔炉"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeMetalRefinery"
+msgid "NoDupeMetalRefinery"
+msgstr "无复制人金属精炼器"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeMetalRefinery_Title"
+msgid "No Dupe Metal Refinery"
+msgstr "无复制人金属精炼器"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeMicrobeMusher"
+msgid "NoDupeMicrobeMusher"
+msgstr "无复制人食物压制器"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeMicrobeMusher_Title"
+msgid "No Dupe Microbe Musher"
+msgstr "无复制人食物压制器"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeRockCrusher"
+msgid "NoDupeRockCrusher"
+msgstr "无复制人碎石机"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeRockCrusher_Title"
+msgid "No Dupe Rock Crusher"
+msgstr "无复制人碎石机"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeDiamondPress"
+msgid "NoDupeDiamondPress"
+msgstr "无复制人钻石压机"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeDiamondPress_Title"
+msgid "No Dupe Diamond Press"
+msgstr "无复制人钻石压机"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeSuitFabricator"
+msgid "NoDupeSuitFabricator"
+msgstr "无复制人太空服锻造台"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeSuitFabricator_Title"
+msgid "No Dupe Suit Fabricator"
+msgstr "无复制人太空服锻造台"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeSupermaterialRefinery"
+msgid "NoDupeSupermaterialRefinery"
+msgstr "无复制人分子熔炉"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeSupermaterialRefinery_Title"
+msgid "No Dupe Supermaterial Refinery"
+msgstr "无复制人分子熔炉"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeSludgePress"
+msgid "NoDupeSludgePress"
+msgstr "无复制人泥浆分离器"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeSludgePress_Title"
+msgid "No Dupe Sludge Press"
+msgstr "无复制人泥浆分离器"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeCompost"
+msgid "NoDupeCompost"
+msgstr "无复制人堆肥"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeCompost_Title"
+msgid "No Dupe Compost"
+msgstr "无复制人堆肥"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeDesalinator"
+msgid "NoDupeDesalinator"
+msgstr "无复制人脱盐器"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeDesalinator_Title"
+msgid "No Dupe Desalinator"
+msgstr "无复制人脱盐器"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeOilRefinery"
+msgid "NoDupeOilRefinery"
+msgstr "无复制人原油精炼器"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeOilRefinery_Title"
+msgid "No Dupe Oil Refinery"
+msgstr "无复制人原油精炼器"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeOilWellCap"
+msgid "NoDupeOilWellCap"
+msgstr "无复制人油井"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeOilWellCap_Title"
+msgid "No Dupe Oil Well Cap"
+msgstr "无复制人油井"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeIceCooledFan"
+msgid "NoDupeIceCooledFan"
+msgstr "无复制人冰冷风扇"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeIceCooledFan_Title"
+msgid "No Dupe Ice Cooled Fan"
+msgstr "无复制人冰冷风扇"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeIceCooledFan_ToolTip"
+msgid ""
+"If true, will replace the dupe requirement with 120W power inlet. Ice "
+"consumption is different."
+msgstr "如果开，会使用120W电力输入取代复制人。冰的消耗会不同。"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeRanchStation"
+msgid "NoDupeRanchStation"
+msgstr "无复制人照料站"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeRanchStation_Title"
+msgid "No Dupe Ranch Station"
+msgstr "无复制人照料站"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeRanchStation_ToolTip"
+msgid "If true, will buff the standard duration of grooming to 100 cycles."
+msgstr "如果开，会加上标准的打扮buff一百个周期。"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeTelescope"
+msgid "NoDupeTelescope"
+msgstr "无复制人望远镜"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeTelescope_Title"
+msgid "No Dupe Telescope"
+msgstr "无复制人望远镜"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeAlgaeTerrarium"
+msgid "NoDupeAlgaeTerrarium"
+msgstr "无复制人藻类箱"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeAlgaeTerrarium_Title"
+msgid "No Dupe Algae Terrarium"
+msgstr "无复制人藻类箱"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupePayloadOpener"
+msgid "NoDupePayloadOpener"
+msgstr "无复制人载货拆包器"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupePayloadOpener_Title"
+msgid "No Dupe Payload Opener"
+msgstr "无复制人载货拆包器"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeShearingStation"
+msgid "NoDupeShearingStation"
+msgstr "无复制人剪毛站"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeThroughputPercent_Title"
+msgid "Pipe Throughput Percent"
+msgstr "管道吞吐量百分比"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeThroughputPercent_ToolTip"
+msgid "Percent of pipe usage for Aquatuner and Air Conditioner."
+msgstr "液温调节器和温度调节器的管道使用百分比。"
+
+msgctxt "CustomizeBuildings.PROPERTY.PipeLiquidMaxPressure"
+msgid "PipeLiquidMaxPressure"
+msgstr "管道液体最大压力"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeLiquidMaxPressure_Title"
+msgid "Pipe Liquid Max Pressure"
+msgstr "管道液体最大压力"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeLiquidMaxPressure_ToolTip"
+msgid "Liquid pipe pressure."
+msgstr "液体管道压力。"
+
+msgctxt "CustomizeBuildings.PROPERTY.PipeGasMaxPressure"
+msgid "PipeGasMaxPressure"
+msgstr "管道气体最大压力"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeGasMaxPressure_Title"
+msgid "Pipe Gas Max Pressure"
+msgstr "管道气体最大压力"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeGasMaxPressure_ToolTip"
+msgid "Gas pipe pressure."
+msgstr "气体管道压力。"
+
+msgctxt "CustomizeBuildings.PROPERTY.PipeValvePressureButtonShow"
+msgid "PipeValvePressureButtonShow"
+msgstr "管道阀门压力按钮显示"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeValvePressureButtonShow_Title"
+msgid "Pipe Valve Pressure Button Show"
+msgstr "管道阀门压力按钮显示"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeValvePressureButtonShow_ToolTip"
+msgid ""
+"If true, will display a 'limit' button in the building window. While "
+"limited, output tile cannot exceed flow rate."
+msgstr "如果开，会在建筑窗口显示一个“限制”按钮。当限制时，输出格子不会超过流速。"
+
+msgctxt "CustomizeBuildings.PROPERTY.PipeLiquidPump"
+msgid "PipeLiquidPump"
+msgstr "管道液体泵"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeLiquidPump_Title"
+msgid "Pipe Liquid Pump"
+msgstr "管道液体泵"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeLiquidPump_ToolTip"
+msgid "Amount of liquid pumped at once from Liquid Pumps."
+msgstr "液体泵一次泵出的液体量。"
+
+msgctxt "CustomizeBuildings.PROPERTY.PipeGasPump"
+msgid "PipeGasPump"
+msgstr "管道气体泵"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeGasPump_Title"
+msgid "Pipe Gas Pump"
+msgstr "管道气体泵"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeGasPump_ToolTip"
+msgid "Amount of gas pumped at once from Gas Pumps."
+msgstr "气体泵一次泵出的气体量。"
+
+msgctxt "CustomizeBuildings.PROPERTY.PipeLiquidPumpMini"
+msgid "PipeLiquidPumpMini"
+msgstr "管道迷你液体泵"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeLiquidPumpMini_Title"
+msgid "Pipe Liquid Pump Mini"
+msgstr "管道迷你液体泵"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeLiquidPumpMini_ToolTip"
+msgid "Amount of liquid pumped at once from Mini Liquid Pumps."
+msgstr "迷你液体泵一次泵出的液体量。"
+
+msgctxt "CustomizeBuildings.PROPERTY.PipeGasPumpMini"
+msgid "PipeGasPumpMini"
+msgstr "管道迷你气体泵"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeGasPumpMini_Title"
+msgid "Pipe Gas Pump Mini"
+msgstr "管道迷你气体泵"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PipeGasPumpMini_ToolTip"
+msgid "Amount of gas pumped at once from Mini Gas Pumps."
+msgstr "迷你气体泵一次泵出的气体量。"
+
+msgctxt "CustomizeBuildings.PROPERTY.ConveyorRailPackageSize"
+msgid "ConveyorRailPackageSize"
+msgstr "运输轨道打包尺寸"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ConveyorRailPackageSize_Title"
+msgid "Conveyor Rail Package Size"
+msgstr "运输轨道打包尺寸"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ConveyorRailPackageSize_ToolTip"
+msgid "Maximum size of packages on Conveyor Rails."
+msgstr "运输轨道最大打包尺寸。"
+
+msgctxt "CustomizeBuildings.PROPERTY.ConveyorLoaderHasSlider"
+msgid "ConveyorLoaderHasSlider"
+msgstr "运输装载器有滑块"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ConveyorLoaderHasSlider_Title"
+msgid "Conveyor Loader Has Slider"
+msgstr "运输装载器有滑块"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ConveyorLoaderHasSlider_ToolTip"
+msgid "If true, will show the capacity slider for Conveyor Loaders."
+msgstr "如果开，会显示运输装载器的容量滑块。"
+
+msgctxt "CustomizeBuildings.PROPERTY.ConveyorReceptacleHasSlider"
+msgid "ConveyorReceptacleHasSlider"
+msgstr "运输存放器有滑块"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ConveyorReceptacleHasSlider_Title"
+msgid "Conveyor Receptacle Has Slider"
+msgstr "运输存放器有滑块"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ConveyorReceptacleHasSlider_ToolTip"
+msgid "If true, will show the capacity slider for Conveyor Receptacles."
+msgstr "如果开，会显示运输存放器的容量滑块。"
+
+msgctxt "CustomizeBuildings.PROPERTY.ConveyorLoaderAcceptLiquidsGas"
+msgid "ConveyorLoaderAcceptLiquidsGas"
+msgstr "运输装载器接受液体气体"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ConveyorLoaderAcceptLiquidsGas_Title"
+msgid "Conveyor Loader Accepts Liquids Gases"
+msgstr "运输装载器接受液体气体"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ConveyorLoaderAcceptLiquidsGas_ToolTip"
+msgid "If true, add liquids and gases to the filter list."
+msgstr "如果开，将液体和气体加入过滤表单。"
+
+msgctxt "CustomizeBuildings.PROPERTY.BatterySmartKJ"
+msgid "BatterySmartKJ"
+msgstr "智能电池千焦"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.BatterySmartKJ_Title"
+msgid "Smart Battery KJ"
+msgstr "智能电池千焦"
+
+msgctxt "CustomizeBuildings.PROPERTY.BatterySmartNoRunOff"
+msgid "BatterySmartNoRunOff"
+msgstr "智能电池无电力流失"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.BatterySmartNoRunOff_Title"
+msgid "Smart Battery remove runoff"
+msgstr "智能电池无电力流失"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.BatterySmartNoRunOff_ToolTip"
+msgid "If true, smart battery won't lose charge over time."
+msgstr "如果开，智能电池不会随时间损失充电量。"
+
+msgctxt "CustomizeBuildings.PROPERTY.BatteryLargeKJ"
+msgid "BatteryLargeKJ"
+msgstr "巨型电池千焦"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.BatteryLargeKJ_Title"
+msgid "Large Battery KJ"
+msgstr "巨型电池千焦"
+
+msgctxt "CustomizeBuildings.PROPERTY.SolarMaxPower"
+msgid "SolarMaxPower"
+msgstr "最大太阳能"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SolarMaxPower_Title"
+msgid "Solar Max Power"
+msgstr "最大太阳能"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SolarMaxPower_ToolTip"
+msgid ""
+"Limit of how much light can be converted. Does not increase energy per "
+"lumen."
+msgstr "限制能转换多少光。不会增加每勒克斯的能力。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SolarEnergyMultiplier"
+msgid "SolarEnergyMultiplier"
+msgstr "太阳能倍率"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SolarEnergyMultiplier_Title"
+msgid "Solar Energy Multiplier"
+msgstr "太阳能倍率"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SolarEnergyMultiplier_ToolTip"
+msgid "Multiplies power generation. Limited up to 'Solar Max Power'."
+msgstr "生成电能倍率。受限于“最大太阳能”。"
+
+msgctxt "CustomizeBuildings.PROPERTY.WireSmallWatts"
+msgid "WireSmallWatts"
+msgstr "电线瓦数"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.WireSmallWatts_Title"
+msgid "Wire Small Watts"
+msgstr "电线瓦数"
+
+msgctxt "CustomizeBuildings.PROPERTY.WireRefinedWatts"
+msgid "WireRefinedWatts"
+msgstr "导线瓦数"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.WireRefinedWatts_Title"
+msgid "Wire Refined Watts"
+msgstr "导线瓦数"
+
+msgctxt "CustomizeBuildings.PROPERTY.WireHeavyWatts"
+msgid "WireHeavyWatts"
+msgstr "高负荷电线瓦数"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.WireHeavyWatts_Title"
+msgid "Wire Heavy Watts"
+msgstr "高负荷电线瓦数"
+
+msgctxt "CustomizeBuildings.PROPERTY.WireRefinedHeavyWatts"
+msgid "WireRefinedHeavyWatts"
+msgstr "高负荷导线瓦数"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.WireRefinedHeavyWatts_Title"
+msgid "Wire Refined Heavy Watts"
+msgstr "高负荷导线瓦数"
+
+msgctxt "CustomizeBuildings.PROPERTY.PowerTransformerLarge"
+msgid "PowerTransformerLarge"
+msgstr "大型功率转变器"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PowerTransformerLarge_Title"
+msgid "Power Transformer Large"
+msgstr "大型功率转变器"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PowerTransformerLarge_ToolTip"
+msgid "Set capacity in joules."
+msgstr "设置焦耳容量。"
+
+msgctxt "CustomizeBuildings.PROPERTY.PowerTransformerSmall"
+msgid "PowerTransformerSmall"
+msgstr "功率转变器"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PowerTransformerSmall_Title"
+msgid "Power Transformer Small"
+msgstr "功率转变器"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.PowerTransformerSmall_ToolTip"
+msgid "Set capacity in joules."
+msgstr "设置焦耳容量。"
+
+msgctxt "CustomizeBuildings.PROPERTY.RoboMinerWidth"
+msgid "RoboMinerWidth"
+msgstr "机器人矿工宽度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerWidth_Title"
+msgid "Robo Miner Width"
+msgstr "机器人矿工宽度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerWidth_ToolTip"
+msgid "Mining width."
+msgstr "采矿宽度。"
+
+msgctxt "CustomizeBuildings.PROPERTY.RoboMinerHeight"
+msgid "RoboMinerHeight"
+msgstr "机器人矿工高度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerHeight_Title"
+msgid "Robo Miner Height"
+msgstr "机器人矿工高度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerHeight_ToolTip"
+msgid "Mining height."
+msgstr "采矿高度。"
+
+msgctxt "CustomizeBuildings.PROPERTY.RoboMinerOffset"
+msgid "RoboMinerOffset"
+msgstr "机器人矿工"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerOffset_Title"
+msgid "Robo Miner Offset"
+msgstr "机器人矿工"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerOffset_ToolTip"
+msgid "Offset at which the Robo Miner works (negative numbers allowed)."
+msgstr "机器人矿工工作偏移（允许负数）。"
+
+msgctxt "CustomizeBuildings.PROPERTY.RoboMinerSpeedMult"
+msgid "RoboMinerSpeedMult"
+msgstr "机器人矿工速度倍率"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerSpeedMult_Title"
+msgid "Robo Miner Speed Multiplier"
+msgstr "机器人矿工速度倍率"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerSpeedMult_ToolTip"
+msgid ""
+"Determines the speed of the Robo Miner. 2 = twice as fast; 0.5 = half as "
+"fast"
+msgstr "决定机器人矿工的速度。2=两倍快；0.5=一半快"
+
+msgctxt "CustomizeBuildings.PROPERTY.RoboMinerRegolithTurbo"
+msgid "RoboMinerRegolithTurbo"
+msgstr "机器人矿工浮土加速"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerRegolithTurbo_Title"
+msgid "Robo Miner Regolith Turbo"
+msgstr "机器人矿工浮土加速"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerRegolithTurbo_ToolTip"
+msgid "If true, Regolith will be mined 6 times faster."
+msgstr "如果开，浮土采集会有6倍快。"
+
+msgctxt "CustomizeBuildings.PROPERTY.RoboMinerDigThroughGlass"
+msgid "RoboMinerDigThroughGlass"
+msgstr "机器人矿工穿透玻璃挖矿"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerDigThroughGlass_Title"
+msgid "Robo Miner Dig Through Glass"
+msgstr "机器人矿工穿透玻璃挖矿"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerDigThroughGlass_ToolTip"
+msgid "Robo Miner dig through glass tiles, but only from glass (not diamonds)"
+msgstr "机器人矿工能穿透玻璃砖挖矿，但仅为玻璃形式（不能是钻石）"
+
+msgctxt "CustomizeBuildings.PROPERTY.RoboMinerDigAnyTile"
+msgid "RoboMinerDigAnyTile"
+msgstr "机器人矿工挖掘任意砖"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerDigAnyTile_Title"
+msgid "Robo Miner Dig Any Tile"
+msgstr "机器人矿工挖掘任意砖"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerDigAnyTile_ToolTip"
+msgid "Robo Miner can dig any material."
+msgstr "机器人矿工能挖掘任意材料。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SkillStationEnabled"
+msgid "SkillStationEnabled"
+msgstr "技能站启用"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationEnabled_Title"
+msgid "Skill Station Enabled"
+msgstr "技能站启用"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationEnabled_ToolTip"
+msgid ""
+"If true, will repurpose the Skill Scrubber to change "
+"traits/interests/attributes of dupes. If false, fully disables this "
+"feature."
+msgstr "如果开，将重新利用技能涤除器来改变复制人的特质/兴趣/属性。如果关，则完全禁用这一功能。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SkillStationCostTime"
+msgid "SkillStationCostTime"
+msgstr "技能站付费时间"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationCostTime_Title"
+msgid "Skill Station Time"
+msgstr "技能站时间"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationCostTime_ToolTip"
+msgid "Time Skill Scrubber needs."
+msgstr "技能涤除器需要时间。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SkillStationCostReset"
+msgid "SkillStationCostReset"
+msgstr "技能站付费重置"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationCostReset_Title"
+msgid "Skill Station Reset"
+msgstr "技能站重置"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationCostReset_ToolTip"
+msgid "Exp cost to reset Skill Points (select \"None\")"
+msgstr "花费经验去重置技能点（选择“无”）"
+
+msgctxt "CustomizeBuildings.PROPERTY.SkillStationCostRemoveTrait"
+msgid "SkillStationCostRemoveTrait"
+msgstr "技能站付费移除特质"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationCostRemoveTrait_Title"
+msgid "Skill Station Remove Trait"
+msgstr "技能站移除特质"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationCostRemoveTrait_ToolTip"
+msgid "Exp cost to remove any Trait."
+msgstr "花费经验移除特质。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SkillStationCostAddTrait"
+msgid "SkillStationCostAddTrait"
+msgstr "技能站付费添加特质"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationCostAddTrait_Title"
+msgid "Skill Station Add Trait"
+msgstr "技能站添加特质"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationCostAddTrait_ToolTip"
+msgid "Exp cost to add a new good Trait."
+msgstr "花费经验添加一个新的好特质。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SkillStationCostBadTrait"
+msgid "SkillStationCostBadTrait"
+msgstr "技能站付费坏特质"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationCostBadTrait_Title"
+msgid "Skill Station Bad Trait"
+msgstr "技能站坏特质"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationCostBadTrait_ToolTip"
+msgid "Exp cost to add a new bad Trait (usually grants Exp)."
+msgstr "花费经验添加一个新的坏特质（通常给与经验）。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SkillStationCostAddAptitude"
+msgid "SkillStationCostAddAptitude"
+msgstr "技能站付费添加兴趣"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationCostAddAptitude_Title"
+msgid "Skill Station Add Aptitude"
+msgstr "技能站添加兴趣"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationCostAddAptitude_ToolTip"
+msgid "Exp cost to add a new interest."
+msgstr "花费经验添加一个新的兴趣。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SkillStationCostAddAttribute"
+msgid "SkillStationCostAddAttribute"
+msgstr "技能站付费添加属性"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationCostAddAttribute_Title"
+msgid "Skill Station Add Attribute"
+msgstr "技能站添加属性"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationCostAddAttribute_ToolTip"
+msgid "Exp cost to improve an attribute by 1."
+msgstr "花费经验提高1点属性。"
+
+msgctxt "CustomizeBuildings.PROPERTY.ScannerInterferenceRadius"
+msgid "ScannerInterferenceRadius"
+msgstr "扫描仪干涉半径"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ScannerInterferenceRadius_Title"
+msgid "Scanner Interference Radius"
+msgstr "扫描仪干涉半径"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ScannerInterferenceRadius_ToolTip"
+msgid "Radius looking for heavy machinery and free sky tiles."
+msgstr "寻找重型机械和自由的天空砖块的半径。"
+
+msgctxt "CustomizeBuildings.PROPERTY.ScannerWorstWarningTime"
+msgid "ScannerWorstWarningTime"
+msgstr "扫描仪最差预警时间"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ScannerWorstWarningTime_Title"
+msgid "Scanner Worst Warning Time"
+msgstr "扫描仪最差预警时间"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ScannerWorstWarningTime_ToolTip"
+msgid "Worst time before a network will detect incoming meteors."
+msgstr "在网络检测到来袭流星之前的最差时间。"
+
+msgctxt "CustomizeBuildings.PROPERTY.ScannerBestWarningTime"
+msgid "ScannerBestWarningTime"
+msgstr "扫描仪最佳预警时间"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ScannerBestWarningTime_Title"
+msgid "Scanner Best Warning Time"
+msgstr "扫描仪最佳预警时间"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ScannerBestWarningTime_ToolTip"
+msgid "Best time before a network will detect incoming meteors."
+msgstr "在网络检测到来袭流星之前的最佳时间。"
+
+msgctxt "CustomizeBuildings.PROPERTY.ScannerBestNetworkSize"
+msgid "ScannerBestNetworkSize"
+msgstr "扫描仪最佳网络尺寸"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ScannerBestNetworkSize_Title"
+msgid "Scanner Best Network Size"
+msgstr "扫描仪最佳网络尺寸"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ScannerBestNetworkSize_ToolTip"
+msgid "Amount of scanners needed for best warning time."
+msgstr "对最佳预警时间需要的扫描仪数量。"
+
+msgctxt "CustomizeBuildings.PROPERTY.LadderCometInvincibility"
+msgid "LadderCometInvincibility"
+msgstr "梯子陨石无敌"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.LadderCometInvincibility_Title"
+msgid "Ladder Comet Invincibility"
+msgstr "梯子陨石无敌"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.LadderCometInvincibility_ToolTip"
+msgid ""
+"Ladders don't get harmed by comets. Does not apply to plastic ladders. "
+"Ladders can still melt from heat."
+msgstr "梯子不会受到陨石的伤害。不适用于塑料梯子。梯子仍会被热融化。"
+
+msgctxt "CustomizeBuildings.PROPERTY.TelescopeClearCellRadius"
+msgid "TelescopeClearCellRadius"
+msgstr "望远镜看清区域半径"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TelescopeClearCellRadius_Title"
+msgid "Telescope Clear Cell Radius"
+msgstr "望远镜看清区域半径"
+
+msgctxt "CustomizeBuildings.PROPERTY.TelescopeAnalyzeRadius"
+msgid "TelescopeAnalyzeRadius"
+msgstr "望远镜分析半径"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TelescopeAnalyzeRadius_Title"
+msgid "Telescope Analyze Radius"
+msgstr "望远镜分析半径"
+
+msgctxt "CustomizeBuildings.PROPERTY.SteamTurbineEnabled"
+msgid "SteamTurbineEnabled"
+msgstr "蒸汽涡轮机启用"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineEnabled_Title"
+msgid "Steam Turbine Enabled"
+msgstr "蒸汽涡轮机启用"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineEnabled_ToolTip"
+msgid ""
+"Whenever or not to change the steam turbine at all. If false, ignores "
+"other settings."
+msgstr "完全一直改变或不改变蒸汽涡轮机。如果关，忽视其他设置。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SteamTurbineWattage"
+msgid "SteamTurbineWattage"
+msgstr "蒸汽涡轮机功率"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineWattage_Title"
+msgid "Steam Turbine Wattage"
+msgstr "蒸汽涡轮机功率"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineWattage_ToolTip"
+msgid "Wattage produced by Steam Turbine under optimal conditions."
+msgstr "蒸汽涡轮机在最佳条件下产生的功率。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SteamTurbineSourceElement"
+msgid "SteamTurbineSourceElement"
+msgstr "蒸汽涡轮机原料元素"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineSourceElement_Title"
+msgid "Steam Turbine Source Element"
+msgstr "蒸汽涡轮机原料元素"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineSourceElement_ToolTip"
+msgid "Steam Turbine input element."
+msgstr "蒸汽涡轮机输入元素。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SteamTurbineOutputElement"
+msgid "SteamTurbineOutputElement"
+msgstr "蒸汽涡轮机输出元素"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineOutputElement_Title"
+msgid "Steam Turbine Output Element"
+msgstr "蒸汽涡轮机输出元素"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineOutputElement_ToolTip"
+msgid "Steam Turbine output element."
+msgstr "蒸汽涡轮机输出元素。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SteamTurbinePumpRateKG"
+msgid "SteamTurbinePumpRateKG"
+msgstr "蒸汽涡轮机泵速千克"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbinePumpRateKG_Title"
+msgid "Steam Turbine Pump-Rate"
+msgstr "蒸汽涡轮机泵速"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbinePumpRateKG_ToolTip"
+msgid "Steam Turbine amount of gas absorbed at once."
+msgstr "蒸汽涡轮机一次吸入的气体量。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SteamTurbineMaxSelfHeat"
+msgid "SteamTurbineMaxSelfHeat"
+msgstr "蒸汽涡轮机最大自发热量"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineMaxSelfHeat_Title"
+msgid "Steam Turbine Max Self-Heat"
+msgstr "蒸汽涡轮机最大自发热量"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineMaxSelfHeat_ToolTip"
+msgid "Steam Turbine maximum amount of heat tranfered from gas to machine."
+msgstr "蒸汽涡轮机从气体转移到机器的最大热量。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SteamTurbineHeatTransferPercent"
+msgid "SteamTurbineHeatTransferPercent"
+msgstr "蒸汽涡轮机热量转移百分比"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineHeatTransferPercent_Title"
+msgid "Steam Turbine Heat Transfer Percent"
+msgstr "蒸汽涡轮机热量转移百分比"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineHeatTransferPercent_ToolTip"
+msgid "Steam Turbine percent of heat transfered. Limited up to MAX."
+msgstr "蒸汽涡轮机转移热量的百分比。受限于最大值。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SteamTurbineMinActiveTemperature"
+msgid "SteamTurbineMinActiveTemperature"
+msgstr "蒸汽涡轮机最小启动温度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineMinActiveTemperature_Title"
+msgid "Steam Turbine Min Active Temperature"
+msgstr "蒸汽涡轮机最小启动温度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineMinActiveTemperature_ToolTip"
+msgid "Minimal temperature at which Steam Turbine turns on."
+msgstr "蒸汽涡轮机能启动的最小温度。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SteamTurbineIdealTemperature"
+msgid "SteamTurbineIdealTemperature"
+msgstr "蒸汽涡轮机理想温度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineIdealTemperature_Title"
+msgid "Steam Turbine Ideal Temperature"
+msgstr "蒸汽涡轮机理想温度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineIdealTemperature_ToolTip"
+msgid "Best temperature at which Steam Turbine produces full energy."
+msgstr "蒸汽涡轮机全功率输出的最佳温度。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SteamTurbineOutputTemperature"
+msgid "SteamTurbineOutputTemperature"
+msgstr "蒸汽涡轮机输出温度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineOutputTemperature_Title"
+msgid "Steam Turbine Output Temperature"
+msgstr "蒸汽涡轮机输出温度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineOutputTemperature_ToolTip"
+msgid "Steam Turbine pipe output temperature."
+msgstr "蒸汽涡轮机管道输出温度。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SteamTurbineOverheatTemperature"
+msgid "SteamTurbineOverheatTemperature"
+msgstr "蒸汽涡轮机过热温度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineOverheatTemperature_Title"
+msgid "Steam Turbine Overheat Temperature"
+msgstr "蒸汽涡轮机过热温度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineOverheatTemperature_ToolTip"
+msgid "Temperature where the Steam Turbine shuts off."
+msgstr "蒸汽涡轮机停止工作的温度。"
+
+msgctxt "CustomizeBuildings.PROPERTY.SealInsulateStorages"
+msgid "SealInsulateStorages"
+msgstr "密封隔热储存"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SealInsulateStorages_Title"
+msgid "Seal and insulate storages"
+msgstr "密封隔热储存"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.SealInsulateStorages_ToolTip"
+msgid "Makes material in storages stop sublimating and transfering heat."
+msgstr "让储存内的材料停止升华和传递热量。"
+
+msgctxt "CustomizeBuildings.PROPERTY.LockerKG"
+msgid "LockerKG"
+msgstr "储存千克"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.LockerKG_Title"
+msgid "Storage Locker Capacity"
+msgstr "储存箱容量"
+
+msgctxt "CustomizeBuildings.PROPERTY.LockerSmartKG"
+msgid "LockerSmartKG"
+msgstr "智能存储箱千克"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.LockerSmartKG_Title"
+msgid "Smart Storage Locker Capacity"
+msgstr "智能储存箱容量"
+
+msgctxt "CustomizeBuildings.PROPERTY.GasReservoirKG"
+msgid "GasReservoirKG"
+msgstr "储气库千克"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.GasReservoirKG_Title"
+msgid "Gas Reservoir Capacity"
+msgstr "储气库容量"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.GasReservoirKG_ToolTip"
+msgid "Capped at 100 tones. Anything higher will get deleted by the game."
+msgstr "上限至100吨。超出部分会被游戏删除。"
+
+msgctxt "CustomizeBuildings.PROPERTY.LiquidReservoirKG"
+msgid "LiquidReservoirKG"
+msgstr "储液库千克"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.LiquidReservoirKG_Title"
+msgid "Liquid Reservoir Capacity"
+msgstr "储液库容量"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.LiquidReservoirKG_ToolTip"
+msgid "Capped at 100 tones. Anything higher will get deleted by the game."
+msgstr "上限至100吨。超出部分会被游戏删除。"
+
+msgctxt "CustomizeBuildings.PROPERTY.RationBoxKG"
+msgid "RationBoxKG"
+msgstr "口粮箱千克"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RationBoxKG_Title"
+msgid "Ration Box Capacity"
+msgstr "口粮箱容量"
+
+msgctxt "CustomizeBuildings.PROPERTY.FridgeKG"
+msgid "FridgeKG"
+msgstr "冰箱千克"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.FridgeKG_Title"
+msgid "Fridge Capacity"
+msgstr "冰箱容量"
+
+msgctxt "CustomizeBuildings.PROPERTY.CritterFeederKG"
+msgid "CritterFeederKG"
+msgstr "小动物喂食器千克"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.CritterFeederKG_Title"
+msgid "Critter Feeder Capacity"
+msgstr "小动物喂食器容量"
+
+msgctxt "CustomizeBuildings.PROPERTY.FishFeederKG"
+msgid "FishFeederKG"
+msgstr "喂鱼器千克"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.FishFeederKG_Title"
+msgid "Fish Feeder Capacity"
+msgstr "喂鱼器容量"
+
+msgctxt "CustomizeBuildings.PROPERTY.CanisterFillerKG"
+msgid "CanisterFillerKG"
+msgstr "气体罐装器千克"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.CanisterFillerKG_Title"
+msgid "Canister Filler Capacity"
+msgstr "气体罐装器容量"
+
+msgctxt "CustomizeBuildings.PROPERTY.ConveyorLoaderKG"
+msgid "ConveyorLoaderKG"
+msgstr "运输装载器千克"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ConveyorLoaderKG_Title"
+msgid "Conveyor Loader Capacity"
+msgstr "运输装载器容量"
+
+msgctxt "CustomizeBuildings.PROPERTY.ConveyorReceptacleKG"
+msgid "ConveyorReceptacleKG"
+msgstr "运输存放器千克"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ConveyorReceptacleKG_Title"
+msgid "Conveyor Receptacle Capacity"
+msgstr "运输存放器容量"
+
+msgctxt "CustomizeBuildings.PROPERTY.IUserControlledMax"
+msgid "IUserControlledMax"
+msgstr "用户可控最大值"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.IUserControlledMax_Title"
+msgid "Conveyor Receptacle Controller"
+msgstr "运输存放器控制"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.IUserControlledMax_ToolTip"
+msgid "Set same as in Conveyor Receptacle Capacity."
+msgstr "设置成运输存放器容量相同。"
+
+msgctxt "CustomizeBuildings.PROPERTY.ReservoirNoGround"
+msgid "ReservoirNoGround"
+msgstr "储存库无需地面"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ReservoirNoGround_Title"
+msgid "Reservoir No Ground"
+msgstr "储存库无需地面"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ReservoirNoGround_ToolTip"
+msgid "Reservoirs can be placed in the air."
+msgstr "储存库可放在空中。"
+
+msgctxt "CustomizeBuildings.PROPERTY.ReservoirManualDelivery"
+msgid "ReservoirManualDelivery"
+msgstr "储存库手动递送"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ReservoirManualDelivery_Title"
+msgid "Reservoir Manual Delivery"
+msgstr "储存库手动递送"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.ReservoirManualDelivery_ToolTip"
+msgid ""
+"Dupes may store material in reservoirs.\n"
+"- dupes will deliver selected liquids/gases until the capacity is at the "
+"slider amount\n"
+"- liquid/gas pipes can still deliver any element and will ignore the "
+"slider limit\n"
+"- activating, then deactivating an element checkbox drops it on the "
+"floor, for easy removal of rogue elements"
+msgstr ""
+"复制人可以在储存库储存材料。\n"
+"- 复制人会递送选中的液体/气体直到容量到滑块数量\n"
+"- 液体/气体管道仍能递送任何元素并忽略滑块限制\n"
+"- 激活，然后停用一个元素复选框就会把这元素掉到递送，就能方便的移除不想要的元素"
+
+msgctxt "CustomizeBuildings.PROPERTY.RailgunMaxLaunch"
+msgid "RailgunMaxLaunch"
+msgstr "高速发射器最大发送量"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RailgunMaxLaunch_Title"
+msgid "Railgun Max Launch"
+msgstr "高速发射器最大发送量"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RailgunMaxLaunch_ToolTip"
+msgid ""
+"How much material can be send per launch. Storage is at least twice at "
+"much."
+msgstr "每次发送最多能发送的材料。存储量至少是两倍。"
+
+msgctxt "CustomizeBuildings.PROPERTY.DrillConeKG"
+msgid "DrillConeKG"
+msgstr "钻头前锥千克"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.DrillConeKG_Title"
+msgid "Drillcone Capacity"
+msgstr "钻头前锥容量"
+
+msgctxt "CustomizeBuildings.PROPERTY.RocketPortGas"
+msgid "RocketPortGas"
+msgstr "气体火箭端口"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RocketPortGas_Title"
+msgid "Rocket Port Gas Capacity"
+msgstr "气体火箭端口容量"
+
+msgctxt "CustomizeBuildings.PROPERTY.RocketPortLiquid"
+msgid "RocketPortLiquid"
+msgstr "液体火箭端口"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RocketPortLiquid_Title"
+msgid "Rocket Port Liquid Capacity"
+msgstr "液体火箭端口容量"
+
+msgctxt "CustomizeBuildings.PROPERTY.RocketPortSolid"
+msgid "RocketPortSolid"
+msgstr "固体火箭端口"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RocketPortSolid_Title"
+msgid "Rocket Port Solid Capacity"
+msgstr "固体火箭端口容量"
+
+msgctxt "CustomizeBuildings.PROPERTY.RadBattery"
+msgid "RadBattery"
+msgstr "辐射粒子电池"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.RadBattery_Title"
+msgid "Radbolt Chamber Capacity"
+msgstr "辐射粒子蓄存器容量"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeValves"
+msgid "NoDupeValves"
+msgstr "无复制人阀门"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeValves_Title"
+msgid "No Dupe Valves"
+msgstr "无复制人阀门"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeValves_ToolTip"
+msgid "Valves are set instantly without dupe interaction."
+msgstr "阀门无需复制人交互就能立即设置。"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeSwitches"
+msgid "NoDupeSwitches"
+msgstr "无复制人开关"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeSwitches_Title"
+msgid "No Dupe Switches"
+msgstr "无复制人开关"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeSwitches_ToolTip"
+msgid "Switches are set instantly without dupe interaction."
+msgstr "开关无需复制人交互就能立即设置。"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeToogleBuildings"
+msgid "NoDupeToogleBuildings"
+msgstr "无复制人切换建筑"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeToogleBuildings_Title"
+msgid "No Dupe Toogle Buildings"
+msgstr "无复制人切换建筑"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeToogleBuildings_ToolTip"
+msgid "Buildings are disabled instantly without dupe interaction."
+msgstr "建筑无需复制人交互就能立即禁用。"
+
+msgctxt "CustomizeBuildings.PROPERTY.NoDupeToogleDoors"
+msgid "NoDupeToogleDoors"
+msgstr "无复制人切换门"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeToogleDoors_Title"
+msgid "No Dupe Toogle Doors"
+msgstr "无复制人切换门"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeToogleDoors_ToolTip"
+msgid "Doors open/close instantly without dupe interaction."
+msgstr "门无需复制人交互就能立即开关。"
+
+msgctxt "CustomizeBuildings.PROPERTY.TransitTubeAnywhere"
+msgid "TransitTubeAnywhere"
+msgstr "运载管道任意建"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TransitTubeAnywhere_Title"
+msgid "Transit Tube Anywhere"
+msgstr "运载管道任意建"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TransitTubeAnywhere_ToolTip"
+msgid "Transit Tubes can be placed in the background."
+msgstr "运载管道能放在背景上。"
+
+msgctxt "CustomizeBuildings.PROPERTY.TransitTubeUTurns"
+msgid "TransitTubeUTurns"
+msgstr "运载管道U型弯"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TransitTubeUTurns_Title"
+msgid "Transit Tube U-Turns"
+msgstr "运载管道U型弯"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TransitTubeUTurns_ToolTip"
+msgid "Removes all transit tube layout restrictions."
+msgstr "移除所有运载管道布局限制。"
+
+msgctxt "CustomizeBuildings.PROPERTY.TransitTubeJoulesPerLaunch"
+msgid "TransitTubeJoulesPerLaunch"
+msgstr "运载管道每发耗能"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TransitTubeJoulesPerLaunch_Title"
+msgid "Transit Tube Joules Per Launch"
+msgstr "运载管道每发耗能"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TransitTubeJoulesPerLaunch_ToolTip"
+msgid "Cost per launch, normally 10000 joules."
+msgstr "每次发射花费的能量，通常10000焦耳。"
+
+msgctxt "CustomizeBuildings.PROPERTY.TransitTubeJouleCapacity"
+msgid "TransitTubeJouleCapacity"
+msgstr "运载管道焦耳容量"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TransitTubeJouleCapacity_Title"
+msgid "Transit Tube Joule Capacity"
+msgstr "运载管道焦耳容量"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TransitTubeJouleCapacity_ToolTip"
+msgid "Capacity, normally 40000 joules."
+msgstr "容量，通常40000焦耳。"
+
+msgctxt "CustomizeBuildings.PROPERTY.TransitTubeSpeed"
+msgid "TransitTubeSpeed"
+msgstr "运载管道速度"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningGlobal"
+msgid "TuningGlobal"
+msgstr "调校全球"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningGlobal_Title"
+msgid "<b><color=red>!!! Unlock Tuning !!!</color></b>"
+msgstr "<b><color=red>!!! 解锁调校 !!!</color></b>"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningGlobal_ToolTip"
+msgid "If false, will disable all settings in this category."
+msgstr "如果关，会禁用此目录所有设置。"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningAtmosuitDecay"
+msgid "TuningAtmosuitDecay"
+msgstr "调校气压服磨损"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningAtmosuitDecay_Title"
+msgid "Atmosuit Decay"
+msgstr "气压服磨损"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningOxygenMaskDecay"
+msgid "TuningOxygenMaskDecay"
+msgstr "调校氧气面罩磨损"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningOxygenMaskDecay_Title"
+msgid "Oxygen Mask Decay"
+msgstr "氧气面罩磨损"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningAtmosuitAthletics"
+msgid "TuningAtmosuitAthletics"
+msgstr "调校气压服运动"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningAtmosuitAthletics_Title"
+msgid "Atmosuit Athletics"
+msgstr "气压服运动"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningAtmosuitScalding"
+msgid "TuningAtmosuitScalding"
+msgstr "调校气压服灼伤温度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningAtmosuitScalding_Title"
+msgid "Atmosuit Scalding"
+msgstr "气压服灼伤温度"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningAtmosuitInsulation"
+msgid "TuningAtmosuitInsulation"
+msgstr "调校气压服隔热"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningAtmosuitInsulation_Title"
+msgid "Atmosuit Insulation"
+msgstr "气压服隔热"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningAtmosuitThermalConductivityBarrier"
+msgid "TuningAtmosuitThermalConductivityBarrier"
+msgstr "调校气压服隔热厚度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningAtmosuitThermalConductivityBarrier_Title"
+msgid "Atmosuit Thermal Conductivity Barrier"
+msgstr "气压服隔热厚度"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningLeadsuitRadiationShielding"
+msgid "TuningLeadsuitRadiationShielding"
+msgstr "调教铅服辐射抗性"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningLeadsuitRadiationShielding_Title"
+msgid "Leadsuit Radiation Shielding"
+msgstr "铅服辐射抗性"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningLeadsuitAthletics"
+msgid "TuningLeadsuitAthletics"
+msgstr "调校铅服运动"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningLeadsuitAthletics_Title"
+msgid "Leadsuit Athletics"
+msgstr "铅服运动"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningLeadsuitStrength"
+msgid "TuningLeadsuitStrength"
+msgstr "调校铅服力量"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningLeadsuitStrength_Title"
+msgid "Leadsuit Strength"
+msgstr "铅服力量"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningLeadsuitInsulation"
+msgid "TuningLeadsuitInsulation"
+msgstr "调校铅服隔热"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningLeadsuitInsulation_Title"
+msgid "Leadsuit Insulation"
+msgstr "铅服隔热"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningLeadsuitThermalConductivityBarrier"
+msgid "TuningLeadsuitThermalConductivityBarrier"
+msgstr "调校铅服隔热厚度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningLeadsuitThermalConductivityBarrier_Title"
+msgid "Leadsuit Thermal Conductivity Barrier"
+msgstr "铅服隔热厚度"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningMissionDurationScale"
+msgid "TuningMissionDurationScale"
+msgstr "调校任务持续尺度"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningMissionDurationScale_Title"
+msgid "Mission Duration Scale"
+msgstr "任务持续尺度"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningMassPenaltyExponent"
+msgid "TuningMassPenaltyExponent"
+msgstr "调校火箭质量惩罚指数"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningMassPenaltyExponent_Title"
+msgid "Rocket Mass Penalty Exponent"
+msgstr "火箭质量惩罚指数"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningMassPenaltyDivisor"
+msgid "TuningMassPenaltyDivisor"
+msgstr "调校火箭质量惩罚除数"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningMassPenaltyDivisor_Title"
+msgid "Rocket Mass Penalty Divisor"
+msgstr "火箭质量惩罚除数"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningResearchEvergreen"
+msgid "TuningResearchEvergreen"
+msgstr "调校常青树研究"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningResearchEvergreen_Title"
+msgid "Research Evergreen"
+msgstr "常青树研究"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningResearchBasic"
+msgid "TuningResearchBasic"
+msgstr "调校基础研究"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningResearchBasic_Title"
+msgid "Research Basic"
+msgstr "基础研究"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningAnalysisDiscovered"
+msgid "TuningAnalysisDiscovered"
+msgstr "调校分析发现"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningAnalysisDiscovered_Title"
+msgid "Analysis Discovered"
+msgstr "分析发现"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningAnalysisDiscovered_ToolTip"
+msgid ""
+"At what point/percentage, will the analysis found things (i.e. asteroid)."
+" Should not be higher than Analysis Complete."
+msgstr "在什么时候/百分比，分析会发现东西（即小行星）。不应高于分析完成。"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningAnalysisComplete"
+msgid "TuningAnalysisComplete"
+msgstr "调校分析完成"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningAnalysisComplete_Title"
+msgid "Analysis Complete"
+msgstr "分析完成"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningAnalysisComplete_ToolTip"
+msgid ""
+"At what point/percentage, will the analysis completed and proceed to next"
+" Starmap hex."
+msgstr "在什么时候/百分比，将完成分析并进入下一个星图的六边块。"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningAnalysisDefaultCyclesPerDiscovery"
+msgid "TuningAnalysisDefaultCyclesPerDiscovery"
+msgstr "调校分析每项发现的默认周期"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningAnalysisDefaultCyclesPerDiscovery_Title"
+msgid "Analysis Default Cycles Per Discovery"
+msgstr "分析每项发现的默认周期"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningThrustCostsLow"
+msgid "TuningThrustCostsLow"
+msgstr "调校推力花费低"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningThrustCostsLow_Title"
+msgid "Thrust Costs Low"
+msgstr "推力花费低"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningThrustCostsMid"
+msgid "TuningThrustCostsMid"
+msgstr "调校推力花费中"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningThrustCostsMid_Title"
+msgid "Thrust Costs Mid"
+msgstr "推力花费中"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningThrustCostsHigh"
+msgid "TuningThrustCostsHigh"
+msgstr "调校推力花费高"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningThrustCostsHigh_Title"
+msgid "Thrust Costs High"
+msgstr "推力花费高"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningThrustCostsVeryHigh"
+msgid "TuningThrustCostsVeryHigh"
+msgstr "调校推力花费特高"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningThrustCostsVeryHigh_Title"
+msgid "Thrust Costs Very High"
+msgstr "推力花费特高"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningClusterFowPointsToReveal"
+msgid "TuningClusterFowPointsToReveal"
+msgstr "调校群星迷雾点揭示"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningClusterFowPointsToReveal_Title"
+msgid "Cluster Fow Points To Reveal"
+msgstr "群星迷雾点揭示"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningClusterFowDefaultCyclesPerReveal"
+msgid "TuningClusterFowDefaultCyclesPerReveal"
+msgstr "调校群星迷雾每次揭示默认周期"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningClusterFowDefaultCyclesPerReveal_Title"
+msgid "Cluster Fow Default Cycles Per Reveal"
+msgstr "群星迷雾每次揭示默认周期"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningEngineEfficiencyWeak"
+msgid "TuningEngineEfficiencyWeak"
+msgstr "调校引擎效率弱"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningEngineEfficiencyWeak_Title"
+msgid "Engine Efficiency Weak"
+msgstr "引擎效率弱"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningEngineEfficiencyMedium"
+msgid "TuningEngineEfficiencyMedium"
+msgstr "调校引擎效率中"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningEngineEfficiencyMedium_Title"
+msgid "Engine Efficiency Medium"
+msgstr "引擎效率中"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningEngineEfficiencyStrong"
+msgid "TuningEngineEfficiencyStrong"
+msgstr "调校引擎效率强"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningEngineEfficiencyStrong_Title"
+msgid "Engine Efficiency Strong"
+msgstr "引擎效率强"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningEngineEfficiencyBooster"
+msgid "TuningEngineEfficiencyBooster"
+msgstr "调校引擎效率增压"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningEngineEfficiencyBooster_Title"
+msgid "Engine Efficiency Booster"
+msgstr "引擎效率增压"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningOxidizerEfficiencyVeryLow"
+msgid "TuningOxidizerEfficiencyVeryLow"
+msgstr "调校氧化剂效率非常低"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningOxidizerEfficiencyVeryLow_Title"
+msgid "Oxidizer Efficiency: Fertilizer"
+msgstr "氧化剂效率：肥料"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningOxidizerEfficiencyLow"
+msgid "TuningOxidizerEfficiencyLow"
+msgstr "调校氧化剂效率低"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningOxidizerEfficiencyLow_Title"
+msgid "Oxidizer Efficiency: Oxylite"
+msgstr "氧化剂效率：氧石"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningOxidizerEfficiencyHigh"
+msgid "TuningOxidizerEfficiencyHigh"
+msgstr "调校氧化剂效率高"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningOxidizerEfficiencyHigh_Title"
+msgid "Oxidizer Efficiency: Liquid Oxygen"
+msgstr "氧化剂效率：液氧"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningCargoContainerMassStaticMass"
+msgid "TuningCargoContainerMassStaticMass"
+msgstr "调校货舱容器质量静态质量"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningCargoContainerMassStaticMass_Title"
+msgid "Cargo Container Mass Static Mass"
+msgstr "货舱容器质量静态质量"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningCargoContainerMassPayloadMass"
+msgid "TuningCargoContainerMassPayloadMass"
+msgstr "调校货舱容器质量载荷质量"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningCargoContainerMassPayloadMass_Title"
+msgid "Cargo Container Mass Payload Mass"
+msgstr "货舱容器质量载荷质量"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningBurdenInsignificant"
+msgid "TuningBurdenInsignificant"
+msgstr "调校负担极轻"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningBurdenInsignificant_Title"
+msgid "Burden Insignificant"
+msgstr "负担极轻"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningBurdenMinor"
+msgid "TuningBurdenMinor"
+msgstr "调校调校负担轻"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningBurdenMinor_Title"
+msgid "Burden Minor"
+msgstr "负担轻"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningBurdenMinor_ToolTip"
+msgid ""
+"Value applicable to:\n"
+"- Small Solid Oxidizer Tank\n"
+"- Battery Module\n"
+"- Basic Nosecone\n"
+"- Gas Cargo Canister"
+msgstr ""
+"值适用于：\n"
+"- 小型固态氧化剂舱\n"
+"- 电池舱\n"
+"- 基础前锥\n"
+"- 气罐货舱"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningBurdenMinorPlus"
+msgid "TuningBurdenMinorPlus"
+msgstr "调校负担较轻"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningBurdenMinorPlus_Title"
+msgid "Burden Minor Plus"
+msgstr "负担较轻"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningBurdenMinorPlus_ToolTip"
+msgid ""
+"Value applicable to:\n"
+"- Sugar Engine\n"
+"- Solo Spacefarer Nosecone\n"
+"- CO2 Engine\n"
+"- Liquid Cargo Tank\n"
+"- Cargographic Module"
+msgstr ""
+"值适用于：\n"
+"- 糖素引擎\n"
+"- 单太空员前锥\n"
+"- 二氧化碳引擎\n"
+"- 液缸货舱\n"
+"- 制图舱"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningBurdenModerate"
+msgid "TuningBurdenModerate"
+msgstr "调校负担中等"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningBurdenModerate_Title"
+msgid "Burden Moderate"
+msgstr "负担中等"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningBurdenModerate_ToolTip"
+msgid ""
+"Value applicable to:\n"
+"- Orbital Cargo Module\n"
+"- Rover Module\n"
+"- Trailblazer Module\n"
+"- Large Gas Cargo Canister\n"
+"- Cargo Bay\n"
+"- Steam Engine"
+msgstr ""
+"值适用于：\n"
+"- 环轨货舱\n"
+"- 侦察者舱\n"
+"- 拓荒者舱\n"
+"- 大型气罐货舱\n"
+"- 货舱\n"
+"- 蒸汽引擎"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningBurdenModeratePlus"
+msgid "TuningBurdenModeratePlus"
+msgstr "调校负担较重"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningBurdenModeratePlus_Title"
+msgid "Burden Moderate Plus"
+msgstr "负担较重"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningBurdenModeratePlus_ToolTip"
+msgid ""
+"Value applicable to:\n"
+"- Small Petroleum Engine\n"
+"- Large Liquid Fuel Tank\n"
+"- Large Liquid Cargo Tank\n"
+"- Lange Solid Oxidizer Tank\n"
+"- Liquid Oxidizer Tank"
+msgstr ""
+"值适用于：\n"
+"- 小型石油引擎\n"
+"- 大型液缸燃料舱\n"
+"- 大型液缸货舱\n"
+"- 大型固态氧化剂舱\n"
+"- 液态氧化剂舱"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningBurdenMajor"
+msgid "TuningBurdenMajor"
+msgstr "调校负担重"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningBurdenMajor_Title"
+msgid "Burden Major"
+msgstr "负担重"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningBurdenMajor_ToolTip"
+msgid ""
+"Value applicable to:\n"
+"- Large Cargo Bay\n"
+"- Petroleum Engine\n"
+"- Spacefarer Module"
+msgstr ""
+"值适用于：\n"
+"- 大型货舱\n"
+"- 石油引擎\n"
+"- 太空员舱"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningBurdenMajorPlus"
+msgid "TuningBurdenMajorPlus"
+msgstr "调校负担极重"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningBurdenMajorPlus_Title"
+msgid "Burden Major Plus"
+msgstr "负担极重"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningBurdenMajorPlus_ToolTip"
+msgid ""
+"Value applicable to:\n"
+"- Hydrogen Engine"
+msgstr ""
+"值适用于：\n"
+"- 液氢引擎"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningBurdenMega"
+msgid "TuningBurdenMega"
+msgstr "调校负担巨重"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningBurdenMega_Title"
+msgid "Burden Mega"
+msgstr "负担巨重"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningBurdenMega_ToolTip"
+msgid "This value have no use in game."
+msgstr "这个值在游戏中没有使用。"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningEnginePowerEarlyWeak"
+msgid "TuningEnginePowerEarlyWeak"
+msgstr "调校引擎功率前期弱"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningEnginePowerEarlyWeak_Title"
+msgid "Engine Power: Steam Engine"
+msgstr "引擎功率：蒸汽引擎"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningEnginePowerEarlyStrong"
+msgid "TuningEnginePowerEarlyStrong"
+msgstr "调校引擎功率前期强"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningEnginePowerEarlyStrong_Title"
+msgid "Engine Power: Carbon Dioxide Engine"
+msgstr "引擎功率：二氧化碳引擎"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningEnginePowerMidVeryStrong"
+msgid "TuningEnginePowerMidVeryStrong"
+msgstr "调校引擎功率中期非常强"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningEnginePowerMidVeryStrong_Title"
+msgid "Engine Power: Petroleum Engine"
+msgstr "引擎功率：石油引擎"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningEnginePowerMidStrong"
+msgid "TuningEnginePowerMidStrong"
+msgstr "调校引擎功率中期强"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningEnginePowerMidStrong_Title"
+msgid "Engine Power: Small Petroleum Engine"
+msgstr "引擎功率：小型石油引擎"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningEnginePowerMidWeak"
+msgid "TuningEnginePowerMidWeak"
+msgstr "调校引擎功率中期弱"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningEnginePowerMidWeak_Title"
+msgid "Engine Power: Sugar Engine"
+msgstr "引擎功率：糖素引擎"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningEnginePowerLateStrong"
+msgid "TuningEnginePowerLateStrong"
+msgstr "调校引擎功率后期强"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningEnginePowerLateStrong_Title"
+msgid "Engine Power: Hydrogen Engine"
+msgstr "引擎功率：液氢引擎"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningFuelCostPerDistanceVeryLow"
+msgid "TuningFuelCostPerDistanceVeryLow"
+msgstr "调校每距离燃料成本非常低"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningFuelCostPerDistanceVeryLow_Title"
+msgid "Fuel Cost Per Distance Very Low"
+msgstr "每距离燃料成本非常低"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningFuelCostPerDistanceVeryLow_ToolTip"
+msgid "Not utilized in game"
+msgstr "未在游戏中使用"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningFuelCostPerDistanceLow"
+msgid "TuningFuelCostPerDistanceLow"
+msgstr "调校每距离燃料成本低"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningFuelCostPerDistanceLow_Title"
+msgid "Fuel Cost Per Distance Low"
+msgstr "每距离燃料成本低"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningFuelCostPerDistanceLow_ToolTip"
+msgid "Not utilized in game"
+msgstr "未在游戏中使用"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningFuelCostPerDistanceMedium"
+msgid "TuningFuelCostPerDistanceMedium"
+msgstr "调校每距离燃料成本中"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningFuelCostPerDistanceMedium_Title"
+msgid "Fuel Cost Per Distance: Small Petroleum Engine"
+msgstr "每距离燃料成本：小型石油引擎"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningFuelCostPerDistanceHigh"
+msgid "TuningFuelCostPerDistanceHigh"
+msgstr "调校每距离燃料成本高"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningFuelCostPerDistanceHigh_Title"
+msgid "Fuel Cost Per Distance: Hydrogen Engine"
+msgstr "每距离燃料成本：液氢引擎"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningFuelCostPerDistanceVeryHigh"
+msgid "TuningFuelCostPerDistanceVeryHigh"
+msgstr "调校每距离燃料成本非常高"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningFuelCostPerDistanceVeryHigh_Title"
+msgid "Fuel Cost Per Distance: Petroleum Engine"
+msgstr "每距离燃料成本：石油引擎"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningFuelCostPerDistanceGasLow"
+msgid "TuningFuelCostPerDistanceGasLow"
+msgstr "调校每距离燃料成本气态低"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningFuelCostPerDistanceGasLow_Title"
+msgid "Fuel Cost Per Distance: Gas Low"
+msgstr "每距离燃料成本：气态低"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningFuelCostPerDistanceGasLow_ToolTip"
+msgid "Not utilized in game"
+msgstr "未在游戏中使用"
+
+msgctxt "CustomizeBuildings.PROPERTY.TuningFuelCostPerDistanceGasHigh"
+msgid "TuningFuelCostPerDistanceGasHigh"
+msgstr "调校每距离燃料成本气态高"
+
+msgctxt "CustomizeBuildings.LOCSTRINGS.TuningFuelCostPerDistanceGasHigh_Title"
+msgid "Fuel Cost Per Distance: Steam and CO2 Engine"
+msgstr "每距离燃料成本：蒸汽和二氧化碳引擎"
+
+msgctxt "CustomizeBuildings.PROPERTY.PowerConsumption"
+msgid "PowerConsumption"
+msgstr "电力消耗"
+
+msgctxt "CustomizeBuildings.PROPERTY.OverheatTemperature"
+msgid "OverheatTemperature"
+msgstr "过热温度"
+
+msgctxt "CustomizeBuildings.PROPERTY.MaterialCategory"
+msgid "MaterialCategory"
+msgstr "材料分类"
+
+msgctxt "CustomizeBuildings.PROPERTY.ExhaustKilowattsWhenActive"
+msgid "ExhaustKilowattsWhenActive"
+msgstr "激活时排出千瓦"
+
+msgctxt "CustomizeBuildings.PROPERTY.SelfHeatKilowattsWhenActive"
+msgid "SelfHeatKilowattsWhenActive"
+msgstr "激活时自发热千瓦"
+
+msgctxt "CustomizeBuildings.PROPERTY.GeneratorWattageRating"
+msgid "GeneratorWattageRating"
+msgstr "发电机额定功率"
+
+msgctxt "CustomizeBuildings.PROPERTY.GeneratorBaseCapacity"
+msgid "GeneratorBaseCapacity"
+msgstr "发电机基本容量"
+
+msgctxt "CustomizeBuildings.PROPERTY.BaseDecor"
+msgid "BaseDecor"
+msgstr "基础装饰"
+
+msgctxt "CustomizeBuildings.PROPERTY.BaseDecorRadius"
+msgid "BaseDecorRadius"
+msgstr "基础装饰半径"
+
+msgctxt "CustomizeBuildings.PROPERTY.LocationRule"
+msgid "LocationRule"
+msgstr "地点规则"
+
+msgctxt "CustomizeBuildings.PROPERTY.Rotations"
+msgid "Rotations"
+msgstr "轮换转动"
+
+msgctxt "CustomizeBuildings.PROPERTY.Floodable"
+msgid "Floodable"
+msgstr "可淹没"
+
+msgctxt "CustomizeBuildings.PROPERTY.IsFoundation"
+msgid "IsFoundation"
+msgstr "是基础"
+
+msgctxt "CustomizeBuildings.PROPERTY.ConstructionMass"
+msgid "ConstructionMass"
+msgstr "建筑质量"
+
+msgctxt "CustomizeBuildings.PROPERTY.ThermalConductivity"
+msgid "ThermalConductivity"
+msgstr "热导率"
+
+msgctxt "CustomizeBuildings.PROPERTY.Id"
+msgid "Id"
+msgstr "ID"
+
+msgctxt "CustomizeBuildings.PROPERTY.Index"
+msgid "Index"
+msgstr "索引"
+
+msgctxt "CustomizeBuildings.PROPERTY.MaterialAppend"
+msgid "MaterialAppend"
+msgstr "材料追加"
+
+msgctxt "CustomizeBuildings.PROPERTY.MaterialOverride"
+msgid "MaterialOverride"
+msgstr "材料覆盖"
+
+msgctxt "CustomizeBuildings.PROPERTY.Inputs"
+msgid "Inputs"
+msgstr "输入"
+
+msgctxt "CustomizeBuildings.PROPERTY.Outputs"
+msgid "Outputs"
+msgstr "输出"
+
+msgctxt "CustomizeBuildings.PROPERTY.OutputTemperature"
+msgid "OutputTemperature"
+msgstr "输出温度"
+
+msgctxt "CustomizeBuildings.PROPERTY.OutputStore"
+msgid "OutputStore"
+msgstr "输出存储"
+
+msgctxt "CustomizeBuildings.PROPERTY.MassMultiplier"
+msgid "MassMultiplier"
+msgstr "质量倍率"
+
+msgctxt "CustomizeBuildings.TAG.Twinkletoes"
+msgid "Twinkletoes"
+msgstr "健步如飞"
+
+msgctxt "CustomizeBuildings.TAG.StrongArm"
+msgid "StrongArm"
+msgstr "健美者"
+
+msgctxt "CustomizeBuildings.TAG.Greasemonkey"
+msgid "Greasemonkey"
+msgstr "机灵鬼"
+
+msgctxt "CustomizeBuildings.TAG.DiversLung"
+msgid "DiversLung"
+msgstr "潜水员之肺"
+
+msgctxt "CustomizeBuildings.TAG.IronGut"
+msgid "IronGut"
+msgstr "铁石胃肠"
+
+msgctxt "CustomizeBuildings.TAG.StrongImmuneSystem"
+msgid "StrongImmuneSystem"
+msgstr "病菌抗性"
+
+msgctxt "CustomizeBuildings.TAG.EarlyBird"
+msgid "EarlyBird"
+msgstr "早起鸟"
+
+msgctxt "CustomizeBuildings.TAG.NightOwl"
+msgid "NightOwl"
+msgstr "夜猫子"
+
+msgctxt "CustomizeBuildings.TAG.MoleHands"
+msgid "MoleHands"
+msgstr "鼹鼠之手"
+
+msgctxt "CustomizeBuildings.TAG.FastLearner"
+msgid "FastLearner"
+msgstr "快速学习者"
+
+msgctxt "CustomizeBuildings.TAG.InteriorDecorator"
+msgid "InteriorDecorator"
+msgstr "装饰达人"
+
+msgctxt "CustomizeBuildings.TAG.Uncultured"
+msgid "Uncultured"
+msgstr "毫无文化"
+
+msgctxt "CustomizeBuildings.TAG.SimpleTastes"
+msgid "SimpleTastes"
+msgstr "粗茶淡饭者"
+
+msgctxt "CustomizeBuildings.TAG.Foodie"
+msgid "Foodie"
+msgstr "美食家"
+
+msgctxt "CustomizeBuildings.TAG.BedsideManner"
+msgid "BedsideManner"
+msgstr "护理者"
+
+msgctxt "CustomizeBuildings.TAG.DecorUp"
+msgid "DecorUp"
+msgstr "天生时尚"
+
+msgctxt "CustomizeBuildings.TAG.Thriver"
+msgid "Thriver"
+msgstr "受迫激励"
+
+msgctxt "CustomizeBuildings.TAG.GreenThumb"
+msgid "GreenThumb"
+msgstr "园艺能手"
+
+msgctxt "CustomizeBuildings.TAG.ConstructionUp"
+msgid "ConstructionUp"
+msgstr "心灵手巧"
+
+msgctxt "CustomizeBuildings.TAG.RanchingUp"
+msgid "RanchingUp"
+msgstr "动物热爱者"
+
+msgctxt "CustomizeBuildings.TAG.Loner"
+msgid "Loner"
+msgstr "独侠客"
+
+msgctxt "CustomizeBuildings.TAG.StarryEyed"
+msgid "StarryEyed"
+msgstr "观星者"
+
+msgctxt "CustomizeBuildings.TAG.GlowStick"
+msgid "GlowStick"
+msgstr "荧光棒"
+
+msgctxt "CustomizeBuildings.TAG.RadiationEater"
+msgid "RadiationEater"
+msgstr "辐射吸收者"
+
+msgctxt "CustomizeBuildings.TAG.GrantSkill_Mining1"
+msgid "GrantSkill_Mining1"
+msgstr "技能：坚硬材料挖掘"
+
+msgctxt "CustomizeBuildings.TAG.GrantSkill_Mining2"
+msgid "GrantSkill_Mining2"
+msgstr "技能：超坚硬材料挖掘"
+
+msgctxt "CustomizeBuildings.TAG.GrantSkill_Mining3"
+msgid "GrantSkill_Mining3"
+msgstr "技能：极坚硬材料挖掘"
+
+msgctxt "CustomizeBuildings.TAG.GrantSkill_Farming2"
+msgid "GrantSkill_Farming2"
+msgstr "技能：作物照料"
+
+msgctxt "CustomizeBuildings.TAG.GrantSkill_Ranching1"
+msgid "GrantSkill_Ranching1"
+msgstr "技能：小动物放牧 I"
+
+msgctxt "CustomizeBuildings.TAG.GrantSkill_Cooking1"
+msgid "GrantSkill_Cooking1"
+msgstr "技能：烧烤"
+
+msgctxt "CustomizeBuildings.TAG.GrantSkill_Arting1"
+msgid "GrantSkill_Arting1"
+msgstr "技能：艺术基础"
+
+msgctxt "CustomizeBuildings.TAG.GrantSkill_Arting2"
+msgid "GrantSkill_Arting2"
+msgstr "技能：美学设计"
+
+msgctxt "CustomizeBuildings.TAG.GrantSkill_Arting3"
+msgid "GrantSkill_Arting3"
+msgstr "技能：大师技艺"
+
+msgctxt "CustomizeBuildings.TAG.GrantSkill_Suits1"
+msgid "GrantSkill_Suits1"
+msgstr "技能：太空服训练"
+
+msgctxt "CustomizeBuildings.TAG.GrantSkill_Technicals2"
+msgid "GrantSkill_Technicals2"
+msgstr "技能：电气工程"
+
+msgctxt "CustomizeBuildings.TAG.GrantSkill_Engineering1"
+msgid "GrantSkill_Engineering1"
+msgstr "技能：机电工程"
+
+msgctxt "CustomizeBuildings.TAG.GrantSkill_Basekeeping2"
+msgid "GrantSkill_Basekeeping2"
+msgstr "技能：管路工作"
+
+msgctxt "CustomizeBuildings.TAG.GrantSkill_Medicine2"
+msgid "GrantSkill_Medicine2"
+msgstr "技能：病床礼仪"
+
+msgctxt "CustomizeBuildings.TAG.CantResearch"
+msgid "CantResearch"
+msgstr "乡下佬"
+
+msgctxt "CustomizeBuildings.TAG.CantDig"
+msgid "CantDig"
+msgstr "密集恐惧症"
+
+msgctxt "CustomizeBuildings.TAG.CantCook"
+msgid "CantCook"
+msgstr "烹饪恐惧症"
+
+msgctxt "CustomizeBuildings.TAG.CantBuild"
+msgid "CantBuild"
+msgstr "无建设力"
+
+msgctxt "CustomizeBuildings.TAG.Hemophobia"
+msgid "Hemophobia"
+msgstr "神经脆弱"
+
+msgctxt "CustomizeBuildings.TAG.ScaredyCat"
+msgid "ScaredyCat"
+msgstr "和平主义者"
+
+msgctxt "CustomizeBuildings.TAG.ConstructionDown"
+msgid "ConstructionDown"
+msgstr "建造障碍"
+
+msgctxt "CustomizeBuildings.TAG.RanchingDown"
+msgid "RanchingDown"
+msgstr "小动物反感"
+
+msgctxt "CustomizeBuildings.TAG.CaringDown"
+msgid "CaringDown"
+msgstr "冷漠"
+
+msgctxt "CustomizeBuildings.TAG.BotanistDown"
+msgid "BotanistDown"
+msgstr "植物杀手"
+
+msgctxt "CustomizeBuildings.TAG.ArtDown"
+msgid "ArtDown"
+msgstr "理论艺术家"
+
+msgctxt "CustomizeBuildings.TAG.CookingDown"
+msgid "CookingDown"
+msgstr "厨房祸害"
+
+msgctxt "CustomizeBuildings.TAG.MachineryDown"
+msgid "MachineryDown"
+msgstr "反对技术"
+
+msgctxt "CustomizeBuildings.TAG.DiggingDown"
+msgid "DiggingDown"
+msgstr "挖掘困难"
+
+msgctxt "CustomizeBuildings.TAG.SlowLearner"
+msgid "SlowLearner"
+msgstr "缓慢学习者"
+
+msgctxt "CustomizeBuildings.TAG.NoodleArms"
+msgid "NoodleArms"
+msgstr "面条臂"
+
+msgctxt "CustomizeBuildings.TAG.DecorDown"
+msgid "DecorDown"
+msgstr "寒酸装扮"
+
+msgctxt "CustomizeBuildings.TAG.Anemic"
+msgid "Anemic"
+msgstr "运动贫血症"
+
+msgctxt "CustomizeBuildings.TAG.Flatulence"
+msgid "Flatulence"
+msgstr "胃肠胀气"
+
+msgctxt "CustomizeBuildings.TAG.IrritableBowel"
+msgid "IrritableBowel"
+msgstr "肠易激综合征"
+
+msgctxt "CustomizeBuildings.TAG.Snorer"
+msgid "Snorer"
+msgstr "鼾声如雷"
+
+msgctxt "CustomizeBuildings.TAG.MouthBreather"
+msgid "MouthBreather"
+msgstr "大口呼吸者"
+
+msgctxt "CustomizeBuildings.TAG.SmallBladder"
+msgid "SmallBladder"
+msgstr "尿频"
+
+msgctxt "CustomizeBuildings.TAG.CalorieBurner"
+msgid "CalorieBurner"
+msgstr "无底洞之胃"
+
+msgctxt "CustomizeBuildings.TAG.WeakImmuneSystem"
+msgid "WeakImmuneSystem"
+msgstr "免疫差"
+
+msgctxt "CustomizeBuildings.TAG.Allergies"
+msgid "Allergies"
+msgstr "过敏症"
+
+msgctxt "CustomizeBuildings.TAG.NightLight"
+msgid "NightLight"
+msgstr "黑暗恐惧症"
+
+msgctxt "CustomizeBuildings.TAG.Regeneration"
+msgid "Regeneration"
+msgstr "再生性"
+
+msgctxt "CustomizeBuildings.TAG.DeeperDiversLungs"
+msgid "DeeperDiversLungs"
+msgstr "深潜员之肺"
+
+msgctxt "CustomizeBuildings.TAG.SunnyDisposition"
+msgid "SunnyDisposition"
+msgstr "乐观阳光"
+
+msgctxt "CustomizeBuildings.TAG.None"
+msgid "None"
+msgstr "无"
+
+msgctxt "CustomizeBuildings.TAG.Joshua"
+msgid "Joshua"
+msgstr "约书亚"
+
+msgctxt "CustomizeBuildings.TAG.Ellie"
+msgid "Ellie"
+msgstr "埃莉"
+
+msgctxt "CustomizeBuildings.TAG.Stinky"
+msgid "Stinky"
+msgstr "斯丁奇"
+
+msgctxt "CustomizeBuildings.TAG.Liam"
+msgid "Liam"
+msgstr "利亚姆"
+
+msgctxt "CustomizeBuildings.TAG.Aggressive"
+msgid "Aggressive"
+msgstr "毁坏"
+
+msgctxt "CustomizeBuildings.TAG.StressVomiter"
+msgid "StressVomiter"
+msgstr "呕吐"
+
+msgctxt "CustomizeBuildings.TAG.UglyCrier"
+msgid "UglyCrier"
+msgstr "大哭"
+
+msgctxt "CustomizeBuildings.TAG.BingeEater"
+msgid "BingeEater"
+msgstr "狂吃"
+
+msgctxt "CustomizeBuildings.TAG.BalloonArtist"
+msgid "BalloonArtist"
+msgstr "气球艺术家"
+
+msgctxt "CustomizeBuildings.TAG.SparkleStreaker"
+msgid "SparkleStreaker"
+msgstr "闪光飞奔者"
+
+msgctxt "CustomizeBuildings.TAG.StickerBomber"
+msgid "StickerBomber"
+msgstr "贴纸炸弹人"
+
+msgctxt "CustomizeBuildings.TAG.SuperProductive"
+msgid "SuperProductive"
+msgstr "超级生产力"
+
+msgctxt "CustomizeBuildings.TAG.Mining"
+msgid "Mining"
+msgstr "挖掘者"
+
+msgctxt "CustomizeBuildings.TAG.Building"
+msgid "Building"
+msgstr "建造者"
+
+msgctxt "CustomizeBuildings.TAG.Farming"
+msgid "Farming"
+msgstr "耕作者"
+
+msgctxt "CustomizeBuildings.TAG.Ranching"
+msgid "Ranching"
+msgstr "放牧者"
+
+msgctxt "CustomizeBuildings.TAG.Cooking"
+msgid "Cooking"
+msgstr "烹饪者"
+
+msgctxt "CustomizeBuildings.TAG.Rocketry"
+msgid "Rocketry"
+msgstr "驾驶者"
+
+msgctxt "CustomizeBuildings.TAG.Suits"
+msgid "Suits"
+msgstr "穿服者"
+
+msgctxt "CustomizeBuildings.TAG.Hauling"
+msgid "Hauling"
+msgstr "供应者"
+
+msgctxt "CustomizeBuildings.TAG.Technicals"
+msgid "Technicals"
+msgstr "操作者"
+
+msgctxt "CustomizeBuildings.TAG.MedicalAid"
+msgid "MedicalAid"
+msgstr "医疗者"
+
+msgctxt "CustomizeBuildings.TAG.Basekeeping"
+msgid "Basekeeping"
+msgstr "整理者"
+
+msgctxt "CustomizeBuildings.TAG.Attribute_Strength"
+msgid "Attribute Strength"
+msgstr "属性力量"
+
+msgctxt "CustomizeBuildings.TAG.Attribute_Caring"
+msgid "Attribute Caring"
+msgstr "属性医疗"
+
+msgctxt "CustomizeBuildings.TAG.Attribute_Construction"
+msgid "Attribute Construction"
+msgstr "属性建造"
+
+msgctxt "CustomizeBuildings.TAG.Attribute_Digging"
+msgid "Attribute Digging"
+msgstr "属性挖掘"
+
+msgctxt "CustomizeBuildings.TAG.Attribute_Machinery"
+msgid "Attribute Machinery"
+msgstr "属性机械"
+
+msgctxt "CustomizeBuildings.TAG.Attribute_Learning"
+msgid "Attribute Learning"
+msgstr "属性科学"
+
+msgctxt "CustomizeBuildings.TAG.Attribute_Cooking"
+msgid "Attribute Cooking"
+msgstr "属性烹饪"
+
+msgctxt "CustomizeBuildings.TAG.Attribute_Botanist"
+msgid "Attribute Botanist"
+msgstr "属性农业"
+
+msgctxt "CustomizeBuildings.TAG.Attribute_Art"
+msgid "Attribute Art"
+msgstr "属性创作"
+
+msgctxt "CustomizeBuildings.TAG.Attribute_Ranching"
+msgid "Attribute Ranching"
+msgstr "属性畜牧"
+
+msgctxt "CustomizeBuildings.TAG.Attribute_Athletics"
+msgid "Attribute Athletics"
+msgstr "属性运动"
+
+msgctxt "CustomizeBuildings.TAG.Attribute_SpaceNavigation"
+msgid "Attribute SpaceNavigation"
+msgstr "属性驾驶"
+
+msgctxt "CustomizeBuildings.TAG.Bad_Traits"
+msgid "Bad Traits"
+msgstr "坏特质"
+
+msgctxt "CustomizeBuildings.TAG.Remove_Traits"
+msgid "Remove Traits"
+msgstr "移除特质"
+
+msgctxt "CustomizeBuildings.TAG.Good_Traits"
+msgid "Good Traits"
+msgstr "好特质"
+
+msgctxt "CustomizeBuildings.TAG.Gene_Traits"
+msgid "Gene Traits"
+msgstr "基因特质"
+
+msgctxt "CustomizeBuildings.TAG.Congenital_Traits"
+msgid "Congenital Traits"
+msgstr "先天特质"
+
+msgctxt "CustomizeBuildings.TAG.Stress_Traits"
+msgid "Stress Traits"
+msgstr "压力特质"
+
+msgctxt "CustomizeBuildings.TAG.Joy_Traits"
+msgid "Joy Traits"
+msgstr "喜悦特质"
+
+msgctxt "CustomizeBuildings.TAG.Aptitudes"
+msgid "Aptitudes"
+msgstr "兴趣"
+
+msgctxt "CustomizeBuildings.TAG.Attributes"
+msgid "Attributes"
+msgstr "属性"
 
 msgctxt "STRINGS.BUILDINGS.PREFABS.HEPCALCINATOR.DESC"
 msgid ""
