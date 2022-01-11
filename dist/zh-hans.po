@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ONIi18n v1.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-01-09 08:20+0000\n"
+"POT-Creation-Date: 2022-01-11 12:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1070,7 +1070,7 @@ msgstr "基础设置总开关"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.BuildingBaseSettingGlobalFlag_ToolTip"
 msgid "If false, will keep disable all basic manual changes."
-msgstr "如果关，会强制关闭所有基础手动修改。"
+msgstr "如果关，会强制关闭所有基础手动修改。（如果开，需手动编辑CustomizeBuildings.json文件修改建筑）"
 
 msgctxt "CustomizeBuildings.PROPERTY.BuildingBaseSettings"
 msgid "BuildingBaseSettings"
@@ -1086,7 +1086,7 @@ msgstr "高级设置总开关"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.BuildingAdvancedGlobalFlag_ToolTip"
 msgid "If false, will keep disable all advanced manual changes."
-msgstr "如果关，会强制关闭所有高级手动修改。"
+msgstr "如果关，会强制关闭所有高级手动修改。（如果开，需手动编辑CustomizeBuildings.json文件修改建筑）"
 
 msgctxt "CustomizeBuildings.PROPERTY.BuildingAdvancedMachineMultiplier"
 msgid "BuildingAdvancedMachineMultiplier"
@@ -1094,11 +1094,11 @@ msgstr "建筑高级机械倍率"
 
 msgctxt "CustomizeBuildings.PROPERTY.BuildingAdvancedMaterial"
 msgid "BuildingAdvancedMaterial"
-msgstr "建筑高级机械"
+msgstr "建筑高级材料"
 
 msgctxt "CustomizeBuildings.PROPERTY.BuildingAdvancedOutputTemp"
 msgid "BuildingAdvancedOutputTemp"
-msgstr "建筑高级输出临时"
+msgstr "建筑高级输出温度"
 
 msgctxt "CustomizeBuildings.PROPERTY.AlgaeTerrarium"
 msgid "AlgaeTerrarium"
@@ -1295,7 +1295,7 @@ msgstr "如果开，会即使材料数量不足也会保持选择的建筑材料
 
 msgctxt "CustomizeBuildings.PROPERTY.NoDupeGlobal"
 msgid "NoDupeGlobal"
-msgstr "不用复制人"
+msgstr "无复制人总开关"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.NoDupeGlobal_Title"
 msgid "<b><color=red>!!! Unlock No Dupe !!!</color></b>"
@@ -1495,6 +1495,10 @@ msgctxt "CustomizeBuildings.PROPERTY.NoDupeShearingStation"
 msgid "NoDupeShearingStation"
 msgstr "无复制人剪毛站"
 
+msgctxt "CustomizeBuildings.PROPERTY.PipeThroughputPercent"
+msgid "PipeThroughputPercent"
+msgstr "管道吞吐量百分比"
+
 msgctxt "CustomizeBuildings.LOCSTRINGS.PipeThroughputPercent_Title"
 msgid "Pipe Throughput Percent"
 msgstr "管道吞吐量百分比"
@@ -1677,7 +1681,7 @@ msgctxt "CustomizeBuildings.LOCSTRINGS.SolarMaxPower_ToolTip"
 msgid ""
 "Limit of how much light can be converted. Does not increase energy per "
 "lumen."
-msgstr "限制能转换多少光。不会增加每勒克斯的能力。"
+msgstr "限制能转换多少光。不会增加每勒克斯的能量。"
 
 msgctxt "CustomizeBuildings.PROPERTY.SolarEnergyMultiplier"
 msgid "SolarEnergyMultiplier"
@@ -1773,11 +1777,11 @@ msgstr "采矿高度。"
 
 msgctxt "CustomizeBuildings.PROPERTY.RoboMinerOffset"
 msgid "RoboMinerOffset"
-msgstr "机器人矿工"
+msgstr "机器人矿工偏移"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerOffset_Title"
 msgid "Robo Miner Offset"
-msgstr "机器人矿工"
+msgstr "机器人矿工偏移"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.RoboMinerOffset_ToolTip"
 msgid "Offset at which the Robo Miner works (negative numbers allowed)."
@@ -1835,11 +1839,11 @@ msgstr "机器人矿工能挖掘任意材料。"
 
 msgctxt "CustomizeBuildings.PROPERTY.SkillStationEnabled"
 msgid "SkillStationEnabled"
-msgstr "技能站启用"
+msgstr "技能站总开关"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationEnabled_Title"
 msgid "Skill Station Enabled"
-msgstr "技能站启用"
+msgstr "技能站总开关"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.SkillStationEnabled_ToolTip"
 msgid ""
@@ -2012,11 +2016,11 @@ msgstr "望远镜分析半径"
 
 msgctxt "CustomizeBuildings.PROPERTY.SteamTurbineEnabled"
 msgid "SteamTurbineEnabled"
-msgstr "蒸汽涡轮机启用"
+msgstr "蒸汽涡轮机总开关"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineEnabled_Title"
 msgid "Steam Turbine Enabled"
-msgstr "蒸汽涡轮机启用"
+msgstr "蒸汽涡轮机总开关"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.SteamTurbineEnabled_ToolTip"
 msgid ""
@@ -2158,11 +2162,11 @@ msgstr "让储存内的材料停止升华和传递热量。"
 
 msgctxt "CustomizeBuildings.PROPERTY.LockerKG"
 msgid "LockerKG"
-msgstr "储存千克"
+msgstr "存储箱千克"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.LockerKG_Title"
 msgid "Storage Locker Capacity"
-msgstr "储存箱容量"
+msgstr "存储箱容量"
 
 msgctxt "CustomizeBuildings.PROPERTY.LockerSmartKG"
 msgid "LockerSmartKG"
@@ -2170,7 +2174,7 @@ msgstr "智能存储箱千克"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.LockerSmartKG_Title"
 msgid "Smart Storage Locker Capacity"
-msgstr "智能储存箱容量"
+msgstr "智能存储箱容量"
 
 msgctxt "CustomizeBuildings.PROPERTY.GasReservoirKG"
 msgid "GasReservoirKG"
@@ -2347,7 +2351,7 @@ msgstr "固体火箭端口容量"
 
 msgctxt "CustomizeBuildings.PROPERTY.RadBattery"
 msgid "RadBattery"
-msgstr "辐射粒子电池"
+msgstr "辐射粒子蓄存器"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.RadBattery_Title"
 msgid "Radbolt Chamber Capacity"
@@ -2403,11 +2407,11 @@ msgstr "门无需复制人交互就能立即开关。"
 
 msgctxt "CustomizeBuildings.PROPERTY.TransitTubeAnywhere"
 msgid "TransitTubeAnywhere"
-msgstr "运载管道任意建"
+msgstr "运载管道任意地点"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.TransitTubeAnywhere_Title"
 msgid "Transit Tube Anywhere"
-msgstr "运载管道任意建"
+msgstr "运载管道任意地点"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.TransitTubeAnywhere_ToolTip"
 msgid "Transit Tubes can be placed in the background."
@@ -2455,7 +2459,7 @@ msgstr "运载管道速度"
 
 msgctxt "CustomizeBuildings.PROPERTY.TuningGlobal"
 msgid "TuningGlobal"
-msgstr "调校全球"
+msgstr "调校总开关"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.TuningGlobal_Title"
 msgid "<b><color=red>!!! Unlock Tuning !!!</color></b>"
@@ -2579,27 +2583,27 @@ msgstr "火箭质量惩罚除数"
 
 msgctxt "CustomizeBuildings.PROPERTY.TuningResearchEvergreen"
 msgid "TuningResearchEvergreen"
-msgstr "调校常青树研究"
+msgstr "调校火箭目的地研究常绿"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.TuningResearchEvergreen_Title"
 msgid "Research Evergreen"
-msgstr "常青树研究"
+msgstr "目的地研究常绿"
 
 msgctxt "CustomizeBuildings.PROPERTY.TuningResearchBasic"
 msgid "TuningResearchBasic"
-msgstr "调校基础研究"
+msgstr "调校火箭目的地研究基础"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.TuningResearchBasic_Title"
 msgid "Research Basic"
-msgstr "基础研究"
+msgstr "目的地研究基础"
 
 msgctxt "CustomizeBuildings.PROPERTY.TuningAnalysisDiscovered"
 msgid "TuningAnalysisDiscovered"
-msgstr "调校分析发现"
+msgstr "调校火箭目的地分析发现"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.TuningAnalysisDiscovered_Title"
 msgid "Analysis Discovered"
-msgstr "分析发现"
+msgstr "火箭目的地分析发现"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.TuningAnalysisDiscovered_ToolTip"
 msgid ""
@@ -2609,11 +2613,11 @@ msgstr "在什么时候/百分比，分析会发现东西（即小行星）。�
 
 msgctxt "CustomizeBuildings.PROPERTY.TuningAnalysisComplete"
 msgid "TuningAnalysisComplete"
-msgstr "调校分析完成"
+msgstr "调校火箭目的地分析完成"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.TuningAnalysisComplete_Title"
 msgid "Analysis Complete"
-msgstr "分析完成"
+msgstr "火箭目的地分析完成"
 
 msgctxt "CustomizeBuildings.LOCSTRINGS.TuningAnalysisComplete_ToolTip"
 msgid ""
@@ -3059,7 +3063,7 @@ msgstr "地点规则"
 
 msgctxt "CustomizeBuildings.PROPERTY.Rotations"
 msgid "Rotations"
-msgstr "轮换转动"
+msgstr "翻转规则"
 
 msgctxt "CustomizeBuildings.PROPERTY.Floodable"
 msgid "Floodable"
