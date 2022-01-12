@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Aluminum
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Aluminum"
+msgid "Al"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.AluminumGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.AluminumGas"
+msgid "Al"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.AluminumOre
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.AluminumOre"
+msgid "Al"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Brine
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Brine"
+msgid "Brine"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.BrineIce
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.BrineIce"
+msgid "B-Ice"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Carbon
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Carbon"
+msgid "C"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CarbonDioxide
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CarbonDioxide"
+msgid "CO<sub>2</sub>"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CarbonGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CarbonGas"
+msgid "C"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Chlorine
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Chlorine"
+msgid "Cl"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.ChlorineGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.ChlorineGas"
+msgid "Cl"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.ContaminatedOxygen
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.ContaminatedOxygen"
+msgid "P-O<sub>2</sub>"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Copper
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Copper"
+msgid "Cu"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CopperGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CopperGas"
+msgid "Cu"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CrudeOil
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CrudeOil"
+msgid "C-Oil"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CrushedIce
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CrushedIce"
+msgid "C-Ice"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CrushedRock
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.CrushedRock"
+msgid "Rock"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.DirtyIce
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.DirtyIce"
+msgid "P-Ice"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.DirtyPrefix
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.DirtyPrefix"
+msgid "P-"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.DirtyWater
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.DirtyWater"
+msgid "P-H<sub>2</sub>O"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Ethanol
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Ethanol"
+msgid "EtOH"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.EthanolGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.EthanolGas"
+msgid "EtOH"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Glass
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Glass"
+msgid "Glass"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Gold
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Gold"
+msgid "Au"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.GoldAmalgam
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.GoldAmalgam"
+msgid "AuAmal"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.GoldGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.GoldGas"
+msgid "Au"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Hydrogen
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Hydrogen"
+msgid "H"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Ice
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Ice"
+msgid "Ice"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Iron
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Iron"
+msgid "Fe"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.IronGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.IronGas"
+msgid "Fe"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.IronOre
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.IronOre"
+msgid "FeOre"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Lead
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Lead"
+msgid "Pb"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LeadGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LeadGas"
+msgid "Pb"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidCarbonDioxide
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidCarbonDioxide"
+msgid "CO<sub>2</sub>"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidHydrogen
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidHydrogen"
+msgid "H"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidMethane
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidMethane"
+msgid "CH<sub>4</sub>"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidOxygen
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidOxygen"
+msgid "O"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidPhosphorus
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidPhosphorus"
+msgid "P"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidPropane
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidPropane"
+msgid "C<sub>3</sub>H<sub>8</sub>"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidSulfur
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.LiquidSulfur"
+msgid "S"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Methane
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Methane"
+msgid "CH<sub>4</sub>"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenAluminum
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenAluminum"
+msgid "Al"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenCarbon
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenCarbon"
+msgid "C"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenCopper
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenCopper"
+msgid "Cu"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenGlass
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenGlass"
+msgid "Glass"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenGold
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenGold"
+msgid "Au"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenIron
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenIron"
+msgid "Fe"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenLead
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenLead"
+msgid "Pb"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenNiobium
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenNiobium"
+msgid "Nb"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenSalt
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenSalt"
+msgid "NaCl"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenSteel
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenSteel"
+msgid "Steel"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenTungsten
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.MoltenTungsten"
+msgid "W"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Naphtha
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Naphtha"
+msgid "Nap"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Niobium
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Niobium"
+msgid "Nb"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.NiobiumGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.NiobiumGas"
+msgid "Nb"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Oxygen
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Oxygen"
+msgid "O<sub>2</sub>"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Petroleum
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Petroleum"
+msgid "Petrol"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Phosphorite
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Phosphorite"
+msgid "P-rite"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Phosphorus
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Phosphorus"
+msgid "P"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.PhosphorusGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.PhosphorusGas"
+msgid "P"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Propane
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Propane"
+msgid "C<sub>3</sub>H<sub>8</sub>"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Radium
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Radium"
+msgid "Ra"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.RefinedCarbon
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.RefinedCarbon"
+msgid "C"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.RockGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.RockGas"
+msgid "Rock"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Salt
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Salt"
+msgid "NaCl"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SaltGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SaltGas"
+msgid "NaCl"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SaltWater
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SaltWater"
+msgid "S-H<sub>2</sub>O"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidCarbonDioxide
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidCarbonDioxide"
+msgid "CO<sub>2</sub>"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidChlorine
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidChlorine"
+msgid "Cl"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidCrudeOil
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidCrudeOil"
+msgid "C-Oil"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidEthanol
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidEthanol"
+msgid "EtOH"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidHydrogen
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidHydrogen"
+msgid "H"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidMethane
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidMethane"
+msgid "CH<sub>4</sub>"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidNaphtha
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidNaphtha"
+msgid "Nap"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidOxygen
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidOxygen"
+msgid "O"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidPetroleum
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidPetroleum"
+msgid "Petrol"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidPropane
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidPropane"
+msgid "C<sub>3</sub>H<sub>8</sub>"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidSuperCoolant
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidSuperCoolant"
+msgid "S-Cool"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidViscoGel
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SolidViscoGel"
+msgid "V-Gel"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SourGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SourGas"
+msgid "Sour"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Steam
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Steam"
+msgid "H<sub>2</sub>O"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Steel
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Steel"
+msgid "Steel"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SteelGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SteelGas"
+msgid "Steel"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Sulfur
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Sulfur"
+msgid "S"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SulfurGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SulfurGas"
+msgid "S"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SuperCoolant
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SuperCoolant"
+msgid "S-Cool"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SuperCoolantGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.SuperCoolantGas"
+msgid "S-Cool"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.ToxicSand
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.ToxicSand"
+msgid "P-"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Tungsten
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Tungsten"
+msgid "W"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.TungstenGas
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.TungstenGas"
+msgid "W"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.ViscoGel
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.ViscoGel"
+msgid "V-Gel"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Water
+msgctxt "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Water"
+msgid "H<sub>2</sub>O"
+msgstr ""
+
+#. BetterLogicOverlay.ASTRINGS.UNITMODIFIERS.thousand
+msgctxt "BetterLogicOverlay.ASTRINGS.UNITMODIFIERS.thousand"
+msgid "k"
+msgstr ""
+

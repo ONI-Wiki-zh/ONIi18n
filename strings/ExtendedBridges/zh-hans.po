@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ventulus\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDGASCONDUITBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDGASCONDUITBRIDGE.DESC"
+msgid ""
+"Separate pipe systems prevent mingled contents from causing building damage."
+msgstr "分离的管道系统可以防止建筑被混合物质损坏。"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDGASCONDUITBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDGASCONDUITBRIDGE.EFFECT"
+msgid ""
+"Runs one <link=\"GASPIPING\">Gas Pipe</link> section over another two "
+"without joining them.\n"
+"\n"
+"Can be run through wall and floor tile."
+msgstr ""
+"让一条<link=\"GASPIPING\">气体管道</link>可以越过另两条气体管道，而不会连接到"
+"一起。\n"
+"\n"
+"可穿过墙壁和地砖。"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDGASCONDUITBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDGASCONDUITBRIDGE.NAME"
+msgid "<link=\"EXTENDEDGASCONDUITBRIDGE\">Long Gas Bridge</link>"
+msgstr "<link=\"EXTENDEDGASCONDUITBRIDGE\">长气体管桥</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLIQUIDCONDUITBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLIQUIDCONDUITBRIDGE.DESC"
+msgid ""
+"Separate pipe systems prevent mingled contents from causing building damage."
+msgstr "分离的管道系统可以防止建筑被混合物质损坏。"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLIQUIDCONDUITBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLIQUIDCONDUITBRIDGE.EFFECT"
+msgid ""
+"Runs one <link=\"LIQUIDPIPING\">Liquid Pipe</link> section over another two "
+"without joining them.\n"
+"\n"
+"Can be run through wall and floor tile."
+msgstr ""
+"让一条<link=\"LIQUIDPIPING\">液体管道</link>可以越过另两条液体管道，而不用连"
+"接到一起。\n"
+"\n"
+"可穿过墙壁和地砖。"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLIQUIDCONDUITBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLIQUIDCONDUITBRIDGE.NAME"
+msgid "<link=\"EXTENDEDLIQUIDCONDUITBRIDGE\">Long Liquid Bridge</link>"
+msgstr "<link=\"EXTENDEDLIQUIDCONDUITBRIDGE\">长液体管桥</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICRIBBONBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICRIBBONBRIDGE.DESC"
+msgid ""
+"Wire bridges allow multiple automation grids to exist in a small area "
+"without connecting."
+msgstr "线桥可以让多个自动化电路存在于小面积的区域，而无需连接。"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICRIBBONBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICRIBBONBRIDGE.EFFECT"
+msgid ""
+"Runs one <link=\"LOGICRIBBON\">Automation Ribbon</link> section over another "
+"two without joining them.\n"
+"\n"
+"Can be run through wall and floor tile."
+msgstr ""
+"让一组<link=\"LOGICWIRE\">信号线组</link>可以越过另两组信号线组，而不用连接到"
+"一起。\n"
+"\n"
+"可穿过墙壁和地砖。"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICRIBBONBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICRIBBONBRIDGE.NAME"
+msgid ""
+"<link=\"EXTENDEDLOGICRIBBONBRIDGE\">Long Automation Ribbon Bridge</link>"
+msgstr "<link=\"EXTENDEDLOGICRIBBONBRIDGE\">长信号线组桥</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICWIREBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICWIREBRIDGE.DESC"
+msgid ""
+"Wire bridges allow multiple automation grids to exist in a small area "
+"without connecting."
+msgstr "线桥可以让多个自动化电路存在于小面积的区域，而无需连接。"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICWIREBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICWIREBRIDGE.EFFECT"
+msgid ""
+"Runs one <link=\"LOGICWIRE\">Automation Wire</link> section over another two "
+"without joining them.\n"
+"\n"
+"Can be run through wall and floor tile."
+msgstr ""
+"让一条<link=\"LOGICWIRE\">信号线</link>可以越过另两条信号线，而不用连接到一"
+"起。\n"
+"\n"
+"可穿过墙壁和地砖。"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICWIREBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDLOGICWIREBRIDGE.NAME"
+msgid "<link=\"EXTENDEDLOGICWIREBRIDGE\">Long Automation Wire Bridge</link>"
+msgstr "<link=\"EXTENDEDLOGICWIREBRIDGE\">长信号线桥</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDSOLIDCONDUITBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDSOLIDCONDUITBRIDGE.DESC"
+msgid ""
+"Separating rail systems helps prevent materials from reaching the wrong "
+"destinations."
+msgstr "分开的轨道系统能防止材料到达错误地点。"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDSOLIDCONDUITBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDSOLIDCONDUITBRIDGE.EFFECT"
+msgid ""
+"Runs one <link=\"SOLIDCONDUIT\">Conveyor Rail</link> section over another "
+"two without joining them.\n"
+"\n"
+"Can be run through wall and floor tile."
+msgstr ""
+"让一段<link=\"SOLIDCONDUIT\">运输轨道</link>可以越过另两段运输轨道，而不用连"
+"接到一起。\n"
+"\n"
+"可穿过墙壁和地砖。"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDSOLIDCONDUITBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDSOLIDCONDUITBRIDGE.NAME"
+msgid "<link=\"EXTENDEDSOLIDCONDUITBRIDGE\">Long Conveyor Bridge</link>"
+msgstr "<link=\"EXTENDEDSOLIDCONDUITBRIDGE\">长运输轨桥</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREBRIDGE.DESC"
+msgid ""
+"Splitting generators onto separate systems can prevent power overloads and "
+"wasted electricity."
+msgstr "将发电机分散到不同的系统可以避免电力过载和电力浪费。"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREBRIDGE.EFFECT"
+msgid ""
+"Runs one wire section over another two without joining them.\n"
+"\n"
+"Can be run through wall and floor tile."
+msgstr ""
+"让一条电线可以越过另两条电线，而不用连接到一起。\n"
+"\n"
+"可穿过墙壁和地砖。"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREBRIDGE.NAME"
+msgid "<link=\"EXTENDEDWIREBRIDGE\">Long Wire Bridge</link>"
+msgstr "<link=\"EXTENDEDWIREBRIDGE\">长电线桥</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREREFINEDBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREREFINEDBRIDGE.DESC"
+msgid ""
+"Splitting generators onto separate systems can prevent power overloads and "
+"wasted electricity."
+msgstr "将发电机分散到不同的系统可以避免电力过载和电力浪费。"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREREFINEDBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREREFINEDBRIDGE.EFFECT"
+msgid ""
+"Carries more <link=\"POWER\">Wattage</link> than a regular <link=\"WIREBRIDGE"
+"\">Wire Bridge</link> without overloading.\n"
+"\n"
+"Runs one wire section over another two without joining them.\n"
+"\n"
+"Can be run through wall and floor tile."
+msgstr ""
+"<link=\"POWER\">电力</link>传输能力高于常规<link=\"WIREBRIDGE\">电线桥</"
+"link>，并且可避免过载。\n"
+"\n"
+"让一条导线可以越过另两条导线，而不用连接到一起。\n"
+"\n"
+"可穿过墙壁和地砖。"
+
+#. STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREREFINEDBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.EXTENDEDWIREREFINEDBRIDGE.NAME"
+msgid "<link=\"EXTENDEDWIREREFINEDBRIDGE\">Long Conductive Wire Bridge</link>"
+msgstr "<link=\"EXTENDEDWIREREFINEDBRIDGE\">长导线桥</link>"

@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. STRINGS.BUILDINGS.PREFABS.HAULINGPOINT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HAULINGPOINT.DESC"
+msgid "Relocate selected items here, then deconstruct to drop them on the ground."
+msgstr "将所选物品移动到此地，然后摧毁它将物品放在地上。"
+
+#. STRINGS.BUILDINGS.PREFABS.HAULINGPOINT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HAULINGPOINT.EFFECT"
+msgid "A temporary designation to bring items to a specific place."
+msgstr "将物品临时存放在特定地点。"
+
+#. STRINGS.BUILDINGS.PREFABS.HAULINGPOINT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.HAULINGPOINT.NAME"
+msgid "<link=\"HAULINGPOINT\">Hauling Point</link>"
+msgstr "<link=\"HAULINGPOINT\">运送点</link>"

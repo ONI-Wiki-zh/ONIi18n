@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. EmptyWorlds.PHO_STRINGS.SPACE_HOLE_NAME
+msgctxt "EmptyWorlds.PHO_STRINGS.SPACE_HOLE_NAME"
+msgid "Holes"
+msgstr "洞穴小行星"
+
+#. EmptyWorlds.PHO_STRINGS.SPACE_HOLE_DESC
+msgctxt "EmptyWorlds.PHO_STRINGS.SPACE_HOLE_DESC"
+msgid "This world is completely full of holes and emptiness everywhere."
+msgstr "这个世界到处都是孔洞和虚无。"
+
+#. EmptyWorlds.PHO_STRINGS.E_NAME
+msgctxt "EmptyWorlds.PHO_STRINGS.E_NAME"
+msgid "Emptera"
+msgstr "虚无小行星"
+
+#. EmptyWorlds.PHO_STRINGS.E_DESCRIPTION
+msgctxt "EmptyWorlds.PHO_STRINGS.E_DESCRIPTION"
+msgid ""
+"Emptera is a difficult empty asteroid. Resources are limited and you will have to take advantage of your geysers to get them.\n"
+"\n"
+"<smallcaps> Colonizing Emptera will be a difficult experience. However, this asteroid has some advantages with its vacuum. </smallcaps>\n"
+"\n"
+msgstr ""
+"虚无小行星是一颗空旷的困难小行星。资源有限，必须利用间歇泉来获得更多资源。\n"
+"\n"
+"<smallcaps>在虚无小行星上殖民将会是一次艰难的体验，但这颗小行星在真空上有些优势</smallcaps>\n"
+"\n"
+
+#. EmptyWorlds.PHO_STRINGS.I_NAME
+msgctxt "EmptyWorlds.PHO_STRINGS.E_DESCRIPTION"
+msgid "Islands"
+msgstr "群岛小行星"
+
+#. EmptyWorlds.PHO_STRINGS.I_DESCRIPTION
+msgctxt "EmptyWorlds.PHO_STRINGS.E_DESCRIPTION"
+msgid ""
+"Islands is an asteroid composed of asteroids. The resources are scattered and you will have to go through space to colonize the place.\n"
+"\n"
+"<smallcaps> Colonizing Islands will be an original and fun experience. This will also allow you to easily access the vacuum for some setups</smallcaps>\n"
+"\n"
+msgstr ""
+"群岛小行星是一颗由小行星组成的小行星。资源分散，必须穿过太空来殖民这个小行星。\n"
+"\n"
+"<smallcaps> 在群岛小行星上殖民将会是一次原始而有趣的体验，并且能够轻松地进入在真空中的某些结构</smallcaps>\n"
+"\n"
