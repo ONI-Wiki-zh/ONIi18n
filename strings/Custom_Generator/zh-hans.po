@@ -15,7 +15,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.DESC"
 msgid "A small, custom Combustible Gas generator. This rather versatile generator has piped outputs."
-msgstr "一个使用可燃气体的小型客制化发电机，这个通用型发电机使用管道输出废物。"
+msgstr "一台使用可燃气体的小型客制化发电机，这个通用型发电机使用管道输出废物。"
 
 #. STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.EFFECT"
@@ -30,7 +30,7 @@ msgstr "客制化天然气发电机"
 #. STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.DESC"
 msgid "A small, custom Combustible Liquid generator. This rather versatile generator has piped outputs."
-msgstr "一个使用可燃液体的小型客制化发电机，这个通用型发电机使用管道输出废物。"
+msgstr "一台使用可燃液体的小型客制化发电机，这个通用型发电机使用管道输出废物。"
 
 #. STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.EFFECT"
@@ -41,6 +41,21 @@ msgstr "将<link=\"PETROLEUM\">石油</link>，<link=\"ETHANOL\">乙醇</link>�
 msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.NAME"
 msgid "Custom Petroleum Generator"
 msgstr "客制化石油发电机"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSOLIDGENERATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSOLIDGENERATOR.DESC"
+msgid "A small, custom Refined Coal gas generator. This rather versatile generator has piped outputs."
+msgstr "一台使用精炼碳的小型客制化发电机，这个通用型发电机使用管道输出废物。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSOLIDGENERATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSOLIDGENERATOR.EFFECT"
+msgid "Converts <link=\"REFINEDCARBON\">Refined Coal</link> into electrical <link=\"POWER\">Power</link>.\n\nProduces 50% less <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> than the standard coal generator."
+msgstr "将<link=\"REFINEDCARBON\">精炼碳</link>转化为<link=\"POWER\">电力</link>，比普通煤炭发电机多排出50%的<link=\"CARBONDIOXIDE\">二氧化碳</link>。"
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSOLIDGENERATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSOLIDGENERATOR.NAME"
+msgid "Custom Coal Generator"
+msgstr "客制化燃煤发电机"
 
 #. STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.DESC"

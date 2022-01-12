@@ -1,16 +1,7 @@
-
 msgid ""
 msgstr ""
-"Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-12-27 22:48-0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.DESC"
@@ -19,10 +10,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.EFFECT"
-msgid ""
-"The advantage of the induction kiln is a clean, energy-efficient and "
-"well-controllable heating process compared to most other means of fuel "
-"heating."
+msgid "The advantage of the induction kiln is a clean, energy-efficient and well-controllable heating process compared to most other means of fuel heating."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.NAME
@@ -37,9 +25,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.EFFECT"
-msgid ""
-"A specialized press that uses centrifugal force to separate sludges into "
-"their base elements."
+msgid "A specialized press that uses centrifugal force to separate sludges into their base elements."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.NAME
@@ -54,10 +40,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.EFFECT"
-msgid ""
-"Converts <link=\"DIRTYWATER\">Polluted Water</link> and "
-"<link=\"CRUSHEDROCK\">Crushed Rock</link> into "
-"<link=\"DIRT\">Dirt</link>."
+msgid "Converts <link=\"DIRTYWATER\">Polluted Water</link> and <link=\"CRUSHEDROCK\">Crushed Rock</link> into <link=\"DIRT\">Dirt</link>."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.NAME
@@ -65,38 +48,14 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.NAME"
 msgid "Compost Processor"
 msgstr ""
 
-#. STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.DESC
-msgctxt "STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.DESC"
-msgid ""
-"An advanced petrochemical refinery capable to perform delicate molecular "
-"reactions."
-msgstr ""
-
-#. STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.EFFECT
-msgctxt "STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.EFFECT"
-msgid ""
-"This unit is capable to produce <link=\"SUPERCOOLANT\">Super "
-"Coolant</link> with <link=\"PETROLEUM\">Petroleum</link>, refined "
-"<link=\"GOLD\">Gold</link>, and <link=\"FULLERENE\">Fullerene</link>."
-msgstr ""
-
-#. STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.NAME
-msgctxt "STRINGS.BUILDINGS.PREFABS.COOLANTREFINERY.NAME"
-msgid "Super Coolant Refinery"
-msgstr ""
-
 #. STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.DESC"
-msgid ""
-"A plasma arc furnace uses low-temperature plasma flow created by an "
-"electric arc heater (plasmatron)."
+msgid "A plasma arc furnace uses low-temperature plasma flow created by an electric arc heater (plasmatron)."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.EFFECT"
-msgid ""
-"Electrometallurgy provides better smelting process than the standard "
-"metallurgical processes."
+msgid "Electrometallurgy provides better smelting process than the standard metallurgical processes."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.NAME
@@ -111,11 +70,7 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDRILL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDRILL.EFFECT"
-msgid ""
-"A strong well-maintened drilling apparatus capable to drill through "
-"Mineral Deposits. Need a constant supply of refined metals for the "
-"drilling operation. Materials used also affect the mineral resources the "
-"drill can grind."
+msgid "A strong well-maintened drilling apparatus capable to drill through Mineral Deposits. Need a constant supply of refined metals for the drilling operation. Materials used also affect the mineral resources the drill can grind."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDRILL.NAME
@@ -125,16 +80,12 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALMILL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALMILL.DESC"
-msgid ""
-"A ball mill consists of a hollow cylindrical shell rotating about its "
-"axis. It is partially filled with metal balls."
+msgid "A ball mill consists of a hollow cylindrical shell rotating about its axis. It is partially filled with metal balls."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALMILL.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALMILL.EFFECT"
-msgid ""
-"A ball mill is a type of grinder used to grind or blend materials for use"
-" in mineral dressing processes."
+msgid "A ball mill is a type of grinder used to grind or blend materials for use in mineral dressing processes."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALMILL.NAME
@@ -144,17 +95,12 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.DESC"
-msgid ""
-"A self controlled distillation plant that uses induction to produce "
-"Naphtha from Crude Oil. Has an extra special device that pumps out the "
-"Sour Gas generated."
+msgid "A self controlled distillation plant that uses induction to produce Naphtha from Crude Oil. Has an extra special device that pumps out the Sour Gas generated."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.EFFECT"
-msgid ""
-"Distils <link=\"NAPHTHA \">Naphtha</link> and <link=\"SOURGAS\">Sour "
-"Gas</link> from <link=\"CRUDEOIL\">Crude Oil</link>."
+msgid "Distils <link=\"NAPHTHA \">Naphtha</link> and <link=\"SOURGAS\">Sour Gas</link> from <link=\"CRUDEOIL\">Crude Oil</link>."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.NAME
@@ -164,18 +110,12 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.DESC"
-msgid ""
-"A self controlled distillation plant that uses induction to produce "
-"Petrolleum from Crude Oil. Has an extra special device that pumps out the"
-" Natural Gas generated."
+msgid "A self controlled distillation plant that uses induction to produce Petrolleum from Crude Oil. Has an extra special device that pumps out the Natural Gas generated."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.EFFECT"
-msgid ""
-"Distils <link=\"PETROLEUM\">Petroleum</link> and "
-"<link=\"METHANE\">Natural Gas</link> from <link=\"CRUDEOIL\">Crude "
-"Oil</link>."
+msgid "Distils <link=\"PETROLEUM\">Petroleum</link> and <link=\"METHANE\">Natural Gas</link> from <link=\"CRUDEOIL\">Crude Oil</link>."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.NAME
@@ -185,21 +125,47 @@ msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.DESC"
-msgid ""
-"A basic kiln that uses pyrolysis process to convert woodlogs to usable "
-"coal."
+msgid "A basic kiln that uses pyrolysis process to convert woodlogs to usable coal."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.EFFECT"
-msgid ""
-"Decomposes <link=\"WOODLOG\">Woodlog</link> to "
-"<link=\"CARBON\">Coal</link>."
+msgid "Decomposes <link=\"WOODLOG\">Woodlog</link> to <link=\"CARBON\">Coal</link>."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.NAME"
 msgid "Pyrolysis Kiln"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SYNGASREFINERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.SYNGASREFINERY.DESC"
+msgid "A refinery capable of catalytic partial oxidation reactions to produce Syngas."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SYNGASREFINERY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.SYNGASREFINERY.EFFECT"
+msgid "This unit is capable to produce <link=\"SYNGAS\">Synthetic Gas</link> from different materials, like <link=\"LUMBER\">Lumber</link>, <link=\"SOLIDOILSHALE\">Oil Shale</link>, and <link=\"BITUMEN\">Bitumen</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.SYNGASREFINERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.SYNGASREFINERY.NAME"
+msgid "Synthetic Gas Refinery"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.VISCOSEFRAME.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.VISCOSEFRAME.DESC"
+msgid "A chemical loom capable of producing celulose fibers with Viscose process."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.VISCOSEFRAME.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.VISCOSEFRAME.EFFECT"
+msgid "This device produces <link=\"\">Rayon Fiber</link> from <link=\"LUMBER\">Lumber</link> pulp through a complex chemical reaction. Require <link=\"SYNGAS\">Synthetic Gas</link>, and constantly outputs <link=\"STEAM\">Steam</link> while operational."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.VISCOSEFRAME.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.VISCOSEFRAME.NAME"
+msgid "Rayon Loom"
 msgstr ""
 
 #. STRINGS.CREATURES.SPECIES.MINERALDEPOSIT.DESC
@@ -214,10 +180,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.ARGENTITEORE.DESC
 msgctxt "STRINGS.ELEMENTS.ARGENTITEORE.DESC"
-msgid ""
-"(Ag<sub>2</sub>S) Argentite is a cubic silver sulfide is a conductive "
-"metal, and the main source of refined <link=\"SOLIDSILVER\">Silver</link>"
-" metal."
+msgid "(Ag<sub>2</sub>S) Argentite is a cubic silver sulfide is a conductive metal, and the main source of refined <link=\"SOLIDSILVER\">Silver</link> metal."
 msgstr ""
 
 #. STRINGS.ELEMENTS.ARGENTITEORE.NAME
@@ -227,10 +190,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.AURICHALCITEORE.DESC
 msgctxt "STRINGS.ELEMENTS.AURICHALCITEORE.DESC"
-msgid ""
-"((Zn,Cu)<sub>5</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)<sub>6</sub>) "
-"Aurichalcite is a carbonate mineral, and the main source of refined "
-"<link=\"SOLIDZINC\">Zinc</link> metal."
+msgid "((Zn,Cu)<sub>5</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)<sub>6</sub>) Aurichalcite is a carbonate mineral, and the main source of refined <link=\"SOLIDZINC\">Zinc</link> metal."
 msgstr ""
 
 #. STRINGS.ELEMENTS.AURICHALCITEORE.NAME
@@ -240,10 +200,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.HALONGAS.DESC
 msgctxt "STRINGS.ELEMENTS.HALONGAS.DESC"
-msgid ""
-"A halocarbon gas with an absolute freezing point used as a refrigerant. "
-"Becomes unstable at temperatures near the boiling point of water, "
-"degrading to other elements. Fluorine free!"
+msgid "A halocarbon gas with an absolute freezing point used as a refrigerant. Becomes unstable at temperatures near the boiling point of water, degrading to other elements. Fluorine free!"
 msgstr ""
 
 #. STRINGS.ELEMENTS.HALONGAS.NAME
@@ -253,9 +210,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENSILVER.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENSILVER.DESC"
-msgid ""
-"(Ag) Silver is soft, white, lustrous transition metal, in its molten "
-"state."
+msgid "(Ag) Silver is soft, white, lustrous transition metal, in its molten state."
 msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENSILVER.NAME
@@ -275,9 +230,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENZINC.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENZINC.DESC"
-msgid ""
-"(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its molten "
-"state."
+msgid "(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its molten state."
 msgstr ""
 
 #. STRINGS.ELEMENTS.MOLTENZINC.NAME
@@ -287,9 +240,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.SILVERGAS.DESC
 msgctxt "STRINGS.ELEMENTS.SILVERGAS.DESC"
-msgid ""
-"(Ag) Silver is soft, white, lustrous transition metal, in its gaseous "
-"state."
+msgid "(Ag) Silver is soft, white, lustrous transition metal, in its gaseous state."
 msgstr ""
 
 #. STRINGS.ELEMENTS.SILVERGAS.NAME
@@ -299,10 +250,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDBORAX.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDBORAX.DESC"
-msgid ""
-"Borax, also known as sodium borate, is an important boron compound, "
-"mainly used in the manufacture of "
-"<link=\"SOLIDFIBERGLASS\">Fiberglass</link>, and as a flux in metallurgy."
+msgid "Borax, also known as sodium borate, is an important boron compound, mainly used in the manufacture of <link=\"SOLIDFIBERGLASS\">Fiberglass</link>, and as a flux in metallurgy."
 msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDBORAX.NAME
@@ -312,11 +260,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDBRASS.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDBRASS.DESC"
-msgid ""
-"Brass is an alloy of <link=\"COPPER\">Copper</link> and "
-"<link=\"SOLIDZINC\">Zinc</link>, widely used to make utensils due to "
-"properties such as having a low melting point, high workability, "
-"durability, and electrical and thermal conductivity."
+msgid "Brass is an alloy of <link=\"COPPER\">Copper</link> and <link=\"SOLIDZINC\">Zinc</link>, widely used to make utensils due to properties such as having a low melting point, high workability, durability, and electrical and thermal conductivity."
 msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDBRASS.NAME
@@ -326,13 +270,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDFIBERGLASS.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDFIBERGLASS.DESC"
-msgid ""
-"Fiberglass is a thermoset polymer matrix made by a poltrusion of "
-"boronsilicate <link=\"GLASS\">Glass</link> and "
-"<link=\"POLYPROPYLENE\">Plastic</link>. Although the fiber is weak in "
-"compression, this composite material has moderate insulating properties, "
-"and can be easily used in many different applications due to its relative"
-" flexibility."
+msgid "Fiberglass is a thermoset polymer matrix made by a poltrusion of boronsilicate <link=\"GLASS\">Glass</link> and <link=\"POLYPROPYLENE\">Plastic</link>. Although the fiber is weak in compression, this composite material has moderate insulating properties, and can be easily used in many different applications due to its relative flexibility."
 msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDFIBERGLASS.NAME
@@ -342,9 +280,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDOILSHALE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDOILSHALE.DESC"
-msgid ""
-"Oil shale is an organic-rich fine-grained sedimentary rock containing "
-"heavy crude oil, sulfur compounds and heavy metals."
+msgid "Oil shale is an organic-rich fine-grained sedimentary rock containing heavy crude oil, sulfur compounds and heavy metals."
 msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDOILSHALE.NAME
@@ -354,9 +290,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDSILVER.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDSILVER.DESC"
-msgid ""
-"(Ag) Silver is soft, white, lustrous transition metal, that exhibits a "
-"high electrical and thermal conductivity."
+msgid "(Ag) Silver is soft, white, lustrous transition metal, that exhibits a high electrical and thermal conductivity."
 msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDSILVER.NAME
@@ -366,9 +300,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDTITANIUM.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDTITANIUM.DESC"
-msgid ""
-"(Ti) Titanium is a lustrous transition metal with a silver color, low "
-"density, and high strength."
+msgid "(Ti) Titanium is a lustrous transition metal with a silver color, low density, and high strength."
 msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDTITANIUM.NAME
@@ -378,12 +310,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDTUNGSTENCARBIDE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDTUNGSTENCARBIDE.DESC"
-msgid ""
-"(WC) Tungsten Carbide is a chemical compound of "
-"<link=\"TUNGSTEN\">Tungsten</link> and <link=\"CARBON\">Carbon</link>. "
-"Almost twice as stiff as steel, and a bit less hard as diamond, this "
-"compound has many building and industrial uses, as well a an effective "
-"neutron reflector for nuclear applications."
+msgid "(WC) Tungsten Carbide is a chemical compound of <link=\"TUNGSTEN\">Tungsten</link> and <link=\"CARBON\">Carbon</link>. Almost twice as stiff as steel, and a bit less hard as diamond, this compound has many building and industrial uses, as well a an effective neutron reflector for nuclear applications."
 msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDTUNGSTENCARBIDE.NAME
@@ -393,9 +320,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDZINC.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDZINC.DESC"
-msgid ""
-"(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal, slightly "
-"brittle metal."
+msgid "(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal, slightly brittle metal."
 msgstr ""
 
 #. STRINGS.ELEMENTS.SOLIDZINC.NAME
@@ -415,9 +340,7 @@ msgstr ""
 
 #. STRINGS.ELEMENTS.ZINCGAS.DESC
 msgctxt "STRINGS.ELEMENTS.ZINCGAS.DESC"
-msgid ""
-"(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its gaseous "
-"state."
+msgid "(Zn) Zinc is a bluish-white, lustrous, diamagnetic metal in its gaseous state."
 msgstr ""
 
 #. STRINGS.ELEMENTS.ZINCGAS.NAME
@@ -425,3 +348,12 @@ msgctxt "STRINGS.ELEMENTS.ZINCGAS.NAME"
 msgid "<link=\"ZINCGAS\">Zinc Gas</link>"
 msgstr ""
 
+#. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RAYONFIBER.DESC
+msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RAYONFIBER.DESC"
+msgid "Rayon is a synthetic fiber, chemically made from regenerated cellulose extracted from Lumber."
+msgstr ""
+
+#. STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RAYONFIBER.NAME
+msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.RAYONFIBER.NAME"
+msgid "<link=\"RAYONFIBER\">Rayon Fiber</link>"
+msgstr ""
