@@ -33,6 +33,21 @@ msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMPETROLEUMGENERATOR.NAME"
 msgid "Custom Petroleum Generator"
 msgstr ""
 
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSOLIDGENERATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSOLIDGENERATOR.DESC"
+msgid "A small, custom Refined Coal gas generator. This rather versatile generator has piped outputs."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSOLIDGENERATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSOLIDGENERATOR.EFFECT"
+msgid "Converts <link=\"REFINEDCARBON\">Refined Coal</link> into electrical <link=\"POWER\">Power</link>.\n\nProduces 50% less <link=\"CARBONDIOXIDE\">Carbon Dioxide</link> than the standard coal generator."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CUSTOMSOLIDGENERATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSOLIDGENERATOR.NAME"
+msgid "Custom Coal Generator"
+msgstr ""
+
 #. STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CUSTOMSTEAMGENERATOR.DESC"
 msgid "A small reciprocating engine that uses Steam to perform mechanical work. Useful for converting the geothermal energy into usable power."
