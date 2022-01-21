@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDFARMTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDFARMTILE.DESC"
+msgid "An insulated version of a Farm Tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDFARMTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDFARMTILE.EFFECT"
+msgid "A farm tile insulated to help with temperature regulation.  Useful for allowing feeding wheezeworts phosphorite from outside an otherwise sealed environment."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDFARMTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDFARMTILE.NAME"
+msgid "Insulated Farm Tile"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDHYDROPONICFARM.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDHYDROPONICFARM.DESC"
+msgid "An insulated version of a Hydroponic Farm Tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDHYDROPONICFARM.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDHYDROPONICFARM.EFFECT"
+msgid "A hydroponic farm tile insulated to help with temperature regulation."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDHYDROPONICFARM.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDHYDROPONICFARM.NAME"
+msgid "Insulated Hydroponic Farm Tile"
+msgstr ""
+
