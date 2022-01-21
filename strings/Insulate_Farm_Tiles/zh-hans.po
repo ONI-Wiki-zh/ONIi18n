@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDFARMTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDFARMTILE.DESC"
+msgid "An insulated version of a Farm Tile."
+msgstr "土培砖的隔热版本"
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDFARMTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDFARMTILE.EFFECT"
+msgid ""
+"A farm tile insulated to help with temperature regulation.  Useful for "
+"allowing feeding wheezeworts phosphorite from outside an otherwise sealed "
+"environment."
+msgstr ""
+"隔热的土培砖，有助于温度调节。对从密封环境外部为冰息萝卜施肥磷矿很有帮助。"
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDFARMTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDFARMTILE.NAME"
+msgid "Insulated Farm Tile"
+msgstr "隔热土培砖"
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDHYDROPONICFARM.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDHYDROPONICFARM.DESC"
+msgid "An insulated version of a Hydroponic Farm Tile."
+msgstr "液培砖的隔热版本"
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDHYDROPONICFARM.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDHYDROPONICFARM.EFFECT"
+msgid "A hydroponic farm tile insulated to help with temperature regulation."
+msgstr "隔热的液培砖，有助于温度调节。"
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDHYDROPONICFARM.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDHYDROPONICFARM.NAME"
+msgid "Insulated Hydroponic Farm Tile"
+msgstr "隔热液培砖"
