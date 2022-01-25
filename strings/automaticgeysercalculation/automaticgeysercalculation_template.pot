@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.ActiveCoolLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.ActiveCoolLabel"
+msgid "Active: {0}"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.ActiveCoolTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.ActiveCoolTooltip"
+msgid "On average this geyser provides {0} of cooling during its active (non-dormant) period"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.ActiveFlowLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.ActiveFlowLabel"
+msgid "Average Active Flow: {0}"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.ActiveFlowTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.ActiveFlowTooltip"
+msgid "This geyser outputs {0} on average during its active (non-dormant) period"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.ActiveHeatLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.ActiveHeatLabel"
+msgid "Active: {0}"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.ActiveHeatTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.ActiveHeatTooltip"
+msgid "On average {0} of thermal energy is produced during the active (non-dormant) period"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CategoryCoolLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CategoryCoolLabel"
+msgid "<b>Cooling Output (to {0}):</b>"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CategoryCoolTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CategoryCoolTooltip"
+msgid "How much cooling this geyser provides during the given phase, relative to a target temperature of {0}"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CategoryFlowLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CategoryFlowLabel"
+msgid "<b>Flow Information:</b>"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CategoryFlowTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CategoryFlowTooltip"
+msgid "Calculated information relating to the rate of flow of this geyser"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CategoryHeatLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CategoryHeatLabel"
+msgid "<b>Heat Production (over {0}):</b>"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CategoryHeatTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CategoryHeatTooltip"
+msgid "How much thermal energy is produced during the given phase, relative to a target temperature of {0}"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CoolMassLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CoolMassLabel"
+msgid "Eruption Thermal Mass: {0}"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CoolMassTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CoolMassTooltip"
+msgid "One eruption outputs {0} of cooling in total"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.DormancyBufferLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.DormancyBufferLabel"
+msgid "Dormancy Buffer: {0}"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.DormancyBufferTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.DormancyBufferTooltip"
+msgid "{0} of output should be buffered to sustain a constant flow of {1} across the dormancy period"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.EruptionBufferLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.EruptionBufferLabel"
+msgid "Eruption Buffer: {0}"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.EruptionBufferTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.EruptionBufferTooltip"
+msgid "{0} should be buffered to maintain {1} constant flow during the active period"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HeatMassLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.HeatMassLabel"
+msgid "Eruption Thermal Mass: {0}"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HeatMassTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.HeatMassTooltip"
+msgid "One eruption outputs {0} of heat in total"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenDormancyBufferLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.HiddenDormancyBufferLabel"
+msgid "Dormancy Buffer: (Requires Analysis)"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenDormancyBufferTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.HiddenDormancyBufferTooltip"
+msgid "How much output should be buffered to sustain average flow across the dormancy period"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalCoolLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalCoolLabel"
+msgid "Total Average: (Requires Analysis)"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalCoolTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalCoolTooltip"
+msgid "Total average cooling output, including the dormancy period"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalFlowLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalFlowLabel"
+msgid "Total Average Flow: (Requires Analysis)"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalFlowTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalFlowTooltip"
+msgid "The total average output flow of this geyser, taking into account eruption times and dormancy"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalHeatLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalHeatLabel"
+msgid "Total Average: (Requires Analysis)"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalHeatTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalHeatTooltip"
+msgid "Total average thermal energy output, including the dormancy period"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.PeakCoolLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.PeakCoolLabel"
+msgid "Erupting: {0}"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.PeakCoolTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.PeakCoolTooltip"
+msgid "This geyser provides {0} of cooling while erupting"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.PeakHeatLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.PeakHeatLabel"
+msgid "Erupting: {0}"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.PeakHeatTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.PeakHeatTooltip"
+msgid "{0} of thermal energy is produced while erupting"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineColdWarning
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineColdWarning"
+msgid "The output of this geyser is cold and will require heating"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineHotWarning
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineHotWarning"
+msgid "The output of this geyser is hot and some energy may be wasted"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbinePower
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbinePower"
+msgid "This amount of heat energy could fully power {0:N1} steam turbines, if directed appropriately"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineRestricted
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineRestricted"
+msgid "Steam output during this period can directly feed {0:N1} steam turbines restricted to {1} open vents each"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineUnrestricted
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineUnrestricted"
+msgid "Steam output during this period can directly feed {0:N1} steam turbines"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.TotalCoolLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.TotalCoolLabel"
+msgid "Total Average: {0}"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.TotalCoolTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.TotalCoolTooltip"
+msgid "In total this geyser provides {0} of cooling, averaging across its entire lifetime"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.TotalFlowLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.TotalFlowLabel"
+msgid "Total Average Flow: {0}"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.TotalFlowTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.TotalFlowTooltip"
+msgid "This geyser outputs {0} on average, taking into account eruption times and dormancy"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.TotalHeatLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.TotalHeatLabel"
+msgid "Total Average: {0}"
+msgstr ""
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.TotalHeatTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.TotalHeatTooltip"
+msgid "In total {0} of thermal energy is produced by this geyser, averaging across its entire lifetime"
+msgstr ""
+

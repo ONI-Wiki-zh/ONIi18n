@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ventulus\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.ActiveCoolLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.ActiveCoolLabel"
+msgid "Active: {0}"
+msgstr "活跃期平均冷量：{0}"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.ActiveCoolTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.ActiveCoolTooltip"
+msgid ""
+"On average this geyser provides {0} of cooling during its active (non-"
+"dormant) period"
+msgstr "这座间歇泉在它的活跃期（非休眠期）平均产出冷量{0}"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.ActiveFlowLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.ActiveFlowLabel"
+msgid "Average Active Flow: {0}"
+msgstr "活跃期平均流量：{0}"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.ActiveFlowTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.ActiveFlowTooltip"
+msgid ""
+"This geyser outputs {0} on average during its active (non-dormant) period"
+msgstr "这座间歇泉在它的活跃期（非休眠期）平均产出流量{0}"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.ActiveHeatLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.ActiveHeatLabel"
+msgid "Active: {0}"
+msgstr "活跃期平均热量：{0}"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.ActiveHeatTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.ActiveHeatTooltip"
+msgid ""
+"On average {0} of thermal energy is produced during the active (non-dormant) "
+"period"
+msgstr "这座间歇泉在它的活跃期（非休眠期）平均产出热量{0}"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CategoryCoolLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CategoryCoolLabel"
+msgid "<b>Cooling Output (to {0}):</b>"
+msgstr "<b>冷量信息（比{0}）：</b>"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CategoryCoolTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CategoryCoolTooltip"
+msgid ""
+"How much cooling this geyser provides during the given phase, relative to a "
+"target temperature of {0}"
+msgstr "这座间歇泉在给出的时期产出多少冷量，和目标温度{0}有关"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CategoryFlowLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CategoryFlowLabel"
+msgid "<b>Flow Information:</b>"
+msgstr "<b>流量信息：</b>"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CategoryFlowTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CategoryFlowTooltip"
+msgid "Calculated information relating to the rate of flow of this geyser"
+msgstr "计算关于这座间歇泉的产出流量信息"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CategoryHeatLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CategoryHeatLabel"
+msgid "<b>Heat Production (over {0}):</b>"
+msgstr "<b>热量信息（比{0}）：</b>"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CategoryHeatTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CategoryHeatTooltip"
+msgid ""
+"How much thermal energy is produced during the given phase, relative to a "
+"target temperature of {0}"
+msgstr "这座间歇泉在给出的时期产出多少热量，和目标温度{0}有关"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CoolMassLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CoolMassLabel"
+msgid "Eruption Thermal Mass: {0}"
+msgstr "喷发冷量：{0}"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.CoolMassTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.CoolMassTooltip"
+msgid "One eruption outputs {0} of cooling in total"
+msgstr "一次喷发产出{0}冷量"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.DormancyBufferLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.DormancyBufferLabel"
+msgid "Dormancy Buffer: {0}"
+msgstr "休眠缓冲量：{0}"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.DormancyBufferTooltip
+msgctxt ""
+"AutomaticGeyserCalculation.GeyserInformationPatch.DormancyBufferTooltip"
+msgid ""
+"{0} of output should be buffered to sustain a constant flow of {1} across "
+"the dormancy period"
+msgstr "在休眠期若维持{1}流量，需要{0}缓冲量"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.EruptionBufferLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.EruptionBufferLabel"
+msgid "Eruption Buffer: {0}"
+msgstr "喷发缓冲量：{0}"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.EruptionBufferTooltip
+msgctxt ""
+"AutomaticGeyserCalculation.GeyserInformationPatch.EruptionBufferTooltip"
+msgid ""
+"{0} should be buffered to maintain {1} constant flow during the active period"
+msgstr "在活跃期若维持{1}流量，需要{0}缓冲量"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HeatMassLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.HeatMassLabel"
+msgid "Eruption Thermal Mass: {0}"
+msgstr "喷发热量：{0}"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HeatMassTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.HeatMassTooltip"
+msgid "One eruption outputs {0} of heat in total"
+msgstr "一次喷发产出{0}热量"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenDormancyBufferLabel
+msgctxt ""
+"AutomaticGeyserCalculation.GeyserInformationPatch.HiddenDormancyBufferLabel"
+msgid "Dormancy Buffer: (Requires Analysis)"
+msgstr "休眠缓冲量：（需要分析）"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenDormancyBufferTooltip
+msgctxt ""
+"AutomaticGeyserCalculation.GeyserInformationPatch.HiddenDormancyBufferTooltip"
+msgid ""
+"How much output should be buffered to sustain average flow across the "
+"dormancy period"
+msgstr "在休眠期若维持平均流量，需要多少缓冲量"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalCoolLabel
+msgctxt ""
+"AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalCoolLabel"
+msgid "Total Average: (Requires Analysis)"
+msgstr "总平均冷量：（需要分析）"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalCoolTooltip
+msgctxt ""
+"AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalCoolTooltip"
+msgid "Total average cooling output, including the dormancy period"
+msgstr "这座间歇泉总平均产出冷量，包括休眠期"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalFlowLabel
+msgctxt ""
+"AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalFlowLabel"
+msgid "Total Average Flow: (Requires Analysis)"
+msgstr "总平均流量：（需要分析）"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalFlowTooltip
+msgctxt ""
+"AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalFlowTooltip"
+msgid ""
+"The total average output flow of this geyser, taking into account eruption "
+"times and dormancy"
+msgstr "这座间歇泉总平均产出流量，包括休眠期"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalHeatLabel
+msgctxt ""
+"AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalHeatLabel"
+msgid "Total Average: (Requires Analysis)"
+msgstr "总平均热量：（需要分析）"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalHeatTooltip
+msgctxt ""
+"AutomaticGeyserCalculation.GeyserInformationPatch.HiddenTotalHeatTooltip"
+msgid "Total average thermal energy output, including the dormancy period"
+msgstr "这座间歇泉总平均产出热量，包括休眠期"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.PeakCoolLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.PeakCoolLabel"
+msgid "Erupting: {0}"
+msgstr "喷发期平均冷量：{0}"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.PeakCoolTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.PeakCoolTooltip"
+msgid "This geyser provides {0} of cooling while erupting"
+msgstr "这座间歇泉在喷发期产出{0}冷量"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.PeakHeatLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.PeakHeatLabel"
+msgid "Erupting: {0}"
+msgstr "喷发期平均热量：{0}"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.PeakHeatTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.PeakHeatTooltip"
+msgid "{0} of thermal energy is produced while erupting"
+msgstr "这座间歇泉在喷发期产出{0}热量"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineColdWarning
+msgctxt ""
+"AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineColdWarning"
+msgid "The output of this geyser is cold and will require heating"
+msgstr "这座间歇泉的产出是冷的，需要加热"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineHotWarning
+msgctxt ""
+"AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineHotWarning"
+msgid "The output of this geyser is hot and some energy may be wasted"
+msgstr "这座间歇泉的产出是热的，有些能量要消耗"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbinePower
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbinePower"
+msgid ""
+"This amount of heat energy could fully power {0:N1} steam turbines, if "
+"directed appropriately"
+msgstr "如果传导得当，这个数量的热量能完全给{0:N1}台蒸汽涡轮机提供动力"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineRestricted
+msgctxt ""
+"AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineRestricted"
+msgid ""
+"Steam output during this period can directly feed {0:N1} steam turbines "
+"restricted to {1} open vents each"
+msgstr ""
+"在此期间输出的蒸汽可以直接供给{0:N1}台蒸汽涡轮机，每台限制{1}个开放的通气口"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineUnrestricted
+msgctxt ""
+"AutomaticGeyserCalculation.GeyserInformationPatch.SteamTurbineUnrestricted"
+msgid "Steam output during this period can directly feed {0:N1} steam turbines"
+msgstr "在此期间输出的蒸汽可以直接供给{0:N1}台蒸汽涡轮机"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.TotalCoolLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.TotalCoolLabel"
+msgid "Total Average: {0}"
+msgstr "总平均冷量：{0}"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.TotalCoolTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.TotalCoolTooltip"
+msgid ""
+"In total this geyser provides {0} of cooling, averaging across its entire "
+"lifetime"
+msgstr "这座间歇泉在整个生命周期产出{0}平均冷量"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.TotalFlowLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.TotalFlowLabel"
+msgid "Total Average Flow: {0}"
+msgstr "总平均流量：{0}"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.TotalFlowTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.TotalFlowTooltip"
+msgid ""
+"This geyser outputs {0} on average, taking into account eruption times and "
+"dormancy"
+msgstr "这座间歇泉在整个生命周期产出{0}平均流量"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.TotalHeatLabel
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.TotalHeatLabel"
+msgid "Total Average: {0}"
+msgstr "总平均热量：{0}"
+
+#. AutomaticGeyserCalculation.GeyserInformationPatch.TotalHeatTooltip
+msgctxt "AutomaticGeyserCalculation.GeyserInformationPatch.TotalHeatTooltip"
+msgid ""
+"In total {0} of thermal energy is produced by this geyser, averaging across "
+"its entire lifetime"
+msgstr "这座间歇泉在整个生命周期产出{0}平均热量"
