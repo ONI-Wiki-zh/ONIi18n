@@ -1,0 +1,406 @@
+{
+	"code": "fr",
+	"name": "français",
+	"mods": {
+		"spooky_pumpkin": {
+			"config": {},
+			"translations": [
+				{
+					"msgctxt": null,
+					"msgid": "",
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.DESC",
+					"msgid": "A spooky lamp for spooky times.",
+					"msgstr": "TEST PUMPKING DESC."
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.EFFECT",
+					"msgid": "Provides Light and Decor. Spooks duplicants that come nearby.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.NAME",
+					"msgid": "Jack O' Lantern",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SEEDS.SP_PUMPKIN.DESC",
+					"msgid": "The <link=\"PLANTS\">Seed</link> of a <link=\"SPPUMPKINPLANT\">Pumpkin</link> plant.\n\nIt can be planted to grow more Pumpkins, or toasted for snacks.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SEEDS.SP_PUMPKIN.NAME",
+					"msgid": "<link=\"SPPUMPKINPLANT\">Pumpkin Seed</link>",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_GHOSTPIP.DESC",
+					"msgid": "Seems suspicious. It looks like it would love some treats.\n\n<smallcaps>The Suspicious Pip will offer to trade for Pumpkin Seeds. The required item will change daily and after each trade.</smallcaps>",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_GHOSTPIP.NAME",
+					"msgid": "<link=\"SPGHOSTSQUIRREL\">Suspicious Pip</link>",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DESC",
+					"msgid": "Pumpkins are pretty neat. They grow enormous fruits also called Pumpkins.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DOMESTICATEDDESC",
+					"msgid": "Pumpkins are pretty neat. They grow enormous fruits also called Pumpkins.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.NAME",
+					"msgid": "<link=\"SPPUMPKINPLANT\">Pumpkin</link>",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.MODIFIERS.AHM_HOLIDAYSPIRIT.DESCRIPTION",
+					"msgid": "This Duplicant is excited for this time of year. (All stats up!)",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.MODIFIERS.AHM_HOLIDAYSPIRIT.NAME",
+					"msgid": "Holiday Spirit",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.HOLIDAY_SPIRIT.NAME",
+					"msgid": "Holiday Spirit",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.HOLIDAY_SPIRIT.TOOLTIP",
+					"msgid": "This Duplicant is excited for this time of year. (All stats up!)",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SPOOKED.NAME",
+					"msgid": "Spooked!",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SPOOKED.TOOLTIP",
+					"msgid": "This Duplicant saw something super scary!",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKIN.DESC",
+					"msgid": "Bland tasting fruit of a Pumpkin plant.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKIN.NAME",
+					"msgid": "<link=\"SPPUMPKIN\">Pumpkin</link>",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.DESC",
+					"msgid": "A delicious seasonal treat.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.NAME",
+					"msgid": "<link=\"SPPUMPKINPIE\">Pumpkin Pie</link>",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_TOASTEDPUMPKINSEED.DESC",
+					"msgid": "Tasty snack.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_TOASTEDPUMPKINSEED.NAME",
+					"msgid": "<link=\"SPTOASTEDPUMPKINSEED\">Roasted Pumpkin Seeds</link>",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.GHOSTPIP_LIGHT.TITLE",
+					"msgid": "Suspicious Pip emits Light",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.GHOSTPIP_LIGHT.TOOLTIP",
+					"msgid": "If true, the Suspicious Pip will emit some light.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.ROT.TITLE",
+					"msgid": "Use rot for fertilizer",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.ROT.TOOLTIP",
+					"msgid": "If true, pumpkin plants will use Rot along Dirt for fertilization.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TEXT_ACTIVE",
+					"msgid": "Answer mysterious call",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TEXT_INACTIVE",
+					"msgid": "Pip called",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TOOLTIP",
+					"msgid": "Spooky squeaks are whispered through the receiver... ",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TOOLTIP_INACTIVE",
+					"msgid": "Pip spawned.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.CANCELBUTTON",
+					"msgid": "Cancel",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.CONFIRM",
+					"msgid": "Are you sure?",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.LABEL",
+					"msgid": "Wants one ",
+					"msgstr": "WANTS ONE TEST STRINGD"
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.LABEL2",
+					"msgid": "Delivering ",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.MESSAGE",
+					"msgid": "This suspicious pip looks like it wants some treats.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.SHOO",
+					"msgid": "Shoo Away",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.TITLE",
+					"msgid": "Suspicious Pip",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.TREATBUTTON",
+					"msgid": "Deliver Treat",
+					"msgstr": ""
+				}
+			]
+		},
+		"decor_pack_i": {
+			"config": {},
+			"translations": [
+				{
+					"msgctxt": null,
+					"msgid": "",
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.DESC",
+					"msgid": "Stained glass tiles are transparent tiles that provide a fashionable barrier against liquid and gas.",
+					"msgstr": "Les dalles de verre coloré sont des dalles transparentes qui constituent une barrière à la mode contre les liquides et les gaz."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.EFFECT",
+					"msgid": "Used to build the walls and floors of rooms.\n\nAllows <link=\"LIGHT\">Light</link> and <link=\"DECOR\">Decor</link> pass through.",
+					"msgstr": "Utilisé pour construire les murs et les sols des pièces.\n\nPermet le passage de la <link=\"LIGHT\">lumière</link> et du <link=\"DECOR\">décor</link>."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.NAME",
+					"msgid": "<link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Stained Glass Tile</link>",
+					"msgstr": "<link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Dalle en verre coloré</link>"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.STAINED_NAME",
+					"msgid": "{element} <link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Stained Glass Tile</link>",
+					"msgstr": "{element} <link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Dalle en verre coloré</link>"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.AVERAGEQUALITYNAME",
+					"msgid": "Mediocre Glass Sculpture",
+					"msgstr": "Sculpture en verre médiocre"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.DESC",
+					"msgid": "Duplicants who have learned art skills can produce more decorative sculptures.",
+					"msgstr": "Les duplicants qui ont acquis des compétences artistiques peuvent produire des sculptures plus décoratives."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EFFECT",
+					"msgid": "Majorly increases <link=\"DECOR\">Decor</link>, contributing to <link=\"MORALE\">Morale</link>.\n\nMust be sculpted by a Duplicant.",
+					"msgstr": "Augmente considérablement le <link=\"DECOR\">déco</link> qui contribue au <link=\"MORALE\">moral</link>.\n\nDoit être sculpté par un duplicant."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EXCELLENTQUALITYNAME",
+					"msgid": "Genius Glass Sculpture",
+					"msgstr": "Sculpture en verre géniale"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.NAME",
+					"msgid": "<link=\"DECORPACKAGLASSSCULPTURE\">Glass Block</link>",
+					"msgstr": "<link=\"DECORPACKAGLASSSCULPTURE\">Bloc de verre</link>"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.POORQUALITYNAME",
+					"msgid": "\"Abstract\" Glass Sculpture",
+					"msgstr": "Sculpture en verre abstraite"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.DESC",
+					"msgid": "Light reduces Duplicant stress and is required to grow certain plants.",
+					"msgstr": "La lumière réduit le stress des duplicants et est nécessaire à la croissance de certaines plantes."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.EFFECT",
+					"msgid": "Provides <link=\"LIGHT\">Light</link> when <link=\"POWER\">Powered</link>.\n\nDuplicants can operate buildings more quickly when the building is lit.",
+					"msgstr": "Fournit de la <link=\"LIGHT\">lumière</link> lorsqu' <link=\"POWER\">alimentée</link>.\n\nLes duplicants peuvent exploiter les bâtiments plus rapidement lorsque le bâtiment est éclairé."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.NAME",
+					"msgid": "<link=\"DECORPACKAMOODLAMP\">Mood Lamp</link>",
+					"msgstr": "<link=\"DECORPACKAMOODLAMP\">Lampe d'ambiance</link>"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.BROTHGAR",
+					"msgid": "Brothgar Logo",
+					"msgstr": "Logo de Brothgar"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.CAT",
+					"msgid": "Cat",
+					"msgstr": "Chat"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.D6",
+					"msgid": "D6",
+					"msgstr": "D6"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.DENSE",
+					"msgid": "Dense Puft",
+					"msgstr": "Bouffette compacte"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MOON",
+					"msgid": "Moon",
+					"msgstr": "Lune"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MORB",
+					"msgid": "Morb",
+					"msgstr": "Morb"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OGRE",
+					"msgid": "Shrumal Ogre",
+					"msgstr": "Ogre Fongique"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OWO",
+					"msgid": "OwO Slickster",
+					"msgstr": "Gluant OwO"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.PIP",
+					"msgid": "Pip",
+					"msgstr": "Pip"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.RANDOM",
+					"msgid": "Random",
+					"msgstr": "Aléatoire"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.ROCKET",
+					"msgid": "Rocket",
+					"msgstr": "Fusée"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.SATURN",
+					"msgid": "Saturn",
+					"msgstr": "Saturne"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.STAR",
+					"msgid": "Star",
+					"msgstr": "Étoile"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.TESSERACT",
+					"msgid": "Tesseract",
+					"msgstr": "Tesseract"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.UNICORN",
+					"msgid": "Unicorn",
+					"msgstr": "Licorne"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.MISC.TAGS.DECORPACKA_STAINEDGLASSMATERIAL",
+					"msgid": "Glass Dye",
+					"msgstr": "Colorant pour verre"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.THERMALCONDUCTIVITYCHANGE",
+					"msgid": "Thermal Conductivity: {0}",
+					"msgstr": "Conductivité thermique : {0}"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.HIGHER",
+					"msgid": "higher",
+					"msgstr": "plus haut"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.LOWER",
+					"msgid": "lower",
+					"msgstr": "plus basse"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.THERMALCONDUCTIVITYCHANGE",
+					"msgid": "The dye {dyeElement} has {higherOrLower} thermal conductivity than {baseElement}, modifying it by {percent}.",
+					"msgstr": "Le matériaux {dyeElement} a une conductivité thermique {higherOrLower} que le matériaux {baseElement}, la modifiant de {percent}."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.UISIDESCREENS.MOODLAMP_SIDE_SCREEN.TITLE",
+					"msgid": "Lamp type",
+					"msgstr": "Type de lampe"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.NAME",
+					"msgid": "Fabulous Off",
+					"msgstr": "Arrêt fabuleux"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.TOOLTIP",
+					"msgid": "Take away the magic.",
+					"msgstr": "Enlève la magie."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.NAME",
+					"msgid": "Fabulous On",
+					"msgstr": "Allumage fabuleux"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.TOOLTIP",
+					"msgid": "Bring the magic!",
+					"msgstr": "Amenez la magie !"
+				}
+			]
+		}
+	}
+}
