@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMEMBRANETILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMEMBRANETILE.DESC"
+msgid "Building with airflow tile promotes better gas circulation within a colony."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMEMBRANETILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMEMBRANETILE.EFFECT"
+msgid "Used to build the walls and floors of rooms.\n\nBlocks <link=\"ELEMENTSLIQUID\">Liquid</link> flow without obstructing <link=\"ELEMENTSGAS\">Gas</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMEMBRANETILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMEMBRANETILE.NAME"
+msgid "<link=\"ROMENHPLASTICMEMBRANETILE\">Plastic Airflow Tile</link>"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMESHTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMESHTILE.DESC"
+msgid "Mesh tile can be used to make Duplicant pathways in areas where liquid flows."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMESHTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMESHTILE.EFFECT"
+msgid "Used to build the walls and floors of rooms.\n\nDoes not obstruct <link=\"ELEMENTSLIQUID\">Liquid</link> or <link=\"ELEMENTSGAS\">Gas</link> flow."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMESHTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMESHTILE.NAME"
+msgid "<link=\"ROMENHPLASTICMESHTILE\">Plastic Mesh Tile</link>"
+msgstr ""
+
