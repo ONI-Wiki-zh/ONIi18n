@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMEMBRANETILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMEMBRANETILE.DESC"
+msgid ""
+"Building with airflow tile promotes better gas circulation within a colony."
+msgstr "用透气砖建造建筑可以为殖民地提供更好的空气流通。"
+
+#. STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMEMBRANETILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMEMBRANETILE.EFFECT"
+msgid ""
+"Used to build the walls and floors of rooms.\n"
+"\n"
+"Blocks <link=\"ELEMENTSLIQUID\">Liquid</link> flow without obstructing <link="
+"\"ELEMENTSGAS\">Gas</link>."
+msgstr ""
+"用来建造房间的墙壁和地板。\n"
+"\n"
+"阻止<link=\"ELEMENTSLIQUID\">液体</link>流动而不阻碍<link=\"ELEMENTSGAS"
+"\">气体</link>流动。"
+
+#. STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMEMBRANETILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMEMBRANETILE.NAME"
+msgid "<link=\"ROMENHPLASTICMEMBRANETILE\">Plastic Airflow Tile</link>"
+msgstr "<link=\"ROMENHPLASTICMEMBRANETILE\">塑料透气砖</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMESHTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMESHTILE.DESC"
+msgid ""
+"Mesh tile can be used to make Duplicant pathways in areas where liquid flows."
+msgstr "网格砖可以用来在液体流动的区域建造道路。"
+
+#. STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMESHTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMESHTILE.EFFECT"
+msgid ""
+"Used to build the walls and floors of rooms.\n"
+"\n"
+"Does not obstruct <link=\"ELEMENTSLIQUID\">Liquid</link> or <link="
+"\"ELEMENTSGAS\">Gas</link> flow."
+msgstr ""
+"用来建造房间的墙壁和地板。\n"
+"\n"
+"不会阻止<link=\"ELEMENTSLIQUID\">液体</link>或<link=\"ELEMENTSGAS\">"
+"气体</link>流动。"
+
+#. STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMESHTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMESHTILE.NAME"
+msgid "<link=\"ROMENHPLASTICMESHTILE\">Plastic Mesh Tile</link>"
+msgstr "<link=\"ROMENHPLASTICMESHTILE\">塑料网格砖</link>"

@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. SolidWaterPump.STRINGS.BUILDINGS.PREFABS.SOLIDWATERPUMP.NAME
+msgctxt "SolidWaterPump.STRINGS.BUILDINGS.PREFABS.SOLIDWATERPUMP.NAME"
+msgid "<link=\"SOLIDWATERPUMP\">Solid Pitcher Pump</link>"
+msgstr ""
