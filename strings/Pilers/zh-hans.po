@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Ventulus\n"
 "Language-Team: \n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -28,6 +28,28 @@ msgctxt "Pliers.PliersStrings.STRING_PLIERS_NAME"
 msgid "Pliers"
 msgstr "剪刀"
 
+#. Pliers.PliersStrings.STRING_PLIERS_OPTIONS_ERRANDS
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_OPTIONS_ERRANDS"
+msgid "Pliers require errand"
+msgstr "剪刀需要复制人跑腿"
+
+#. Pliers.PliersStrings.STRING_PLIERS_OPTIONS_ERRANDS_TOOLTIP
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_OPTIONS_ERRANDS_TOOLTIP"
+msgid ""
+"Pliers are no longer instant. Instead they require duplicant operation to "
+"complete"
+msgstr "剪刀不再是即时生效。它们需要复制人来操作完成"
+
+#. Pliers.PliersStrings.STRING_PLIERS_STATUS_ITEM_NAME
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_STATUS_ITEM_NAME"
+msgid "Marked for Cut"
+msgstr "标记剪断"
+
+#. Pliers.PliersStrings.STRING_PLIERS_STATUS_ITEM_TOOLTIP
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_STATUS_ITEM_TOOLTIP"
+msgid "Awaiting a Duplicant to cut wire"
+msgstr "等待复制人剪断线路"
+
 #. Pliers.PliersStrings.STRING_PLIERS_TOOLTIP
 msgctxt "Pliers.PliersStrings.STRING_PLIERS_TOOLTIP"
 msgid "Disconnect utility networks {0}"
@@ -38,37 +60,30 @@ msgctxt "Pliers.PliersStrings.STRING_PLIERS_TOOLTIP_TITLE"
 msgid "PLIERS"
 msgstr "剪刀"
 
-#. STRINGS.INPUT_BINDINGS.PLIB.269
-msgctxt "STRINGS.INPUT_BINDINGS.PLIB.269"
-msgid "Pliers"
-msgstr "剪刀"
+#~ msgctxt "STRINGS.INPUT_BINDINGS.PLIB.269"
+#~ msgid "Pliers"
+#~ msgstr "剪刀"
 
-#. STRINGS.INPUT_BINDINGS.PLIB.NAME
-msgctxt "STRINGS.INPUT_BINDINGS.PLIB.NAME"
-msgid "Mods"
-msgstr "模组"
+#~ msgctxt "STRINGS.INPUT_BINDINGS.PLIB.NAME"
+#~ msgid "Mods"
+#~ msgstr "模组"
 
-#. STRINGS.PliersStrings.STRING_PLIERS_ACTION_BACK
-msgctxt "STRINGS.PliersStrings.STRING_PLIERS_ACTION_BACK"
-msgid "BACK"
-msgstr "返回"
+#~ msgctxt "STRINGS.PliersStrings.STRING_PLIERS_ACTION_BACK"
+#~ msgid "BACK"
+#~ msgstr "返回"
 
-#. STRINGS.PliersStrings.STRING_PLIERS_ACTION_DRAG
-msgctxt "STRINGS.PliersStrings.STRING_PLIERS_ACTION_DRAG"
-msgid "DRAG"
-msgstr "拖动"
+#~ msgctxt "STRINGS.PliersStrings.STRING_PLIERS_ACTION_DRAG"
+#~ msgid "DRAG"
+#~ msgstr "拖动"
 
-#. STRINGS.PliersStrings.STRING_PLIERS_NAME
-msgctxt "STRINGS.PliersStrings.STRING_PLIERS_NAME"
-msgid "Pliers"
-msgstr "剪刀"
+#~ msgctxt "STRINGS.PliersStrings.STRING_PLIERS_NAME"
+#~ msgid "Pliers"
+#~ msgstr "剪刀"
 
-#. STRINGS.PliersStrings.STRING_PLIERS_TOOLTIP
-msgctxt "STRINGS.PliersStrings.STRING_PLIERS_TOOLTIP"
-msgid "Disconnect utility networks {0}"
-msgstr "断开公共网络{0}"
+#~ msgctxt "STRINGS.PliersStrings.STRING_PLIERS_TOOLTIP"
+#~ msgid "Disconnect utility networks {0}"
+#~ msgstr "断开公共网络{0}"
 
-#. STRINGS.PliersStrings.STRING_PLIERS_TOOLTIP_TITLE
-msgctxt "STRINGS.PliersStrings.STRING_PLIERS_TOOLTIP_TITLE"
-msgid "PLIERS"
-msgstr "剪刀"
+#~ msgctxt "STRINGS.PliersStrings.STRING_PLIERS_TOOLTIP_TITLE"
+#~ msgid "PLIERS"
+#~ msgstr "剪刀"

@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. Pliers.PliersStrings.STRING_PLIERS_ACTION_BACK
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_ACTION_BACK"
+msgid "BACK"
+msgstr ""
+
+#. Pliers.PliersStrings.STRING_PLIERS_ACTION_DRAG
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_ACTION_DRAG"
+msgid "DRAG"
+msgstr ""
+
+#. Pliers.PliersStrings.STRING_PLIERS_NAME
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_NAME"
+msgid "Pliers"
+msgstr ""
+
+#. Pliers.PliersStrings.STRING_PLIERS_OPTIONS_ERRANDS
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_OPTIONS_ERRANDS"
+msgid "Pliers require errand"
+msgstr ""
+
+#. Pliers.PliersStrings.STRING_PLIERS_OPTIONS_ERRANDS_TOOLTIP
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_OPTIONS_ERRANDS_TOOLTIP"
+msgid "Pliers are no longer instant. Instead they require duplicant operation to complete"
+msgstr ""
+
+#. Pliers.PliersStrings.STRING_PLIERS_STATUS_ITEM_NAME
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_STATUS_ITEM_NAME"
+msgid "Marked for Cut"
+msgstr ""
+
+#. Pliers.PliersStrings.STRING_PLIERS_STATUS_ITEM_TOOLTIP
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_STATUS_ITEM_TOOLTIP"
+msgid "Awaiting a Duplicant to cut wire"
+msgstr ""
+
+#. Pliers.PliersStrings.STRING_PLIERS_TOOLTIP
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_TOOLTIP"
+msgid "Disconnect utility networks {0}"
+msgstr ""
+
+#. Pliers.PliersStrings.STRING_PLIERS_TOOLTIP_TITLE
+msgctxt "Pliers.PliersStrings.STRING_PLIERS_TOOLTIP_TITLE"
+msgid "PLIERS"
+msgstr ""
+
