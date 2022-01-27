@@ -8,7 +8,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.BRICKWALL.DESC",
@@ -168,7 +168,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "MAPOVERLAY.TITLE",
@@ -208,7 +208,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HAULINGPOINT.DESC",
@@ -233,7 +233,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.COAL_BOILER.DESC",
@@ -288,7 +288,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.DESC",
@@ -488,7 +488,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.DESC",
@@ -558,7 +558,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ETHANOLSTILL.DESC",
@@ -583,7 +583,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.DESC",
@@ -958,7 +958,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.DESC",
@@ -2088,7 +2088,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "Asphalt.STRINGS.BUILDINGS.PREFABS.ASPHALTTILE.DESC",
@@ -2213,7 +2213,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.CREATURES.SPECIES.CREAMCAP.DESC",
@@ -2458,7 +2458,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "Pliers.PliersStrings.STRING_PLIERS_ACTION_BACK",
@@ -2528,7 +2528,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "ResearchRequirements.STRINGS.REQUIREMENTS.ACOUSTICS",
@@ -2988,7 +2988,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.EXTENDEDGASCONDUITBRIDGE.DESC",
@@ -3103,7 +3103,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.COZYBED.DESC",
@@ -3233,7 +3233,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ALGAEVAT.DESC",
@@ -3288,7 +3288,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "PeterHan.Resculpt.ResculptStrings.REPAINT_BUTTON",
@@ -3323,7 +3323,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.NAME",
@@ -3383,7 +3383,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.NATURALTILE.DESC",
@@ -3408,7 +3408,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.INSULATEDFARMTILE.DESC",
@@ -3448,7 +3448,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.SPACERDANGER.DESC",
@@ -3608,7 +3608,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "AutomaticGeyserCalculation.GeyserInformationPatch.ActiveCoolLabel",
@@ -3833,7 +3833,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HEPCALCINATOR.DESC",
@@ -3928,7 +3928,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "EmptyWorlds.PHO_STRINGS.SPACE_HOLE_NAME",
@@ -3968,7 +3968,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTGREEN.DESC",
@@ -4278,7 +4278,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "baator.baatorPatch.BAATOR_WORLD_NAME",
@@ -4318,7 +4318,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.FRIDGEADVANCED.DESC",
@@ -4403,7 +4403,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_CREATE_NAME",
@@ -4618,7 +4618,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLGASRESERVOIR.DESC",
@@ -4778,7 +4778,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "ModI18n.STRINGS.OPTIONS.LANG.DESC",
@@ -4808,7 +4808,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.MANUALJUICER.DESC",
@@ -4977,13 +4977,198 @@
 				}
 			]
 		},
+		"PLib": {
+			"config": {},
+			"translations": [
+				{
+					"msgctxt": null,
+					"msgid": "",
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.BUTTON_MANUAL",
+					"msgid": "MANUAL CONFIG",
+					"msgstr": "手动配置"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.BUTTON_OK",
+					"msgid": "Done",
+					"msgstr": "完成"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.BUTTON_OPTIONS",
+					"msgid": "OPTIONS",
+					"msgstr": "选项"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.BUTTON_RESET",
+					"msgid": "RESET TO DEFAULT",
+					"msgstr": "重置为默认"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.DIALOG_TITLE",
+					"msgid": "Options for {0}",
+					"msgstr": "{0}的选项"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.KEY_ARROWDOWN",
+					"msgid": "Down Arrow",
+					"msgstr": "↓"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.KEY_ARROWLEFT",
+					"msgid": "Left Arrow",
+					"msgstr": "←"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.KEY_ARROWRIGHT",
+					"msgid": "Right Arrow",
+					"msgstr": "→"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.KEY_ARROWUP",
+					"msgid": "Up Arrow",
+					"msgstr": "↑"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.KEY_CATEGORY_TITLE",
+					"msgid": "Mods",
+					"msgstr": "模组"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.KEY_DELETE",
+					"msgid": "Delete",
+					"msgstr": "Delete"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.KEY_END",
+					"msgid": "End",
+					"msgstr": "End"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.KEY_HOME",
+					"msgid": "Home",
+					"msgstr": "Home"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.KEY_PAGEDOWN",
+					"msgid": "Page Down",
+					"msgstr": "Page Down"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.KEY_PAGEUP",
+					"msgid": "Page Up",
+					"msgstr": "Page Up"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.KEY_PAUSE",
+					"msgid": "Pause",
+					"msgstr": "Pause"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.KEY_PRTSCREEN",
+					"msgid": "Print Screen",
+					"msgstr": "Print Screen"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.KEY_SYSRQ",
+					"msgid": "SysRq",
+					"msgstr": "SysRq"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.MOD_ASSEMBLY_VERSION",
+					"msgid": "Assembly Version: {0}",
+					"msgstr": "程序集版本：{0}"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.MOD_HOMEPAGE",
+					"msgid": "Mod Homepage",
+					"msgstr": "模组主页"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.MOD_VERSION",
+					"msgid": "Mod Version: {0}",
+					"msgstr": "模组版本：{0}"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.OUTDATED_TOOLTIP",
+					"msgid": "This mod is out of date!\nNew version: <b>{0}</b>\n\nUpdate local mods manually, or use <b>Mod Updater</b> to force update Steam mods",
+					"msgstr": "这个模组已经过时了！\n新版本：<b>{0}</b>\n\n手动更新本地模组，或使用<b>Mod Updater</b>来强制更新Steam模组"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.OUTDATED_WARNING",
+					"msgid": "<b><style=\"logic_off\">Outdated!</style></b>",
+					"msgstr": "<b><style=\"logic_off\">过时了！</style></b>"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.RESTART_CANCEL",
+					"msgid": "CONTINUE",
+					"msgstr": "继续"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.RESTART_OK",
+					"msgid": "RESTART",
+					"msgstr": "重启"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.RESTART_REQUIRED",
+					"msgid": "Oxygen Not Included must be restarted for these options to take effect.",
+					"msgstr": "要使这些选项生效，必须重新启动游戏。"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.TOOLTIP_CANCEL",
+					"msgid": "Discard changes.",
+					"msgstr": "放弃更改。"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.TOOLTIP_HOMEPAGE",
+					"msgid": "Visit the mod's website.",
+					"msgstr": "访问模组网站。"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.TOOLTIP_MANUAL",
+					"msgid": "Opens the folder containing the full mod configuration.",
+					"msgstr": "打开包含完整模组配置的文件夹。"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.TOOLTIP_NEXT",
+					"msgid": "Next",
+					"msgstr": "下一个"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.TOOLTIP_OK",
+					"msgid": "Save these options. Some mods may require a restart for the options to take effect.",
+					"msgstr": "保存这些选项。某些模组可能需要重新启动才能使选项生效。"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.TOOLTIP_PREVIOUS",
+					"msgid": "Previous",
+					"msgstr": "上一个"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.TOOLTIP_RESET",
+					"msgid": "Resets the mod configuration to default values.",
+					"msgstr": "将模组配置重置为默认值。"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.TOOLTIP_TOGGLE",
+					"msgid": "Show or hide this options category",
+					"msgstr": "显示或隐藏此选项类别"
+				},
+				{
+					"msgctxt": "PeterHan.PLib.Core.PLibStrings.TOOLTIP_VERSION",
+					"msgid": "The currently installed version of this mod.\n\nCompare this version with the mod's Release Notes to see if it is outdated.",
+					"msgstr": "此模组的当前安装版本。\n\n请将此版本与模组的发行说明进行比较，以查看它是否过时。"
+				}
+			]
+		},
 		"BetterLogicOverlay": {
 			"config": {},
 			"translations": [
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Aluminum",
@@ -5453,7 +5638,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ALERTTAG.DESC",
@@ -5643,7 +5828,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-26 19:38+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 04:18+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.DESC",
