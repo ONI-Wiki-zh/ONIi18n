@@ -2,213 +2,13 @@
 	"code": "fr",
 	"name": "français",
 	"mods": {
-		"spooky_pumpkin": {
-			"config": {},
-			"translations": [
-				{
-					"msgctxt": null,
-					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 05:49+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.DESC",
-					"msgid": "A spooky lamp for spooky times.",
-					"msgstr": "TEST PUMPKING DESC."
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.EFFECT",
-					"msgid": "Provides Light and Decor. Spooks duplicants that come nearby.",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.NAME",
-					"msgid": "Jack O' Lantern",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SEEDS.SP_PUMPKIN.DESC",
-					"msgid": "The <link=\"PLANTS\">Seed</link> of a <link=\"SPPUMPKINPLANT\">Pumpkin</link> plant.\n\nIt can be planted to grow more Pumpkins, or toasted for snacks.",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SEEDS.SP_PUMPKIN.NAME",
-					"msgid": "<link=\"SPPUMPKINPLANT\">Pumpkin Seed</link>",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_GHOSTPIP.DESC",
-					"msgid": "Seems suspicious. It looks like it would love some treats.\n\n<smallcaps>The Suspicious Pip will offer to trade for Pumpkin Seeds. The required item will change daily and after each trade.</smallcaps>",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_GHOSTPIP.NAME",
-					"msgid": "<link=\"SPGHOSTSQUIRREL\">Suspicious Pip</link>",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DESC",
-					"msgid": "Pumpkins are pretty neat. They grow enormous fruits also called Pumpkins.",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DOMESTICATEDDESC",
-					"msgid": "Pumpkins are pretty neat. They grow enormous fruits also called Pumpkins.",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.NAME",
-					"msgid": "<link=\"SPPUMPKINPLANT\">Pumpkin</link>",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.MODIFIERS.AHM_HOLIDAYSPIRIT.DESCRIPTION",
-					"msgid": "This Duplicant is excited for this time of year. (All stats up!)",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.MODIFIERS.AHM_HOLIDAYSPIRIT.NAME",
-					"msgid": "Holiday Spirit",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.HOLIDAY_SPIRIT.NAME",
-					"msgid": "Holiday Spirit",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.HOLIDAY_SPIRIT.TOOLTIP",
-					"msgid": "This Duplicant is excited for this time of year. (All stats up!)",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SPOOKED.NAME",
-					"msgid": "Spooked!",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SPOOKED.TOOLTIP",
-					"msgid": "This Duplicant saw something super scary!",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKIN.DESC",
-					"msgid": "Bland tasting fruit of a Pumpkin plant.",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKIN.NAME",
-					"msgid": "<link=\"SPPUMPKIN\">Pumpkin</link>",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.DESC",
-					"msgid": "A delicious seasonal treat.",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.NAME",
-					"msgid": "<link=\"SPPUMPKINPIE\">Pumpkin Pie</link>",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_TOASTEDPUMPKINSEED.DESC",
-					"msgid": "Tasty snack.",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_TOASTEDPUMPKINSEED.NAME",
-					"msgid": "<link=\"SPTOASTEDPUMPKINSEED\">Roasted Pumpkin Seeds</link>",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.GHOSTPIP_LIGHT.TITLE",
-					"msgid": "Suspicious Pip emits Light",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.GHOSTPIP_LIGHT.TOOLTIP",
-					"msgid": "If true, the Suspicious Pip will emit some light.",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.ROT.TITLE",
-					"msgid": "Use rot for fertilizer",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.ROT.TOOLTIP",
-					"msgid": "If true, pumpkin plants will use Rot along Dirt for fertilization.",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TEXT_ACTIVE",
-					"msgid": "Answer mysterious call",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TEXT_INACTIVE",
-					"msgid": "Pip called",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TOOLTIP",
-					"msgid": "Spooky squeaks are whispered through the receiver... ",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TOOLTIP_INACTIVE",
-					"msgid": "Pip spawned.",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.CANCELBUTTON",
-					"msgid": "Cancel",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.CONFIRM",
-					"msgid": "Are you sure?",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.LABEL",
-					"msgid": "Wants one ",
-					"msgstr": "WANTS ONE TEST STRINGD"
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.LABEL2",
-					"msgid": "Delivering ",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.MESSAGE",
-					"msgid": "This suspicious pip looks like it wants some treats.",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.SHOO",
-					"msgid": "Shoo Away",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.TITLE",
-					"msgid": "Suspicious Pip",
-					"msgstr": ""
-				},
-				{
-					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.TREATBUTTON",
-					"msgid": "Deliver Treat",
-					"msgstr": ""
-				}
-			]
-		},
 		"decor_pack_i": {
 			"config": {},
 			"translations": [
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-01-27 05:49+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-02-07 07:33+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.DESC",
@@ -399,6 +199,206 @@
 					"msgctxt": "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.TOOLTIP",
 					"msgid": "Bring the magic!",
 					"msgstr": "Amenez la magie !"
+				}
+			]
+		},
+		"spooky_pumpkin": {
+			"config": {},
+			"translations": [
+				{
+					"msgctxt": null,
+					"msgid": "",
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-02-07 07:33+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.DESC",
+					"msgid": "A spooky lamp for spooky times.",
+					"msgstr": "TEST PUMPKING DESC."
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.EFFECT",
+					"msgid": "Provides Light and Decor. Spooks duplicants that come nearby.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.NAME",
+					"msgid": "Jack O' Lantern",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SEEDS.SP_PUMPKIN.DESC",
+					"msgid": "The <link=\"PLANTS\">Seed</link> of a <link=\"SPPUMPKINPLANT\">Pumpkin</link> plant.\n\nIt can be planted to grow more Pumpkins, or toasted for snacks.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SEEDS.SP_PUMPKIN.NAME",
+					"msgid": "<link=\"SPPUMPKINPLANT\">Pumpkin Seed</link>",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_GHOSTPIP.DESC",
+					"msgid": "Seems suspicious. It looks like it would love some treats.\n\n<smallcaps>The Suspicious Pip will offer to trade for Pumpkin Seeds. The required item will change daily and after each trade.</smallcaps>",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_GHOSTPIP.NAME",
+					"msgid": "<link=\"SPGHOSTSQUIRREL\">Suspicious Pip</link>",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DESC",
+					"msgid": "Pumpkins are pretty neat. They grow enormous fruits also called Pumpkins.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.DOMESTICATEDDESC",
+					"msgid": "Pumpkins are pretty neat. They grow enormous fruits also called Pumpkins.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.CREATURES.SPECIES.SP_PUMPKIN.NAME",
+					"msgid": "<link=\"SPPUMPKINPLANT\">Pumpkin</link>",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.MODIFIERS.AHM_HOLIDAYSPIRIT.DESCRIPTION",
+					"msgid": "This Duplicant is excited for this time of year. (All stats up!)",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.MODIFIERS.AHM_HOLIDAYSPIRIT.NAME",
+					"msgid": "Holiday Spirit",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.HOLIDAY_SPIRIT.NAME",
+					"msgid": "Holiday Spirit",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.HOLIDAY_SPIRIT.TOOLTIP",
+					"msgid": "This Duplicant is excited for this time of year. (All stats up!)",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SPOOKED.NAME",
+					"msgid": "Spooked!",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.DUPLICANTS.STATUSITEMS.SPOOKED.TOOLTIP",
+					"msgid": "This Duplicant saw something super scary!",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKIN.DESC",
+					"msgid": "Bland tasting fruit of a Pumpkin plant.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKIN.NAME",
+					"msgid": "<link=\"SPPUMPKIN\">Pumpkin</link>",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.DESC",
+					"msgid": "A delicious seasonal treat.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_PUMPKINPIE.NAME",
+					"msgid": "<link=\"SPPUMPKINPIE\">Pumpkin Pie</link>",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_TOASTEDPUMPKINSEED.DESC",
+					"msgid": "Tasty snack.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.ITEMS.FOOD.SP_TOASTEDPUMPKINSEED.NAME",
+					"msgid": "<link=\"SPTOASTEDPUMPKINSEED\">Roasted Pumpkin Seeds</link>",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.GHOSTPIP_LIGHT.TITLE",
+					"msgid": "Suspicious Pip emits Light",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.GHOSTPIP_LIGHT.TOOLTIP",
+					"msgid": "If true, the Suspicious Pip will emit some light.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.ROT.TITLE",
+					"msgid": "Use rot for fertilizer",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.MODSETTINGS.ROT.TOOLTIP",
+					"msgid": "If true, pumpkin plants will use Rot along Dirt for fertilization.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TEXT_ACTIVE",
+					"msgid": "Answer mysterious call",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TEXT_INACTIVE",
+					"msgid": "Pip called",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TOOLTIP",
+					"msgid": "Spooky squeaks are whispered through the receiver... ",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTPIP_SPAWNER.TOOLTIP_INACTIVE",
+					"msgid": "Pip spawned.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.CANCELBUTTON",
+					"msgid": "Cancel",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.CONFIRM",
+					"msgid": "Are you sure?",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.LABEL",
+					"msgid": "Wants one ",
+					"msgstr": "WANTS ONE TEST STRINGD"
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.LABEL2",
+					"msgid": "Delivering ",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.MESSAGE",
+					"msgid": "This suspicious pip looks like it wants some treats.",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.SHOO",
+					"msgid": "Shoo Away",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.TITLE",
+					"msgid": "Suspicious Pip",
+					"msgstr": ""
+				},
+				{
+					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.TREATBUTTON",
+					"msgid": "Deliver Treat",
+					"msgstr": ""
 				}
 			]
 		}
