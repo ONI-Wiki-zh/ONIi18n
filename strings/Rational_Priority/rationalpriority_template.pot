@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. RationalPriority.ChoreTooltipsOverride.TOOLTIP_COMPULSORY
+msgctxt "RationalPriority.ChoreTooltipsOverride.TOOLTIP_COMPULSORY"
+msgid "{Description}\n\n<b>{Errand}</b> is a Involuntary action and so will occur immediately\n\n{BestGroup} priority: {TypePriority}"
+msgstr ""
+
+#. RationalPriority.ChoreTooltipsOverride.TOOLTIP_EMERGENCY
+msgctxt "RationalPriority.ChoreTooltipsOverride.TOOLTIP_EMERGENCY"
+msgid "{Description}\n\n<b>{Errand}</b> is an Emergency errand and so will be performed before all Regular and Personal errands\n\n{BestGroup} priority: {TypePriority}"
+msgstr ""
+
+#. RationalPriority.ChoreTooltipsOverride.TOOLTIP_IDLE
+msgctxt "RationalPriority.ChoreTooltipsOverride.TOOLTIP_IDLE"
+msgid "{IdleDescription}\n\nDuplicants will only <b>{Errand}</b> when there is nothing else for them to do\n\n{BestGroup} priority: {TypePriority}"
+msgstr ""
+
+#. RationalPriority.ChoreTooltipsOverride.TOOLTIP_PERSONAL
+msgctxt "RationalPriority.ChoreTooltipsOverride.TOOLTIP_PERSONAL"
+msgid "{Description}\n\n<b>{Errand}</b> is a Personal Needs errand and so will be performed before all Regular errands\n\n{BestGroup} priority: {TypePriority}"
+msgstr ""
+
+#. RationalPriority.Tooltips.DETAILS_BY_COST
+msgctxt "RationalPriority.Tooltips.DETAILS_BY_COST"
+msgid "{Description}\n\nErrand Type: {Groups}\n\nTotal <style=\"KKeyword\">Task Cost</style>: {TotalCost}\n    • {Name}'s {BestGroup} Preference: {PersonalPriorityCost} ({PersonalPriority})\n    • This {Building}'s Importance: {BuildingPriorityCost} (Priority {BuildingPriority})\n    • Travel Cost: {TravelCost} ({TravelDistance}m)\n    • All {BestGroup} Errands: {TypeCost}\n\nTotal Cost = ({PersonalPriorityCost} × {BuildingPriorityCost} × {TravelCost}) + {TypeCost} = {TotalCost}"
+msgstr ""
+
+#. RationalPriority.Tooltips.DETAILS_BY_IMPORTANCE
+msgctxt "RationalPriority.Tooltips.DETAILS_BY_IMPORTANCE"
+msgid "{Description}\n\nErrand Type: {Groups}\n\nTotal <style=\"KKeyword\">Task Importance</style>: {TotalPriority}\n    • {Name}'s {BestGroup} Preference: {PersonalPriorityValue} ({PersonalPriority})\n    • This {Building}'s Importance: {BuildingPriorityValue} (Priority {BuildingPriority})\n    • Errand Proximity: {ProximityValue} ({TravelDistance}m)\n    • All {BestGroup} Errands: {TypePriority}\n\nTotal Importance = ({PersonalPriorityValue} × {BuildingPriorityValue} × {ProximityValue}) + {TypePriority} = {TotalPriority}"
+msgstr ""
+
