@@ -24,7 +24,7 @@ To generate a strings template of a mod that does not support translation on its
 # Test your translation locally
 You may want to check your translations locally before contributing them to this repository.
 1. Launch the game and then set the "Use Local Translations Only" option to true and set the "Preferred Language" option to the target language of your translation.
-2. Copy your PO file to `<KLEI_MODS_FOLDER>/i8n/<YOUR_LANG_CODE>.po`, where `YOUR_LANG_CODE` is one of the language codes in [`strings/languages.json`](/strings/languages.json) (same as that you chose in step 1).
+2. Copy your PO file to `<KLEI_MODS_FOLDER>/i18n/<YOUR_LANG_CODE>.po`, where `YOUR_LANG_CODE` is one of the language codes in [`strings/languages.json`](/strings/languages.json) (same as that you chose in step 1).
 3. Launch the game again and you should be able to see your translations.
 
 # Adding your mod for translation
