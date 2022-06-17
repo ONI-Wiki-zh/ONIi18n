@@ -16,7 +16,7 @@ msgstr "储存被选择的<link=\"ELEMENTSSOLID\">固体</link>。\n\消耗<link
 #. STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.NAME"
 msgid "Refrigerated Storage Cabinet"
-msgstr "恒温储存柜"
+msgstr "控温密封柜"
 
 #. STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.DESC"
@@ -31,7 +31,7 @@ msgstr "储存被选择的<link=\"ELEMENTSSOLID\">固体</link>。储存柜能�
 #. STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.NAME"
 msgid "Storage Cabinet"
-msgstr "储存柜"
+msgstr "密封储存柜"
 
 #. STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.DESC"
@@ -171,7 +171,7 @@ msgstr "一个方便的多功能储物箱，可以建在墙上。储存被选择
 #. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.NAME"
 msgid "Green Storage Pod"
-msgstr "绿色储存仓"
+msgstr "绿色密封仓"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.DESC"
@@ -186,7 +186,7 @@ msgstr "一个方便的多功能储物箱，可以建在墙上。储存被选择
 #. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.NAME"
 msgid "Brown Storage Pod"
-msgstr "棕色储存仓"
+msgstr "棕色密封仓"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.DESC"
@@ -201,5 +201,5 @@ msgstr "一个方便的多功能储物箱，可以建在墙上。储存被选择
 #. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.NAME"
 msgid "Yellow Storage Pod"
-msgstr "黄色储存仓"
+msgstr "黄色密封仓"
 
