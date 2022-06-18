@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONGASVALVE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONGASVALVE.DESC"
+msgid "A mechanical valve capable of reducing the flow of gas from a pressurized pipe to a normal pipe, avoid it to break."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONGASVALVE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONGASVALVE.EFFECT"
+msgid "Allows <link=\"ELEMENTSGAS\">Gases</link> to be transfered from <link=\"HIGHPRESSUREGASCONDUIT\">High Pressure Gas Pipe</link> to normal <link=\"GASCONDUIT\">Pipes</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONGASVALVE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONGASVALVE.NAME"
+msgid "Decompression Gas Valve"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONLIQUIDVALVE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONLIQUIDVALVE.DESC"
+msgid "A mechanical valve capable of reducing the flow of liquid from a pressurized pipe to a normal pipe, avoid it to break."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONLIQUIDVALVE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONLIQUIDVALVE.EFFECT"
+msgid "Allows <link=\"ELEMENTSLIQUID\">Liquid</link> to be transfered from <link=\"HIGHPRESSURELIQUIDCONDUIT\">High Pressure Liquid Pipe</link> to normal <link=\"LIQUIDCONDUIT\">Pipes</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONLIQUIDVALVE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONLIQUIDVALVE.NAME"
+msgid "Decompression Liquid Valve"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUIT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUIT.DESC"
+msgid "A reinforced gas pipe capable of handling high pressure flow. Composite nature of the pipe prevents gas contents from significantly changing temperature in transit."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUIT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUIT.EFFECT"
+msgid "Carries a maximum of 10kg of <link=\"ELEMENTSGAS\">Gas</link> with minimal change in <link=\"HEAT\">Temperature</link>.\n\nCan be run through wall and floor tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUIT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUIT.NAME"
+msgid "High Pressure Gas Conduit"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITBRIDGE.DESC"
+msgid "A reinforced gas pipe bridge capable of handling high pressure flow. Composite nature of the pipe prevents gas contents from significantly changing temperature in transit."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITBRIDGE.EFFECT"
+msgid "Runs one High Pressure Gas Pipe section over another without joining them.\n\nCan be run through wall and floor tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITBRIDGE.NAME"
+msgid "High Pressure Gas Conduit Bridge"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUIT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUIT.DESC"
+msgid "A reinforced liquid pipe capable of handling high pressure flow. Composite nature of the pipe prevents liquid contents from significantly changing temperature in transit."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUIT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUIT.EFFECT"
+msgid "Carries a maximum of 40kg of <link=\"ELEMENTSLIQUID\">Liquid</link> with minimal change in <link=\"HEAT\">Temperature</link>.\n\nCan be run through wall and floor tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUIT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUIT.NAME"
+msgid "High Pressure Liquid Pipe"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITBRIDGE.DESC"
+msgid "A reinforced liquid pipe bridge capable of handling high pressure flow. Composite nature of the pipe prevents liquid contents from significantly changing temperature in transit."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITBRIDGE.EFFECT"
+msgid "Runs one High Pressure Liquid Pipe section over another without joining them.\n\nCan be run through wall and floor tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITBRIDGE.NAME"
+msgid "High Pressure Liquid Conduit Bridge"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PRESSUREGASPUMP.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREGASPUMP.DESC"
+msgid "An advanced pump that perform mechanical work to compress and move gases. More powerful than the standard pump, this one is capable of moving large amounts of gases, although this is only archived through the <link=\"HIGHPRESSUREGASCONDUIT\">High Pressure Gas Pipe</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PRESSUREGASPUMP.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREGASPUMP.EFFECT"
+msgid "Draws in <link=\"ELEMENTSGAS\">Gas</link> and runs it through <link=\"HIGHPRESSUREGASCONDUIT\">High Pressure Gas Pipe</link>.\n\nMust be submerged in <link=\"ELEMENTSGAS\">Gas</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PRESSUREGASPUMP.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREGASPUMP.NAME"
+msgid "High Pressure Gas Pump"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PRESSURELIQUIDPUMP.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURELIQUIDPUMP.DESC"
+msgid "An advanced pump that perform mechanical work to compress and move fluids. More powerful than the standard pump, this one is capable of moving large amounts of liquids, although this is only archived through the <link=\"HIGHPRESSURELIQUIDCONDUIT\">High Pressure Liquid Pipe</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PRESSURELIQUIDPUMP.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURELIQUIDPUMP.EFFECT"
+msgid "Draws in <link=\"ELEMENTSLIQUID\">Liquid</link> and runs it through <link=\"HIGHPRESSURELIQUIDCONDUIT\">High Pressure Liquid Pipe</link>.\n\nMust be submerged in <link=\"ELEMENTSLIQUID\">Liquid</link>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.PRESSURELIQUIDPUMP.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURELIQUIDPUMP.NAME"
+msgid "High Pressure Liquid Pump"
+msgstr ""
+

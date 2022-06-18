@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONGASVALVE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONGASVALVE.DESC"
+msgid "A mechanical valve capable of reducing the flow of gas from a pressurized pipe to a normal pipe, avoid it to break."
+msgstr "一种能够减少从加压管道到普通管道的气体流量的机械阀门，避免其破裂。"
+
+#. STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONGASVALVE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONGASVALVE.EFFECT"
+msgid "Allows <link=\"ELEMENTSGAS\">Gases</link> to be transfered from <link=\"HIGHPRESSUREGASCONDUIT\">High Pressure Gas Pipe</link> to normal <link=\"GASCONDUIT\">Pipes</link>."
+msgstr "允许<link=\"ELEMENTSGAS\">气体</link>从<link=\"HIGHPRESSUREGASCONDUIT\">高压气体管道</link>转移至普通<link=\"GASCONDUIT\">气体管道</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONGASVALVE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONGASVALVE.NAME"
+msgid "Decompression Gas Valve"
+msgstr "气体减压阀门"
+
+#. STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONLIQUIDVALVE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONLIQUIDVALVE.DESC"
+msgid "A mechanical valve capable of reducing the flow of liquid from a pressurized pipe to a normal pipe, avoid it to break."
+msgstr "一种能够减少从加压管道到普通管道的液体流量的机械阀门，避免其破裂。"
+
+#. STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONLIQUIDVALVE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONLIQUIDVALVE.EFFECT"
+msgid "Allows <link=\"ELEMENTSLIQUID\">Liquid</link> to be transfered from <link=\"HIGHPRESSURELIQUIDCONDUIT\">High Pressure Liquid Pipe</link> to normal <link=\"LIQUIDCONDUIT\">Pipes</link>."
+msgstr "允许<link=\"ELEMENTSLIQUID\">液体</link>从<link=\"HIGHPRESSURELIQUIDCONDUIT\">高压液体管道</link>转移至普通<link=\"LIQUIDCONDUIT\">液体管道</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONLIQUIDVALVE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONLIQUIDVALVE.NAME"
+msgid "Decompression Liquid Valve"
+msgstr "液体减压阀门"
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUIT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUIT.DESC"
+msgid "A reinforced gas pipe capable of handling high pressure flow. Composite nature of the pipe prevents gas contents from significantly changing temperature in transit."
+msgstr "一种能够处理高压气流的加强型气体管道。 管道的复合特性可防止内部气体在运输过程中显著改变温度。"
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUIT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUIT.EFFECT"
+msgid "Carries a maximum of 10kg of <link=\"ELEMENTSGAS\">Gas</link> with minimal change in <link=\"HEAT\">Temperature</link>.\n\nCan be run through wall and floor tile."
+msgstr "能够将至多10千克的<link=\"ELEMENTSGAS\">气体</link>以最小的<link=\"HEAT\">温度</link>变化进行转移。\n\n能够穿过墙壁和地砖。"
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUIT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUIT.NAME"
+msgid "High Pressure Gas Conduit"
+msgstr "高压气体管道"
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITBRIDGE.DESC"
+msgid "A reinforced gas pipe bridge capable of handling high pressure flow. Composite nature of the pipe prevents gas contents from significantly changing temperature in transit."
+msgstr "一种能够处理高压气流的加强型气体管道。 管道的复合特性可防止内部气体在运输过程中显著改变温度。"
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITBRIDGE.EFFECT"
+msgid "Runs one High Pressure Gas Pipe section over another without joining them.\n\nCan be run through wall and floor tile."
+msgstr ""
+"让一条高压气体管道可以越过另一条高压气体管道，而不会连接到"
+"一起。\n"
+"\n"
+"可穿过墙壁和地砖。"
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITBRIDGE.NAME"
+msgid "High Pressure Gas Conduit Bridge"
+msgstr "高压气体管桥"
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUIT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUIT.DESC"
+msgid "A reinforced liquid pipe capable of handling high pressure flow. Composite nature of the pipe prevents liquid contents from significantly changing temperature in transit."
+msgstr "一种能够处理高压液流的加强型液体管道。 管道的复合特性可防止内部液体在运输过程中显著改变温度。"
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUIT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUIT.EFFECT"
+msgid "Carries a maximum of 40kg of <link=\"ELEMENTSLIQUID\">Liquid</link> with minimal change in <link=\"HEAT\">Temperature</link>.\n\nCan be run through wall and floor tile."
+msgstr "能够将至多40千克的<link=\"ELEMENTSLIQUID\">液体</link>以最小的<link=\"HEAT\">温度</link>变化进行转移。\n\n能够穿过墙壁和地砖。"
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUIT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUIT.NAME"
+msgid "High Pressure Liquid Pipe"
+msgstr "高压液体管道"
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITBRIDGE.DESC"
+msgid "A reinforced liquid pipe bridge capable of handling high pressure flow. Composite nature of the pipe prevents liquid contents from significantly changing temperature in transit."
+msgstr "一种能够处理高压液流的加强型液体管道。 管道的复合特性可防止内部液体在运输过程中显著改变温度。"
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITBRIDGE.EFFECT"
+msgid "Runs one High Pressure Liquid Pipe section over another without joining them.\n\nCan be run through wall and floor tile."
+msgstr ""
+"让一条高压气体管道可以越过另一条高压液体管道，而不会连接到"
+"一起。\n"
+"\n"
+"可穿过墙壁和地砖。"
+
+#. STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITBRIDGE.NAME"
+msgid "High Pressure Liquid Conduit Bridge"
+msgstr "高压液体管桥"
+
+#. STRINGS.BUILDINGS.PREFABS.PRESSUREGASPUMP.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREGASPUMP.DESC"
+msgid "An advanced pump that perform mechanical work to compress and move gases. More powerful than the standard pump, this one is capable of moving large amounts of gases, although this is only archived through the <link=\"HIGHPRESSUREGASCONDUIT\">High Pressure Gas Pipe</link>."
+msgstr "一种比标准泵更强大的先进气泵，可以进压缩并移动气体。\n\n它只能通过<link=\"HIGHPRESSUREGASCONDUIT\">高压气体管道</link>传输大量气体。"
+
+#. STRINGS.BUILDINGS.PREFABS.PRESSUREGASPUMP.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREGASPUMP.EFFECT"
+msgid "Draws in <link=\"ELEMENTSGAS\">Gas</link> and runs it through <link=\"HIGHPRESSUREGASCONDUIT\">High Pressure Gas Pipe</link>.\n\nMust be submerged in <link=\"ELEMENTSGAS\">Gas</link>."
+msgstr "吸入<link=\"ELEMENTSGAS\">气体</link>并从<link=\"HIGHPRESSUREGASCONDUIT\">高压气体管道</link>输出。\n\n必需浸没于<link=\"ELEMENTSGAS\">气体</link>中。"
+
+#. STRINGS.BUILDINGS.PREFABS.PRESSUREGASPUMP.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSUREGASPUMP.NAME"
+msgid "High Pressure Gas Pump"
+msgstr "高压气泵"
+
+#. STRINGS.BUILDINGS.PREFABS.PRESSURELIQUIDPUMP.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURELIQUIDPUMP.DESC"
+msgid "An advanced pump that perform mechanical work to compress and move fluids. More powerful than the standard pump, this one is capable of moving large amounts of liquids, although this is only archived through the <link=\"HIGHPRESSURELIQUIDCONDUIT\">High Pressure Liquid Pipe</link>."
+msgstr "一种比标准泵更强大的先进液泵，可以进压缩并移动液体。\n\n它只能通过<link=\"HIGHPRESSURELIQUIDCONDUIT\">高压液体管道</link>传输大量液体。"
+
+#. STRINGS.BUILDINGS.PREFABS.PRESSURELIQUIDPUMP.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURELIQUIDPUMP.EFFECT"
+msgid "Draws in <link=\"ELEMENTSLIQUID\">Liquid</link> and runs it through <link=\"HIGHPRESSURELIQUIDCONDUIT\">High Pressure Liquid Pipe</link>.\n\nMust be submerged in <link=\"ELEMENTSLIQUID\">Liquid</link>."
+msgstr "吸入<link=\"ELEMENTSLIQUID\">液体</link>并从<link=\"HIGHPRESSURELIQUIDCONDUIT\">高压液体管道</link>输出。\n\n必需浸没于<link=\"ELEMENTSLIQUID\">液体</link>中。"
+
+#. STRINGS.BUILDINGS.PREFABS.PRESSURELIQUIDPUMP.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PRESSURELIQUIDPUMP.NAME"
+msgid "High Pressure Liquid Pump"
+msgstr "高压液泵"
+

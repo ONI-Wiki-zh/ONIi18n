@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.DESC"
+msgid "Store solids and other industrial materials at a constant temperature moderation."
+msgstr "在恒温密封条件下储存固体和其他工业原料."
+
+#. STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.EFFECT"
+msgid "Store the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing.\n\nConsumes <link=\"POWER\">Power</link> to refrigrate the contents down to 24°C.\n\nCannot store any liquefiable solids."
+msgstr "储存被选择的<link=\"ELEMENTSSOLID\">固体</link>。\n\消耗<link=\"POWER\">电力</link>将内容物保存在 24°C。\n\n不能储存可液化的物品。"
+
+#. STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.NAME"
+msgid "Refrigerated Storage Cabinet"
+msgstr "控温密封柜"
+
+#. STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.DESC"
+msgid "Store solids and other industrial materials."
+msgstr "储存固体和其他工业原料."
+
+#. STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.EFFECT"
+msgid "Store the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing. The cabinet prevents temperature exchange with the environment, as well gas leakage."
+msgstr "储存被选择的<link=\"ELEMENTSSOLID\">固体</link>。储存柜能防止内容物与环境换热和挥发。"
+
+#. STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.NAME"
+msgid "Storage Cabinet"
+msgstr "密封储存柜"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.DESC"
+msgid "Separating rail systems helps ensure materials go to the intended destinations."
+msgstr "分开的轨道系统有助于确保材料到达预期地点。"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.EFFECT"
+msgid "Runs one <link=\"SOLIDCONDUIT\">Conveyor Rail</link> section over another without joining them.\n\nCan be run through wall and floor tile."
+msgstr ""
+"让一段<link=\"SOLIDCONDUIT\">运输轨道</link>可以越过另一段运输轨道，而不用连"
+"接到一起（同物流系列建筑和轨道）。\n"
+"\n"
+"可穿过墙壁和地砖。"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.NAME"
+msgid "Logistic Solid Bridge"
+msgstr "物流轨桥"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICFILTER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICFILTER.DESC"
+msgid "All solids are sent into the building's output conveyor, except the solid chosen for filtering."
+msgstr "除了选中要滤出的固体之外，其他所有固体都会被送入输出运输轨道。"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICFILTER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICFILTER.EFFECT"
+msgid "Separates one <link=\"ELEMENTSSOLID\">Solid Material</link> from the conveyor, sending it into a dedicated solid conduit."
+msgstr ""
+"从运输轨道中分离出一种<link=\"ELEMENTSSOLID\">固体材料</link>，将其送入专用"
+"<link=\"SOLIDCONDUIT\">运输轨道</link>。（同物流系列建筑和轨道）"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICFILTER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICFILTER.NAME"
+msgid "Logistic Solid Filter"
+msgstr "物流固体过滤器"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICLOADER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICLOADER.DESC"
+msgid "Material filters can be used to determine what resources are sent down the rail."
+msgstr "材料筛选项可用于决定哪些材料会被运到轨道上。"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICLOADER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICLOADER.EFFECT"
+msgid "Loads large amounts of <link=\"ELEMENTSSOLID\">Solid Materials</link> onto <link=\"SOLIDCONDUIT\">Conveyor Rail</link> for transport.\n\nOnly loads the resources of your choosing."
+msgstr ""
+"将<link=\"ELEMENTSSOLID\">固体原料</link>装载到<link=\"SOLIDCONDUIT\">运输轨"
+"道</link>上进行运输（同物流系列建筑和轨道）。\n"
+"\n"
+"只装载选择的资源。"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICLOADER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICLOADER.NAME"
+msgid "Logistic Loader"
+msgstr "物流装载器"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICOUTBOX.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICOUTBOX.DESC"
+msgid "When materials reach the end of a rail they enter a receptacle to be used by Duplicants."
+msgstr "材料到达运输轨道的终点时，就会进入复制人即将使用的容器中。"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICOUTBOX.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICOUTBOX.EFFECT"
+msgid "Unloads large amounts of <link=\"ELEMENTSSOLID\">Solid Materials</link> from a <link=\"SOLIDCONDUIT\">Conveyor Rail</link> into storage."
+msgstr "从<link=\"SOLIDCONDUIT\">运输轨道</link>上卸载大量的<link=\"ELEMENTSSOLID\">固体原料</link>到仓库中（同物流系列建筑和轨道）。"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICOUTBOX.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICOUTBOX.NAME"
+msgid "Logistic Receptacle"
+msgstr "物流存放器"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICRAIL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICRAIL.DESC"
+msgid "Rails move materials where they'll be needed most, saving Duplicants the walk."
+msgstr "物流轨道可以将材料运输到最需要的地方，节省了复制人的行走时间。"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICRAIL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICRAIL.EFFECT"
+msgid "Transports <link=\"ELEMENTSSOLID\">Solid Materials</link> on a track between <link=\"SOLIDCONDUITINBOX\">Conveyor Loader</link> and <link=\"SOLIDCONDUITOUTBOX\">Conveyor Receptacle</link>.\n\nCan be run through wall and floor tile."
+msgstr ""
+"在<link=\"SOLIDCONDUITINBOX\">运输装载器</link>和<link=\"SOLIDCONDUITOUTBOX"
+"\">运输存放器</link>之间的轨道上输送<link=\"ELEMENTSSOLID\">固体原料</"
+"link>（同物流系列建筑和轨道）。\n"
+"\n"
+"可穿过墙壁和地砖。"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICRAIL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICRAIL.NAME"
+msgid "Logistic Rail"
+msgstr "物流轨道"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICTRANSFERARM.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICTRANSFERARM.DESC"
+msgid "An auto-sweeper's range can be viewed at any time by clicking on the building."
+msgstr "物流清扫器的范围可以通过\\clicking\\建筑来查看。"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICTRANSFERARM.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICTRANSFERARM.EFFECT"
+msgid "Automates <link=\"CHORES\">Sweeping</link> and <link=\"CHORES\">Supplying</link> errands by sucking up all nearby <link=\"DECOR\">Debris</link>.\n\nMaterials are automatically delivered to any <link=\"SOLIDCONDUITINBOX\">Conveyor Loader</link>, <link=\"SOLIDCONDUITOUTBOX\">Conveyor Receptacle</link>, storage, or buildings within range."
+msgstr ""
+"通过抽吸附近所有的<link=\"DECOR\">杂物</link>来自动完成<link=\"CHORES\">打扫"
+"</link>和<link=\"CHORES\">供应</link>任务。\n"
+"\n"
+"材料自动传送到范围内的任何<link=\"SOLIDCONDUITINBOX\">运输装载器</link>、"
+"<link=\"SOLIDCONDUITOUTBOX\">运输存放器</link>、仓库或建筑（同物流系列建筑和轨道）。"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICTRANSFERARM.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICTRANSFERARM.NAME"
+msgid "Logistic Auto-Sweeper"
+msgstr "物流清扫器"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICVENT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICVENT.DESC"
+msgid "When materials reach the end of a rail they are dropped back into the world."
+msgstr "当材料到达轨道末端时，他们会掉回世界。"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICVENT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICVENT.EFFECT"
+msgid "Unloads <link=\"ELEMENTSSOLID\">Solid Materials</link> from a <link=\"SOLIDCONDUIT\">Conveyor Rail</link> onto the floor."
+msgstr "从<link=\"SOLIDCONDUIT\">物流轨道</link>中卸下<link=\"ELEMENTSSOLID\">固体材料</link>到地上。"
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICVENT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICVENT.NAME"
+msgid "Logistic Chute"
+msgstr "物流滑槽"
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.DESC"
+msgid "Store solids and other industrial materials."
+msgstr "储存固体或工业原料。"
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.EFFECT"
+msgid "A versatile and convenient storage pod that can be built on walls. Store the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing. The pod prevents temperature exchange with the environment, as well gas leakage."
+msgstr "一个方便的多功能储物箱，可以建在墙上。储存被选择的<link=\"ELEMENTSSOLID\">固体材料</link>。储存柜能防止内容物与环境换热和挥发。"
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.NAME"
+msgid "Green Storage Pod"
+msgstr "绿色密封仓"
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.DESC"
+msgid "Store solids and other industrial materials."
+msgstr "储存固体或工业原料。"
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.EFFECT"
+msgid "A versatile and convenient storage pod that can be built on walls. Store the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing. The pod prevents temperature exchange with the environment, as well gas leakage."
+msgstr "一个方便的多功能储物箱，可以建在墙上。储存被选择的<link=\"ELEMENTSSOLID\">固体材料</link>。储存柜能防止内容物与环境换热和挥发。"
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.NAME"
+msgid "Brown Storage Pod"
+msgstr "棕色密封仓"
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.DESC"
+msgid "Store solids and other industrial materials."
+msgstr "储存固体或工业原料。"
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.EFFECT"
+msgid "A versatile and convenient storage pod that can be built on walls. Store the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing. The pod prevents temperature exchange with the environment, as well gas leakage."
+msgstr "一个方便的多功能储物箱，可以建在墙上。储存被选择的<link=\"ELEMENTSSOLID\">固体材料</link>。储存柜能防止内容物与环境换热和挥发。"
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.NAME"
+msgid "Yellow Storage Pod"
+msgstr "黄色密封仓"
+

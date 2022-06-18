@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.DESC"
+msgid "Store solids and other industrial materials at a constant temperature moderation."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.EFFECT"
+msgid "Store the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing.\n\nConsumes <link=\"POWER\">Power</link> to refrigrate the contents down to 24°C.\n\nCannot store any liquefiable solids."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.NAME"
+msgid "Refrigerated Storage Cabinet"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.DESC"
+msgid "Store solids and other industrial materials."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.EFFECT"
+msgid "Store the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing. The cabinet prevents temperature exchange with the environment, as well gas leakage."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.NAME"
+msgid "Storage Cabinet"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.DESC"
+msgid "Separating rail systems helps ensure materials go to the intended destinations."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.EFFECT"
+msgid "Runs one <link=\"SOLIDCONDUIT\">Conveyor Rail</link> section over another without joining them.\n\nCan be run through wall and floor tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.NAME"
+msgid "Logistic Solid Bridge"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICFILTER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICFILTER.DESC"
+msgid "All solids are sent into the building's output conveyor, except the solid chosen for filtering."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICFILTER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICFILTER.EFFECT"
+msgid "Separates one <link=\"ELEMENTSSOLID\">Solid Material</link> from the conveyor, sending it into a dedicated solid conduit."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICFILTER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICFILTER.NAME"
+msgid "Logistic Solid Filter"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICLOADER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICLOADER.DESC"
+msgid "Material filters can be used to determine what resources are sent down the rail."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICLOADER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICLOADER.EFFECT"
+msgid "Loads large amounts of <link=\"ELEMENTSSOLID\">Solid Materials</link> onto <link=\"SOLIDCONDUIT\">Conveyor Rail</link> for transport.\n\nOnly loads the resources of your choosing."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICLOADER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICLOADER.NAME"
+msgid "Logistic Loader"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICOUTBOX.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICOUTBOX.DESC"
+msgid "When materials reach the end of a rail they enter a receptacle to be used by Duplicants."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICOUTBOX.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICOUTBOX.EFFECT"
+msgid "Unloads large amounts of <link=\"ELEMENTSSOLID\">Solid Materials</link> from a <link=\"SOLIDCONDUIT\">Conveyor Rail</link> into storage."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICOUTBOX.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICOUTBOX.NAME"
+msgid "Logistic Receptacle"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICRAIL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICRAIL.DESC"
+msgid "Rails move materials where they'll be needed most, saving Duplicants the walk."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICRAIL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICRAIL.EFFECT"
+msgid "Transports <link=\"ELEMENTSSOLID\">Solid Materials</link> on a track between <link=\"SOLIDCONDUITINBOX\">Conveyor Loader</link> and <link=\"SOLIDCONDUITOUTBOX\">Conveyor Receptacle</link>.\n\nCan be run through wall and floor tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICRAIL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICRAIL.NAME"
+msgid "Logistic Rail"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICTRANSFERARM.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICTRANSFERARM.DESC"
+msgid "An auto-sweeper's range can be viewed at any time by clicking on the building."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICTRANSFERARM.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICTRANSFERARM.EFFECT"
+msgid "Automates <link=\"CHORES\">Sweeping</link> and <link=\"CHORES\">Supplying</link> errands by sucking up all nearby <link=\"DECOR\">Debris</link>.\n\nMaterials are automatically delivered to any <link=\"SOLIDCONDUITINBOX\">Conveyor Loader</link>, <link=\"SOLIDCONDUITOUTBOX\">Conveyor Receptacle</link>, storage, or buildings within range."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICTRANSFERARM.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICTRANSFERARM.NAME"
+msgid "Logistic Auto-Sweeper"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICVENT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICVENT.DESC"
+msgid "When materials reach the end of a rail they are dropped back into the world."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICVENT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICVENT.EFFECT"
+msgid "Unloads <link=\"ELEMENTSSOLID\">Solid Materials</link> from a <link=\"SOLIDCONDUIT\">Conveyor Rail</link> onto the floor."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LOGISTICVENT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LOGISTICVENT.NAME"
+msgid "Logistic Chute"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.DESC"
+msgid "Store solids and other industrial materials."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.EFFECT"
+msgid "A versatile and convenient storage pod that can be built on walls. Store the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing. The pod prevents temperature exchange with the environment, as well gas leakage."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.NAME"
+msgid "Green Storage Pod"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.DESC"
+msgid "Store solids and other industrial materials."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.EFFECT"
+msgid "A versatile and convenient storage pod that can be built on walls. Store the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing. The pod prevents temperature exchange with the environment, as well gas leakage."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.NAME"
+msgid "Brown Storage Pod"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.DESC"
+msgid "Store solids and other industrial materials."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.EFFECT"
+msgid "A versatile and convenient storage pod that can be built on walls. Store the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing. The pod prevents temperature exchange with the environment, as well gas leakage."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.NAME"
+msgid "Yellow Storage Pod"
+msgstr ""
+
