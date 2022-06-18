@@ -8,7 +8,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.FRIDGEADVANCED.DESC",
@@ -93,7 +93,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "PeterHan.PLib.Core.PLibStrings.BUTTON_MANUAL",
@@ -278,7 +278,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.CUSTOMMETHANEGENERATOR.DESC",
@@ -348,7 +348,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "Blueprints.BlueprintsStrings.STRING_BLUEPRINTS_CREATE_NAME",
@@ -563,7 +563,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ROMENH_PLASTICMEMBRANETILE.DESC",
@@ -603,7 +603,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "ModI18n.STRINGS.OPTIONS.LANG.DESC",
@@ -633,7 +633,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.COAL_BOILER.DESC",
@@ -688,7 +688,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "AutomaticGeyserCalculation.GeyserInformationPatch.ActiveCoolLabel",
@@ -913,7 +913,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ALGAEVAT.DESC",
@@ -968,7 +968,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "ONI_DenseLogic.DenseLogicStrings.BUILDINGS.PREFABS.DENSELOGICTEAM_DENSEDEMULTIPLEXER.DESC",
@@ -2098,7 +2098,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.DESC",
@@ -2298,7 +2298,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.COZYBED.DESC",
@@ -2428,7 +2428,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "MAPOVERLAY.TITLE",
@@ -2468,7 +2468,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HAULINGPOINT.DESC",
@@ -2493,7 +2493,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.BRICKWALL.DESC",
@@ -2653,7 +2653,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "PeterHan.Resculpt.ResculptStrings.REPAINT_BUTTON",
@@ -2688,17 +2688,17 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.DESC",
-					"msgid": "An advanced form of Kiln that uses induction to produce heat.",
-					"msgstr": "通过电磁感应产生热量的高级窑炉。"
+					"msgid": "An advanced insulated electrical kiln in which the heat is applied by induction heating of metal. The advantage of the induction kiln is a clean, energy-efficient and well-controllable heating process compared to most other means of fuel heating.",
+					"msgstr": "一台先进的电窑炉,使用电磁感应原理加热金属。 与大多数其他燃料加热方式相比, 感应窑炉可以提供清洁、节能和可控的加热过程。"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.EFFECT",
-					"msgid": "The advantage of the induction kiln is a clean, energy-efficient and well-controllable heating process compared to most other means of fuel heating.",
-					"msgstr": "高级窑炉比使用燃料的窑炉提供更清洁，节能和可控的加热过程。"
+					"msgid": "Adress a wide range of industrial and chemical applications.",
+					"msgstr": "解决广泛的工业和化学应用。"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ADVANCEDKILN.NAME",
@@ -2706,19 +2706,19 @@
 					"msgstr": "高级窑炉"
 				},
 				{
-					"msgctxt": "STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.DESC",
-					"msgid": "Separate Sludges into their base Elements.",
-					"msgstr": "将污泥分离成它们的基本元素。"
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ADVMETALREFINERY.DESC",
+					"msgid": "An improved refinery capable of bulk smelting process, as well exclusive metal production.",
+					"msgstr": "一台改进的炼油厂, 可以进行大量冶炼或生产特殊金属。"
 				},
 				{
-					"msgctxt": "STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.EFFECT",
-					"msgid": "A specialized press that uses centrifugal force to separate sludges into their base elements.",
-					"msgstr": "一台专门于通过离心力将污泥分离为其基本元素的压缩机。"
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ADVMETALREFINERY.EFFECT",
+					"msgid": "An advanced method for production of <link=\"REFINEDMETAL\">Refined Metals</link> from raw <link=\"RAWMETAL\">Metal Ore</link>.\n\nSignificantly <link=\"HEAT\">Heats</link> and exclusively uses <link=\"SUPERCOOLANT\">Super Coolant</link> piped into it.\n\nDuplicants will not fabricate items unless recipes are queued.",
+					"msgstr": "以先进的方式把<link=\"RAWMETAL\">金属矿石</link>冶炼成<link=\"REFINEDMETAL\">精炼金属</link>。使用管道输入的<link=\"SUPERCOOLANT\">超级冷却剂</link>来带走大量的<link=\"HEAT\">热量</link>。除非已安排制造, 否则复制人不会制造物品。"
 				},
 				{
-					"msgctxt": "STRINGS.BUILDINGS.PREFABS.AQUEOUSMILL.NAME",
-					"msgid": "Centrifugal Press",
-					"msgstr": "离心压缩机"
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ADVMETALREFINERY.NAME",
+					"msgid": "Advanced Metal Refinery",
+					"msgstr": "先进金属精炼厂"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.COMPOSTPROCESSOR.DESC",
@@ -2742,13 +2742,13 @@
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.EFFECT",
-					"msgid": "Electrometallurgy provides better smelting process than the standard metallurgical processes.",
-					"msgstr": "电力冶金提供比一般冶金更好的工艺。"
+					"msgid": "This techlogical advanced glass foundry is capable more than melt <link=\"SAND\">Sand</link> in to <link=\"MOLTENGLASS\">Molten Glass</link>, but a wide range of other applications.",
+					"msgstr": "这台先进的玻璃熔炉能够将<link=\"SAND\">沙子</link>烧制为<link=\"MOLTENGLASS\">熔融玻璃</link>, 同时还有其他用途。"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.GLASSFOUNDRY.NAME",
-					"msgid": "Plasma Furnace",
-					"msgstr": "等离子熔炉"
+					"msgid": "Glass Foundry",
+					"msgstr": "先进玻璃熔炼厂"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.MINERALDRILL.DESC",
@@ -2757,23 +2757,23 @@
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.MINERALDRILL.EFFECT",
-					"msgid": "A strong well-maintened drilling apparatus capable to drill through Mineral Deposits. Need a constant supply of refined metals for the drilling operation. Materials used also affect the mineral resources the drill can grind.",
-					"msgstr": "良好维护的强大钻井设备，能够钻穿矿床。需要持续供应精炼金属进行钻井作业。使用的材料将影响可钻取的资源。"
+					"msgid": "A strong drilling apparatus engineered with self guidance sensors for mineral ores, and retrieval of resources while operational. The type of the drill head determines the dept of the drilling, retriving resources from other parts of the Asteroid that are inaccessible by normal means. The drill sensors have a limited range, and retrieval of useful ores are not guaranteed.",
+					"msgstr": "良好维护的强大钻井设备，能够钻穿矿床。需要持续供应精炼金属进行钻井作业。使用的耗材将影响可钻取的资源。"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.MINERALDRILL.NAME",
-					"msgid": "Mineral Drill",
-					"msgstr": "矿床钻台"
+					"msgid": "Asteroid Auger Drill",
+					"msgstr": "小行星螺旋钻"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.MINERALMILL.DESC",
 					"msgid": "A ball mill consists of a hollow cylindrical shell rotating about its axis. It is partially filled with metal balls.",
-					"msgstr": "球磨机有一个绕轴旋转的圆筒，里面装满了金属球。"
+					"msgstr": "球磨机有一个绕轴旋转的圆筒，里面装满了金属磨球。"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.MINERALMILL.EFFECT",
-					"msgid": "A ball mill is a type of grinder used to grind or blend materials for use in mineral dressing processes.",
-					"msgstr": "球磨机是一种研磨机械，用于研磨和从混合矿物中筛选可用材料。"
+					"msgid": "Grind down <link=\"RAWMINERAL\">Raw Mineral</link> in to useful materials and industrial ingredients.",
+					"msgstr": "将<link=\"RAWMINERAL\">矿物原料</link>磨碎成有用的工业原料。"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.MINERALMILL.NAME",
@@ -2781,24 +2781,9 @@
 					"msgstr": "矿物研磨器"
 				},
 				{
-					"msgctxt": "STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.DESC",
-					"msgid": "A self controlled distillation plant that uses induction to produce Naphtha from Crude Oil. Has an extra special device that pumps out the Sour Gas generated.",
-					"msgstr": "一台自动化蒸馏器，使用电磁加热从原油中生产石脑油。有一个特殊装置用于泵出高硫天然气。"
-				},
-				{
-					"msgctxt": "STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.EFFECT",
-					"msgid": "Distils <link=\"NAPHTHA \">Naphtha</link> and <link=\"SOURGAS\">Sour Gas</link> from <link=\"CRUDEOIL\">Crude Oil</link>.",
-					"msgstr": "从<link=\"CRUDEOIL\">原油</link>中蒸馏<link=\"NAPHTHA\">石脑油</link>和<link=\"SOURGAS\">高硫天然气</link>。"
-				},
-				{
-					"msgctxt": "STRINGS.BUILDINGS.PREFABS.NAPHTHADISTILLERY.NAME",
-					"msgid": "Naphtha Distillery",
-					"msgstr": "石脑油蒸馏器"
-				},
-				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.DESC",
 					"msgid": "A self controlled distillation plant that uses induction to produce Petrolleum from Crude Oil. Has an extra special device that pumps out the Natural Gas generated.",
-					"msgstr": "一台自动化蒸馏器，使用电磁加热从原油中蒸馏石油。有一个特殊装置用于泵出天然气。"
+					"msgstr": "一台自动化蒸馏器，用电磁加热原油来蒸馏石油。有一个特殊装置用于通过管道泵出天然气。"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.PETROLEUMDISTILLERY.EFFECT",
@@ -2817,7 +2802,7 @@
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.PYROLYSISKILN.EFFECT",
-					"msgid": "Decomposes <link=\"WOODLOG\">Woodlog</link> to <link=\"CARBON\">Coal</link>.",
+					"msgid": "Cook <link=\"WOODLOG\">Woodlog</link> to <link=\"CARBON\">Coal</link>.",
 					"msgstr": "将<link=\"WOODLOG\">木料</link>热解为<link=\"CARBON\">煤炭</link>。"
 				},
 				{
@@ -2828,42 +2813,32 @@
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.SYNGASREFINERY.DESC",
 					"msgid": "A refinery capable of catalytic partial oxidation reactions to produce Syngas.",
-					"msgstr": "一台能够通过不完全氧化反应生产合成气的精炼器。"
+					"msgstr": "一台能通过不完全氧化反应生产合成气的精炼器。"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.SYNGASREFINERY.EFFECT",
 					"msgid": "This unit is capable to produce <link=\"SYNGAS\">Synthetic Gas</link> from different materials, like <link=\"LUMBER\">Lumber</link>, <link=\"SOLIDOILSHALE\">Oil Shale</link>, and <link=\"BITUMEN\">Bitumen</link>.",
-					"msgstr": "这台机器能用不同的材料生产<link=\"SYNGAS\">合成气</link>，例如<link=\"LUMBER\">木料</link>，<link=\"SOLIDOILSHALE\">油页岩</link>和<link=\"BITUMEN\">沥青</link>。"
+					"msgstr": "这台机器能用不同的材料生产<link=\"SYNGAS\">合成气</link>，例如<link=\"LUMBER\">木料</link>, <link=\"SOLIDOILSHALE\">油页岩</link>和<link=\"BITUMEN\">沥青</link>。"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.SYNGASREFINERY.NAME",
-					"msgid": "Synthetic Gas Refinery",
+					"msgid": "Syngas Refinery",
 					"msgstr": "合成气精炼器"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.VISCOSEFRAME.DESC",
 					"msgid": "A chemical loom capable of producing celulose fibers with Viscose process.",
-					"msgstr": "一台通过粘胶工艺生产纤维的化学纺织机。"
+					"msgstr": "一台通过粘胶工艺生产人造纤维的化学纺织机。"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.VISCOSEFRAME.EFFECT",
-					"msgid": "This device produces <link=\"RAYONFIBER\">Rayon Fiber</link> from <link=\"LUMBER\">Lumber</link> pulp through a complex chemical reaction. Require <link=\"SYNGAS\">Synthetic Gas</link>, and constantly outputs <link=\"STEAM\">Steam</link> while operational.",
+					"msgid": "This device produces <link=\"\">Rayon Fiber</link> from <link=\"LUMBER\">Lumber</link> pulp through a complex chemical reaction. Require <link=\"SYNGAS\">Synthetic Gas</link>, and constantly outputs <link=\"STEAM\">Steam</link> while operational.",
 					"msgstr": "通过复杂的化学反应，这台设备能够把木料浆生产为<link=\"RAYONFIBER\">人造纤维</link>。运行时需要<link=\"SYNGAS\">合成气</link>，并向环境排出<link=\"STEAM\">水蒸气</link>。"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.VISCOSEFRAME.NAME",
 					"msgid": "Rayon Loom",
 					"msgstr": "人造丝织机"
-				},
-				{
-					"msgctxt": "STRINGS.CREATURES.SPECIES.MINERALDEPOSIT.DESC",
-					"msgid": "A vast mineral deposit that spreads through other regions of the asteroid.",
-					"msgstr": "遍布小行星其他区域的巨大矿床。"
-				},
-				{
-					"msgctxt": "STRINGS.CREATURES.SPECIES.MINERALDEPOSIT.NAME",
-					"msgid": "<link=\"GEYSERGENERICMINERALDEPOSIT\">Mineral Deposit</link>",
-					"msgstr": "<link=\"GEYSERGENERICMINERALDEPOSIT\">矿床</link>"
 				},
 				{
 					"msgctxt": "STRINGS.ELEMENTS.ARGENTITEORE.DESC",
@@ -2873,7 +2848,7 @@
 				{
 					"msgctxt": "STRINGS.ELEMENTS.ARGENTITEORE.NAME",
 					"msgid": "<link=\"ARGENTITEORE\">Silver Ore</link>",
-					"msgstr": "银矿"
+					"msgstr": "<link=\"ARGENTITEORE\">银矿</link>"
 				},
 				{
 					"msgctxt": "STRINGS.ELEMENTS.AURICHALCITEORE.DESC",
@@ -2883,17 +2858,57 @@
 				{
 					"msgctxt": "STRINGS.ELEMENTS.AURICHALCITEORE.NAME",
 					"msgid": "<link=\"AURICHALCITEORE\">Zinc Ore</link>",
-					"msgstr": "锌矿"
+					"msgstr": "<link=\"AURICHALCITEORE\">锌矿</link>"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.CHLOROSCHIST.DESC",
+					"msgid": "A dense medium-grained metamorphic rock showing pronounced schistosity. This sample has a high content of chloride minerals within its compacted layers.",
+					"msgstr": "一种致密的中粒度变质岩，呈片层状。该样品在其压实层中含有高含量的氯化物矿物。"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.CHLOROSCHIST.NAME",
+					"msgid": "<link=\"CHLOROSCHIST\">Chloroschist</link>",
+					"msgstr": "<link=\"CHLOROSCHIST\">绿片岩</link>"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.GALENA.DESC",
+					"msgid": "Galena is the natural mineral form of lead(II) sulfide (PbS).It is the most important ore of <link=\"LEAD\">Lead</link> and an important source of <link=\"SOLIDSILVER\">Silver</link>.",
+					"msgstr": "方铅矿是一种主要以由硫化铅(PbS)构成的天然矿物。是<link=\"LEAD\">铅</link>和<link=\"SOLIDSILVER\">银</link>的重要来源。"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.GALENA.NAME",
+					"msgid": "<link=\"GALENA\">Galena</link>",
+					"msgstr": "<link=\"GALENA\">方铅矿</link>"
 				},
 				{
 					"msgctxt": "STRINGS.ELEMENTS.HALONGAS.DESC",
 					"msgid": "A halocarbon gas with an absolute freezing point used as a refrigerant. Becomes unstable at temperatures near the boiling point of water, degrading to other elements. Fluorine free!",
-					"msgstr": "哈龙是一种拥有接近绝对凝固点的卤化碳气体，用于制冷。在水的沸腾温度下不稳定，会分解为其他元素。不含氟!"
+					"msgstr": "哈龙气体是一种拥有接近绝对凝固点的卤化碳气体，用于制冷。在水的沸腾温度下不稳定，会分解为其他元素。不含氟!"
 				},
 				{
 					"msgctxt": "STRINGS.ELEMENTS.HALONGAS.NAME",
 					"msgid": "<link=\"HALONGAS\">Halon Gas</link>",
 					"msgstr": "<link=\"HALONGAS\">哈龙气体 Gas</link>"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.METEORORE.DESC",
+					"msgid": "A dense stony mass formed when various types of dust and small grains in the early Solar System accreted to form primitive asteroids. Despite their stony nature, these collision remnants contain traces of rare metals.",
+					"msgstr": "当早期太阳系中的各种尘埃和小颗粒吸积形成原始小行星时，形成了致密的石块。 尽管它们具有石质性质，但这些碰撞残余物中含有稀有金属的痕迹。"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.METEORORE.NAME",
+					"msgid": "<link=\"METEORORE\">Meteor Ore</link>",
+					"msgstr": "<link=\"METEORORE\">陨石矿</link>"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.MOLTENRHODIUM.DESC",
+					"msgid": "(Rh) Rhodium is a very rare, silvery-white, hard, corrosion-resistant transition metal in its molten state.",
+					"msgstr": "铑(Rh)是一种非常稀有的、呈银白色、质地坚硬、耐腐蚀的过渡金属。（熔融状态）"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.MOLTENRHODIUM.NAME",
+					"msgid": "<link=\"MOLTENRHODIUM\">Molten Rhodium</link>",
+					"msgstr": "熔融铑"
 				},
 				{
 					"msgctxt": "STRINGS.ELEMENTS.MOLTENSILVER.DESC",
@@ -2924,6 +2939,36 @@
 					"msgctxt": "STRINGS.ELEMENTS.MOLTENZINC.NAME",
 					"msgid": "<link=\"MOLTENZINC\">Molten Zinc</link>",
 					"msgstr": "<link=\"MOLTENZINC\">熔融锌</link>"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.PHOSPHORBRONZE.DESC",
+					"msgid": "An alloy composed of <link=\"COPPER\">Copper</link>, <link=\"LEAD\">Lead</link> and <link=\"PHOSPHORUS\">Phosphorus</link>. Among copper based alloys it is remarkable tough, and has a relative low thermal conductivity.",
+					"msgstr": "由<link=\"COPPER\">铜</link>、<link=\"LEAD\">铅</link>和<link=\"PHOSPHORUS\">磷</link>组成的合金。 在铜基合金中，它具有显着的韧性，并且具有相对较低的导热率。"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.PHOSPHORBRONZE.NAME",
+					"msgid": "<link=\"PHOSPHORBRONZE\">Phosphor Bronze</link>",
+					"msgstr": "<link=\"PHOSPHORBRONZE\">磷青铜</link>"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.PLASTEEL.DESC",
+					"msgid": "A composite of <link=\"POLYPROPYLENE\">Plastic</link> stabilized fibers grown into a <link=\"STEEL\">Steel</link> crystal structure. It is much more stronger and lighter than standard metals alloys, and has a very low thermal conductivity.",
+					"msgstr": "将稳定的<link=\"POLYPROPYLENE\">塑料</link>纤维植入<link=\"STEEL\">钢</link>的晶体结构中，得到比标准金属合金更坚固和更轻的复合材料，导热率极低。"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.PLASTEEL.NAME",
+					"msgid": "<link=\"PLASTEEL\">Plasteel</link>",
+					"msgstr": "<link=\"PLASTEEL\">复合钢</link>"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.RHODIUMGAS.DESC",
+					"msgid": "(Rh) Rhodium is a very rare, silvery-white, hard, corrosion-resistant transition metal in its gaseous state.",
+					"msgstr": "(Rh) 铑是一种非常稀有的、呈银白色、质地坚硬、耐腐蚀的气态过渡金属。（气态）"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.RHODIUMGAS.NAME",
+					"msgid": "<link=\"RHODIUMGAS\">Rhodium Gas</link>",
+					"msgstr": "气态铑"
 				},
 				{
 					"msgctxt": "STRINGS.ELEMENTS.SILVERGAS.DESC",
@@ -2974,6 +3019,16 @@
 					"msgctxt": "STRINGS.ELEMENTS.SOLIDOILSHALE.NAME",
 					"msgid": "<link=\"SOLIDOILSHALE\">Oil Shale</link>",
 					"msgstr": "<link=\"SOLIDOILSHALE\">油页岩</link>"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.SOLIDRHODIUM.DESC",
+					"msgid": "(Rh) Rhodium is a very rare, silvery-white, hard, corrosion-resistant transition metal.",
+					"msgstr": "(Rh) 铑是一种非常稀有的、银白色、坚硬、耐腐蚀的气态过渡金属。"
+				},
+				{
+					"msgctxt": "STRINGS.ELEMENTS.SOLIDRHODIUM.NAME",
+					"msgid": "<link=\"SOLIDRHODIUM\">Rhodium</link>",
+					"msgstr": "<link=\"SOLIDRHODIUM\">铑</link>"
 				},
 				{
 					"msgctxt": "STRINGS.ELEMENTS.SOLIDSILVER.DESC",
@@ -3046,6 +3101,11 @@
 					"msgstr": "<link=\"RAYONFIBER\">人造纤维</link>"
 				},
 				{
+					"msgctxt": "STRINGS.UI.COMETS.HEAVYCOMET.NAME",
+					"msgid": "Heavy Comet",
+					"msgstr": "重型彗星"
+				},
+				{
 					"msgctxt": "STRINGS.ELEMENTS.MOLTENSYNGAS.NAME",
 					"msgid": "<link=\"MOLTENSYNGAS\">Liquid Syngas</link>",
 					"msgstr": "<link=\"MOLTENSYNGAS\">液态合成气</link>"
@@ -3063,7 +3123,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ETHANOLSTILL.DESC",
@@ -3088,7 +3148,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.SPACERDANGER.DESC",
@@ -3248,7 +3308,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "RationalPriority.ChoreTooltipsOverride.TOOLTIP_COMPULSORY",
@@ -3288,7 +3348,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.INSULATEDFARMTILE.DESC",
@@ -3328,7 +3388,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.CREATURES.SPECIES.CREAMCAP.DESC",
@@ -3567,13 +3627,333 @@
 				}
 			]
 		},
+		"High_Pressure_Applications": {
+			"config": {},
+			"translations": [
+				{
+					"msgctxt": null,
+					"msgid": "",
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONGASVALVE.DESC",
+					"msgid": "A mechanical valve capable of reducing the flow of gas from a pressurized pipe to a normal pipe, avoid it to break.",
+					"msgstr": "一种能够减少从加压管道到普通管道的气体流量的机械阀门，避免其破裂。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONGASVALVE.EFFECT",
+					"msgid": "Allows <link=\"ELEMENTSGAS\">Gases</link> to be transfered from <link=\"HIGHPRESSUREGASCONDUIT\">High Pressure Gas Pipe</link> to normal <link=\"GASCONDUIT\">Pipes</link>.",
+					"msgstr": "允许<link=\"ELEMENTSGAS\">气体</link>从<link=\"HIGHPRESSUREGASCONDUIT\">高压气体管道</link>转移至普通<link=\"GASCONDUIT\">气体管道</link>"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONGASVALVE.NAME",
+					"msgid": "Decompression Gas Valve",
+					"msgstr": "气体减压阀门"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONLIQUIDVALVE.DESC",
+					"msgid": "A mechanical valve capable of reducing the flow of liquid from a pressurized pipe to a normal pipe, avoid it to break.",
+					"msgstr": "一种能够减少从加压管道到普通管道的液体流量的机械阀门，避免其破裂。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONLIQUIDVALVE.EFFECT",
+					"msgid": "Allows <link=\"ELEMENTSLIQUID\">Liquid</link> to be transfered from <link=\"HIGHPRESSURELIQUIDCONDUIT\">High Pressure Liquid Pipe</link> to normal <link=\"LIQUIDCONDUIT\">Pipes</link>.",
+					"msgstr": "允许<link=\"ELEMENTSLIQUID\">液体</link>从<link=\"HIGHPRESSURELIQUIDCONDUIT\">高压液体管道</link>转移至普通<link=\"LIQUIDCONDUIT\">液体管道</link>"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.DECOMPRESSIONLIQUIDVALVE.NAME",
+					"msgid": "Decompression Liquid Valve",
+					"msgstr": "液体减压阀门"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUIT.DESC",
+					"msgid": "A reinforced gas pipe capable of handling high pressure flow. Composite nature of the pipe prevents gas contents from significantly changing temperature in transit.",
+					"msgstr": "一种能够处理高压气流的加强型气体管道。 管道的复合特性可防止内部气体在运输过程中显著改变温度。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUIT.EFFECT",
+					"msgid": "Carries a maximum of 10kg of <link=\"ELEMENTSGAS\">Gas</link> with minimal change in <link=\"HEAT\">Temperature</link>.\n\nCan be run through wall and floor tile.",
+					"msgstr": "能够将至多10千克的<link=\"ELEMENTSGAS\">气体</link>以最小的<link=\"HEAT\">温度</link>变化进行转移。\n\n能够穿过墙壁和地砖。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUIT.NAME",
+					"msgid": "High Pressure Gas Conduit",
+					"msgstr": "高压气体管道"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITBRIDGE.DESC",
+					"msgid": "A reinforced gas pipe bridge capable of handling high pressure flow. Composite nature of the pipe prevents gas contents from significantly changing temperature in transit.",
+					"msgstr": "一种能够处理高压气流的加强型气体管道。 管道的复合特性可防止内部气体在运输过程中显著改变温度。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITBRIDGE.EFFECT",
+					"msgid": "Runs one High Pressure Gas Pipe section over another without joining them.\n\nCan be run through wall and floor tile.",
+					"msgstr": "让一条高压气体管道可以越过另一条高压气体管道，而不会连接到一起。\n\n可穿过墙壁和地砖。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HIGHPRESSUREGASCONDUITBRIDGE.NAME",
+					"msgid": "High Pressure Gas Conduit Bridge",
+					"msgstr": "高压气体管桥"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUIT.DESC",
+					"msgid": "A reinforced liquid pipe capable of handling high pressure flow. Composite nature of the pipe prevents liquid contents from significantly changing temperature in transit.",
+					"msgstr": "一种能够处理高压液流的加强型液体管道。 管道的复合特性可防止内部液体在运输过程中显著改变温度。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUIT.EFFECT",
+					"msgid": "Carries a maximum of 40kg of <link=\"ELEMENTSLIQUID\">Liquid</link> with minimal change in <link=\"HEAT\">Temperature</link>.\n\nCan be run through wall and floor tile.",
+					"msgstr": "能够将至多40千克的<link=\"ELEMENTSLIQUID\">液体</link>以最小的<link=\"HEAT\">温度</link>变化进行转移。\n\n能够穿过墙壁和地砖。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUIT.NAME",
+					"msgid": "High Pressure Liquid Pipe",
+					"msgstr": "高压液体管道"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITBRIDGE.DESC",
+					"msgid": "A reinforced liquid pipe bridge capable of handling high pressure flow. Composite nature of the pipe prevents liquid contents from significantly changing temperature in transit.",
+					"msgstr": "一种能够处理高压液流的加强型液体管道。 管道的复合特性可防止内部液体在运输过程中显著改变温度。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITBRIDGE.EFFECT",
+					"msgid": "Runs one High Pressure Liquid Pipe section over another without joining them.\n\nCan be run through wall and floor tile.",
+					"msgstr": "让一条高压气体管道可以越过另一条高压液体管道，而不会连接到一起。\n\n可穿过墙壁和地砖。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HIGHPRESSURELIQUIDCONDUITBRIDGE.NAME",
+					"msgid": "High Pressure Liquid Conduit Bridge",
+					"msgstr": "高压液体管桥"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.PRESSUREGASPUMP.DESC",
+					"msgid": "An advanced pump that perform mechanical work to compress and move gases. More powerful than the standard pump, this one is capable of moving large amounts of gases, although this is only archived through the <link=\"HIGHPRESSUREGASCONDUIT\">High Pressure Gas Pipe</link>.",
+					"msgstr": "一种比标准泵更强大的先进气泵，可以进压缩并移动气体。\n\n它只能通过<link=\"HIGHPRESSUREGASCONDUIT\">高压气体管道</link>传输大量气体。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.PRESSUREGASPUMP.EFFECT",
+					"msgid": "Draws in <link=\"ELEMENTSGAS\">Gas</link> and runs it through <link=\"HIGHPRESSUREGASCONDUIT\">High Pressure Gas Pipe</link>.\n\nMust be submerged in <link=\"ELEMENTSGAS\">Gas</link>.",
+					"msgstr": "吸入<link=\"ELEMENTSGAS\">气体</link>并从<link=\"HIGHPRESSUREGASCONDUIT\">高压气体管道</link>输出。\n\n必需浸没于<link=\"ELEMENTSGAS\">气体</link>中。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.PRESSUREGASPUMP.NAME",
+					"msgid": "High Pressure Gas Pump",
+					"msgstr": "高压气泵"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.PRESSURELIQUIDPUMP.DESC",
+					"msgid": "An advanced pump that perform mechanical work to compress and move fluids. More powerful than the standard pump, this one is capable of moving large amounts of liquids, although this is only archived through the <link=\"HIGHPRESSURELIQUIDCONDUIT\">High Pressure Liquid Pipe</link>.",
+					"msgstr": "一种比标准泵更强大的先进液泵，可以进压缩并移动液体。\n\n它只能通过<link=\"HIGHPRESSURELIQUIDCONDUIT\">高压液体管道</link>传输大量液体。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.PRESSURELIQUIDPUMP.EFFECT",
+					"msgid": "Draws in <link=\"ELEMENTSLIQUID\">Liquid</link> and runs it through <link=\"HIGHPRESSURELIQUIDCONDUIT\">High Pressure Liquid Pipe</link>.\n\nMust be submerged in <link=\"ELEMENTSLIQUID\">Liquid</link>.",
+					"msgstr": "吸入<link=\"ELEMENTSLIQUID\">液体</link>并从<link=\"HIGHPRESSURELIQUIDCONDUIT\">高压液体管道</link>输出。\n\n必需浸没于<link=\"ELEMENTSLIQUID\">液体</link>中。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.PRESSURELIQUIDPUMP.NAME",
+					"msgid": "High Pressure Liquid Pump",
+					"msgstr": "高压液泵"
+				}
+			]
+		},
+		"Dupes_Logistics": {
+			"config": {},
+			"translations": [
+				{
+					"msgctxt": null,
+					"msgid": "",
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.DESC",
+					"msgid": "Store solids and other industrial materials at a constant temperature moderation.",
+					"msgstr": "在恒温密封条件下储存固体和其他工业原料."
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.EFFECT",
+					"msgid": "Store the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing.\n\nConsumes <link=\"POWER\">Power</link> to refrigrate the contents down to 24°C.\n\nCannot store any liquefiable solids.",
+					"msgstr": "储存被选择的<link=\"ELEMENTSSOLID\">固体</link>。\n\\消耗<link=\"POWER\">电力</link>将内容物保存在 24°C。\n\n不能储存可液化的物品。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.CABINETFROZEN.NAME",
+					"msgid": "Refrigerated Storage Cabinet",
+					"msgstr": "控温密封柜"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.DESC",
+					"msgid": "Store solids and other industrial materials.",
+					"msgstr": "储存固体和其他工业原料."
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.EFFECT",
+					"msgid": "Store the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing. The cabinet prevents temperature exchange with the environment, as well gas leakage.",
+					"msgstr": "储存被选择的<link=\"ELEMENTSSOLID\">固体</link>。储存柜能防止内容物与环境换热和挥发。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.CABINETNORMAL.NAME",
+					"msgid": "Storage Cabinet",
+					"msgstr": "密封储存柜"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.DESC",
+					"msgid": "Separating rail systems helps ensure materials go to the intended destinations.",
+					"msgstr": "分开的轨道系统有助于确保材料到达预期地点。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.EFFECT",
+					"msgid": "Runs one <link=\"SOLIDCONDUIT\">Conveyor Rail</link> section over another without joining them.\n\nCan be run through wall and floor tile.",
+					"msgstr": "让一段<link=\"SOLIDCONDUIT\">运输轨道</link>可以越过另一段运输轨道，而不用连接到一起（同物流系列建筑和轨道）。\n\n可穿过墙壁和地砖。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICBRIDGE.NAME",
+					"msgid": "Logistic Solid Bridge",
+					"msgstr": "物流轨桥"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICFILTER.DESC",
+					"msgid": "All solids are sent into the building's output conveyor, except the solid chosen for filtering.",
+					"msgstr": "除了选中要滤出的固体之外，其他所有固体都会被送入输出运输轨道。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICFILTER.EFFECT",
+					"msgid": "Separates one <link=\"ELEMENTSSOLID\">Solid Material</link> from the conveyor, sending it into a dedicated solid conduit.",
+					"msgstr": "从运输轨道中分离出一种<link=\"ELEMENTSSOLID\">固体材料</link>，将其送入专用<link=\"SOLIDCONDUIT\">运输轨道</link>。（同物流系列建筑和轨道）"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICFILTER.NAME",
+					"msgid": "Logistic Solid Filter",
+					"msgstr": "物流固体过滤器"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICLOADER.DESC",
+					"msgid": "Material filters can be used to determine what resources are sent down the rail.",
+					"msgstr": "材料筛选项可用于决定哪些材料会被运到轨道上。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICLOADER.EFFECT",
+					"msgid": "Loads large amounts of <link=\"ELEMENTSSOLID\">Solid Materials</link> onto <link=\"SOLIDCONDUIT\">Conveyor Rail</link> for transport.\n\nOnly loads the resources of your choosing.",
+					"msgstr": "将<link=\"ELEMENTSSOLID\">固体原料</link>装载到<link=\"SOLIDCONDUIT\">运输轨道</link>上进行运输（同物流系列建筑和轨道）。\n\n只装载选择的资源。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICLOADER.NAME",
+					"msgid": "Logistic Loader",
+					"msgstr": "物流装载器"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICOUTBOX.DESC",
+					"msgid": "When materials reach the end of a rail they enter a receptacle to be used by Duplicants.",
+					"msgstr": "材料到达运输轨道的终点时，就会进入复制人即将使用的容器中。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICOUTBOX.EFFECT",
+					"msgid": "Unloads large amounts of <link=\"ELEMENTSSOLID\">Solid Materials</link> from a <link=\"SOLIDCONDUIT\">Conveyor Rail</link> into storage.",
+					"msgstr": "从<link=\"SOLIDCONDUIT\">运输轨道</link>上卸载大量的<link=\"ELEMENTSSOLID\">固体原料</link>到仓库中（同物流系列建筑和轨道）。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICOUTBOX.NAME",
+					"msgid": "Logistic Receptacle",
+					"msgstr": "物流存放器"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICRAIL.DESC",
+					"msgid": "Rails move materials where they'll be needed most, saving Duplicants the walk.",
+					"msgstr": "物流轨道可以将材料运输到最需要的地方，节省了复制人的行走时间。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICRAIL.EFFECT",
+					"msgid": "Transports <link=\"ELEMENTSSOLID\">Solid Materials</link> on a track between <link=\"SOLIDCONDUITINBOX\">Conveyor Loader</link> and <link=\"SOLIDCONDUITOUTBOX\">Conveyor Receptacle</link>.\n\nCan be run through wall and floor tile.",
+					"msgstr": "在<link=\"SOLIDCONDUITINBOX\">运输装载器</link>和<link=\"SOLIDCONDUITOUTBOX\">运输存放器</link>之间的轨道上输送<link=\"ELEMENTSSOLID\">固体原料</link>（同物流系列建筑和轨道）。\n\n可穿过墙壁和地砖。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICRAIL.NAME",
+					"msgid": "Logistic Rail",
+					"msgstr": "物流轨道"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICTRANSFERARM.DESC",
+					"msgid": "An auto-sweeper's range can be viewed at any time by clicking on the building.",
+					"msgstr": "物流清扫器的范围可以通过\\clicking\\建筑来查看。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICTRANSFERARM.EFFECT",
+					"msgid": "Automates <link=\"CHORES\">Sweeping</link> and <link=\"CHORES\">Supplying</link> errands by sucking up all nearby <link=\"DECOR\">Debris</link>.\n\nMaterials are automatically delivered to any <link=\"SOLIDCONDUITINBOX\">Conveyor Loader</link>, <link=\"SOLIDCONDUITOUTBOX\">Conveyor Receptacle</link>, storage, or buildings within range.",
+					"msgstr": "通过抽吸附近所有的<link=\"DECOR\">杂物</link>来自动完成<link=\"CHORES\">打扫</link>和<link=\"CHORES\">供应</link>任务。\n\n材料自动传送到范围内的任何<link=\"SOLIDCONDUITINBOX\">运输装载器</link>、<link=\"SOLIDCONDUITOUTBOX\">运输存放器</link>、仓库或建筑（同物流系列建筑和轨道）。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICTRANSFERARM.NAME",
+					"msgid": "Logistic Auto-Sweeper",
+					"msgstr": "物流清扫器"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICVENT.DESC",
+					"msgid": "When materials reach the end of a rail they are dropped back into the world.",
+					"msgstr": "当材料到达轨道末端时，他们会掉回世界。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICVENT.EFFECT",
+					"msgid": "Unloads <link=\"ELEMENTSSOLID\">Solid Materials</link> from a <link=\"SOLIDCONDUIT\">Conveyor Rail</link> onto the floor.",
+					"msgstr": "从<link=\"SOLIDCONDUIT\">物流轨道</link>中卸下<link=\"ELEMENTSSOLID\">固体材料</link>到地上。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.LOGISTICVENT.NAME",
+					"msgid": "Logistic Chute",
+					"msgstr": "物流滑槽"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.DESC",
+					"msgid": "Store solids and other industrial materials.",
+					"msgstr": "储存固体或工业原料。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.EFFECT",
+					"msgid": "A versatile and convenient storage pod that can be built on walls. Store the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing. The pod prevents temperature exchange with the environment, as well gas leakage.",
+					"msgstr": "一个方便的多功能储物箱，可以建在墙上。储存被选择的<link=\"ELEMENTSSOLID\">固体材料</link>。储存柜能防止内容物与环境换热和挥发。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_A.NAME",
+					"msgid": "Green Storage Pod",
+					"msgstr": "绿色密封仓"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.DESC",
+					"msgid": "Store solids and other industrial materials.",
+					"msgstr": "储存固体或工业原料。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.EFFECT",
+					"msgid": "A versatile and convenient storage pod that can be built on walls. Store the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing. The pod prevents temperature exchange with the environment, as well gas leakage.",
+					"msgstr": "一个方便的多功能储物箱，可以建在墙上。储存被选择的<link=\"ELEMENTSSOLID\">固体材料</link>。储存柜能防止内容物与环境换热和挥发。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_B.NAME",
+					"msgid": "Brown Storage Pod",
+					"msgstr": "棕色密封仓"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.DESC",
+					"msgid": "Store solids and other industrial materials.",
+					"msgstr": "储存固体或工业原料。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.EFFECT",
+					"msgid": "A versatile and convenient storage pod that can be built on walls. Store the <link=\"ELEMENTSSOLID\">Solid Materials</link> of your choosing. The pod prevents temperature exchange with the environment, as well gas leakage.",
+					"msgstr": "一个方便的多功能储物箱，可以建在墙上。储存被选择的<link=\"ELEMENTSSOLID\">固体材料</link>。储存柜能防止内容物与环境换热和挥发。"
+				},
+				{
+					"msgctxt": "STRINGS.BUILDINGS.PREFABS.STORAGEPOD_C.NAME",
+					"msgid": "Yellow Storage Pod",
+					"msgstr": "黄色密封仓"
+				}
+			]
+		},
 		"BetterLogicOverlay": {
 			"config": {},
 			"translations": [
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "BetterLogicOverlay.ASTRINGS.ABBREVIATIONS.Aluminum",
@@ -4043,7 +4423,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ALERTTAG.DESC",
@@ -4233,7 +4613,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "SolidWaterPump.STRINGS.BUILDINGS.PREFABS.SOLIDWATERPUMP.NAME",
@@ -4248,7 +4628,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "baator.baatorPatch.BAATOR_WORLD_NAME",
@@ -4288,7 +4668,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.INVERTEDSMALLGASRESERVOIR.DESC",
@@ -4448,7 +4828,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "EmptyWorlds.PHO_STRINGS.SPACE_HOLE_NAME",
@@ -4488,7 +4868,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.DESC",
@@ -4688,7 +5068,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.HEPCALCINATOR.DESC",
@@ -4783,7 +5163,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTGREEN.DESC",
@@ -5093,7 +5473,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.MANUALJUICER.DESC",
@@ -5268,7 +5648,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "ResearchRequirements.STRINGS.REQUIREMENTS.ACOUSTICS",
@@ -5728,7 +6108,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "Asphalt.STRINGS.BUILDINGS.PREFABS.ASPHALTTILE.DESC",
@@ -5853,7 +6233,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.EXTENDEDGASCONDUITBRIDGE.DESC",
@@ -5968,7 +6348,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "Psyko.Freezer.STRINGS.BUILDING.STATUSITEMS.FRIDGECOOLING.NAME",
@@ -6028,7 +6408,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "STRINGS.BUILDINGS.PREFABS.NATURALTILE.DESC",
@@ -6053,7 +6433,7 @@
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:27+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-06-18 08:28+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "Pliers.PliersStrings.STRING_PLIERS_ACTION_BACK",
