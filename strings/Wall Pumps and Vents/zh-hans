@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. STRINGS.BUILDINGS.PREFABS.FAIRGASWALLPUMP.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FAIRGASWALLPUMP.DESC"
+msgid "A gas pump that's also a wall"
+msgstr "既是气泵又是壁砖"
+
+#. STRINGS.BUILDINGS.PREFABS.FAIRGASWALLPUMP.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FAIRGASWALLPUMP.EFFECT"
+msgid "Pumps out <link=\"ELEMENTSGAS\">Gas</link> from a room"
+msgstr "从房间中泵出<link=\"ELEMENTSGAS\">气体</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FAIRGASWALLPUMP.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FAIRGASWALLPUMP.NAME"
+msgid "<link=\"FairGasWallPump\">Gas Wall Pump</link>"
+msgstr "<link=\"FairGasWallPump\">壁式气泵</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FAIRGASWALLVENT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FAIRGASWALLVENT.DESC"
+msgid "A gas vent that's also a wall"
+msgstr "既是排气口，也是壁砖"
+
+#. STRINGS.BUILDINGS.PREFABS.FAIRGASWALLVENT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FAIRGASWALLVENT.EFFECT"
+msgid "Releases <link=\"ELEMENTSGAS\">Gas</link> into a room"
+msgstr "排放<link=\"ELEMENTSGAS\">气体</link>进入房间"
+
+#. STRINGS.BUILDINGS.PREFABS.FAIRGASWALLVENT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FAIRGASWALLVENT.NAME"
+msgid "<link=\"FairGasWallVent\">Gas Wall Vent</link>"
+msgstr "<link=\"FairGasWallVent\">壁式排气口</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FAIRGASWALLVENTHIGHPRESSURE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FAIRGASWALLVENTHIGHPRESSURE.DESC"
+msgid "A high pressure gas vent that's also a wall"
+msgstr "既是高压排气口，也是壁砖"
+
+#. STRINGS.BUILDINGS.PREFABS.FAIRGASWALLVENTHIGHPRESSURE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FAIRGASWALLVENTHIGHPRESSURE.EFFECT"
+msgid "Releases high pressure <link=\"ELEMENTSGAS\">Gas</link> into a room"
+msgstr "排放高压<link=\"ELEMENTSGAS\">气体</link>进入房间"
+
+#. STRINGS.BUILDINGS.PREFABS.FAIRGASWALLVENTHIGHPRESSURE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FAIRGASWALLVENTHIGHPRESSURE.NAME"
+msgid "<link=\"FairGasWallVentHighPressure\">High Pressure Gas Wall Vent</link>"
+msgstr "<link=\"FairGasWallVentHighPressure\">壁式高压排气口</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FAIRLIQUIDWALLPUMP.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FAIRLIQUIDWALLPUMP.DESC"
+msgid "A liquid pump that's also a wall"
+msgstr "既是液泵，也是壁砖"
+
+#. STRINGS.BUILDINGS.PREFABS.FAIRLIQUIDWALLPUMP.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FAIRLIQUIDWALLPUMP.EFFECT"
+msgid "Pumps out <link=\"ELEMENTSLIQUID\">Liquid</link> from a room"
+msgstr "从房间中泵出<link=\"ELEMENTSLIQUID\">液体</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FAIRLIQUIDWALLPUMP.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FAIRLIQUIDWALLPUMP.NAME"
+msgid "<link=\"FairLiquidWallPump\">Liquid Wall Pump</link>"
+msgstr "<link=\"FairLiquidWallPump\">壁式液泵</link>"
+
+#. STRINGS.BUILDINGS.PREFABS.FAIRLIQUIDWALLVENT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FAIRLIQUIDWALLVENT.DESC"
+msgid "A liquid vent that's also a wall"
+msgstr "既是排液口，也是壁砖"
+
+#. STRINGS.BUILDINGS.PREFABS.FAIRLIQUIDWALLVENT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FAIRLIQUIDWALLVENT.EFFECT"
+msgid "Releases <link=\"ELEMENTSLIQUID\">Liquid</link> into a room"
+msgstr "排放<link=\"ELEMENTSLIQUID\">液体</link>进入房间"
+
+#. STRINGS.BUILDINGS.PREFABS.FAIRLIQUIDWALLVENT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FAIRLIQUIDWALLVENT.NAME"
+msgid "<link=\"FairLiquidWallVent\">Liquid Wall Vent</link>"
+msgstr "<link=\"FairLiquidWallVent\">壁式排液口</link>"
+
+#. STRINGS.MISC.TAGS.WALLMACHINEMETALS
+msgctxt "STRINGS.MISC.TAGS.WALLMACHINEMETALS"
+msgid "Wall Machine Metals"
+msgstr "金属矿石"
+
+#. STRINGS.MISC.TAGS.WALLMACHINEREFINEDMETALS
+msgctxt "STRINGS.MISC.TAGS.WALLMACHINEREFINEDMETALS"
+msgid "Wall Machine Refined Metals"
+msgstr "金属矿石"
