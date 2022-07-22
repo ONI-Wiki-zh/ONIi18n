@@ -40,12 +40,12 @@ msgstr ""
 "\n"
 
 #. EmptyWorlds.PHO_STRINGS.I_NAME
-msgctxt "EmptyWorlds.PHO_STRINGS.E_DESCRIPTION"
+msgctxt "EmptyWorlds.PHO_STRINGS.I_NAME"
 msgid "Islands"
 msgstr "群岛小行星"
 
 #. EmptyWorlds.PHO_STRINGS.I_DESCRIPTION
-msgctxt "EmptyWorlds.PHO_STRINGS.E_DESCRIPTION"
+msgctxt "EmptyWorlds.PHO_STRINGS.I_DESCRIPTION"
 msgid ""
 "Islands is an asteroid composed of asteroids. The resources are scattered and you will have to go through space to colonize the place.\n"
 "\n"
