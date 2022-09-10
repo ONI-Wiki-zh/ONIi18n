@@ -1,7 +1,15 @@
 msgid ""
 msgstr ""
-"Application: Oxygen Not Included"
-"POT Version: 2.0"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_ROYALLYRELIEVED.NAME
 msgctxt "GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_ROYALLYRELIEVED.NAME"
