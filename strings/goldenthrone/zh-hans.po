@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_ROYALLYRELIEVED.NAME
+msgctxt "GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_ROYALLYRELIEVED.NAME"
+msgid "如释重负"
+msgstr ""
+
+#. GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_ROYALLYRELIEVED.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_ROYALLYRELIEVED.TOOLTIP"
+msgid "这名复制人得到了极致奢华的享受!"
+msgstr ""
+
+#. GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_TOOCOMFORTABLE.NAME
+msgctxt "GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_TOOCOMFORTABLE.NAME"
+msgid "太舒服了"
+msgstr ""
+
+#. GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_TOOCOMFORTABLE.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_TOOCOMFORTABLE.TOOLTIP"
+msgid "这名复制人还不想离开"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.DECOR_BONUS.TITLE
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.DECOR_BONUS.TITLE"
+msgid "装饰度加成"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.DECOR_BONUS.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.DECOR_BONUS.TOOLTIP"
+msgid "如释重负的装饰度加成"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.ELEMENT_ID_LIST.TITLE
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.ELEMENT_ID_LIST.TITLE"
+msgid "List of Element IDs <size=9>github.com</size>"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.ELEMENT_ID_LIST.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.ELEMENT_ID_LIST.TOOLTIP"
+msgid "https://aki-art.github.io/oni-ids/all_ids/Elements/"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.MORAL_BONUS.TITLE
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.MORAL_BONUS.TITLE"
+msgid "士气加成"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.MORAL_BONUS.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.MORAL_BONUS.TOOLTIP"
+msgid "如释重负的士气加成"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.PRECIOUS_METALS.TITLE
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.PRECIOUS_METALS.TITLE"
+msgid "Precious Metal IDs"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.PRECIOUS_METALS.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.PRECIOUS_METALS.TOOLTIP"
+msgid "Comma separated list of element id-s to be counted as \"precious\". \nFor a list of element ID-s check the steam page."
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.RELIEVED_DURATION.TITLE
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.RELIEVED_DURATION.TITLE"
+msgid "如释重负的持续时间 (周期)"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.RELIEVED_DURATION.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.RELIEVED_DURATION.TOOLTIP"
+msgid "如释重负的最大持续时间"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.SPEED_PENALTY.TITLE
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.SPEED_PENALTY.TITLE"
+msgid "黄金马桶的使用速度惩罚"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.SPEED_PENALTY.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.SPEED_PENALTY.TOOLTIP"
+msgid "复制人在极致奢华享受的时候能有多慢"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.USE_CROWN.TITLE
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.USE_CROWN.TITLE"
+msgid "带上皇冠"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.USE_CROWN.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.USE_CROWN.TOOLTIP"
+msgid "如果禁用，复制人将不会带上皇冠"
+msgstr ""
+
