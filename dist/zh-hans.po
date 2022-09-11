@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ONIi18n v1.0.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2022-09-11 10:02+0000\n"
+"POT-Creation-Date: 2022-09-11 10:31+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1625,6 +1625,101 @@ msgstr "展示单个物件，使其装饰度翻倍。负装饰度的物体通过
 msgctxt "STRINGS.BUILDINGS.PREFABS.WOODENPEDESTAL.NAME"
 msgid "Wooden Pedestal"
 msgstr "木制基座"
+
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.ALTAIRFLOW.DESCRIPTION"
+msgid "Airflow tiles that resemble the vanilla design more."
+msgstr "更贴近原版设计的透气砖。"
+
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.ALTAIRFLOW.NAME"
+msgid "Alt. Airflow"
+msgstr "备选透气砖"
+
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.AUTHOR"
+msgid "by <b>{0}</b>"
+msgstr "作者<b>{0}</b>"
+
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.CUTESYCARPET.DESCRIPTION"
+msgid "Kitty carpet!!! :3"
+msgstr "咪咪地毯！！！ :3"
+
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.CUTESYCARPET.NAME"
+msgid "Cutesy Carpets"
+msgstr "可爱地毯砖"
+
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.DEFAULT.DESCRIPTION"
+msgid "The default look of True Tiles."
+msgstr "真实砖块的默认外观。"
+
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.DEFAULT.NAME"
+msgid "Default"
+msgstr "默认"
+
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.EXTERNAL_SAVE_DIALOG.BUTTON_EXTERNAL"
+msgid "Sure (recommended)"
+msgstr "确定（推荐）"
+
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.EXTERNAL_SAVE_DIALOG.BUTTON_LOCAL"
+msgid "No, keep local"
+msgstr "不，保持本地"
+
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.EXTERNAL_SAVE_DIALOG.TEXT"
+msgid ""
+"Save settings externally? This will make sure settings will stay after "
+"updates."
+msgstr "在外部保存设置？这将确保设置在更新后保持不变。"
+
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.INFO"
+msgid "by <b>{0}</b>\n"
+msgstr "作者<b>{0}</b>\n"
+
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.TEXTURE_COUNT"
+msgid "{0} textures"
+msgstr "{0}纹理"
+
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.BUTTONS.CANCELBUTTON.TEXT"
+msgid "Cancel"
+msgstr "取消"
+
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.BUTTONS.EXTERNALSAVECONFIRM.INFO"
+msgid "Save settings outside mods folder"
+msgstr "在模组文件夹外保存设置"
+
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.BUTTONS.EXTERNALSAVECONFIRM.TOOLTIP"
+msgid ""
+"Recommended to enable. \n"
+"Saving settings outside means your changes will persist after the mod or "
+"game updates; but will not be removed when you uninstall the mod.\n"
+"\n"
+" The path to external settings is: {0}."
+msgstr ""
+"建议启用。\n"
+"将设置保存在外部意味着你的设置在模组或游戏更新后将持续存在；且在你卸载MOD时将不会被删除。\n"
+"\n"
+" 外部设置的路径是：{0}。"
+
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.BUTTONS.OK.TEXT"
+msgid "Apply"
+msgstr "应用"
+
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.SCROLLVIEW.VIEWPORT.CONTENT.ENTRY.BUTTONS.OPEN.LABEL"
+msgid "Open Folder"
+msgstr "打开文件夹"
+
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.SCROLLVIEW.VIEWPORT.CONTENT.ENTRY.INFO"
+msgid "N/A"
+msgstr "N/A"
+
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.SCROLLVIEW.VIEWPORT.CONTENT.ENTRY.TITLE.TEXT"
+msgid "N/A"
+msgstr "N/A"
+
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.TITLEBAR.LABEL"
+msgid "Tile Textures"
+msgstr "砖块纹理"
+
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.VERSIONLABEL"
+msgid "{0}"
+msgstr "{0}"
 
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALERTLIGHTGREEN.DESC"
 msgid "Greem colored alert light."
