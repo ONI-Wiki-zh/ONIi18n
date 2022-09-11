@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ModI18n.STRINGS.OPTIONS.LANG.DESC
+msgctxt "ModI18n.STRINGS.OPTIONS.LANG.DESC"
+msgid "Select the language that suits you best."
+msgstr "Sélectionnez la langue qui vous convient le mieux."
+
+#. ModI18n.STRINGS.OPTIONS.LANG.NAME
+msgctxt "ModI18n.STRINGS.OPTIONS.LANG.NAME"
+msgid "Prefered Language"
+msgstr "Langue préférée"
+
+#. ModI18n.STRINGS.OPTIONS.LOCAL_ONLY.DESC
+msgctxt "ModI18n.STRINGS.OPTIONS.LOCAL_ONLY.DESC"
+msgid ""
+"ModI18n will fetch the latest translation files online when started. If "
+"fails, it will try to find local translations to load. If set to true, "
+"ModI18n will skip downloading translation files."
+msgstr ""
+"Au démarrage, ModI18n va chercher les derniers fichiers de traduction "
+"en ligne. S'il échoue, il essaiera de trouver des traductions locales à "
+"charger. Si la valeur est true, ModI18n ne téléchargera pas les "
+"fichiers de traduction."
+
+#. ModI18n.STRINGS.OPTIONS.LOCAL_ONLY.NAME
+msgctxt "ModI18n.STRINGS.OPTIONS.LOCAL_ONLY.NAME"
+msgid "Use Local Translations Only"
+msgstr "Utilisez uniquement des traductions locales"
