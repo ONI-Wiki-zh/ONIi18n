@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. TrueTiles.STRINGS.TEXTUREPACKS.ALTAIRFLOW.DESCRIPTION
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.ALTAIRFLOW.DESCRIPTION"
+msgid "Airflow tiles that resemble the vanilla design more."
+msgstr ""
+
+#. TrueTiles.STRINGS.TEXTUREPACKS.ALTAIRFLOW.NAME
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.ALTAIRFLOW.NAME"
+msgid "Alt. Airflow"
+msgstr ""
+
+#. TrueTiles.STRINGS.TEXTUREPACKS.AUTHOR
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.AUTHOR"
+msgid "by <b>{0}</b>"
+msgstr ""
+
+#. TrueTiles.STRINGS.TEXTUREPACKS.CUTESYCARPET.DESCRIPTION
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.CUTESYCARPET.DESCRIPTION"
+msgid "Kitty carpet!!! :3"
+msgstr ""
+
+#. TrueTiles.STRINGS.TEXTUREPACKS.CUTESYCARPET.NAME
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.CUTESYCARPET.NAME"
+msgid "Cutesy Carpets"
+msgstr ""
+
+#. TrueTiles.STRINGS.TEXTUREPACKS.DEFAULT.DESCRIPTION
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.DEFAULT.DESCRIPTION"
+msgid "The default look of True Tiles."
+msgstr ""
+
+#. TrueTiles.STRINGS.TEXTUREPACKS.DEFAULT.NAME
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.DEFAULT.NAME"
+msgid "Default"
+msgstr ""
+
+#. TrueTiles.STRINGS.TEXTUREPACKS.EXTERNAL_SAVE_DIALOG.BUTTON_EXTERNAL
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.EXTERNAL_SAVE_DIALOG.BUTTON_EXTERNAL"
+msgid "Sure (recommended)"
+msgstr ""
+
+#. TrueTiles.STRINGS.TEXTUREPACKS.EXTERNAL_SAVE_DIALOG.BUTTON_LOCAL
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.EXTERNAL_SAVE_DIALOG.BUTTON_LOCAL"
+msgid "No, keep local"
+msgstr ""
+
+#. TrueTiles.STRINGS.TEXTUREPACKS.EXTERNAL_SAVE_DIALOG.TEXT
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.EXTERNAL_SAVE_DIALOG.TEXT"
+msgid "Save settings externally? This will make sure settings will stay after updates."
+msgstr ""
+
+#. TrueTiles.STRINGS.TEXTUREPACKS.INFO
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.INFO"
+msgid "by <b>{0}</b>\n"
+msgstr ""
+
+#. TrueTiles.STRINGS.TEXTUREPACKS.TEXTURE_COUNT
+msgctxt "TrueTiles.STRINGS.TEXTUREPACKS.TEXTURE_COUNT"
+msgid "{0} textures"
+msgstr ""
+
+#. TrueTiles.STRINGS.UI.SETTINGSDIALOG.BUTTONS.CANCELBUTTON.TEXT
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.BUTTONS.CANCELBUTTON.TEXT"
+msgid "Cancel"
+msgstr ""
+
+#. TrueTiles.STRINGS.UI.SETTINGSDIALOG.BUTTONS.EXTERNALSAVECONFIRM.INFO
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.BUTTONS.EXTERNALSAVECONFIRM.INFO"
+msgid "Save settings outside mods folder"
+msgstr ""
+
+#. TrueTiles.STRINGS.UI.SETTINGSDIALOG.BUTTONS.EXTERNALSAVECONFIRM.TOOLTIP
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.BUTTONS.EXTERNALSAVECONFIRM.TOOLTIP"
+msgid "Recommended to enable. \nSaving settings outside means your changes will persist after the mod or game updates; but will not be removed when you uninstall the mod.\n\n The path to external settings is: {0}."
+msgstr ""
+
+#. TrueTiles.STRINGS.UI.SETTINGSDIALOG.BUTTONS.OK.TEXT
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.BUTTONS.OK.TEXT"
+msgid "Apply"
+msgstr ""
+
+#. TrueTiles.STRINGS.UI.SETTINGSDIALOG.SCROLLVIEW.VIEWPORT.CONTENT.ENTRY.BUTTONS.OPEN.LABEL
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.SCROLLVIEW.VIEWPORT.CONTENT.ENTRY.BUTTONS.OPEN.LABEL"
+msgid "Open Folder"
+msgstr ""
+
+#. TrueTiles.STRINGS.UI.SETTINGSDIALOG.SCROLLVIEW.VIEWPORT.CONTENT.ENTRY.INFO
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.SCROLLVIEW.VIEWPORT.CONTENT.ENTRY.INFO"
+msgid "N/A"
+msgstr ""
+
+#. TrueTiles.STRINGS.UI.SETTINGSDIALOG.SCROLLVIEW.VIEWPORT.CONTENT.ENTRY.TITLE.TEXT
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.SCROLLVIEW.VIEWPORT.CONTENT.ENTRY.TITLE.TEXT"
+msgid "N/A"
+msgstr ""
+
+#. TrueTiles.STRINGS.UI.SETTINGSDIALOG.TITLEBAR.LABEL
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.TITLEBAR.LABEL"
+msgid "Tile Textures"
+msgstr ""
+
+#. TrueTiles.STRINGS.UI.SETTINGSDIALOG.VERSIONLABEL
+msgctxt "TrueTiles.STRINGS.UI.SETTINGSDIALOG.VERSIONLABEL"
+msgid "{0}"
+msgstr ""
+
