@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_ROYALLYRELIEVED.NAME
+msgctxt "GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_ROYALLYRELIEVED.NAME"
+msgid "Royally relieved"
+msgstr ""
+
+#. GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_ROYALLYRELIEVED.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_ROYALLYRELIEVED.TOOLTIP"
+msgid "This Duplicant has experienced great luxury!"
+msgstr ""
+
+#. GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_TOOCOMFORTABLE.NAME
+msgctxt "GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_TOOCOMFORTABLE.NAME"
+msgid "Too comfortable"
+msgstr ""
+
+#. GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_TOOCOMFORTABLE.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.DUPLICANTS.STATUSITEMS.GOLDENTHRONE_TOOCOMFORTABLE.TOOLTIP"
+msgid "This Duplicant is in no rush to leave."
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.DECOR_BONUS.TITLE
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.DECOR_BONUS.TITLE"
+msgid "Decor Bonus"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.DECOR_BONUS.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.DECOR_BONUS.TOOLTIP"
+msgid "How much decor a Duplicant gets while Royally Relieved."
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.ELEMENT_ID_LIST.TITLE
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.ELEMENT_ID_LIST.TITLE"
+msgid "List of Element IDs <size=9>github.com</size>"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.ELEMENT_ID_LIST.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.ELEMENT_ID_LIST.TOOLTIP"
+msgid "https://aki-art.github.io/oni-ids/all_ids/Elements/"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.MORAL_BONUS.TITLE
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.MORAL_BONUS.TITLE"
+msgid "Morale Bonus"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.MORAL_BONUS.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.MORAL_BONUS.TOOLTIP"
+msgid "How much morale a Duplicant gets while Royally Relieved."
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.PRECIOUS_METALS.TITLE
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.PRECIOUS_METALS.TITLE"
+msgid "Precious Metal IDs"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.PRECIOUS_METALS.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.PRECIOUS_METALS.TOOLTIP"
+msgid "Comma separated list of element id-s to be counted as \"precious\". \nFor a list of element ID-s check the steam page."
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.RELIEVED_DURATION.TITLE
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.RELIEVED_DURATION.TITLE"
+msgid "Royally Relieved duration (cycles)"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.RELIEVED_DURATION.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.RELIEVED_DURATION.TOOLTIP"
+msgid "How long the Royally Relieved effect should last."
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.SPEED_PENALTY.TITLE
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.SPEED_PENALTY.TITLE"
+msgid "Gold lavatory speed penalty"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.SPEED_PENALTY.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.SPEED_PENALTY.TOOLTIP"
+msgid "How much slower should a duplicant do their business while in a gold lavatory."
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.USE_CROWN.TITLE
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.USE_CROWN.TITLE"
+msgid "Wear Crowns"
+msgstr ""
+
+#. GoldenThrone.STRINGS.UI.MODSETTINGS.USE_CROWN.TOOLTIP
+msgctxt "GoldenThrone.STRINGS.UI.MODSETTINGS.USE_CROWN.TOOLTIP"
+msgid "If disabled, Duplicants will not visually wear a crown."
+msgstr ""
+
