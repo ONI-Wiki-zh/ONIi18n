@@ -2,213 +2,13 @@
 	"code": "fr",
 	"name": "français",
 	"mods": {
-		"decor_pack_i": {
-			"config": {},
-			"translations": [
-				{
-					"msgctxt": null,
-					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-07-22 10:03+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.DESC",
-					"msgid": "Stained glass tiles are transparent tiles that provide a fashionable barrier against liquid and gas.",
-					"msgstr": "Les dalles de verre coloré sont des dalles transparentes qui constituent une barrière à la mode contre les liquides et les gaz."
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.EFFECT",
-					"msgid": "Used to build the walls and floors of rooms.\n\nAllows <link=\"LIGHT\">Light</link> and <link=\"DECOR\">Decor</link> pass through.",
-					"msgstr": "Utilisé pour construire les murs et les sols des pièces.\n\nPermet le passage de la <link=\"LIGHT\">lumière</link> et du <link=\"DECOR\">décor</link>."
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.NAME",
-					"msgid": "<link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Stained Glass Tile</link>",
-					"msgstr": "<link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Dalle en verre coloré</link>"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.STAINED_NAME",
-					"msgid": "{element} <link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Stained Glass Tile</link>",
-					"msgstr": "{element} <link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Dalle en verre coloré</link>"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.AVERAGEQUALITYNAME",
-					"msgid": "Mediocre Glass Sculpture",
-					"msgstr": "Sculpture en verre médiocre"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.DESC",
-					"msgid": "Duplicants who have learned art skills can produce more decorative sculptures.",
-					"msgstr": "Les duplicants qui ont acquis des compétences artistiques peuvent produire des sculptures plus décoratives."
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EFFECT",
-					"msgid": "Majorly increases <link=\"DECOR\">Decor</link>, contributing to <link=\"MORALE\">Morale</link>.\n\nMust be sculpted by a Duplicant.",
-					"msgstr": "Augmente considérablement le <link=\"DECOR\">déco</link> qui contribue au <link=\"MORALE\">moral</link>.\n\nDoit être sculpté par un duplicant."
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EXCELLENTQUALITYNAME",
-					"msgid": "Genius Glass Sculpture",
-					"msgstr": "Sculpture en verre géniale"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.NAME",
-					"msgid": "<link=\"DECORPACKAGLASSSCULPTURE\">Glass Block</link>",
-					"msgstr": "<link=\"DECORPACKAGLASSSCULPTURE\">Bloc de verre</link>"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.POORQUALITYNAME",
-					"msgid": "\"Abstract\" Glass Sculpture",
-					"msgstr": "Sculpture en verre abstraite"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.DESC",
-					"msgid": "Light reduces Duplicant stress and is required to grow certain plants.",
-					"msgstr": "La lumière réduit le stress des duplicants et est nécessaire à la croissance de certaines plantes."
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.EFFECT",
-					"msgid": "Provides <link=\"LIGHT\">Light</link> when <link=\"POWER\">Powered</link>.\n\nDuplicants can operate buildings more quickly when the building is lit.",
-					"msgstr": "Fournit de la <link=\"LIGHT\">lumière</link> lorsqu' <link=\"POWER\">alimentée</link>.\n\nLes duplicants peuvent exploiter les bâtiments plus rapidement lorsque le bâtiment est éclairé."
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.NAME",
-					"msgid": "<link=\"DECORPACKAMOODLAMP\">Mood Lamp</link>",
-					"msgstr": "<link=\"DECORPACKAMOODLAMP\">Lampe d'ambiance</link>"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.BROTHGAR",
-					"msgid": "Brothgar Logo",
-					"msgstr": "Logo de Brothgar"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.CAT",
-					"msgid": "Cat",
-					"msgstr": "Chat"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.D6",
-					"msgid": "D6",
-					"msgstr": "D6"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.DENSE",
-					"msgid": "Dense Puft",
-					"msgstr": "Bouffette compacte"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MOON",
-					"msgid": "Moon",
-					"msgstr": "Lune"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MORB",
-					"msgid": "Morb",
-					"msgstr": "Morb"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OGRE",
-					"msgid": "Shrumal Ogre",
-					"msgstr": "Ogre Fongique"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OWO",
-					"msgid": "OwO Slickster",
-					"msgstr": "Gluant OwO"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.PIP",
-					"msgid": "Pip",
-					"msgstr": "Pip"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.RANDOM",
-					"msgid": "Random",
-					"msgstr": "Aléatoire"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.ROCKET",
-					"msgid": "Rocket",
-					"msgstr": "Fusée"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.SATURN",
-					"msgid": "Saturn",
-					"msgstr": "Saturne"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.STAR",
-					"msgid": "Star",
-					"msgstr": "Étoile"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.TESSERACT",
-					"msgid": "Tesseract",
-					"msgstr": "Tesseract"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.UNICORN",
-					"msgid": "Unicorn",
-					"msgstr": "Licorne"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.MISC.TAGS.DECORPACKA_STAINEDGLASSMATERIAL",
-					"msgid": "Glass Dye",
-					"msgstr": "Colorant pour verre"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.THERMALCONDUCTIVITYCHANGE",
-					"msgid": "Thermal Conductivity: {0}",
-					"msgstr": "Conductivité thermique : {0}"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.HIGHER",
-					"msgid": "higher",
-					"msgstr": "plus haut"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.LOWER",
-					"msgid": "lower",
-					"msgstr": "plus basse"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.THERMALCONDUCTIVITYCHANGE",
-					"msgid": "The dye {dyeElement} has {higherOrLower} thermal conductivity than {baseElement}, modifying it by {percent}.",
-					"msgstr": "Le matériaux {dyeElement} a une conductivité thermique {higherOrLower} que le matériaux {baseElement}, la modifiant de {percent}."
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.UI.UISIDESCREENS.MOODLAMP_SIDE_SCREEN.TITLE",
-					"msgid": "Lamp type",
-					"msgstr": "Type de lampe"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.NAME",
-					"msgid": "Fabulous Off",
-					"msgstr": "Arrêt fabuleux"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.TOOLTIP",
-					"msgid": "Take away the magic.",
-					"msgstr": "Enlève la magie."
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.NAME",
-					"msgid": "Fabulous On",
-					"msgstr": "Allumage fabuleux"
-				},
-				{
-					"msgctxt": "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.TOOLTIP",
-					"msgid": "Bring the magic!",
-					"msgstr": "Amenez la magie !"
-				}
-			]
-		},
 		"spooky_pumpkin": {
 			"config": {},
 			"translations": [
 				{
 					"msgctxt": null,
 					"msgid": "",
-					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-07-22 10:03+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-09-11 09:41+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
 				},
 				{
 					"msgctxt": "SpookyPumpkinSO.STRINGS.BUILDINGS.PREFABS.SP_SPOOKYPUMPKIN.DESC",
@@ -399,6 +199,206 @@
 					"msgctxt": "SpookyPumpkinSO.STRINGS.UI.UISIDESCREENS.GHOSTSIDESCREEN.TREATBUTTON",
 					"msgid": "Deliver Treat",
 					"msgstr": ""
+				}
+			]
+		},
+		"decor_pack_i": {
+			"config": {},
+			"translations": [
+				{
+					"msgctxt": null,
+					"msgid": "",
+					"msgstr": "Project-Id-Version: PROJECT VERSION\nReport-Msgid-Bugs-To: EMAIL@ADDRESS\nPOT-Creation-Date: 2022-09-11 09:41+0000\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=utf-8\nContent-Transfer-Encoding: 8bit\nGenerated-By: Babel 2.9.1\n"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.DESC",
+					"msgid": "Stained glass tiles are transparent tiles that provide a fashionable barrier against liquid and gas.",
+					"msgstr": "Les dalles de verre coloré sont des dalles transparentes qui constituent une barrière à la mode contre les liquides et les gaz."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.EFFECT",
+					"msgid": "Used to build the walls and floors of rooms.\n\nAllows <link=\"LIGHT\">Light</link> and <link=\"DECOR\">Decor</link> pass through.",
+					"msgstr": "Utilisé pour construire les murs et les sols des pièces.\n\nPermet le passage de la <link=\"LIGHT\">lumière</link> et du <link=\"DECOR\">décor</link>."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.NAME",
+					"msgid": "<link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Stained Glass Tile</link>",
+					"msgstr": "<link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Dalle en verre coloré</link>"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_DEFAULTSTAINEDGLASSTILE.STAINED_NAME",
+					"msgid": "{element} <link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Stained Glass Tile</link>",
+					"msgstr": "{element} <link=\"DECORPACKADEFAULTSTAINEDGLASSTILE\">Dalle en verre coloré</link>"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.AVERAGEQUALITYNAME",
+					"msgid": "Mediocre Glass Sculpture",
+					"msgstr": "Sculpture en verre médiocre"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.DESC",
+					"msgid": "Duplicants who have learned art skills can produce more decorative sculptures.",
+					"msgstr": "Les duplicants qui ont acquis des compétences artistiques peuvent produire des sculptures plus décoratives."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EFFECT",
+					"msgid": "Majorly increases <link=\"DECOR\">Decor</link>, contributing to <link=\"MORALE\">Morale</link>.\n\nMust be sculpted by a Duplicant.",
+					"msgstr": "Augmente considérablement le <link=\"DECOR\">déco</link> qui contribue au <link=\"MORALE\">moral</link>.\n\nDoit être sculpté par un duplicant."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.EXCELLENTQUALITYNAME",
+					"msgid": "Genius Glass Sculpture",
+					"msgstr": "Sculpture en verre géniale"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.NAME",
+					"msgid": "<link=\"DECORPACKAGLASSSCULPTURE\">Glass Block</link>",
+					"msgstr": "<link=\"DECORPACKAGLASSSCULPTURE\">Bloc de verre</link>"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_GLASSSCULPTURE.POORQUALITYNAME",
+					"msgid": "\"Abstract\" Glass Sculpture",
+					"msgstr": "Sculpture en verre abstraite"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.DESC",
+					"msgid": "Light reduces Duplicant stress and is required to grow certain plants.",
+					"msgstr": "La lumière réduit le stress des duplicants et est nécessaire à la croissance de certaines plantes."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.EFFECT",
+					"msgid": "Provides <link=\"LIGHT\">Light</link> when <link=\"POWER\">Powered</link>.\n\nDuplicants can operate buildings more quickly when the building is lit.",
+					"msgstr": "Fournit de la <link=\"LIGHT\">lumière</link> lorsqu' <link=\"POWER\">alimentée</link>.\n\nLes duplicants peuvent exploiter les bâtiments plus rapidement lorsque le bâtiment est éclairé."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.NAME",
+					"msgid": "<link=\"DECORPACKAMOODLAMP\">Mood Lamp</link>",
+					"msgstr": "<link=\"DECORPACKAMOODLAMP\">Lampe d'ambiance</link>"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.BROTHGAR",
+					"msgid": "Brothgar Logo",
+					"msgstr": "Logo de Brothgar"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.CAT",
+					"msgid": "Cat",
+					"msgstr": "Chat"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.D6",
+					"msgid": "D6",
+					"msgstr": "D6"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.DENSE",
+					"msgid": "Dense Puft",
+					"msgstr": "Bouffette compacte"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MOON",
+					"msgid": "Moon",
+					"msgstr": "Lune"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.MORB",
+					"msgid": "Morb",
+					"msgstr": "Morb"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OGRE",
+					"msgid": "Shrumal Ogre",
+					"msgstr": "Ogre Fongique"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.OWO",
+					"msgid": "OwO Slickster",
+					"msgstr": "Gluant OwO"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.PIP",
+					"msgid": "Pip",
+					"msgstr": "Pip"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.RANDOM",
+					"msgid": "Random",
+					"msgstr": "Aléatoire"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.ROCKET",
+					"msgid": "Rocket",
+					"msgstr": "Fusée"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.SATURN",
+					"msgid": "Saturn",
+					"msgstr": "Saturne"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.STAR",
+					"msgid": "Star",
+					"msgstr": "Étoile"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.TESSERACT",
+					"msgid": "Tesseract",
+					"msgstr": "Tesseract"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.BUILDINGS.PREFABS.DECORPACKA_MOODLAMP.VARIANT.UNICORN",
+					"msgid": "Unicorn",
+					"msgstr": "Licorne"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.MISC.TAGS.DECORPACKA_STAINEDGLASSMATERIAL",
+					"msgid": "Glass Dye",
+					"msgstr": "Colorant pour verre"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.THERMALCONDUCTIVITYCHANGE",
+					"msgid": "Thermal Conductivity: {0}",
+					"msgstr": "Conductivité thermique : {0}"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.HIGHER",
+					"msgid": "higher",
+					"msgstr": "plus haut"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.LOWER",
+					"msgid": "lower",
+					"msgstr": "plus basse"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.BUILDINGEFFECTS.TOOLTIP.THERMALCONDUCTIVITYCHANGE",
+					"msgid": "The dye {dyeElement} has {higherOrLower} thermal conductivity than {baseElement}, modifying it by {percent}.",
+					"msgstr": "Le matériaux {dyeElement} a une conductivité thermique {higherOrLower} que le matériaux {baseElement}, la modifiant de {percent}."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.UISIDESCREENS.MOODLAMP_SIDE_SCREEN.TITLE",
+					"msgid": "Lamp type",
+					"msgstr": "Type de lampe"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.NAME",
+					"msgid": "Fabulous Off",
+					"msgstr": "Arrêt fabuleux"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.DISABLED.TOOLTIP",
+					"msgid": "Take away the magic.",
+					"msgstr": "Enlève la magie."
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.NAME",
+					"msgid": "Fabulous On",
+					"msgstr": "Allumage fabuleux"
+				},
+				{
+					"msgctxt": "DecorPackA.STRINGS.UI.USERMENUACTIONS.FABULOUS.ENABLED.TOOLTIP",
+					"msgid": "Bring the magic!",
+					"msgstr": "Amenez la magie !"
 				}
 			]
 		}
