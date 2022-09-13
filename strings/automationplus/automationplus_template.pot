@@ -1,0 +1,280 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
+
+#. AutomationPlus.Alu8GateStrings.DESC
+msgctxt "AutomationPlus.Alu8GateStrings.DESC"
+msgid "The ALU can perform multiple operations on the inputs.\nOperator Codes:   \nadd = 0x1 (0001)\nsubtract = 0x2 (0010)\nmultiply = 0x3 (0011)\nmodulus = 0x4 (0100)\nexp = 0x5 (0101)\ndivide = 0x6 (0110)\nlogicalBitRight = 0x7 (0111)\nlogicalBitLeft = 0x8 (1000)\nequal = 0x9 (1001)\nnotEqual = 0xA (1010)\nlessThan = 0xB (1011)\ngreaterThan = 0xC (1100)\nlessThanOrEqual = 0xD (1101)\ngreaterThanOrEqual = 0xE (1110)\nplusPlus = 0xF (1111)\n\nSigned numbers when enabled sets the ALU into using a twos complement binary number system. When enabled, the first bit when active <b><style=\"logic_on\">active</style></b> signifies a negative number."
+msgstr ""
+
+#. AutomationPlus.Alu8GateStrings.EFFECT
+msgctxt "AutomationPlus.Alu8GateStrings.EFFECT"
+msgid "Performs 8-bit arithmetic operations on the input parameters"
+msgstr ""
+
+#. AutomationPlus.Alu8GateStrings.INPUT_PORT_ACTIVE
+msgctxt "AutomationPlus.Alu8GateStrings.INPUT_PORT_ACTIVE"
+msgid "The input number based on binary format"
+msgstr ""
+
+#. AutomationPlus.Alu8GateStrings.INPUT_PORT_INACTIVE
+msgctxt "AutomationPlus.Alu8GateStrings.INPUT_PORT_INACTIVE"
+msgid "The input number based on binary format"
+msgstr ""
+
+#. AutomationPlus.Alu8GateStrings.INPUT_PORT1
+msgctxt "AutomationPlus.Alu8GateStrings.INPUT_PORT1"
+msgid "First 4 bits of Lefthand Input"
+msgstr ""
+
+#. AutomationPlus.Alu8GateStrings.INPUT_PORT1B
+msgctxt "AutomationPlus.Alu8GateStrings.INPUT_PORT1B"
+msgid "Second 4 bits of Lefthand Input"
+msgstr ""
+
+#. AutomationPlus.Alu8GateStrings.INPUT_PORT2
+msgctxt "AutomationPlus.Alu8GateStrings.INPUT_PORT2"
+msgid "First 4 bits of Righthand Input"
+msgstr ""
+
+#. AutomationPlus.Alu8GateStrings.INPUT_PORT2B
+msgctxt "AutomationPlus.Alu8GateStrings.INPUT_PORT2B"
+msgid "Second 4 bits of Righthand Input"
+msgstr ""
+
+#. AutomationPlus.Alu8GateStrings.NAME
+msgctxt "AutomationPlus.Alu8GateStrings.NAME"
+msgid "<link=\"ALU8GATE\">8-Bit Arithmetic Logical Unit</link>"
+msgstr ""
+
+#. AutomationPlus.Alu8GateStrings.OP_CODE_ACTIVE
+msgctxt "AutomationPlus.Alu8GateStrings.OP_CODE_ACTIVE"
+msgid "See Description for op codes and meanings"
+msgstr ""
+
+#. AutomationPlus.Alu8GateStrings.OP_CODE_INACTIVE
+msgctxt "AutomationPlus.Alu8GateStrings.OP_CODE_INACTIVE"
+msgid "See Description for op codes and meanings"
+msgstr ""
+
+#. AutomationPlus.Alu8GateStrings.OP_PORT_DESCRIPTION
+msgctxt "AutomationPlus.Alu8GateStrings.OP_PORT_DESCRIPTION"
+msgid "OPERATOR PORT"
+msgstr ""
+
+#. AutomationPlus.Alu8GateStrings.OUTPUT_ACTIVE
+msgctxt "AutomationPlus.Alu8GateStrings.OUTPUT_ACTIVE"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> on each bit based on the result of the operation"
+msgstr ""
+
+#. AutomationPlus.Alu8GateStrings.OUTPUT_INACTIVE
+msgctxt "AutomationPlus.Alu8GateStrings.OUTPUT_INACTIVE"
+msgid "Sends a <b><style=\"logic_off\">Red Signal</style></b> on each bit based on the result of the operation"
+msgstr ""
+
+#. AutomationPlus.Alu8GateStrings.OUTPUT_NAME
+msgctxt "AutomationPlus.Alu8GateStrings.OUTPUT_NAME"
+msgid "First 4 bits of OUTPUT"
+msgstr ""
+
+#. AutomationPlus.Alu8GateStrings.OUTPUT_NAMEB
+msgctxt "AutomationPlus.Alu8GateStrings.OUTPUT_NAMEB"
+msgid "Second 4 bits of OUTPUT"
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.DESC
+msgctxt "AutomationPlus.AluGateStrings.DESC"
+msgid "The ALU can perform multiple operations on the inputs.\nOperator Codes:   \nadd = 0x1 (0001)\nsubtract = 0x2 (0010)\nmultiply = 0x3 (0011)\nmodulus = 0x4 (0100)\nexp = 0x5 (0101)\ndivide = 0x6 (0110)\nlogicalBitRight = 0x7 (0111)\nlogicalBitLeft = 0x8 (1000)\nequal = 0x9 (1001)\nnotEqual = 0xA (1010)\nlessThan = 0xB (1011)\ngreaterThan = 0xC (1100)\nlessThanOrEqual = 0xD (1101)\ngreaterThanOrEqual = 0xE (1110)\nplusPlus = 0xF (1111)\n\nSigned numbers when enabled sets the ALU into using a twos complement binary number system. When enabled, the first bit when active <b><style=\"logic_on\">active</style></b> signifies a negative number."
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.EFFECT
+msgctxt "AutomationPlus.AluGateStrings.EFFECT"
+msgid "Performs 4-bit arithmetic operations on the input parameters"
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.INPUT_PORT_ACTIVE
+msgctxt "AutomationPlus.AluGateStrings.INPUT_PORT_ACTIVE"
+msgid "The input number based on binary format"
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.INPUT_PORT_INACTIVE
+msgctxt "AutomationPlus.AluGateStrings.INPUT_PORT_INACTIVE"
+msgid "The input number based on binary format"
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.INPUT_PORT1
+msgctxt "AutomationPlus.AluGateStrings.INPUT_PORT1"
+msgid "Lefthand value"
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.INPUT_PORT2
+msgctxt "AutomationPlus.AluGateStrings.INPUT_PORT2"
+msgid "Righthand Value"
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.NAME
+msgctxt "AutomationPlus.AluGateStrings.NAME"
+msgid "<link=\"ALUGATE\">4-Bit Arithmetic Logical Unit</link>"
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.OP_CODE_ACTIVE
+msgctxt "AutomationPlus.AluGateStrings.OP_CODE_ACTIVE"
+msgid "See Description for op codes and meanings"
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.OP_CODE_INACTIVE
+msgctxt "AutomationPlus.AluGateStrings.OP_CODE_INACTIVE"
+msgid "See Description for op codes and meanings"
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.OP_PORT_DESCRIPTION
+msgctxt "AutomationPlus.AluGateStrings.OP_PORT_DESCRIPTION"
+msgid "OPERATOR PORT"
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.OUTPUT_ACTIVE
+msgctxt "AutomationPlus.AluGateStrings.OUTPUT_ACTIVE"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> on each bit based on the result of the operation"
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.OUTPUT_INACTIVE
+msgctxt "AutomationPlus.AluGateStrings.OUTPUT_INACTIVE"
+msgid "Sends a <b><style=\"logic_off\">Red Signal</style></b> on each bit based on the result of the operation"
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.OUTPUT_NAME
+msgctxt "AutomationPlus.AluGateStrings.OUTPUT_NAME"
+msgid "OUTPUT"
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.SIDESCREEN.TITLE
+msgctxt "AutomationPlus.AluGateStrings.SIDESCREEN.TITLE"
+msgid "Alu Configuration"
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.SIDESCREEN.TOOLTIP
+msgctxt "AutomationPlus.AluGateStrings.SIDESCREEN.TOOLTIP"
+msgid "Will delay the current <b><style=\"logic_on\">Green Signal</style></b> or <b><style=\"logic_off\">Red Signal</style></b> for <b>0 seconds</b>"
+msgstr ""
+
+#. AutomationPlus.AluGateStrings.SIDESCREEN_TITLE
+msgctxt "AutomationPlus.AluGateStrings.SIDESCREEN_TITLE"
+msgid "Alu Configuration"
+msgstr ""
+
+#. AutomationPlus.DELAYGATE.DELAYGATE_SIDESCREEN.TITLE
+msgctxt "AutomationPlus.DELAYGATE.DELAYGATE_SIDESCREEN.TITLE"
+msgid "Signal delay time"
+msgstr ""
+
+#. AutomationPlus.DELAYGATE.DELAYGATE_SIDESCREEN.TOOLTIP
+msgctxt "AutomationPlus.DELAYGATE.DELAYGATE_SIDESCREEN.TOOLTIP"
+msgid "Will delay the current <b><style=\"logic_on\">Green Signal</style></b> or <b><style=\"logic_off\">Red Signal</style></b> for <b>0 seconds</b>"
+msgstr ""
+
+#. AutomationPlus.DELAYGATE.DESC
+msgctxt "AutomationPlus.DELAYGATE.DESC"
+msgid "This gate introduces latency and propagates the input signal at a later time based on the selected delay."
+msgstr ""
+
+#. AutomationPlus.DELAYGATE.EFFECT
+msgctxt "AutomationPlus.DELAYGATE.EFFECT"
+msgid "Delays the input signal based on the selected delay time.  Different than a buffer gate since it has an internal memory that will propagate all signals be they <b><style=\"logic_on\">green</style></b> or <b><style=\"logic_off\">red</style></b>"
+msgstr ""
+
+#. AutomationPlus.DELAYGATE.NAME
+msgctxt "AutomationPlus.DELAYGATE.NAME"
+msgid "<link=\"DELAYGATE\">Signal Delay</link>"
+msgstr ""
+
+#. AutomationPlus.DisplayAdaptorStrings.DESC
+msgctxt "AutomationPlus.DisplayAdaptorStrings.DESC"
+msgid "Converts a 4-bit signal into a display signal that can be rendered using pixel packs"
+msgstr ""
+
+#. AutomationPlus.DisplayAdaptorStrings.EFFECT
+msgctxt "AutomationPlus.DisplayAdaptorStrings.EFFECT"
+msgid "Converts the ribbon input into a display character that can be displayed using 5 stacked pixel packs\n\nDisplay codes (When not in Hex Mode):\n0x0 (0000) through 0x9 (1001) display the numeral on the pixel packs\n0xA (1010) Screen fully on\n0xB (1011) Screen fully off\n0xC (1100) renders a '\'\n0xD, 0xE, 0xF -> Reserved\n\n"
+msgstr ""
+
+#. AutomationPlus.DisplayAdaptorStrings.INPUT_PORT_ACTIVE
+msgctxt "AutomationPlus.DisplayAdaptorStrings.INPUT_PORT_ACTIVE"
+msgid "See description for codes to send"
+msgstr ""
+
+#. AutomationPlus.DisplayAdaptorStrings.INPUT_PORT_INACTIVE
+msgctxt "AutomationPlus.DisplayAdaptorStrings.INPUT_PORT_INACTIVE"
+msgid "See description for codes to send"
+msgstr ""
+
+#. AutomationPlus.DisplayAdaptorStrings.LOGIC_PORT
+msgctxt "AutomationPlus.DisplayAdaptorStrings.LOGIC_PORT"
+msgid "LOGIC_PORT"
+msgstr ""
+
+#. AutomationPlus.DisplayAdaptorStrings.LOGIC_PORT_OUTPUT
+msgctxt "AutomationPlus.DisplayAdaptorStrings.LOGIC_PORT_OUTPUT"
+msgid "RIBBON OUTPUT"
+msgstr ""
+
+#. AutomationPlus.DisplayAdaptorStrings.NAME
+msgctxt "AutomationPlus.DisplayAdaptorStrings.NAME"
+msgid "<link=\"DISPLAYADAPTOR\">Display Adaptor</link>"
+msgstr ""
+
+#. AutomationPlus.DisplayAdaptorStrings.OUTPUT_PORT_ACTIVE
+msgctxt "AutomationPlus.DisplayAdaptorStrings.OUTPUT_PORT_ACTIVE"
+msgid "<b><style=\"logic_on\">Green Signal</style></b>: The specific pixels should be active"
+msgstr ""
+
+#. AutomationPlus.DisplayAdaptorStrings.OUTPUT_PORT_INACTIVE
+msgctxt "AutomationPlus.DisplayAdaptorStrings.OUTPUT_PORT_INACTIVE"
+msgid "<b><style=\"logic_off\">Red Signal</style></b>: The specific pixels should be inactive"
+msgstr ""
+
+#. AutomationPlus.DisplayAdaptorStrings.SideScreen.HexMode.Label
+msgctxt "AutomationPlus.DisplayAdaptorStrings.SideScreen.HexMode.Label"
+msgid "Is in hex mode?"
+msgstr ""
+
+#. AutomationPlus.DisplayAdaptorStrings.SideScreen.HexMode.Tooltip
+msgctxt "AutomationPlus.DisplayAdaptorStrings.SideScreen.HexMode.Tooltip"
+msgid "Toggles whether to display characters based on hexidecimal or decimal mode"
+msgstr ""
+
+#. AutomationPlus.DisplayAdaptorStrings.SideScreen.TITLE
+msgctxt "AutomationPlus.DisplayAdaptorStrings.SideScreen.TITLE"
+msgid "Display adaptor configuration"
+msgstr ""
+
+#. AutomationPlus.PnrgGateStrings.DESC
+msgctxt "AutomationPlus.PnrgGateStrings.DESC"
+msgid "On reset, will randomize the output bits that are sent a <b><style=\"logic_on\">Green Signal</style></b>."
+msgstr ""
+
+#. AutomationPlus.PnrgGateStrings.EFFECT
+msgctxt "AutomationPlus.PnrgGateStrings.EFFECT"
+msgid "Outputs a <b><style=\"logic_on\">Green Signal</style></b> on random bits (a random binary number). On every reset a new number is generated causing a different set of bits to be <b><style=\"logic_off\">Green</style></b> and <b><style=\"logic_off\">Red</style></b>"
+msgstr ""
+
+#. AutomationPlus.PnrgGateStrings.NAME
+msgctxt "AutomationPlus.PnrgGateStrings.NAME"
+msgid "<link=\"PNRGGATE\">Random Number Generator</link>"
+msgstr ""
+
+#. AutomationPlus.PnrgGateStrings.OUTPUT_ACTIVE
+msgctxt "AutomationPlus.PnrgGateStrings.OUTPUT_ACTIVE"
+msgid "XXXSends a <b><style=\"logic_on\">Green Signal</style></b> while receiving <b><style=\"logic_on\">Green</style></b>. After receiving <b><style=\"logic_off\">Red</style></b>, will continue sending <b><style=\"logic_on\">Green</style></b> until the timer has expired"
+msgstr ""
+
+#. AutomationPlus.PnrgGateStrings.OUTPUT_INACTIVE
+msgctxt "AutomationPlus.PnrgGateStrings.OUTPUT_INACTIVE"
+msgid "XXXOtherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>."
+msgstr ""
+
+#. AutomationPlus.PnrgGateStrings.OUTPUT_NAME
+msgctxt "AutomationPlus.PnrgGateStrings.OUTPUT_NAME"
+msgid "XXXOUTPUT"
+msgstr ""
+

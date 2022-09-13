@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ventulus\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. AutomationPlus.Alu8GateStrings.DESC
+msgctxt "AutomationPlus.Alu8GateStrings.DESC"
+msgid "The ALU can perform multiple operations on the inputs"
+msgstr "算术逻辑单元可以对输入进行多种操作"
+
+#. AutomationPlus.Alu8GateStrings.EFFECT
+msgctxt "AutomationPlus.Alu8GateStrings.EFFECT"
+msgid "Performs 8-bit arithmetic operations on the input parameters"
+msgstr "对输入参数进行 8 位算术运算"
+
+#. AutomationPlus.Alu8GateStrings.INPUT_PORT_ACTIVE
+msgctxt "AutomationPlus.Alu8GateStrings.INPUT_PORT_ACTIVE"
+msgid "The input number based on binary format"
+msgstr "输入数基于二进制格式"
+
+#. AutomationPlus.Alu8GateStrings.INPUT_PORT_INACTIVE
+msgctxt "AutomationPlus.Alu8GateStrings.INPUT_PORT_INACTIVE"
+msgid "The input number based on binary format"
+msgstr "输入数基于二进制格式"
+
+#. AutomationPlus.Alu8GateStrings.INPUT_PORT1
+msgctxt "AutomationPlus.Alu8GateStrings.INPUT_PORT1"
+msgid "First 4 bits of Lefthand Input"
+msgstr "第一个 4 位左手输入"
+
+#. AutomationPlus.Alu8GateStrings.INPUT_PORT1B
+msgctxt "AutomationPlus.Alu8GateStrings.INPUT_PORT1B"
+msgid "Second 4 bits of Lefthand Input"
+msgstr "第二个 4 位左手输入"
+
+#. AutomationPlus.Alu8GateStrings.INPUT_PORT2
+msgctxt "AutomationPlus.Alu8GateStrings.INPUT_PORT2"
+msgid "First 4 bits of Righthand Input"
+msgstr "第一个 4 位右手输入"
+
+#. AutomationPlus.Alu8GateStrings.INPUT_PORT2B
+msgctxt "AutomationPlus.Alu8GateStrings.INPUT_PORT2B"
+msgid "Second 4 bits of Righthand Input"
+msgstr "第二个 4 位右手输入"
+
+#. AutomationPlus.Alu8GateStrings.NAME
+msgctxt "AutomationPlus.Alu8GateStrings.NAME"
+msgid "<link=\"ALU8GATE\">8-Bit Arithmetic Logical Unit</link>"
+msgstr "<link=\"ALU8GATE\">8位算术逻辑单元</link>"
+
+#. AutomationPlus.Alu8GateStrings.OP_CODE_ACTIVE
+msgctxt "AutomationPlus.Alu8GateStrings.OP_CODE_ACTIVE"
+msgid "See Description for op codes and meanings"
+msgstr "操作代码和含义见描述"
+
+#. AutomationPlus.Alu8GateStrings.OP_CODE_INACTIVE
+msgctxt "AutomationPlus.Alu8GateStrings.OP_CODE_INACTIVE"
+msgid "See Description for op codes and meanings"
+msgstr "操作代码和含义见描述"
+
+#. AutomationPlus.Alu8GateStrings.OP_PORT_DESCRIPTION
+msgctxt "AutomationPlus.Alu8GateStrings.OP_PORT_DESCRIPTION"
+msgid "OPERATOR PORT"
+msgstr "操作端口"
+
+#. AutomationPlus.Alu8GateStrings.OUTPUT_ACTIVE
+msgctxt "AutomationPlus.Alu8GateStrings.OUTPUT_ACTIVE"
+msgid ""
+"Sends a <b><style=\"logic_on\">Green Signal</style></b> on each bit based on "
+"the result of the operation"
+msgstr ""
+"根据操作的结果，在每一个比特位上输出一个<b><style=\"logic_on\">绿色信号</"
+"style></b>"
+
+#. AutomationPlus.Alu8GateStrings.OUTPUT_INACTIVE
+msgctxt "AutomationPlus.Alu8GateStrings.OUTPUT_INACTIVE"
+msgid ""
+"Sends a <b><style=\"logic_off\">Red Signal</style></b> on each bit based on "
+"the result of the operation"
+msgstr ""
+"根据操作的结果，在每一个比特位上输出一个<b><style=\"logic_off\">红色信号</"
+"style></b>"
+
+#. AutomationPlus.Alu8GateStrings.OUTPUT_NAME
+msgctxt "AutomationPlus.Alu8GateStrings.OUTPUT_NAME"
+msgid "First 4 bits of OUTPUT"
+msgstr "第一个 4 位输出"
+
+#. AutomationPlus.Alu8GateStrings.OUTPUT_NAMEB
+msgctxt "AutomationPlus.Alu8GateStrings.OUTPUT_NAMEB"
+msgid "Second 4 bits of OUTPUT"
+msgstr "第二个 4 位输出"
+
+#. AutomationPlus.AluGateStrings.DESC
+msgctxt "AutomationPlus.AluGateStrings.DESC"
+msgid "The ALU can perform multiple operations on the inputs"
+msgstr "算术逻辑单元可以对输入进行多种操作"
+
+#. AutomationPlus.AluGateStrings.EFFECT
+msgctxt "AutomationPlus.AluGateStrings.EFFECT"
+msgid "Performs 4-bit arithmetic operations on the input parameters"
+msgstr "对输入参数进行 4 位算术运算"
+
+#. AutomationPlus.AluGateStrings.INPUT_PORT_ACTIVE
+msgctxt "AutomationPlus.AluGateStrings.INPUT_PORT_ACTIVE"
+msgid "The input number based on binary format"
+msgstr "输入数基于二进制格式"
+
+#. AutomationPlus.AluGateStrings.INPUT_PORT_INACTIVE
+msgctxt "AutomationPlus.AluGateStrings.INPUT_PORT_INACTIVE"
+msgid "The input number based on binary format"
+msgstr "输入数基于二进制格式"
+
+#. AutomationPlus.AluGateStrings.INPUT_PORT1
+msgctxt "AutomationPlus.AluGateStrings.INPUT_PORT1"
+msgid "Lefthand value"
+msgstr "左手值"
+
+#. AutomationPlus.AluGateStrings.INPUT_PORT2
+msgctxt "AutomationPlus.AluGateStrings.INPUT_PORT2"
+msgid "Righthand Value"
+msgstr "右手值"
+
+#. AutomationPlus.AluGateStrings.NAME
+msgctxt "AutomationPlus.AluGateStrings.NAME"
+msgid "<link=\"ALUGATE\">4-Bit Arithmetic Logical Unit</link>"
+msgstr "<link=\"ALUGATE\">4 位算术逻辑单元</link>"
+
+#. AutomationPlus.AluGateStrings.OP_CODE_ACTIVE
+msgctxt "AutomationPlus.AluGateStrings.OP_CODE_ACTIVE"
+msgid "See Description for op codes and meanings"
+msgstr "操作代码和含义见描述"
+
+#. AutomationPlus.AluGateStrings.OP_CODE_INACTIVE
+msgctxt "AutomationPlus.AluGateStrings.OP_CODE_INACTIVE"
+msgid "See Description for op codes and meanings"
+msgstr "操作代码和含义见描述"
+
+#. AutomationPlus.AluGateStrings.OP_PORT_DESCRIPTION
+msgctxt "AutomationPlus.AluGateStrings.OP_PORT_DESCRIPTION"
+msgid "OPERATOR PORT"
+msgstr "操作端口"
+
+#. AutomationPlus.AluGateStrings.OUTPUT_ACTIVE
+msgctxt "AutomationPlus.AluGateStrings.OUTPUT_ACTIVE"
+msgid ""
+"Sends a <b><style=\"logic_on\">Green Signal</style></b> on each bit based on "
+"the result of the operation"
+msgstr ""
+"根据操作的结果，在每一个比特位上输出一个<b><style=\"logic_on\">绿色信号</"
+"style></b>"
+
+#. AutomationPlus.AluGateStrings.OUTPUT_INACTIVE
+msgctxt "AutomationPlus.AluGateStrings.OUTPUT_INACTIVE"
+msgid ""
+"Sends a <b><style=\"logic_off\">Red Signal</style></b> on each bit based on "
+"the result of the operation"
+msgstr ""
+"根据操作的结果，在每一个比特位上输出一个<b><style=\"logic_off\">红色信号</"
+"style></b>"
+
+#. AutomationPlus.AluGateStrings.OUTPUT_NAME
+msgctxt "AutomationPlus.AluGateStrings.OUTPUT_NAME"
+msgid "OUTPUT"
+msgstr "输出"
+
+#. AutomationPlus.AluGateStrings.SIDESCREEN.TITLE
+msgctxt "AutomationPlus.AluGateStrings.SIDESCREEN.TITLE"
+msgid "Alu Configuration"
+msgstr "算数逻辑单元设置"
+
+#. AutomationPlus.AluGateStrings.SIDESCREEN.TOOLTIP
+msgctxt "AutomationPlus.AluGateStrings.SIDESCREEN.TOOLTIP"
+msgid ""
+"Will delay the current <b><style=\"logic_on\">Green Signal</style></b> or "
+"<b><style=\"logic_off\">Red Signal</style></b> for <b>0 seconds</b>"
+msgstr ""
+"将延迟当前<b><style=\"logic_on\">绿色信号</style></b>或<b><style=\"logic_off"
+"\">红色信号</style></b><b>秒数</b>"
+
+#. AutomationPlus.AluGateStrings.SIDESCREEN_TITLE
+msgctxt "AutomationPlus.AluGateStrings.SIDESCREEN_TITLE"
+msgid "Alu Configuration"
+msgstr "算数逻辑单元设置"
+
+#. AutomationPlus.DELAYGATE.DELAYGATE_SIDESCREEN.TITLE
+msgctxt "AutomationPlus.DELAYGATE.DELAYGATE_SIDESCREEN.TITLE"
+msgid "Signal delay time"
+msgstr "信号延迟时间"
+
+#. AutomationPlus.DELAYGATE.DELAYGATE_SIDESCREEN.TOOLTIP
+msgctxt "AutomationPlus.DELAYGATE.DELAYGATE_SIDESCREEN.TOOLTIP"
+msgid ""
+"Will delay the current <b><style=\"logic_on\">Green Signal</style></b> or "
+"<b><style=\"logic_off\">Red Signal</style></b> for <b>0 seconds</b>"
+msgstr ""
+"将延迟当前<b><style=\"logic_on\">绿色信号</style></b>或<b><style=\"logic_off"
+"\">红色信号</style></b><b>秒数</b>"
+
+#. AutomationPlus.DELAYGATE.DESC
+msgctxt "AutomationPlus.DELAYGATE.DESC"
+msgid ""
+"This gate introduces latency and propagates the input signal at a later time "
+"based on the selected delay."
+msgstr "这个门引入了延迟，并根据选定的延迟在稍后发出输入的信号。"
+
+#. AutomationPlus.DELAYGATE.EFFECT
+msgctxt "AutomationPlus.DELAYGATE.EFFECT"
+msgid ""
+"Delays the input signal based on the selected delay time.  Different than a "
+"buffer gate since it has an internal memory that will propagate all signals "
+"be they <b><style=\"logic_on\">green</style></b> or <b><style=\"logic_off"
+"\">red</style></b>"
+msgstr ""
+"将输入的信号基于选择的延迟时间进行延迟。不同于缓冲门，它有个内部存储，因此会"
+"发出所有信号，无论是<b><style=\"logic_on\">绿色</style></b>还是<b><style="
+"\"logic_off\">红色</style></b>"
+
+#. AutomationPlus.DELAYGATE.NAME
+msgctxt "AutomationPlus.DELAYGATE.NAME"
+msgid "<link=\"DELAYGATE\">Signal Delay</link>"
+msgstr "<link=\"DELAYGATE\">信号延时门</link>"
+
+#. AutomationPlus.DisplayAdaptorStrings.DESC
+msgctxt "AutomationPlus.DisplayAdaptorStrings.DESC"
+msgid ""
+"Converts a 4-bit signal into a display signal that can be rendered using "
+"pixel packs"
+msgstr "将4位信号转换为可用像素屏进行渲染的显示信号"
+
+#. AutomationPlus.DisplayAdaptorStrings.EFFECT
+msgctxt "AutomationPlus.DisplayAdaptorStrings.EFFECT"
+msgid ""
+"Converts the ribbon input into a display character that can be displayed "
+"using 5 stacked pixel pack"
+msgstr "将信号线组输入转换为可使用5个叠加像素屏显示的显示字符"
+
+#. AutomationPlus.DisplayAdaptorStrings.INPUT_PORT_ACTIVE
+msgctxt "AutomationPlus.DisplayAdaptorStrings.INPUT_PORT_ACTIVE"
+msgid "See description for codes to send"
+msgstr "发送的代码见描述"
+
+#. AutomationPlus.DisplayAdaptorStrings.INPUT_PORT_INACTIVE
+msgctxt "AutomationPlus.DisplayAdaptorStrings.INPUT_PORT_INACTIVE"
+msgid "See description for codes to send"
+msgstr "发送的代码见描述"
+
+#. AutomationPlus.DisplayAdaptorStrings.LOGIC_PORT
+msgctxt "AutomationPlus.DisplayAdaptorStrings.LOGIC_PORT"
+msgid "LOGIC_PORT"
+msgstr "逻辑端口"
+
+#. AutomationPlus.DisplayAdaptorStrings.LOGIC_PORT_OUTPUT
+msgctxt "AutomationPlus.DisplayAdaptorStrings.LOGIC_PORT_OUTPUT"
+msgid "RIBBON OUTPUT"
+msgstr "信号线组输出"
+
+#. AutomationPlus.DisplayAdaptorStrings.NAME
+msgctxt "AutomationPlus.DisplayAdaptorStrings.NAME"
+msgid "<link=\"DISPLAYADAPTOR\">Display Adaptor</link>"
+msgstr "<link=\"DISPLAYADAPTOR\">显示适配器</link>"
+
+#. AutomationPlus.DisplayAdaptorStrings.OUTPUT_PORT_ACTIVE
+msgctxt "AutomationPlus.DisplayAdaptorStrings.OUTPUT_PORT_ACTIVE"
+msgid ""
+"<b><style=\"logic_on\">Green Signal</style></b>: The specific pixels should "
+"be active"
+msgstr "<b><style=\"logic_on\">绿色信号</style></b>：这个像素应该激活"
+
+#. AutomationPlus.DisplayAdaptorStrings.OUTPUT_PORT_INACTIVE
+msgctxt "AutomationPlus.DisplayAdaptorStrings.OUTPUT_PORT_INACTIVE"
+msgid ""
+"<b><style=\"logic_off\">Red Signal</style></b>: The specific pixels should "
+"be inactive"
+msgstr "<b><style=\"logic_off\">红色信号</style></b>：这个像素应该不激活"
+
+#. AutomationPlus.DisplayAdaptorStrings.SideScreen.HexMode.Label
+msgctxt "AutomationPlus.DisplayAdaptorStrings.SideScreen.HexMode.Label"
+msgid "Is in hex mode?"
+msgstr "是十六进制模式吗？"
+
+#. AutomationPlus.DisplayAdaptorStrings.SideScreen.HexMode.Tooltip
+msgctxt "AutomationPlus.DisplayAdaptorStrings.SideScreen.HexMode.Tooltip"
+msgid ""
+"Toggles whether to display characters based on hexidecimal or decimal mode"
+msgstr "切换基于十六进制还是十进制模式来显示字符"
+
+#. AutomationPlus.DisplayAdaptorStrings.SideScreen.TITLE
+msgctxt "AutomationPlus.DisplayAdaptorStrings.SideScreen.TITLE"
+msgid "Display adaptor configuration"
+msgstr "显示适配器设置"
+
+#. AutomationPlus.PnrgGateStrings.DESC
+msgctxt "AutomationPlus.PnrgGateStrings.DESC"
+msgid ""
+"On reset, will randomize the output bits that are sent a <b><style=\"logic_on"
+"\">Green Signal</style></b>."
+msgstr ""
+"当重置的时候，会随机化输出比特位，输出一个<b><style=\"logic_on\">绿色信号</"
+"style></b>。"
+
+#. AutomationPlus.PnrgGateStrings.EFFECT
+msgctxt "AutomationPlus.PnrgGateStrings.EFFECT"
+msgid ""
+"Outputs a <b><style=\"logic_on\">Green Signal</style></b> on random bits (a "
+"random binary number). On every reset a new number is generated causing a "
+"different set of bits to be <b><style=\"logic_off\">Green</style></b> and "
+"<b><style=\"logic_off\">Red</style></b>"
+msgstr ""
+"输出一个<b><style=\"logic_on\">绿色信号</style></b>在随机的比特位上（一个随机"
+"的二进制数）。当每次重置，一个新的数会生成，一组不同的比特位变为<b><style="
+"\"logic_off\">绿色</style></b>和<b><style=\"logic_off\">红色</style></b>"
+
+#. AutomationPlus.PnrgGateStrings.NAME
+msgctxt "AutomationPlus.PnrgGateStrings.NAME"
+msgid "<link=\"PNRGGATE\">Random Number Generator</link>"
+msgstr "<link=\"PNRGGATE\">随机数发生器</link>"
+
+#. AutomationPlus.PnrgGateStrings.OUTPUT_ACTIVE
+msgctxt "AutomationPlus.PnrgGateStrings.OUTPUT_ACTIVE"
+msgid ""
+"XXXSends a <b><style=\"logic_on\">Green Signal</style></b> while receiving "
+"<b><style=\"logic_on\">Green</style></b>. After receiving <b><style="
+"\"logic_off\">Red</style></b>, will continue sending <b><style=\"logic_on"
+"\">Green</style></b> until the timer has expired"
+msgstr ""
+"输出一个<b><style=\"logic_on\">绿色信号</style></b>当收到<b><style=\"logic_on"
+"\">绿色</style></b>。 在收到<b><style=\"logic_off\">红色</style></b>后，会持"
+"续发送<b><style=\"logic_on\">绿色</style></b>直到时间耗尽"
+
+#. AutomationPlus.PnrgGateStrings.OUTPUT_INACTIVE
+msgctxt "AutomationPlus.PnrgGateStrings.OUTPUT_INACTIVE"
+msgid "XXXOtherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>."
+msgstr "否则，输出一个<b><style=\"logic_off\">红色信号</style></b>。"
+
+#. AutomationPlus.PnrgGateStrings.OUTPUT_NAME
+msgctxt "AutomationPlus.PnrgGateStrings.OUTPUT_NAME"
+msgid "XXXOUTPUT"
+msgstr "输出"
